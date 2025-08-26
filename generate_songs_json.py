@@ -1,46 +1,62 @@
 # -*- coding: utf-8 -*-
 import os
 import json
+import sys
 
 try:
     from urllib import quote  # Python 2
 except ImportError:
     from urllib.parse import quote  # Python 3
 
-#BASE_URL = "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/"
+try:
+    import codecs
+except ImportError:
+    codecs = None
+
+try:
+    from collections import OrderedDict
+except ImportError:
+    # Fallback for Python < 2.7 (should not be needed)
+    OrderedDict = dict
+
 BASE_URL = "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/"
 OUTPUT_FILE = "songs.json"
 
-# Load existing data if available
+# Load existing songs if file exists
 if os.path.exists(OUTPUT_FILE):
-    with open(OUTPUT_FILE, "r") as f:
-        try:
-            existing_songs = json.load(f)
-        except json.JSONDecodeError:
-            existing_songs = []
+    try:
+        if codecs:
+            with codecs.open(OUTPUT_FILE, "r", "utf-8") as f:
+                existing_songs = json.load(f)
+        else:
+            with open(OUTPUT_FILE, "r") as f:
+                existing_songs = json.load(f)
+    except Exception:
+        existing_songs = []
 else:
     existing_songs = []
 
+# Check if song already exists
 def is_duplicate(song_name, album_name):
     for song in existing_songs:
-        if song["name"] == song_name and song["album"] == album_name:
+        if song.get("name") == song_name and song.get("album") == album_name:
             return True
     return False
 
 new_songs = []
 
-# Go through each album folder
-for album_folder in sorted(os.listdir("."), reverse=True):  # Latest folders first
+# Process each album folder
+for album_folder in sorted(os.listdir("."), reverse=True):
     if os.path.isdir(album_folder):
         album_image_url = None
 
-        # Search for a .png file to use as album image
+        # Find album image
         for file in os.listdir(album_folder):
             if file.lower().endswith(".png"):
                 album_image_url = BASE_URL + quote(album_folder) + "/" + quote(file)
                 break
 
-        # Go through .mp3 files in album
+        # Process each .mp3 file
         for file in os.listdir(album_folder):
             if file.lower().endswith(".mp3"):
                 song_name = os.path.splitext(file)[0]
@@ -48,18 +64,27 @@ for album_folder in sorted(os.listdir("."), reverse=True):  # Latest folders fir
                 if not is_duplicate(song_name, album_folder):
                     song_url = BASE_URL + quote(album_folder) + "/" + quote(file)
 
-                    new_songs.append({
-                        "name": song_name,
-                        "album": album_folder,
-                        "url": song_url,
-                        "albumImageUrl": album_image_url
-                    })
+                    new_songs.append(OrderedDict([
+                        ("name", song_name),
+                        ("album", album_folder),
+                        ("url", song_url),
+                        ("albumImageUrl", album_image_url)
+                    ]))
 
-# Prepend new songs to existing list
+# Prepend new songs
 final_songs = new_songs + existing_songs
 
-# Save updated JSON
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    json.dump(final_songs, f, indent=2, ensure_ascii=False)
+# Save to songs.json
+try:
+    if codecs:
+        with codecs.open(OUTPUT_FILE, "w", "utf-8") as f:
+            json.dump(final_songs, f, indent=2, ensure_ascii=False)
+    else:
+        with open(OUTPUT_FILE, "w") as f:
+            json.dump(final_songs, f, indent=2)
+except Exception as e:
+    print("❌ Error writing to songs.json:", e)
+    sys.exit(1)
 
-print(f"✅ songs.json updated: {len(new_songs)} new songs added, {len(final_songs)} total.")
+# Print summary
+print("✅ songs.json updated: {} new songs added, {} total.".format(len(new_songs), len(final_songs)))

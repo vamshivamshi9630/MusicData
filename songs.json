@@ -1,548 +1,866 @@
 [
   {
-    "name": "Athiloka Sundari",
-    "album": "Sarrainodu",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Athiloka%20Sundari.mp3",
+    "name": "Kabir Theme Reloaded", 
+    "album": "War2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Kabir%20Theme%20Reloaded.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
+  }, 
+  {
+    "name": "Nuvvunte Naatho", 
+    "album": "War2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Nuvvunte%20Naatho.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
+  }, 
+  {
+    "name": "Oopiri Ooyalaga", 
+    "album": "War2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Oopiri%20Ooyalaga.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
+  }, 
+  {
+    "name": "Raghu Kaboo Theme", 
+    "album": "War2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Raghu%20Kaboo%20Theme.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
+  }, 
+  {
+    "name": "Salam Anali", 
+    "album": "War2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Salam%20Anali.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
+  }, 
+  {
+    "name": "Shaitan", 
+    "album": "War2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Shaitan.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
+  }, 
+  {
+    "name": "Tripping High", 
+    "album": "War2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Tripping%20High.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
+  }, 
+  {
+    "name": "War Theme 2.o", 
+    "album": "War2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War%20Theme%202.o.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
+  }, 
+  {
+    "name": "Ala Nemaliki (Promo)", 
+    "album": "SitaRamam", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Ala%20Nemaliki%20%28Promo%29.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
+  }, 
+  {
+    "name": "Eppudo Ninnu", 
+    "album": "SitaRamam", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Eppudo%20Ninnu.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
+  }, 
+  {
+    "name": "Inthandham", 
+    "album": "SitaRamam", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Inthandham.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
+  }, 
+  {
+    "name": "Kaanunna Kalyanam", 
+    "album": "SitaRamam", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Kaanunna%20Kalyanam.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
+  }, 
+  {
+    "name": "Nene Aa Nene", 
+    "album": "SitaRamam", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Nene%20Aa%20Nene.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
+  }, 
+  {
+    "name": "Ninnati Theepi", 
+    "album": "SitaRamam", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Ninnati%20Theepi.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
+  }, 
+  {
+    "name": "Oh Prema", 
+    "album": "SitaRamam", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Oh%20Prema.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
+  }, 
+  {
+    "name": "Oh Sita Hey Rama", 
+    "album": "SitaRamam", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Oh%20Sita%20Hey%20Rama.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
+  }, 
+  {
+    "name": "Sita Ramam Theme", 
+    "album": "SitaRamam", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Sita%20Ramam%20Theme.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
+  }, 
+  {
+    "name": "Tharali Tharali", 
+    "album": "SitaRamam", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Tharali%20Tharali.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
+  }, 
+  {
+    "name": "Yevarini Adaganu", 
+    "album": "SitaRamam", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Yevarini%20Adaganu.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
+  }, 
+  {
+    "name": "Athiloka Sundari", 
+    "album": "Sarrainodu", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Athiloka%20Sundari.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.png"
-  },
+  }, 
   {
-    "name": "Blockbuster",
-    "album": "Sarrainodu",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Blockbuster.mp3",
+    "name": "Blockbuster", 
+    "album": "Sarrainodu", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Blockbuster.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.png"
-  },
+  }, 
   {
-    "name": "Private Party",
-    "album": "Sarrainodu",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Private%20Party.mp3",
+    "name": "Private Party", 
+    "album": "Sarrainodu", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Private%20Party.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.png"
-  },
+  }, 
   {
-    "name": "Sarrainodu",
-    "album": "Sarrainodu",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.mp3",
+    "name": "Sarrainodu", 
+    "album": "Sarrainodu", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.png"
-  },
+  }, 
   {
-    "name": "Telusaa Telusaa",
-    "album": "Sarrainodu",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Telusaa%20Telusaa.mp3",
+    "name": "Telusaa Telusaa", 
+    "album": "Sarrainodu", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Telusaa%20Telusaa.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.png"
-  },
+  }, 
   {
-    "name": "You Are My Mla",
-    "album": "Sarrainodu",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/You%20Are%20My%20Mla.mp3",
+    "name": "You Are My Mla", 
+    "album": "Sarrainodu", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/You%20Are%20My%20Mla.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.png"
-  },
+  }, 
   {
-    "name": "Bhoochadae",
-    "album": "RaceGurram",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Bhoochadae.mp3",
+    "name": "Bhoochadae", 
+    "album": "RaceGurram", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Bhoochadae.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/RaceGurram.png"
-  },
+  }, 
   {
-    "name": "Cinema Choopistha Mama",
-    "album": "RaceGurram",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Cinema%20Choopistha%20Mama.mp3",
+    "name": "Cinema Choopistha Mama", 
+    "album": "RaceGurram", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Cinema%20Choopistha%20Mama.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/RaceGurram.png"
-  },
+  }, 
   {
-    "name": "Down Down Duppa",
-    "album": "RaceGurram",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Down%20Down%20Duppa.mp3",
+    "name": "Down Down Duppa", 
+    "album": "RaceGurram", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Down%20Down%20Duppa.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/RaceGurram.png"
-  },
+  }, 
   {
-    "name": "Gala Gala",
-    "album": "RaceGurram",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Gala%20Gala.mp3",
+    "name": "Gala Gala", 
+    "album": "RaceGurram", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Gala%20Gala.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/RaceGurram.png"
-  },
+  }, 
   {
-    "name": "Race Gurram",
-    "album": "RaceGurram",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Race%20Gurram.mp3",
+    "name": "Race Gurram", 
+    "album": "RaceGurram", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Race%20Gurram.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/RaceGurram.png"
-  },
+  }, 
   {
-    "name": "Sweety",
-    "album": "RaceGurram",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Sweety.mp3",
+    "name": "Sweety", 
+    "album": "RaceGurram", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Sweety.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/RaceGurram.png"
-  },
+  }, 
   {
-    "name": "Ayila Ayila",
-    "album": "I",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Ayila%20Ayila.mp3",
+    "name": "Dammunte Pattukora", 
+    "album": "Pushpa2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Dammunte%20Pattukora.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Pushpa2.png"
+  }, 
+  {
+    "name": "Gango Renuka Thalli", 
+    "album": "Pushpa2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Gango%20Renuka%20Thalli.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Pushpa2.png"
+  }, 
+  {
+    "name": "Kissik", 
+    "album": "Pushpa2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Kissik.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Pushpa2.png"
+  }, 
+  {
+    "name": "Peelings", 
+    "album": "Pushpa2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Peelings.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Pushpa2.png"
+  }, 
+  {
+    "name": "Pushpa Pushpa", 
+    "album": "Pushpa2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Pushpa%20Pushpa.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Pushpa2.png"
+  }, 
+  {
+    "name": "Dakko Dakko Meka", 
+    "album": "Pushpa", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Dakko%20Dakko%20Meka.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Pushpa.png"
+  }, 
+  {
+    "name": "Eyy Bidda Idhi Naa Adda", 
+    "album": "Pushpa", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Eyy%20Bidda%20Idhi%20Naa%20Adda.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Pushpa.png"
+  }, 
+  {
+    "name": "Oo Antava Oo Oo Antava", 
+    "album": "Pushpa", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Oo%20Antava%20Oo%20Oo%20Antava.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Pushpa.png"
+  }, 
+  {
+    "name": "Saami Saami", 
+    "album": "Pushpa", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Saami%20Saami.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Pushpa.png"
+  }, 
+  {
+    "name": "Anuvanuvuu", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Anuvanuvuu.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Aparichitha", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Aparichitha.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Bang Bros", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Bang%20Bros.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Banger Rap (Three Men)", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Banger%20Rap%20%28Three%20Men%29.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Dil Dhadke", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Dil%20Dhadke.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Moharaagamegham", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Moharaagamegham.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Neeli Moha Megham", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Neeli%20Moha%20Megham.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Oka Kalalaa", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Oka%20Kalalaa.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Om Bheem Bush", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om%20Bheem%20Bush.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Sammohanaa", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Sammohanaa.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Thaalajaalane", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Thaalajaalane.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Thaaraveedhiyil", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Thaaraveedhiyil.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "The Wedding Song", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/The%20Wedding%20Song.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Ule Ule", 
+    "album": "Om-Bheem-Bush", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Ule%20Ule.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Om-Bheem-Bush/Om-Bheem-Bush.png"
+  }, 
+  {
+    "name": "Barbie", 
+    "album": "Mirchi", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Barbie.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Mirchi.png"
+  }, 
+  {
+    "name": "Darlingey", 
+    "album": "Mirchi", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Darlingey.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Mirchi.png"
+  }, 
+  {
+    "name": "Idhedho Bagundhe", 
+    "album": "Mirchi", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Idhedho%20Bagundhe.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Mirchi.png"
+  }, 
+  {
+    "name": "Mirchi", 
+    "album": "Mirchi", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Mirchi.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Mirchi.png"
+  }, 
+  {
+    "name": "Nee Choopula", 
+    "album": "Mirchi", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Nee%20Choopula.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Mirchi.png"
+  }, 
+  {
+    "name": "Pandagala", 
+    "album": "Mirchi", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Pandagala.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Mirchi.png"
+  }, 
+  {
+    "name": "Yahoon Yahoon", 
+    "album": "Mirchi", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Yahoon%20Yahoon.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirchi/Mirchi.png"
+  }, 
+  {
+    "name": "Andham Vadi Choopera", 
+    "album": "Master", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Andham%20Vadi%20Choopera.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Master.png"
+  }, 
+  {
+    "name": "Beat Of Master", 
+    "album": "Master", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Beat%20Of%20Master.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Master.png"
+  }, 
+  {
+    "name": "Chitti Story", 
+    "album": "Master", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Chitti%20Story.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Master.png"
+  }, 
+  {
+    "name": "Letha Letha Gundelu", 
+    "album": "Master", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Letha%20Letha%20Gundelu.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Master.png"
+  }, 
+  {
+    "name": "Master Coming", 
+    "album": "Master", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Master%20Coming.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Master.png"
+  }, 
+  {
+    "name": "Master Raid", 
+    "album": "Master", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Master%20Raid.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Master.png"
+  }, 
+  {
+    "name": "Master the Blaster", 
+    "album": "Master", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Master%20the%20Blaster.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Master.png"
+  }, 
+  {
+    "name": "Modhalettu", 
+    "album": "Master", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Modhalettu.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Master.png"
+  }, 
+  {
+    "name": "Quit Chyyara", 
+    "album": "Master", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Quit%20Chyyara.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Master/Master.png"
+  }, 
+  {
+    "name": "Bombhaat", 
+    "album": "Lie", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Lie/Bombhaat.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Lie/Lie.png"
+  }, 
+  {
+    "name": "Freedom", 
+    "album": "Lie", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Lie/Freedom.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Lie/Lie.png"
+  }, 
+  {
+    "name": "Laggam Time", 
+    "album": "Lie", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Lie/Laggam%20Time.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Lie/Lie.png"
+  }, 
+  {
+    "name": "Miss Sunshine", 
+    "album": "Lie", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Lie/Miss%20Sunshine.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Lie/Lie.png"
+  }, 
+  {
+    "name": "Dhaari Choodu - SenSongsMp3.Co", 
+    "album": "KrishnarjunaYudham", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/Dhaari%20Choodu%20-%20SenSongsMp3.Co.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/KrishnarjunaYudham.png"
+  }, 
+  {
+    "name": "Ela Ela - SenSongsMp3.Co", 
+    "album": "KrishnarjunaYudham", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/Ela%20Ela%20-%20SenSongsMp3.Co.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/KrishnarjunaYudham.png"
+  }, 
+  {
+    "name": "I Wanna Fly - SenSongsMp3.Co", 
+    "album": "KrishnarjunaYudham", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/I%20Wanna%20Fly%20-%20SenSongsMp3.Co.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/KrishnarjunaYudham.png"
+  }, 
+  {
+    "name": "Thaaney Vachhindhanaa - SenSongsMp3.Co", 
+    "album": "KrishnarjunaYudham", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/Thaaney%20Vachhindhanaa%20-%20SenSongsMp3.Co.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/KrishnarjunaYudham.png"
+  }, 
+  {
+    "name": "Turn This Party Up - SenSongsMp3.Co", 
+    "album": "KrishnarjunaYudham", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/Turn%20This%20Party%20Up%20-%20SenSongsMp3.Co.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/KrishnarjunaYudham.png"
+  }, 
+  {
+    "name": "Urime Manase - SenSongsMp3.Co", 
+    "album": "KrishnarjunaYudham", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/Urime%20Manase%20-%20SenSongsMp3.Co.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/KrishnarjunaYudham.png"
+  }, 
+  {
+    "name": "Bhairava Anthem", 
+    "album": "Kalki", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Bhairava%20Anthem.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Kalki.png"
+  }, 
+  {
+    "name": "Bujji Theme", 
+    "album": "Kalki", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Bujji%20Theme.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Kalki.png"
+  }, 
+  {
+    "name": "Hope of Shambala", 
+    "album": "Kalki", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Hope%20of%20Shambala.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Kalki.png"
+  }, 
+  {
+    "name": "Keshava Madhava", 
+    "album": "Kalki", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Keshava%20Madhava.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Kalki.png"
+  }, 
+  {
+    "name": "Ta Takkara", 
+    "album": "Kalki", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Ta%20Takkara.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Kalki.png"
+  }, 
+  {
+    "name": "Golden Sparrow", 
+    "album": "Jaabilamma-Neeku-Antha-Kopama", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Golden%20Sparrow.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
+  }, 
+  {
+    "name": "Naa Praanam", 
+    "album": "Jaabilamma-Neeku-Antha-Kopama", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Naa%20Praanam.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
+  }, 
+  {
+    "name": "Nee Manusu Naan Manusu", 
+    "album": "Jaabilamma-Neeku-Antha-Kopama", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Nee%20Manusu%20Naan%20Manusu.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
+  }, 
+  {
+    "name": "Pillaa", 
+    "album": "Jaabilamma-Neeku-Antha-Kopama", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Pillaa.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
+  }, 
+  {
+    "name": "Prema Failai Poyera", 
+    "album": "Jaabilamma-Neeku-Antha-Kopama", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Prema%20Failai%20Poyera.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
+  }, 
+  {
+    "name": "Yedhee", 
+    "album": "Jaabilamma-Neeku-Antha-Kopama", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Yedhee.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
+  }, 
+  {
+    "name": "Yettu Poya", 
+    "album": "Jaabilamma-Neeku-Antha-Kopama", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Yettu%20Poya.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
+  }, 
+  {
+    "name": "Ayila Ayila", 
+    "album": "I", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Ayila%20Ayila.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/I.png"
-  },
+  }, 
   {
-    "name": "Ladiyo",
-    "album": "I",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Ladiyo.mp3",
+    "name": "Ladiyo", 
+    "album": "I", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Ladiyo.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/I.png"
-  },
+  }, 
   {
-    "name": "Nuvvunte Naa Jathagaa (Reprise)",
-    "album": "I",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Nuvvunte%20Naa%20Jathagaa%20%28Reprise%29.mp3",
+    "name": "Nuvvunte Naa Jathagaa (Reprise)", 
+    "album": "I", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Nuvvunte%20Naa%20Jathagaa%20%28Reprise%29.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/I.png"
-  },
+  }, 
   {
-    "name": "Nuvvunte Naa Jathagaa",
-    "album": "I",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Nuvvunte%20Naa%20Jathagaa.mp3",
+    "name": "Nuvvunte Naa Jathagaa", 
+    "album": "I", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Nuvvunte%20Naa%20Jathagaa.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/I.png"
-  },
+  }, 
   {
-    "name": "Pareshanayya",
-    "album": "I",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Pareshanayya.mp3",
+    "name": "Pareshanayya", 
+    "album": "I", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Pareshanayya.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/I.png"
-  },
+  }, 
   {
-    "name": "Poolane Kunukeyamantaa",
-    "album": "I",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Poolane%20Kunukeyamantaa.mp3",
+    "name": "Poolane Kunukeyamantaa", 
+    "album": "I", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Poolane%20Kunukeyamantaa.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/I.png"
-  },
+  }, 
   {
-    "name": "Poratame 2",
-    "album": "Hit2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Hit2/Poratame%202.mp3",
+    "name": "Poratame 2", 
+    "album": "Hit2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Hit2/Poratame%202.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Hit2/Hit2.png"
-  },
+  }, 
   {
-    "name": "Urike Urike",
-    "album": "Hit2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Hit2/Urike%20Urike.mp3",
+    "name": "Urike Urike", 
+    "album": "Hit2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Hit2/Urike%20Urike.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Hit2/Hit2.png"
-  },
+  }, 
   {
-    "name": "Kabir Theme Reloaded",
-    "album": "War2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Kabir%20Theme%20Reloaded.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
-  },
-  {
-    "name": "Nuvvunte Naatho",
-    "album": "War2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Nuvvunte%20Naatho.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
-  },
-  {
-    "name": "Oopiri Ooyalaga",
-    "album": "War2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Oopiri%20Ooyalaga.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
-  },
-  {
-    "name": "Raghu Kaboo Theme",
-    "album": "War2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Raghu%20Kaboo%20Theme.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
-  },
-  {
-    "name": "Salam Anali",
-    "album": "War2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Salam%20Anali.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
-  },
-  {
-    "name": "Shaitan",
-    "album": "War2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Shaitan.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
-  },
-  {
-    "name": "Tripping High",
-    "album": "War2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Tripping%20High.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
-  },
-  {
-    "name": "War Theme 2.o",
-    "album": "War2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War%20Theme%202.o.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/War2.png"
-  },
-  {
-    "name": "Ala Nemaliki (Promo)",
-    "album": "SitaRamam",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Ala%20Nemaliki%20%28Promo%29.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
-  },
-  {
-    "name": "Eppudo Ninnu",
-    "album": "SitaRamam",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Eppudo%20Ninnu.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
-  },
-  {
-    "name": "Inthandham",
-    "album": "SitaRamam",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Inthandham.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
-  },
-  {
-    "name": "Kaanunna Kalyanam",
-    "album": "SitaRamam",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Kaanunna%20Kalyanam.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
-  },
-  {
-    "name": "Nene Aa Nene",
-    "album": "SitaRamam",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Nene%20Aa%20Nene.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
-  },
-  {
-    "name": "Ninnati Theepi",
-    "album": "SitaRamam",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Ninnati%20Theepi.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
-  },
-  {
-    "name": "Oh Prema",
-    "album": "SitaRamam",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Oh%20Prema.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
-  },
-  {
-    "name": "Oh Sita Hey Rama",
-    "album": "SitaRamam",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Oh%20Sita%20Hey%20Rama.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
-  },
-  {
-    "name": "Sita Ramam Theme",
-    "album": "SitaRamam",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Sita%20Ramam%20Theme.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
-  },
-  {
-    "name": "Tharali Tharali",
-    "album": "SitaRamam",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Tharali%20Tharali.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
-  },
-  {
-    "name": "Yevarini Adaganu",
-    "album": "SitaRamam",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/Yevarini%20Adaganu.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/SitaRamam/SitaRamam.png"
-  },
-  {
-    "name": "Dammunte Pattukora",
-    "album": "Pushpa2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Dammunte%20Pattukora.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Pushpa2.png"
-  },
-  {
-    "name": "Gango Renuka Thalli",
-    "album": "Pushpa2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Gango%20Renuka%20Thalli.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Pushpa2.png"
-  },
-  {
-    "name": "Kissik",
-    "album": "Pushpa2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Kissik.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Pushpa2.png"
-  },
-  {
-    "name": "Peelings",
-    "album": "Pushpa2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Peelings.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Pushpa2.png"
-  },
-  {
-    "name": "Pushpa Pushpa",
-    "album": "Pushpa2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Pushpa%20Pushpa.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa2/Pushpa2.png"
-  },
-  {
-    "name": "Dakko Dakko Meka",
-    "album": "Pushpa",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Dakko%20Dakko%20Meka.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Pushpa.png"
-  },
-  {
-    "name": "Eyy Bidda Idhi Naa Adda",
-    "album": "Pushpa",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Eyy%20Bidda%20Idhi%20Naa%20Adda.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Pushpa.png"
-  },
-  {
-    "name": "Oo Antava Oo Oo Antava",
-    "album": "Pushpa",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Oo%20Antava%20Oo%20Oo%20Antava.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Pushpa.png"
-  },
-  {
-    "name": "Saami Saami",
-    "album": "Pushpa",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Saami%20Saami.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Pushpa/Pushpa.png"
-  },
-  {
-    "name": "Dhaari Choodu - SenSongsMp3.Co",
-    "album": "KrishnarjunaYudham",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/Dhaari%20Choodu%20-%20SenSongsMp3.Co.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/KrishnarjunaYudham.png"
-  },
-  {
-    "name": "Ela Ela - SenSongsMp3.Co",
-    "album": "KrishnarjunaYudham",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/Ela%20Ela%20-%20SenSongsMp3.Co.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/KrishnarjunaYudham.png"
-  },
-  {
-    "name": "I Wanna Fly - SenSongsMp3.Co",
-    "album": "KrishnarjunaYudham",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/I%20Wanna%20Fly%20-%20SenSongsMp3.Co.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/KrishnarjunaYudham.png"
-  },
-  {
-    "name": "Thaaney Vachhindhanaa - SenSongsMp3.Co",
-    "album": "KrishnarjunaYudham",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/Thaaney%20Vachhindhanaa%20-%20SenSongsMp3.Co.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/KrishnarjunaYudham.png"
-  },
-  {
-    "name": "Turn This Party Up - SenSongsMp3.Co",
-    "album": "KrishnarjunaYudham",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/Turn%20This%20Party%20Up%20-%20SenSongsMp3.Co.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/KrishnarjunaYudham.png"
-  },
-  {
-    "name": "Urime Manase - SenSongsMp3.Co",
-    "album": "KrishnarjunaYudham",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/Urime%20Manase%20-%20SenSongsMp3.Co.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/KrishnarjunaYudham/KrishnarjunaYudham.png"
-  },
-  {
-    "name": "Bhairava Anthem",
-    "album": "Kalki",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Bhairava%20Anthem.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Kalki.png"
-  },
-  {
-    "name": "Bujji Theme",
-    "album": "Kalki",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Bujji%20Theme.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Kalki.png"
-  },
-  {
-    "name": "Hope of Shambala",
-    "album": "Kalki",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Hope%20of%20Shambala.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Kalki.png"
-  },
-  {
-    "name": "Keshava Madhava",
-    "album": "Kalki",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Keshava%20Madhava.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Kalki.png"
-  },
-  {
-    "name": "Ta Takkara",
-    "album": "Kalki",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Ta%20Takkara.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kalki/Kalki.png"
-  },
-  {
-    "name": "Golden Sparrow",
-    "album": "Jaabilamma-Neeku-Antha-Kopama",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Golden%20Sparrow.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
-  },
-  {
-    "name": "Naa Praanam",
-    "album": "Jaabilamma-Neeku-Antha-Kopama",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Naa%20Praanam.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
-  },
-  {
-    "name": "Nee Manusu Naan Manusu",
-    "album": "Jaabilamma-Neeku-Antha-Kopama",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Nee%20Manusu%20Naan%20Manusu.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
-  },
-  {
-    "name": "Pillaa",
-    "album": "Jaabilamma-Neeku-Antha-Kopama",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Pillaa.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
-  },
-  {
-    "name": "Prema Failai Poyera",
-    "album": "Jaabilamma-Neeku-Antha-Kopama",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Prema%20Failai%20Poyera.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
-  },
-  {
-    "name": "Yedhee",
-    "album": "Jaabilamma-Neeku-Antha-Kopama",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Yedhee.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
-  },
-  {
-    "name": "Yettu Poya",
-    "album": "Jaabilamma-Neeku-Antha-Kopama",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Yettu%20Poya.mp3",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jaabilamma-Neeku-Antha-Kopama/Jaabilamma-Neeku-Antha-Kopama.png"
-  },
-  {
-    "name": "Adigaa",
-    "album": "HiNanna",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Adigaa.mp3",
+    "name": "Adigaa", 
+    "album": "HiNanna", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Adigaa.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/HiNanna.png"
-  },
+  }, 
   {
-    "name": "Ammaadi",
-    "album": "HiNanna",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Ammaadi.mp3",
+    "name": "Ammaadi", 
+    "album": "HiNanna", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Ammaadi.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/HiNanna.png"
-  },
+  }, 
   {
-    "name": "Asalelaa",
-    "album": "HiNanna",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Asalelaa.mp3",
+    "name": "Asalelaa", 
+    "album": "HiNanna", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Asalelaa.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/HiNanna.png"
-  },
+  }, 
   {
-    "name": "Chedhu Nijam",
-    "album": "HiNanna",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Chedhu%20Nijam.mp3",
+    "name": "Chedhu Nijam", 
+    "album": "HiNanna", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Chedhu%20Nijam.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/HiNanna.png"
-  },
+  }, 
   {
-    "name": "Enno Enno",
-    "album": "HiNanna",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Enno%20Enno.mp3",
+    "name": "Enno Enno", 
+    "album": "HiNanna", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Enno%20Enno.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/HiNanna.png"
-  },
+  }, 
   {
-    "name": "Idhe Idhe",
-    "album": "HiNanna",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Idhe%20Idhe.mp3",
+    "name": "Idhe Idhe", 
+    "album": "HiNanna", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Idhe%20Idhe.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/HiNanna.png"
-  },
+  }, 
   {
-    "name": "Needhe Needhe",
-    "album": "HiNanna",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Needhe%20Needhe.mp3",
+    "name": "Needhe Needhe", 
+    "album": "HiNanna", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Needhe%20Needhe.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/HiNanna.png"
-  },
+  }, 
   {
-    "name": "Odiyamma",
-    "album": "HiNanna",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Odiyamma.mp3",
+    "name": "Odiyamma", 
+    "album": "HiNanna", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Odiyamma.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/HiNanna.png"
-  },
+  }, 
   {
-    "name": "Samayama",
-    "album": "HiNanna",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Samayama.mp3",
+    "name": "Samayama", 
+    "album": "HiNanna", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/Samayama.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/HiNanna/HiNanna.png"
-  },
+  }, 
   {
-    "name": "Chikitu",
-    "album": "Coolie",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie/Chikitu.mp3",
+    "name": "All Hail The Tiger", 
+    "album": "Devara", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Devara/All%20Hail%20The%20Tiger.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Devara/Devara.png"
+  }, 
+  {
+    "name": "Ayudha Pooja", 
+    "album": "Devara", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Devara/Ayudha%20Pooja.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Devara/Devara.png"
+  }, 
+  {
+    "name": "Chuttamalle", 
+    "album": "Devara", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Devara/Chuttamalle.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Devara/Devara.png"
+  }, 
+  {
+    "name": "Daavudi", 
+    "album": "Devara", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Devara/Daavudi.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Devara/Devara.png"
+  }, 
+  {
+    "name": "Fear", 
+    "album": "Devara", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Devara/Fear.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Devara/Devara.png"
+  }, 
+  {
+    "name": "Red Sea", 
+    "album": "Devara", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Devara/Red%20Sea.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Devara/Devara.png"
+  }, 
+  {
+    "name": "Chitti Guvva", 
+    "album": "Court", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Court/Chitti%20Guvva.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Court/Court.png"
+  }, 
+  {
+    "name": "Premalo", 
+    "album": "Court", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Court/Premalo.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Court/Court.png"
+  }, 
+  {
+    "name": "Chikitu", 
+    "album": "Coolie", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie/Chikitu.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie/Coolie.png"
-  },
+  }, 
   {
-    "name": "Coolie Disco",
-    "album": "Coolie",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie/Coolie%20Disco.mp3",
+    "name": "Coolie Disco", 
+    "album": "Coolie", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie/Coolie%20Disco.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie/Coolie.png"
-  },
+  }, 
   {
-    "name": "Monica",
-    "album": "Coolie",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie/Monica.mp3",
+    "name": "Monica", 
+    "album": "Coolie", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie/Monica.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie/Coolie.png"
-  },
+  }, 
   {
-    "name": "Power House",
-    "album": "Coolie",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie/Power%20House.mp3",
+    "name": "Power House", 
+    "album": "Coolie", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie/Power%20House.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie/Coolie.png"
-  },
+  }, 
   {
-    "name": "Billa Theme Song-SenSongsMp3.Co",
-    "album": "Billa",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Billa%20Theme%20Song-SenSongsMp3.Co.mp3",
+    "name": "Billa Theme Song-SenSongsMp3.Co", 
+    "album": "Billa", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Billa%20Theme%20Song-SenSongsMp3.Co.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Billa.png"
-  },
+  }, 
   {
-    "name": "Ellora Shilpanni-SenSongsMp3.Co",
-    "album": "Billa",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Ellora%20Shilpanni-SenSongsMp3.Co.mp3",
+    "name": "Ellora Shilpanni-SenSongsMp3.Co", 
+    "album": "Billa", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Ellora%20Shilpanni-SenSongsMp3.Co.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Billa.png"
-  },
+  }, 
   {
-    "name": "Hariloranga Hari-SenSongsMp3.Co",
-    "album": "Billa",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Hariloranga%20Hari-SenSongsMp3.Co.mp3",
+    "name": "Hariloranga Hari-SenSongsMp3.Co", 
+    "album": "Billa", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Hariloranga%20Hari-SenSongsMp3.Co.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Billa.png"
-  },
+  }, 
   {
-    "name": "My Name is Billa-SenSongsMp3.Co",
-    "album": "Billa",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/My%20Name%20is%20Billa-SenSongsMp3.Co.mp3",
+    "name": "My Name is Billa-SenSongsMp3.Co", 
+    "album": "Billa", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/My%20Name%20is%20Billa-SenSongsMp3.Co.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Billa.png"
-  },
+  }, 
   {
-    "name": "Ne Pataasu-SenSongsMp3.Co",
-    "album": "Billa",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Ne%20Pataasu-SenSongsMp3.Co.mp3",
+    "name": "Ne Pataasu-SenSongsMp3.Co", 
+    "album": "Billa", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Ne%20Pataasu-SenSongsMp3.Co.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Billa/Billa.png"
-  },
+  }, 
   {
-    "name": "Baby He Loves You-SenSongsMp3.Co",
-    "album": "Arya2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Baby%20He%20Loves%20You-SenSongsMp3.Co.mp3",
+    "name": "Baby He Loves You-SenSongsMp3.Co", 
+    "album": "Arya2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Baby%20He%20Loves%20You-SenSongsMp3.Co.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Arya2.png"
-  },
+  }, 
   {
-    "name": "Karige Loga (D-Plugged)e-SenSongsMp3.Co",
-    "album": "Arya2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Karige%20Loga%20%28D-Plugged%29e-SenSongsMp3.Co.mp3",
+    "name": "Karige Loga (D-Plugged)e-SenSongsMp3.Co", 
+    "album": "Arya2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Karige%20Loga%20%28D-Plugged%29e-SenSongsMp3.Co.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Arya2.png"
-  },
+  }, 
   {
-    "name": "Karige Loga-SenSongsMp3.Co",
-    "album": "Arya2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Karige%20Loga-SenSongsMp3.Co.mp3",
+    "name": "Karige Loga-SenSongsMp3.Co", 
+    "album": "Arya2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Karige%20Loga-SenSongsMp3.Co.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Arya2.png"
-  },
+  }, 
   {
-    "name": "Mr. Perfect-SenSongsMp3.Co",
-    "album": "Arya2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Mr.%20Perfect-SenSongsMp3.Co.mp3",
+    "name": "Mr. Perfect-SenSongsMp3.Co", 
+    "album": "Arya2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Mr.%20Perfect-SenSongsMp3.Co.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Arya2.png"
-  },
+  }, 
   {
-    "name": "Mr.Perfect (DSP Mix)-SenSongsMp3.Co",
-    "album": "Arya2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Mr.Perfect%20%28DSP%20Mix%29-SenSongsMp3.Co.mp3",
+    "name": "Mr.Perfect (DSP Mix)-SenSongsMp3.Co", 
+    "album": "Arya2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Mr.Perfect%20%28DSP%20Mix%29-SenSongsMp3.Co.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Arya2.png"
-  },
+  }, 
   {
-    "name": "My Love Is Gone-SenSongsMp3.Co",
-    "album": "Arya2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/My%20Love%20Is%20Gone-SenSongsMp3.Co.mp3",
+    "name": "My Love Is Gone-SenSongsMp3.Co", 
+    "album": "Arya2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/My%20Love%20Is%20Gone-SenSongsMp3.Co.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Arya2.png"
-  },
+  }, 
   {
-    "name": "Ring Ringa-SenSongsMp3.Co",
-    "album": "Arya2",
-    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Ring%20Ringa-SenSongsMp3.Co.mp3",
+    "name": "Ring Ringa-SenSongsMp3.Co", 
+    "album": "Arya2", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Ring%20Ringa-SenSongsMp3.Co.mp3", 
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Arya2/Arya2.png"
+  }, 
+  {
+    "name": "Azadi", 
+    "album": "Amaran", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Amaran/Azadi.mp3", 
+    "albumImageUrl": null
+  }, 
+  {
+    "name": "Hey Minnale", 
+    "album": "Amaran", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Amaran/Hey%20Minnale.mp3", 
+    "albumImageUrl": null
+  }, 
+  {
+    "name": "Sai Pallavis Intro", 
+    "album": "Amaran", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Amaran/Sai%20Pallavis%20Intro.mp3", 
+    "albumImageUrl": null
+  }, 
+  {
+    "name": "Uyirey", 
+    "album": "Amaran", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Amaran/Uyirey.mp3", 
+    "albumImageUrl": null
+  }, 
+  {
+    "name": "Vennilavu Saaral", 
+    "album": "Amaran", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Amaran/Vennilavu%20Saaral.mp3", 
+    "albumImageUrl": null
+  }, 
+  {
+    "name": "Ammayi", 
+    "album": "ANIMAL", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/ANIMAL/Ammayi.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/ANIMAL/ANIMAL.png"
+  }, 
+  {
+    "name": "Evarevaro", 
+    "album": "ANIMAL", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/ANIMAL/Evarevaro.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/ANIMAL/ANIMAL.png"
+  }, 
+  {
+    "name": "Kashmeeru", 
+    "album": "ANIMAL", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/ANIMAL/Kashmeeru.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/ANIMAL/ANIMAL.png"
+  }, 
+  {
+    "name": "Nanna Nuv Naa Pranam", 
+    "album": "ANIMAL", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/ANIMAL/Nanna%20Nuv%20Naa%20Pranam.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/ANIMAL/ANIMAL.png"
+  }, 
+  {
+    "name": "Ney Veyrey", 
+    "album": "ANIMAL", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/ANIMAL/Ney%20Veyrey.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/ANIMAL/ANIMAL.png"
+  }, 
+  {
+    "name": "Yaalo Yaalaa", 
+    "album": "ANIMAL", 
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/ANIMAL/Yaalo%20Yaalaa.mp3", 
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/ANIMAL/ANIMAL.png"
   }
 ]
