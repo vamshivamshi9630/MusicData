@@ -1,5 +1,83 @@
 [
   {
+    "name": "Sogasu Chudatharama Song",
+    "album": "Telusu Kada",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Telusu%20Kada/Sogasu%20Chudatharama%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Fire Storm Song",
+    "album": "OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/OG/Fire%20Storm%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/OG/OG.png"
+  },
+  {
+    "name": "Guns And Roses Song",
+    "album": "OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/OG/Guns%20And%20Roses%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/OG/OG.png"
+  },
+  {
+    "name": "Hungry Cheetah",
+    "album": "OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/OG/Hungry%20Cheetah.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/OG/OG.png"
+  },
+  {
+    "name": "Suvvi Suvvi Song",
+    "album": "OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/OG/Suvvi%20Suvvi%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/OG/OG.png"
+  },
+  {
+    "name": "Trance of OMI Song",
+    "album": "OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/OG/Trance%20of%20OMI%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/OG/OG.png"
+  },
+  {
+    "name": "Washi O Washi Song",
+    "album": "OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/OG/Washi%20O%20Washi%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/OG/OG.png"
+  },
+  {
+    "name": "Jaitreya Song",
+    "album": "Mirai",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirai/Jaitreya%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirai/Mirai.png"
+  },
+  {
+    "name": "The Mother Song",
+    "album": "Mirai",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirai/The%20Mother%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirai/Mirai.png"
+  },
+  {
+    "name": "Vibe Undi Song",
+    "album": "Mirai",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirai/Vibe%20Undi%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mirai/Mirai.png"
+  },
+  {
+    "name": "Enjaami Thandhaane Song",
+    "album": "Idly Kadai",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Idly%20Kadai/Enjaami%20Thandhaane%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Enna Sugam Song",
+    "album": "Idly Kadai",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Idly%20Kadai/Enna%20Sugam%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Puppy Shame Song",
+    "album": "Andhra King Taluka",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Andhra%20King%20Taluka/Puppy%20Shame%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Andhra%20King%20Taluka/Andhra%20King%20Taluka.png"
+  },
+  {
     "name": "Ayyo Paapam",
     "album": "Yevadu",
     "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Yevadu/Ayyo%20Paapam.mp3",
