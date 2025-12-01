@@ -1,5 +1,587 @@
 [
   {
+    "name": "Globe Trotter Song",
+    "album": "Varanasi",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Varanasi/Globe%20Trotter%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Fire Storm Song",
+    "album": "They Call Him OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/Fire%20Storm%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/They%20Call%20Him%20OG.png"
+  },
+  {
+    "name": "Guns And Roses Song",
+    "album": "They Call Him OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/Guns%20And%20Roses%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/They%20Call%20Him%20OG.png"
+  },
+  {
+    "name": "Hungry Cheetah",
+    "album": "They Call Him OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/Hungry%20Cheetah.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/They%20Call%20Him%20OG.png"
+  },
+  {
+    "name": "In The Streets of Fire Song",
+    "album": "They Call Him OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/In%20The%20Streets%20of%20Fire%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/They%20Call%20Him%20OG.png"
+  },
+  {
+    "name": "Kiss Kiss Bang Bang Song",
+    "album": "They Call Him OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/Kiss%20Kiss%20Bang%20Bang%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/They%20Call%20Him%20OG.png"
+  },
+  {
+    "name": "Suvvi Suvvi Song",
+    "album": "They Call Him OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/Suvvi%20Suvvi%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/They%20Call%20Him%20OG.png"
+  },
+  {
+    "name": "Trance of OMI Song",
+    "album": "They Call Him OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/Trance%20of%20OMI%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/They%20Call%20Him%20OG.png"
+  },
+  {
+    "name": "Washi O Washi Song",
+    "album": "They Call Him OG",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/Washi%20O%20Washi%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/They%20Call%20Him%20OG/They%20Call%20Him%20OG.png"
+  },
+  {
+    "name": "Bangaru Bittaa Song",
+    "album": "The Thaandavam Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/The%20Thaandavam%20Song/Bangaru%20Bittaa%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Kale Kantini Song",
+    "album": "The Thaandavam Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/The%20Thaandavam%20Song/Kale%20Kantini%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Megamalle Song",
+    "album": "The Thaandavam Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/The%20Thaandavam%20Song/Megamalle%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Neela Kaasam Song",
+    "album": "The Thaandavam Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/The%20Thaandavam%20Song/Neela%20Kaasam%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Poovune Song",
+    "album": "The Thaandavam Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/The%20Thaandavam%20Song/Poovune%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Theme Song",
+    "album": "The Thaandavam Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/The%20Thaandavam%20Song/Theme%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Rebel Saab Song",
+    "album": "The Raja Saab",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/The%20Raja%20Saab/Rebel%20Saab%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Thalapathy Kacheri Song",
+    "album": "Thalapathy Kacheri Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Thalapathy%20Kacheri%20Song/Thalapathy%20Kacheri%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Babai Song",
+    "album": "Telusu Kada",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Telusu%20Kada/Babai%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Telusu%20Kada/Telusu%20Kada.png"
+  },
+  {
+    "name": "Andhala bommaro",
+    "album": "Sayyare Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sayyare%20Song/Andhala%20bommaro.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "En Peru Murugan",
+    "album": "Sayyare Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sayyare%20Song/En%20Peru%20Murugan.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Kandi Chenu Kada",
+    "album": "Sayyare Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sayyare%20Song/Kandi%20Chenu%20Kada.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Nadumu Chusthe",
+    "album": "Sayyare Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sayyare%20Song/Nadumu%20Chusthe.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Pattuko Pattuko",
+    "album": "Sayyare Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sayyare%20Song/Pattuko%20Pattuko.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Pilla Chuste",
+    "album": "Sayyare Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sayyare%20Song/Pilla%20Chuste.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Sayya Sayyare",
+    "album": "Sayyare Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sayyare%20Song/Sayya%20Sayyare.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Ala Ala Song",
+    "album": "Raju Weds Rambai",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Raju%20Weds%20Rambai/Ala%20Ala%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Rambai Neemeedha Naku Song",
+    "album": "Raju Weds Rambai",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Raju%20Weds%20Rambai/Rambai%20Neemeedha%20Naku%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Daang Daang  Song",
+    "album": "Peddi Reddy Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Peddi%20Reddy%20Song/Daang%20Daang%C2%A0%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "He Is So Cute Song",
+    "album": "Peddi Reddy Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Peddi%20Reddy%20Song/He%20Is%20So%20Cute%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Mind Block Song",
+    "album": "Peddi Reddy Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Peddi%20Reddy%20Song/Mind%20Block%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Sarileru Neekevvaru Anthem Song",
+    "album": "Peddi Reddy Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Peddi%20Reddy%20Song/Sarileru%20Neekevvaru%20Anthem%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Sarileru Neekevvaru Title Song",
+    "album": "Peddi Reddy Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Peddi%20Reddy%20Song/Sarileru%20Neekevvaru%20Title%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Suryudivo Chandrudivo Song",
+    "album": "Peddi Reddy Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Peddi%20Reddy%20Song/Suryudivo%20Chandrudivo%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Chikiri Chikiri Song",
+    "album": "Peddi (2025) – Hindi",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Peddi%20%282025%29%20%E2%80%93%20Hindi/Chikiri%20Chikiri%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Chikiri Chikiri (Full Song )",
+    "album": "Peddi",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Peddi/Chikiri%20Chikiri%20%28Full%20Song%20%29.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Ratnamla Song",
+    "album": "Parasakthi (2026) – Telugu",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Parasakthi%20%282026%29%20%E2%80%93%20Telugu/Ratnamla%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Singaraala Seethaakoka Song",
+    "album": "Parasakthi (2026) – Telugu",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Parasakthi%20%282026%29%20%E2%80%93%20Telugu/Singaraala%20Seethaakoka%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Adi Alaye Song",
+    "album": "Parasakthi (2026) – Tamil",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Parasakthi%20%282026%29%20%E2%80%93%20Tamil/Adi%20Alaye%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Ratnamala Song",
+    "album": "Parasakthi (2026) – Tamil",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Parasakthi%20%282026%29%20%E2%80%93%20Tamil/Ratnamala%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Sayyare Song",
+    "album": "Mowgli",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mowgli/Sayyare%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Hudiyo Hudiyo Song",
+    "album": "Mass Jathara",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mass%20Jathara/Hudiyo%20Hudiyo%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Super Duper Song",
+    "album": "Mass Jathara",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mass%20Jathara/Super%20Duper%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Meesaala Pilla  (Full Song)",
+    "album": "Mana Shankara Varaprasad Garu",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Mana%20Shankara%20Varaprasad%20Garu/Meesaala%20Pilla%C2%A0%20%28Full%20Song%29.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Dheema (Vocals Only) Song",
+    "album": "Love Insurance Kompany",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Love%20Insurance%20Kompany/Dheema%20%28Vocals%20Only%29%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Dheema Song",
+    "album": "Love Insurance Kompany",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Love%20Insurance%20Kompany/Dheema%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Pattuma Song",
+    "album": "Love Insurance Kompany",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Love%20Insurance%20Kompany/Pattuma%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "God Mode Song",
+    "album": "Karuppu",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Karuppu/God%20Mode%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Brahmakalasha Song",
+    "album": "Kantara 2 (2025) – Telugu",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kantara%202%20%282025%29%20%E2%80%93%20Telugu/Brahmakalasha%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Rebel Song",
+    "album": "Kantara 2 (2025) – Telugu",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Kantara%202%20%282025%29%20%E2%80%93%20Telugu/Rebel%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Thalapathy Kacheri Song",
+    "album": "Jana Nayagan",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jana%20Nayagan/Thalapathy%20Kacheri%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Babai Song",
+    "album": "Jajikaya Jajikaya Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jajikaya%20Jajikaya%20Song/Babai%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Mallika Gandha Song",
+    "album": "Jajikaya Jajikaya Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jajikaya%20Jajikaya%20Song/Mallika%20Gandha%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Sogasu Chudatharama Song",
+    "album": "Jajikaya Jajikaya Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Jajikaya%20Jajikaya%20Song/Sogasu%20Chudatharama%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Ethana Saami Song",
+    "album": "Idly Kadai",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Idly%20Kadai/Ethana%20Saami%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Idly%20Kadai/Idly%20Kadai.png"
+  },
+  {
+    "name": "Kulasamy Kaaval Kaaka Song",
+    "album": "Idly Kadai",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Idly%20Kadai/Kulasamy%20Kaaval%20Kaaka%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Idly%20Kadai/Idly%20Kadai.png"
+  },
+  {
+    "name": "My Heartu Spinning Song",
+    "album": "Idly Kadai",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Idly%20Kadai/My%20Heartu%20Spinning%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Idly%20Kadai/Idly%20Kadai.png"
+  },
+  {
+    "name": "Yen Paattan Saami Varum Song",
+    "album": "Idly Kadai",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Idly%20Kadai/Yen%20Paattan%20Saami%20Varum%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Idly%20Kadai/Idly%20Kadai.png"
+  },
+  {
+    "name": "Ayyo Paapam Saaru Song",
+    "album": "G.O.A.T",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/G.O.A.T/Ayyo%20Paapam%20Saaru%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Anthu Leni Premani Lopala (Male) Song",
+    "album": "Dude",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Dude/Anthu%20Leni%20Premani%20Lopala%20%28Male%29%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Anthuleni Premani Lopala Dachukoni (Female)",
+    "album": "Dude",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Dude/Anthuleni%20Premani%20Lopala%20Dachukoni%20%28Female%29.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Baagundu Po Song",
+    "album": "Dude",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Dude/Baagundu%20Po%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Boom Boom Song",
+    "album": "Dude",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Dude/Boom%20Boom%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Boom Boom Voilen Music",
+    "album": "Dude",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Dude/Boom%20Boom%20Voilen%20Music.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Nee Gunde Lona Song",
+    "album": "Dude",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Dude/Nee%20Gunde%20Lona%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Singari Song",
+    "album": "Dude",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Dude/Singari%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Gira Gira Gingiraagirey Song",
+    "album": "Champion",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Champion/Gira%20Gira%20Gingiraagirey%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Preety Baby Song",
+    "album": "Biker",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Biker/Preety%20Baby%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Babai Song",
+    "album": "Bayilone Ballipalike Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Bayilone%20Ballipalike%20Song/Babai%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Mallika Gandha Song",
+    "album": "Bayilone Ballipalike Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Bayilone%20Ballipalike%20Song/Mallika%20Gandha%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Sogasu Chudatharama Song",
+    "album": "Bayilone Ballipalike Song",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Bayilone%20Ballipalike%20Song/Sogasu%20Chudatharama%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Bhaga Bhaga Song",
+    "album": "Band Melam",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Band%20Melam/Bhaga%20Bhaga%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Dimbhaka Song",
+    "album": "Band Melam",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Band%20Melam/Dimbhaka%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Garam Garam Song",
+    "album": "Band Melam",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Band%20Melam/Garam%20Garam%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Laalijo Raagam Song",
+    "album": "Band Melam",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Band%20Melam/Laalijo%20Raagam%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Malupero Song",
+    "album": "Band Melam",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Band%20Melam/Malupero%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Not A Teaser Song",
+    "album": "Band Melam",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Band%20Melam/Not%20A%20Teaser%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Samavarthi Song",
+    "album": "Band Melam",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Band%20Melam/Samavarthi%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Sarimapa Song",
+    "album": "Band Melam",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Band%20Melam/Sarimapa%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Shiva Thandavame Song",
+    "album": "Band Melam",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Band%20Melam/Shiva%20Thandavame%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Ullaasam Song",
+    "album": "Band Melam",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Band%20Melam/Ullaasam%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Unchained Song",
+    "album": "Band Melam",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Band%20Melam/Unchained%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Veta Vinodham Song",
+    "album": "Band Melam",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Band%20Melam/Veta%20Vinodham%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Chalu Song",
+    "album": "Andhra King Taluka",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Andhra%20King%20Taluka/Chalu%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Andhra%20King%20Taluka/Andhra%20King%20Taluka.png"
+  },
+  {
+    "name": "Chinni Gundelo Song",
+    "album": "Andhra King Taluka",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Andhra%20King%20Taluka/Chinni%20Gundelo%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Andhra%20King%20Taluka/Andhra%20King%20Taluka.png"
+  },
+  {
+    "name": "First Day First Show Song",
+    "album": "Andhra King Taluka",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Andhra%20King%20Taluka/First%20Day%20First%20Show%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Andhra%20King%20Taluka/Andhra%20King%20Taluka.png"
+  },
+  {
+    "name": "Padu Padu Song",
+    "album": "Andhra King Taluka",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Andhra%20King%20Taluka/Padu%20Padu%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Andhra%20King%20Taluka/Andhra%20King%20Taluka.png"
+  },
+  {
+    "name": "Untold Emotions Song",
+    "album": "Andhra King Taluka",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Andhra%20King%20Taluka/Untold%20Emotions%20Song.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Andhra%20King%20Taluka/Andhra%20King%20Taluka.png"
+  },
+  {
+    "name": "Bhimavaram Balma Song",
+    "album": "Anaganaga Oka Raju",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Anaganaga%20Oka%20Raju/Bhimavaram%20Balma%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Akhanda Haindhavam Song",
+    "album": "Akhanda 2",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Akhanda%202/Akhanda%20Haindhavam%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Akhanda Thandavam Song",
+    "album": "Akhanda 2",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Akhanda%202/Akhanda%20Thandavam%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Gangadhara Shankara Song",
+    "album": "Akhanda 2",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Akhanda%202/Gangadhara%20Shankara%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Hara Hara Song",
+    "album": "Akhanda 2",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Akhanda%202/Hara%20Hara%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Jajikaya Jajikaya Song",
+    "album": "Akhanda 2",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Akhanda%202/Jajikaya%20Jajikaya%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Shambho Song",
+    "album": "Akhanda 2",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Akhanda%202/Shambho%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Shankara Shankara Song",
+    "album": "Akhanda 2",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Akhanda%202/Shankara%20Shankara%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Shiva Shiva Song",
+    "album": "Akhanda 2",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Akhanda%202/Shiva%20Shiva%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "The Thaandavam Song",
+    "album": "Akhanda 2",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Akhanda%202/The%20Thaandavam%20Song.mp3",
+    "albumImageUrl": null
+  },
+  {
     "name": "Sogasu Chudatharama Song",
     "album": "Telusu Kada",
     "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Telusu%20Kada/Sogasu%20Chudatharama%20Song.mp3",
