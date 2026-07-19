@@ -1,5 +1,6 @@
 # Master database of Telugu movies with release year and music director / composer
 ALBUM_METADATA = {
+	"youth": {"musicDirector": "G. V. Prakash Kumar", "year": 2026},
     "yevadu": {"musicDirector": "Devi Sri Prasad", "year": 2014},
     "yeto vellipoyindi manasu": {"musicDirector": "Ilaiyaraaja", "year": 2012},
     "ye maaya chesave": {"musicDirector": "A.R. Rahman", "year": 2010},
