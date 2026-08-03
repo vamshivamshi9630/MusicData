@@ -1,0 +1,126 @@
+{
+  "album": {
+    "id": "0991c1561768",
+    "name": "Soggade Chinni Nayana",
+    "year": 2016,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "2850c1cea25a",
+      "title": "Addhira Banna",
+      "normalizedTitle": "addhira banna",
+      "trackNumber": 1,
+      "duration": "2:03",
+      "durationSeconds": 123,
+      "audio": "Addhira Banna.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anudeep",
+        "Arun",
+        "Dhanunjay",
+        "Raghuram",
+        "Sampath",
+        "Prakesh",
+        "Lokesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2083648
+    },
+    {
+      "id": "96128eb80084",
+      "title": "Dikka Dikka Dum",
+      "normalizedTitle": "dikka dikka dum",
+      "trackNumber": 2,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Dikka Dikka Dum.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Nagarjuna",
+        "Dhanunjay"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4058211
+    },
+    {
+      "id": "9e0356da2b9e",
+      "title": "Nee Navve",
+      "normalizedTitle": "nee navve",
+      "trackNumber": 3,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Nee Navve.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4399660
+    },
+    {
+      "id": "b8059fbc88a6",
+      "title": "Soggade Chinni Nayana",
+      "normalizedTitle": "soggade chinni nayana",
+      "trackNumber": 4,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Soggade Chinni Nayana.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Satya Yamini",
+        "Nuthana",
+        "Vinayak"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4035495
+    },
+    {
+      "id": "030be23a87ed",
+      "title": "Untale Untale Nee Vente Untale",
+      "normalizedTitle": "untale untale nee vente untale",
+      "trackNumber": 5,
+      "duration": "2:14",
+      "durationSeconds": 134,
+      "audio": "Untale Untale Nee Vente Untale.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2259321
+    },
+    {
+      "id": "366a3ba5ea2a",
+      "title": "Vasthane Vasthane",
+      "normalizedTitle": "vasthane vasthane",
+      "trackNumber": 6,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Vasthane Vasthane.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Hari Haran",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4616608
+    }
+  ]
+}

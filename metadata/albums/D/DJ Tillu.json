@@ -1,0 +1,82 @@
+{
+  "album": {
+    "id": "947454070739",
+    "name": "DJ Tillu",
+    "year": 2022,
+    "musicDirector": "Sricharan Pakala",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "DJ Tillu.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "2eb360c5ecda",
+      "title": "Nuvvala (Female Version) Song",
+      "normalizedTitle": "nuvvala female version song",
+      "trackNumber": 1,
+      "duration": "2:04",
+      "durationSeconds": 124,
+      "audio": "Nuvvala (Female Version) Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Yamini Ghantasala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2302976
+    },
+    {
+      "id": "a7ebbbcce83b",
+      "title": "Nuvvala Song",
+      "normalizedTitle": "nuvvala song",
+      "trackNumber": 2,
+      "duration": "2:03",
+      "durationSeconds": 123,
+      "audio": "Nuvvala Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Siddhu Jonnalagadda"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3267968
+    },
+    {
+      "id": "ef33bd9bb472",
+      "title": "Pataas Pilla Song",
+      "normalizedTitle": "pataas pilla song",
+      "trackNumber": 3,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Pataas Pilla Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3386496
+    },
+    {
+      "id": "0e179e63d941",
+      "title": "Tillu Anna DJ Pedithe Song",
+      "normalizedTitle": "tillu anna dj pedithe song",
+      "trackNumber": 4,
+      "duration": "3:06",
+      "durationSeconds": 186,
+      "audio": "Tillu Anna DJ Pedithe Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3023104
+    }
+  ]
+}

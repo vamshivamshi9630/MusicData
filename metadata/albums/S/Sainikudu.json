@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "1979484c6903",
+    "name": "Sainikudu",
+    "year": 2006,
+    "musicDirector": "Harris Jayaraj",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sainikudu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "56494bd6302f",
+      "title": "Aadapilla Song",
+      "normalizedTitle": "aadapilla song",
+      "trackNumber": 1,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Aadapilla Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9378483
+    },
+    {
+      "id": "eff12c9f7524",
+      "title": "Byla Bylamo Song",
+      "normalizedTitle": "byla bylamo song",
+      "trackNumber": 2,
+      "duration": "5:40",
+      "durationSeconds": 340,
+      "audio": "Byla Bylamo Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10922442
+    },
+    {
+      "id": "80729f8724e3",
+      "title": "Go Go Adhigo Song",
+      "normalizedTitle": "go go adhigo song",
+      "trackNumber": 3,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Go Go Adhigo Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9931215
+    },
+    {
+      "id": "ae6fea2c78d0",
+      "title": "Maayera Song",
+      "normalizedTitle": "maayera song",
+      "trackNumber": 4,
+      "duration": "5:49",
+      "durationSeconds": 349,
+      "audio": "Maayera Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11208873
+    },
+    {
+      "id": "45d6f73ab029",
+      "title": "Oorugalle Song",
+      "normalizedTitle": "oorugalle song",
+      "trackNumber": 5,
+      "duration": "5:41",
+      "durationSeconds": 341,
+      "audio": "Oorugalle Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10960814
+    },
+    {
+      "id": "3c7a2847aeb3",
+      "title": "Sogasu Choodatharama Song",
+      "normalizedTitle": "sogasu choodatharama song",
+      "trackNumber": 6,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Sogasu Choodatharama Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4804938
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "83ff8d9fde9e",
+    "name": "Bengal Tiger",
+    "year": 2015,
+    "musicDirector": "Bheems Ceciroleo",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bengal Tiger.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "10bd0cd24044",
+      "title": "Asia Khantamlo Song",
+      "normalizedTitle": "asia khantamlo song",
+      "trackNumber": 1,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Asia Khantamlo Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Nakash Aziz",
+        "Nutana Mohan",
+        "Bhargavi Pillai"
+      ],
+      "bitrate": 134209,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4721667
+    },
+    {
+      "id": "11a46492418d",
+      "title": "Banchani Song",
+      "normalizedTitle": "banchani song",
+      "trackNumber": 2,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Banchani Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Adnan Sami"
+      ],
+      "bitrate": 133558,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4308216
+    },
+    {
+      "id": "764df47b8698",
+      "title": "Bengal Tiger Song",
+      "normalizedTitle": "bengal tiger song",
+      "trackNumber": 3,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Bengal Tiger Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Shankar Mahadevan",
+        "Bhargavi Pillai"
+      ],
+      "bitrate": 131782,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4313225
+    },
+    {
+      "id": "9735a2f22b42",
+      "title": "Chupulatho Deepala Song",
+      "normalizedTitle": "chupulatho deepala song",
+      "trackNumber": 4,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Chupulatho Deepala Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Vijay Prakash"
+      ],
+      "bitrate": 129887,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4188701
+    },
+    {
+      "id": "1d3010fec66b",
+      "title": "Raaye Raaye Chinni Song",
+      "normalizedTitle": "raaye raaye chinni song",
+      "trackNumber": 5,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Raaye Raaye Chinni Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Mamata Sharma",
+        "Uma Neha",
+        "Vaddepalli Srinivas"
+      ],
+      "bitrate": 135090,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4872792
+    }
+  ]
+}

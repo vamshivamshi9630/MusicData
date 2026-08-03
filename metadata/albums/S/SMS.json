@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "9582d03046bd",
+    "name": "SMS",
+    "year": 2012,
+    "musicDirector": "V. Selvaganesh",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "SMS.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "718644274f46",
+      "title": "Cheeky Cheeki Baby Song",
+      "normalizedTitle": "cheeky cheeki baby song",
+      "trackNumber": 1,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Cheeky Cheeki Baby Song.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Vanamali",
+      "singers": [
+        "Chaitra",
+        "Anuj Gurwara",
+        "Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4327004
+    },
+    {
+      "id": "d1980ca8a5ed",
+      "title": "Cheliya Song",
+      "normalizedTitle": "cheliya song",
+      "trackNumber": 2,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Cheliya Song.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Vanamali",
+      "singers": [
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4935071
+    },
+    {
+      "id": "94953e3efe52",
+      "title": "Idhi Nijamey Song",
+      "normalizedTitle": "idhi nijamey song",
+      "trackNumber": 3,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Idhi Nijamey Song.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Abhinaya Srinivas",
+      "singers": [
+        "Karthik",
+        "Ranina Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3601825
+    },
+    {
+      "id": "aeaea57a337b",
+      "title": "Mid Night Song",
+      "normalizedTitle": "mid night song",
+      "trackNumber": 4,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Mid Night Song.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Ranjith",
+        "Krishna Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4057394
+    },
+    {
+      "id": "20edab1f8b75",
+      "title": "Osi Penki Pilla Song",
+      "normalizedTitle": "osi penki pilla song",
+      "trackNumber": 5,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Osi Penki Pilla Song.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Shankar Mahadevan",
+        "Sumitra Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4033603
+    },
+    {
+      "id": "8eb1afd9645c",
+      "title": "Sms Theme Song",
+      "normalizedTitle": "sms theme song",
+      "trackNumber": 6,
+      "duration": "1:35",
+      "durationSeconds": 95,
+      "audio": "Sms Theme Song.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Vanamali",
+      "singers": [
+        "Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1632785
+    }
+  ]
+}

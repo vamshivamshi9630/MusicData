@@ -1,0 +1,150 @@
+{
+  "album": {
+    "id": "f6b829528a36",
+    "name": "Premabhishekam",
+    "year": 1981,
+    "musicDirector": "Chakravarthy",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Premabhishekam.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "8a8a4dbc21d1",
+      "title": "Agadhu Agadhu",
+      "normalizedTitle": "agadhu agadhu",
+      "trackNumber": 1,
+      "duration": "5:14",
+      "durationSeconds": 314,
+      "audio": "Agadhu Agadhu.mp3",
+      "composer": "Chakravarthy",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5038125
+    },
+    {
+      "id": "1fe23787c632",
+      "title": "Devi Mounama",
+      "normalizedTitle": "devi mounama",
+      "trackNumber": 2,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Devi Mounama.mp3",
+      "composer": "Chakravarthy",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4493942
+    },
+    {
+      "id": "5e00f700adbe",
+      "title": "Jeevithannai Choodu",
+      "normalizedTitle": "jeevithannai choodu",
+      "trackNumber": 3,
+      "duration": "3:01",
+      "durationSeconds": 181,
+      "audio": "Jeevithannai Choodu.mp3",
+      "composer": "Chakravarthy",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2911548
+    },
+    {
+      "id": "9d18e96b9de6",
+      "title": "Kotappa Kondaku",
+      "normalizedTitle": "kotappa kondaku",
+      "trackNumber": 4,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Kotappa Kondaku.mp3",
+      "composer": "Chakravarthy",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4414110
+    },
+    {
+      "id": "be92cdc5d75e",
+      "title": "Na Kallu Cheputunnayi",
+      "normalizedTitle": "na kallu cheputunnayi",
+      "trackNumber": 5,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Na Kallu Cheputunnayi.mp3",
+      "composer": "Chakravarthy",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4142020
+    },
+    {
+      "id": "2c87aa540d1c",
+      "title": "Oka Devuni Gudilo",
+      "normalizedTitle": "oka devuni gudilo",
+      "trackNumber": 6,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Oka Devuni Gudilo.mp3",
+      "composer": "Chakravarthy",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4353507
+    },
+    {
+      "id": "49320baf358e",
+      "title": "Taralu Digi Vachhina Vela",
+      "normalizedTitle": "taralu digi vachhina vela",
+      "trackNumber": 7,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Taralu Digi Vachhina Vela.mp3",
+      "composer": "Chakravarthy",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4304188
+    },
+    {
+      "id": "e790e7ff0cf6",
+      "title": "Vandanam Abhinandanam",
+      "normalizedTitle": "vandanam abhinandanam",
+      "trackNumber": 8,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Vandanam Abhinandanam.mp3",
+      "composer": "Chakravarthy",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4093955
+    }
+  ]
+}

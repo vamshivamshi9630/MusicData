@@ -1,0 +1,107 @@
+{
+  "album": {
+    "id": "c7762d121c2e",
+    "name": "Poola Rangadu",
+    "year": 2012,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Poola Rangadu.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "b76b5117710f",
+      "title": "Chocklate Song",
+      "normalizedTitle": "chocklate song",
+      "trackNumber": 1,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Chocklate Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Chandrabose",
+      "singers": [
+        "Udit Narayan",
+        "Meenal Jain"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3779983
+    },
+    {
+      "id": "bbec57bd52ac",
+      "title": "Nuvve Nuvvele Song",
+      "normalizedTitle": "nuvve nuvvele song",
+      "trackNumber": 2,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Nuvve Nuvvele Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Vanamali",
+      "singers": [
+        "Karthik",
+        "Gayatri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4487154
+    },
+    {
+      "id": "24438f52f500",
+      "title": "Nuvvu Naku Kavali Song",
+      "normalizedTitle": "nuvvu naku kavali song",
+      "trackNumber": 3,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Nuvvu Naku Kavali Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Anup Rubens",
+        "Ranjith",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4019930
+    },
+    {
+      "id": "019df40a8b8f",
+      "title": "Okkade Okkade Song",
+      "normalizedTitle": "okkade okkade song",
+      "trackNumber": 4,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Okkade Okkade Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Kandikonda",
+      "singers": [
+        "Raja Hassan",
+        "Lipsika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4074676
+    },
+    {
+      "id": "d8eeac186c66",
+      "title": "Poola Rangadu Song",
+      "normalizedTitle": "poola rangadu song",
+      "trackNumber": 5,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Poola Rangadu Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Ananth Sriram",
+      "singers": [
+        "Benny Dayal",
+        "Nakash",
+        "Bhargavi",
+        "Lipsika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3995688
+    }
+  ]
+}

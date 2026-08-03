@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "97b0560280ed",
+    "name": "Current",
+    "year": 2009,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Current.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "f7fc35a83b80",
+      "title": "Ammayilu Abbayi Song",
+      "normalizedTitle": "ammayilu abbayi song",
+      "trackNumber": 1,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Ammayilu Abbayi Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Franco",
+        "Andrea"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4265819
+    },
+    {
+      "id": "332e631ae04d",
+      "title": "Atu Nuvve Itu Song",
+      "normalizedTitle": "atu nuvve itu song",
+      "trackNumber": 2,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Atu Nuvve Itu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Neha Bhasin"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4860573
+    },
+    {
+      "id": "dea6fb31557e",
+      "title": "Current Song",
+      "normalizedTitle": "current song",
+      "trackNumber": 3,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Current Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Benny Dayal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4549587
+    },
+    {
+      "id": "f8e6d4d8652c",
+      "title": "Rekkalu Song",
+      "normalizedTitle": "rekkalu song",
+      "trackNumber": 4,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Rekkalu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar",
+        "Ranina"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4214806
+    },
+    {
+      "id": "6d4e8bf82035",
+      "title": "You Are My Love Song",
+      "normalizedTitle": "you are my love song",
+      "trackNumber": 5,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "You Are My Love Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sree Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4241172
+    }
+  ]
+}

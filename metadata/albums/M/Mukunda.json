@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "42d505d5360e",
+    "name": "Mukunda",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mukunda.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "447f4f95429f",
+      "title": "Arere Chandrakala Song",
+      "normalizedTitle": "arere chandrakala song",
+      "trackNumber": 1,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Arere Chandrakala Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Karthik & Sai Shivani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3388108
+    },
+    {
+      "id": "e0ec8ee7e2f4",
+      "title": "Chaala Bagundi Song",
+      "normalizedTitle": "chaala bagundi song",
+      "trackNumber": 2,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Chaala Bagundi Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4644465
+    },
+    {
+      "id": "d9826fcd5432",
+      "title": "Chesededo Song",
+      "normalizedTitle": "chesededo song",
+      "trackNumber": 3,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Chesededo Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Rahul Nambiar & Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4308860
+    },
+    {
+      "id": "60a150b34b5d",
+      "title": "Daredumdadum Song",
+      "normalizedTitle": "daredumdadum song",
+      "trackNumber": 4,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Daredumdadum Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Mickey J Meyer & Sai Shivani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3844523
+    },
+    {
+      "id": "603f1a0eed07",
+      "title": "Gopikamma Song",
+      "normalizedTitle": "gopikamma song",
+      "trackNumber": 5,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Gopikamma Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4264940
+    },
+    {
+      "id": "2176f13cd908",
+      "title": "Nandalaala Song",
+      "normalizedTitle": "nandalaala song",
+      "trackNumber": 6,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Nandalaala Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Swetha Pandit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4076456
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "2b95c946ec29",
+    "name": "Macherla Niyojakavargam",
+    "year": 2022,
+    "musicDirector": "Mahati Swara Sagar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Macherla Niyojakavargam.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "d51ff5e846e2",
+      "title": "Adirindey Song",
+      "normalizedTitle": "adirindey song",
+      "trackNumber": 1,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Adirindey Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Sanjith Hegde"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4165069
+    },
+    {
+      "id": "d62dded18206",
+      "title": "Chill Maaro Song",
+      "normalizedTitle": "chill maaro song",
+      "trackNumber": 2,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "Chill Maaro Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Nakash Aziz",
+        "Sanjana Kalmanje"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3496585
+    },
+    {
+      "id": "e6cb5bdf1086",
+      "title": "Pori Superoo Song",
+      "normalizedTitle": "pori superoo song",
+      "trackNumber": 3,
+      "duration": "2:13",
+      "durationSeconds": 133,
+      "audio": "Pori Superoo Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Mahati Swara Sagar",
+        "Rahul Sipliganj",
+        "Geeta Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2480275
+    },
+    {
+      "id": "24750693c30b",
+      "title": "Ra Ra Reddy I Am Ready Song",
+      "normalizedTitle": "ra ra reddy i am ready song",
+      "trackNumber": 4,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Ra Ra Reddy I Am Ready Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "楌獰歩ꁡ"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4511557
+    },
+    {
+      "id": "74e86548ca0e",
+      "title": "Ranu Ranu Antune Chinnado Remix Song",
+      "normalizedTitle": "ranu ranu antune chinnado remix song",
+      "trackNumber": 5,
+      "duration": "0:49",
+      "durationSeconds": 49,
+      "audio": "Ranu Ranu Antune Chinnado Remix Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "楌獰歩ꁡ"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2307659
+    }
+  ]
+}

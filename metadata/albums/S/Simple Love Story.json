@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "07839365a93d",
+    "name": "Simple Love Story",
+    "year": 2020,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Simple Love Story.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "1cbb7c53eeb4",
+      "title": "Epudaina Gurthukosthana Song",
+      "normalizedTitle": "epudaina gurthukosthana song",
+      "trackNumber": 1,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Epudaina Gurthukosthana Song.mp3",
+      "composer": "Music: Ramesh Mukkera | Lyrics: Ramesh Mukkera",
+      "singers": [
+        "Venu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4480925
+    },
+    {
+      "id": "f9d30928e2ff",
+      "title": "Mataltho Cheppalante Song",
+      "normalizedTitle": "mataltho cheppalante song",
+      "trackNumber": 2,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Mataltho Cheppalante Song.mp3",
+      "composer": "Music: Ramesh Mukkera | Lyrics: Ramesh Mukkera",
+      "singers": [
+        "Deepu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3711877
+    },
+    {
+      "id": "bc0a11da05bd",
+      "title": "Nalla Cheera Song",
+      "normalizedTitle": "nalla cheera song",
+      "trackNumber": 3,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Nalla Cheera Song.mp3",
+      "composer": "Music: Ramesh Mukkera | Lyrics: Ramesh Mukkera",
+      "singers": [
+        "Jangi Reddy",
+        "Ramaswamy & Ganga"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4646467
+    },
+    {
+      "id": "8d3133e1c93d",
+      "title": "Nee Navvu Muthyapu Chinuke Song",
+      "normalizedTitle": "nee navvu muthyapu chinuke song",
+      "trackNumber": 4,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Nee Navvu Muthyapu Chinuke Song.mp3",
+      "composer": "Music: Ramesh Mukkera | Lyrics: Ramesh Mukkera",
+      "singers": [
+        "Ramesh",
+        "Mukkera",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4607615
+    },
+    {
+      "id": "109a357d6ded",
+      "title": "Neevera Neevera Song",
+      "normalizedTitle": "neevera neevera song",
+      "trackNumber": 5,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Neevera Neevera Song.mp3",
+      "composer": "Music: Ramesh Mukkera | Lyrics: Ramesh Mukkera",
+      "singers": [
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4060045
+    }
+  ]
+}

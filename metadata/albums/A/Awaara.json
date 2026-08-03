@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "7ffa6180e1a1",
+    "name": "Awaara",
+    "year": 2010,
+    "musicDirector": "Yuvan Shankar Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Awaara.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "812f448a2a15",
+      "title": "Arere Vaanaa",
+      "normalizedTitle": "arere vaanaa",
+      "trackNumber": 1,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Arere Vaanaa.mp3",
+      "composer": "Karthi, Tamanna",
+      "singers": [
+        "Rahul Nambiar",
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4390234
+    },
+    {
+      "id": "8a17c6b96ea1",
+      "title": "Chiru Chiru Chiru",
+      "normalizedTitle": "chiru chiru chiru",
+      "trackNumber": 2,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Chiru Chiru Chiru.mp3",
+      "composer": "Karthi, Tamanna",
+      "singers": [
+        "Hari Charan",
+        "Tanvi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4673240
+    },
+    {
+      "id": "b5f2c9ab9930",
+      "title": "Chuttesai Chuttesai",
+      "normalizedTitle": "chuttesai chuttesai",
+      "trackNumber": 3,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Chuttesai Chuttesai.mp3",
+      "composer": "Karthi, Tamanna",
+      "singers": [
+        "Karthik",
+        "Sunitha Saradhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4832238
+    },
+    {
+      "id": "070047d18025",
+      "title": "Mandaara Poovalle",
+      "normalizedTitle": "mandaara poovalle",
+      "trackNumber": 4,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Mandaara Poovalle.mp3",
+      "composer": "Karthi, Tamanna",
+      "singers": [
+        "Benny Dayal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5276112
+    },
+    {
+      "id": "a67d59116829",
+      "title": "Nee Yadalo Naaku",
+      "normalizedTitle": "nee yadalo naaku",
+      "trackNumber": 5,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Nee Yadalo Naaku.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Yuvan Shankar Raja",
+        "Tanvi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4826852
+    },
+    {
+      "id": "f51d682e439e",
+      "title": "Yedho Alajadi Song",
+      "normalizedTitle": "yedho alajadi song",
+      "trackNumber": 6,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Yedho Alajadi Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "S.P. Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4157795
+    }
+  ]
+}

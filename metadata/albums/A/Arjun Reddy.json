@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "7fb170e60692",
+    "name": "Arjun Reddy",
+    "year": 2017,
+    "musicDirector": "Radhan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Arjun Reddy.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "1f2ef2c4324e",
+      "title": "Dhooram Song",
+      "normalizedTitle": "dhooram song",
+      "trackNumber": 1,
+      "duration": "3:00",
+      "durationSeconds": 180,
+      "audio": "Dhooram Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Nikitha Gandhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3264302
+    },
+    {
+      "id": "239015fb44bc",
+      "title": "Emitemitemo Song",
+      "normalizedTitle": "emitemitemo song",
+      "trackNumber": 2,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Emitemitemo Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Alphons Joseph"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3627658
+    },
+    {
+      "id": "dc4117efc2da",
+      "title": "Gundelonaa Song",
+      "normalizedTitle": "gundelonaa song",
+      "trackNumber": 3,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Gundelonaa Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Sowjanya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4138443
+    },
+    {
+      "id": "331cd74c519f",
+      "title": "Madhurame Song",
+      "normalizedTitle": "madhurame song",
+      "trackNumber": 4,
+      "duration": "5:43",
+      "durationSeconds": 343,
+      "audio": "Madhurame Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Sameera Bharadwaj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5878337
+    },
+    {
+      "id": "e550e4aad5c0",
+      "title": "Mari Mari Song",
+      "normalizedTitle": "mari mari song",
+      "trackNumber": 5,
+      "duration": "2:54",
+      "durationSeconds": 174,
+      "audio": "Mari Mari Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Gowthami"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3161384
+    },
+    {
+      "id": "8dabf1b2bdfa",
+      "title": "Oopiri Aaguthunnadey Song",
+      "normalizedTitle": "oopiri aaguthunnadey song",
+      "trackNumber": 6,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Oopiri Aaguthunnadey Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4291773
+    },
+    {
+      "id": "6db1652ebcc3",
+      "title": "Telisiney Na Nuvvey Song",
+      "normalizedTitle": "telisiney na nuvvey song",
+      "trackNumber": 7,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Telisiney Na Nuvvey Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4416110
+    }
+  ]
+}

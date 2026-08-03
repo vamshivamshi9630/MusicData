@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "a5c8b55bcf90",
+    "name": "Nuvve Nuvve",
+    "year": 2002,
+    "musicDirector": "Koti",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nuvve Nuvve.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "fb9cc2079703",
+      "title": "Ammayi Nachesindhi Song",
+      "normalizedTitle": "ammayi nachesindhi song",
+      "trackNumber": 1,
+      "duration": "5:32",
+      "durationSeconds": 332,
+      "audio": "Ammayi Nachesindhi Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Rajesh",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5346598
+    },
+    {
+      "id": "6d7ad67e518c",
+      "title": "Computerlu Song",
+      "normalizedTitle": "computerlu song",
+      "trackNumber": 2,
+      "duration": "5:24",
+      "durationSeconds": 324,
+      "audio": "Computerlu Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Devan",
+        "Koti",
+        "Trivikram",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5214135
+    },
+    {
+      "id": "73be17ae22d1",
+      "title": "I Am Very Sorry Song",
+      "normalizedTitle": "i am very sorry song",
+      "trackNumber": 3,
+      "duration": "5:45",
+      "durationSeconds": 345,
+      "audio": "I Am Very Sorry Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "K.K."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5548861
+    },
+    {
+      "id": "a92270445e25",
+      "title": "Naa Manasukemayindi Song",
+      "normalizedTitle": "naa manasukemayindi song",
+      "trackNumber": 4,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Naa Manasukemayindi Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Udit Narayan",
+        "Nitya Santoshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4636934
+    },
+    {
+      "id": "8ce128dd761f",
+      "title": "Niddura Pothunna Song",
+      "normalizedTitle": "niddura pothunna song",
+      "trackNumber": 5,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Niddura Pothunna Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4408278
+    },
+    {
+      "id": "eff5943659ba",
+      "title": "Nuvve Nuvve Song",
+      "normalizedTitle": "nuvve nuvve song",
+      "trackNumber": 6,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Nuvve Nuvve Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4652334
+    }
+  ]
+}

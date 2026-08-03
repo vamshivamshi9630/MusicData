@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "ba0ec15cb5d4",
+    "name": "Karuppu",
+    "year": 2020,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Karuppu.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "aa3cf292cb6c",
+      "title": "God Mode Song",
+      "normalizedTitle": "god mode song",
+      "trackNumber": 1,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "God Mode Song.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar",
+        "Gana Muthu"
+      ],
+      "bitrate": 121736,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4061063
+    }
+  ]
+}

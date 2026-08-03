@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "35a1c19de3c6",
+    "name": "Kalki",
+    "year": 2024,
+    "musicDirector": "Santhosh Narayanan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kalki.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "e725e7e18779",
+      "title": "Bhairava Anthem Song",
+      "normalizedTitle": "bhairava anthem song",
+      "trackNumber": 1,
+      "duration": "2:43",
+      "durationSeconds": 163,
+      "audio": "Bhairava Anthem Song.mp3",
+      "composer": "Santosh Narayanan",
+      "singers": [
+        "Diljit Dosanjh",
+        "Deepak Blue"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6929242
+    },
+    {
+      "id": "ca31963cb0b9",
+      "title": "Bujji Theme Song",
+      "normalizedTitle": "bujji theme song",
+      "trackNumber": 2,
+      "duration": "0:45",
+      "durationSeconds": 45,
+      "audio": "Bujji Theme Song.mp3",
+      "composer": "Santosh Narayanan",
+      "singers": [
+        "Priya Ragu"
+      ],
+      "bitrate": 241836,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1775456
+    },
+    {
+      "id": "a4a7d355c2f9",
+      "title": "Hope of Shambala",
+      "normalizedTitle": "hope of shambala",
+      "trackNumber": 3,
+      "duration": "1:47",
+      "durationSeconds": 107,
+      "audio": "Hope of Shambala.mp3",
+      "composer": "Santosh Narayanan",
+      "singers": [
+        "Shobana Chandrakumar"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4709879
+    },
+    {
+      "id": "1e0ba4ce6e3e",
+      "title": "Keshava Madhava",
+      "normalizedTitle": "keshava madhava",
+      "trackNumber": 4,
+      "duration": "1:28",
+      "durationSeconds": 88,
+      "audio": "Keshava Madhava.mp3",
+      "composer": "Santosh Narayanan",
+      "singers": [
+        "Amitabh Bachchan"
+      ],
+      "bitrate": 241732,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3056288
+    },
+    {
+      "id": "2fbbd40d650c",
+      "title": "Ta Takkara Song",
+      "normalizedTitle": "ta takkara song",
+      "trackNumber": 5,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Ta Takkara Song.mp3",
+      "composer": "Santosh Narayanan",
+      "singers": [
+        "Sanjith Hegde",
+        "Dhee",
+        "Santhosh Narayanan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 10187072
+    }
+  ]
+}

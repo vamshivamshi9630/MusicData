@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "784605713440",
+    "name": "Vakeel Saab",
+    "year": 2021,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Vakeel Saab.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "1f6bc8e47924",
+      "title": "Kadhulu Kadhulu Song",
+      "normalizedTitle": "kadhulu kadhulu song",
+      "trackNumber": 1,
+      "duration": "2:56",
+      "durationSeconds": 176,
+      "audio": "Kadhulu Kadhulu Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman s"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2999950
+    },
+    {
+      "id": "91a8eafe7c86",
+      "title": "Kanti Papa Song",
+      "normalizedTitle": "kanti papa song",
+      "trackNumber": 2,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Kanti Papa Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Armaan Malik",
+        "Deepu",
+        "thaman S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4710656
+    },
+    {
+      "id": "c8bdf20ca435",
+      "title": "Maguva Maguva Song (Female Version) Song",
+      "normalizedTitle": "maguva maguva song female version song",
+      "trackNumber": 3,
+      "duration": "2:57",
+      "durationSeconds": 177,
+      "audio": "Maguva Maguva Song (Female Version) Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Mohana Bhogaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3189248
+    },
+    {
+      "id": "a80f5d70cec7",
+      "title": "Maguva Maguva Song",
+      "normalizedTitle": "maguva maguva song",
+      "trackNumber": 4,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Maguva Maguva Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4068769
+    },
+    {
+      "id": "dd99ea10ae35",
+      "title": "Sathyameva Jayathe Song",
+      "normalizedTitle": "sathyameva jayathe song",
+      "trackNumber": 5,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Sathyameva Jayathe Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Shankar Mahadevan & Prithvi Chandhra & thaman S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4056535
+    }
+  ]
+}

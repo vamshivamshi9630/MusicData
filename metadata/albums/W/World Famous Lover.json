@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "4ee07eddc5e8",
+    "name": "World Famous Lover",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "World Famous Lover.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "9113087175ad",
+      "title": "Boggu Ganilo Song",
+      "normalizedTitle": "boggu ganilo song",
+      "trackNumber": 1,
+      "duration": "3:01",
+      "durationSeconds": 181,
+      "audio": "Boggu Ganilo Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Niranj Suresh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2969838
+    },
+    {
+      "id": "1b63faf976b6",
+      "title": "Mana Kadha Song",
+      "normalizedTitle": "mana kadha song",
+      "trackNumber": 2,
+      "duration": "3:04",
+      "durationSeconds": 184,
+      "audio": "Mana Kadha Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3017838
+    },
+    {
+      "id": "8bf40e214c4b",
+      "title": "My Love Song",
+      "normalizedTitle": "my love song",
+      "trackNumber": 3,
+      "duration": "3:51",
+      "durationSeconds": 231,
+      "audio": "My Love Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Srikrishna",
+        "Ramya Behera"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3769710
+    },
+    {
+      "id": "72b8ea21f630",
+      "title": "Relatti Song",
+      "normalizedTitle": "relatti song",
+      "trackNumber": 4,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Relatti Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "DIVYA S MENON"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4425582
+    }
+  ]
+}

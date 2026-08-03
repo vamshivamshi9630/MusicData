@@ -1,0 +1,108 @@
+{
+  "album": {
+    "id": "f302d8be0582",
+    "name": "English Padam",
+    "year": 2017,
+    "musicDirector": "Mc Rico",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "English Padam.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "828377b4561a",
+      "title": "English Padam Song",
+      "normalizedTitle": "english padam song",
+      "trackNumber": 1,
+      "duration": "3:07",
+      "durationSeconds": 187,
+      "audio": "English Padam Song.mp3",
+      "composer": "MC Rico",
+      "singers": [
+        "MC Rico",
+        "Murugan"
+      ],
+      "bitrate": 130221,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3166871
+    },
+    {
+      "id": "ac57b53a60e4",
+      "title": "Kana Kanden Song",
+      "normalizedTitle": "kana kanden song",
+      "trackNumber": 2,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Kana Kanden Song.mp3",
+      "composer": "MC Rico",
+      "singers": [
+        "MC Rico",
+        "Jagadeesh"
+      ],
+      "bitrate": 129937,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4848449
+    },
+    {
+      "id": "152305485e6d",
+      "title": "Naalu Peru Song",
+      "normalizedTitle": "naalu peru song",
+      "trackNumber": 3,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Naalu Peru Song.mp3",
+      "composer": "MC Rico",
+      "singers": [
+        "Yogi",
+        "Muthamizh"
+      ],
+      "bitrate": 131651,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4317582
+    },
+    {
+      "id": "a42179c6941c",
+      "title": "Naane Varuven Song",
+      "normalizedTitle": "naane varuven song",
+      "trackNumber": 4,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Naane Varuven Song.mp3",
+      "composer": "MC Rico",
+      "singers": [
+        "Priya",
+        "Sriram",
+        "Amsri",
+        "Sudha Rajan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4801808
+    },
+    {
+      "id": "8ac00ba67d2c",
+      "title": "Thadaru Mudaru Song",
+      "normalizedTitle": "thadaru mudaru song",
+      "trackNumber": 5,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Thadaru Mudaru Song.mp3",
+      "composer": "MC Rico",
+      "singers": [
+        "Amsri",
+        "Gana Michael",
+        "MC Rico",
+        "Sudha Rajan"
+      ],
+      "bitrate": 135920,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3734341
+    }
+  ]
+}

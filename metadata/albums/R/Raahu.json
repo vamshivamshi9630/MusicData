@@ -1,0 +1,84 @@
+{
+  "album": {
+    "id": "e053eacef22b",
+    "name": "Raahu",
+    "year": 2020,
+    "musicDirector": "Sidharth Sadasivuni",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Raahu.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "64dc103bedb2",
+      "title": "Emo Emo Song",
+      "normalizedTitle": "emo emo song",
+      "trackNumber": 1,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Emo Emo Song.mp3",
+      "composer": "Praveen Lakkaraju",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3951729
+    },
+    {
+      "id": "07e9e3f7d2c5",
+      "title": "Entha Chuda Chakande Song",
+      "normalizedTitle": "entha chuda chakande song",
+      "trackNumber": 2,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Entha Chuda Chakande Song.mp3",
+      "composer": "Praveen Lakkaraju",
+      "singers": [
+        "Anurag Kulkarni",
+        "Sahiti Chaganti"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3457832
+    },
+    {
+      "id": "67018c731e3d",
+      "title": "Kshanama Song",
+      "normalizedTitle": "kshanama song",
+      "trackNumber": 3,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Kshanama Song.mp3",
+      "composer": "Praveen Lakkaraju",
+      "singers": [
+        "Aditi Bhavaraju",
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3267088
+    },
+    {
+      "id": "7d70d729d6b1",
+      "title": "Lokamantha Okkasari Maare Song",
+      "normalizedTitle": "lokamantha okkasari maare song",
+      "trackNumber": 4,
+      "duration": "3:06",
+      "durationSeconds": 186,
+      "audio": "Lokamantha Okkasari Maare Song.mp3",
+      "composer": "Praveen Lakkaraju",
+      "singers": [
+        "Manisha Eerabathini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3041822
+    }
+  ]
+}

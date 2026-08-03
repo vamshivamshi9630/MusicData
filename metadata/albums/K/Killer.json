@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "ed45d626b071",
+    "name": "Killer",
+    "year": 1992,
+    "musicDirector": "Ilaiyaraaja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Killer.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "56f6e5c35596",
+      "title": "Oh Rabbi Yendab Song",
+      "normalizedTitle": "oh rabbi yendab song",
+      "trackNumber": 1,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Oh Rabbi Yendab Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "Balu",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4690102
+    },
+    {
+      "id": "aa134379af9b",
+      "title": "Piliche kuhu Ku Song",
+      "normalizedTitle": "piliche kuhu ku song",
+      "trackNumber": 2,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Piliche kuhu Ku Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1316639
+    },
+    {
+      "id": "76a04fac4114",
+      "title": "Priya Priyathama Song",
+      "normalizedTitle": "priya priyathama song",
+      "trackNumber": 3,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Priya Priyathama Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "Mano",
+        "Chitra & Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1672870
+    },
+    {
+      "id": "2b7a04bab87f",
+      "title": "Rambalake Ramju Song",
+      "normalizedTitle": "rambalake ramju song",
+      "trackNumber": 4,
+      "duration": "5:13",
+      "durationSeconds": 313,
+      "audio": "Rambalake Ramju Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "Balu",
+        "Chitra",
+        "Krishna & Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5060884
+    },
+    {
+      "id": "ad85dce65839",
+      "title": "Sindhura Puvvu Song",
+      "normalizedTitle": "sindhura puvvu song",
+      "trackNumber": 5,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Sindhura Puvvu Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "Balu",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4800038
+    },
+    {
+      "id": "23bc778a9a95",
+      "title": "Ukkiri Bikkiri Song",
+      "normalizedTitle": "ukkiri bikkiri song",
+      "trackNumber": 6,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Ukkiri Bikkiri Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "Balu",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4873581
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "d9716144ba02",
+    "name": "Shivamani",
+    "year": 2003,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Shivamani.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "fa478fa2df9f",
+      "title": "Goldrangu Song",
+      "normalizedTitle": "goldrangu song",
+      "trackNumber": 1,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Goldrangu Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Ravivarma",
+        "Revathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4928085
+    },
+    {
+      "id": "728275acd602",
+      "title": "Mona Mona Song",
+      "normalizedTitle": "mona mona song",
+      "trackNumber": 2,
+      "duration": "5:41",
+      "durationSeconds": 341,
+      "audio": "Mona Mona Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Hariharan",
+        "Kausalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5590970
+    },
+    {
+      "id": "e4ab00d7eba9",
+      "title": "Rama Rama Song",
+      "normalizedTitle": "rama rama song",
+      "trackNumber": 3,
+      "duration": "1:29",
+      "durationSeconds": 89,
+      "audio": "Rama Rama Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Kausalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1551791
+    },
+    {
+      "id": "52aeb5a32f9f",
+      "title": "Sun Sun Song",
+      "normalizedTitle": "sun sun song",
+      "trackNumber": 4,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Sun Sun Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Shankar mahadevan",
+        "Kausalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4637617
+    },
+    {
+      "id": "7b75db6ebcc5",
+      "title": "Yelo Yelo Song",
+      "normalizedTitle": "yelo yelo song",
+      "trackNumber": 5,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Yelo Yelo Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Smita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4603723
+    },
+    {
+      "id": "e1cf484e4438",
+      "title": "Yenaatiki Song",
+      "normalizedTitle": "yenaatiki song",
+      "trackNumber": 6,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Yenaatiki Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Raghu Kunche",
+        "Kausalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5171345
+    }
+  ]
+}

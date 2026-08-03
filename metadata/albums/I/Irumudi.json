@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "41f491459b6c",
+    "name": "Irumudi",
+    "year": 2025,
+    "musicDirector": "D. Imman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Irumudi.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "8b001988a571",
+      "title": "Irumudi Kattu Song",
+      "normalizedTitle": "irumudi kattu song",
+      "trackNumber": 1,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Irumudi Kattu Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "GV Prakash Kumar"
+      ],
+      "bitrate": 138958,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4790576
+    }
+  ]
+}

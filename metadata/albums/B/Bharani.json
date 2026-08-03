@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "b31a9dd4d142",
+    "name": "Bharani",
+    "year": 2005,
+    "musicDirector": "Yuvan Shankar Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bharani.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "8990c4e3be64",
+      "title": "Nalupaina Kanna Song",
+      "normalizedTitle": "nalupaina kanna song",
+      "trackNumber": 1,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Nalupaina Kanna Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 259471,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6788335
+    },
+    {
+      "id": "01c65da678c8",
+      "title": "Sayya Sayya Song",
+      "normalizedTitle": "sayya sayya song",
+      "trackNumber": 2,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Sayya Sayya Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 268380,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9736192
+    },
+    {
+      "id": "9656e666f001",
+      "title": "Simhadri Appanna Song",
+      "normalizedTitle": "simhadri appanna song",
+      "trackNumber": 3,
+      "duration": "5:25",
+      "durationSeconds": 325,
+      "audio": "Simhadri Appanna Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 258710,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10280960
+    },
+    {
+      "id": "5eee2e72f9c5",
+      "title": "Talinka Endukul Song",
+      "normalizedTitle": "talinka endukul song",
+      "trackNumber": 4,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Talinka Endukul Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 257785,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9282234
+    },
+    {
+      "id": "3e17dde5c2ec",
+      "title": "Vedanalona Song",
+      "normalizedTitle": "vedanalona song",
+      "trackNumber": 5,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Vedanalona Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 260142,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9785344
+    }
+  ]
+}

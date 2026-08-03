@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "c35936f2c91b",
+    "name": "Nuvvu Naaku Nachav",
+    "year": 2001,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nuvvu Naaku Nachav.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "def12262f050",
+      "title": "Aakasham Digivachi",
+      "normalizedTitle": "aakasham digivachi",
+      "trackNumber": 1,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Aakasham Digivachi.mp3",
+      "composer": "Koti",
+      "singers": [
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5089146
+    },
+    {
+      "id": "161667c63f7f",
+      "title": "Naa Chupe Ninu",
+      "normalizedTitle": "naa chupe ninu",
+      "trackNumber": 2,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Naa Chupe Ninu.mp3",
+      "composer": "Koti",
+      "singers": [
+        "K. S. Chithra",
+        "Shreeram Lagoo",
+        "Prabhu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4211869
+    },
+    {
+      "id": "2858014aed29",
+      "title": "O Navvu Chalu",
+      "normalizedTitle": "o navvu chalu",
+      "trackNumber": 3,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "O Navvu Chalu.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4747281
+    },
+    {
+      "id": "7a6b0167a0f6",
+      "title": "Okkasari Cheppaleva",
+      "normalizedTitle": "okkasari cheppaleva",
+      "trackNumber": 4,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Okkasari Cheppaleva.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Kumar Sanu",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5107142
+    },
+    {
+      "id": "62623e9e10ef",
+      "title": "Priiyatama",
+      "normalizedTitle": "priiyatama",
+      "trackNumber": 5,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "Priiyatama.mp3",
+      "composer": "Koti",
+      "singers": [
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5203244
+    },
+    {
+      "id": "2cfd723b7689",
+      "title": "Unnamata Cheppanivu",
+      "normalizedTitle": "unnamata cheppanivu",
+      "trackNumber": 6,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Unnamata Cheppanivu.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Harini",
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4662005
+    }
+  ]
+}

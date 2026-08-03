@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "cdf47ddc3ecc",
+    "name": "Chala Bagundi",
+    "year": 2000,
+    "musicDirector": "Koti",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chala Bagundi.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "cbd20a9857a7",
+      "title": "Daaham Daaham",
+      "normalizedTitle": "daaham daaham",
+      "trackNumber": 1,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Daaham Daaham.mp3",
+      "composer": "Koti",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4478962
+    },
+    {
+      "id": "32fbeaa0b29f",
+      "title": "Dai Amma Daayi",
+      "normalizedTitle": "dai amma daayi",
+      "trackNumber": 2,
+      "duration": "5:07",
+      "durationSeconds": 307,
+      "audio": "Dai Amma Daayi.mp3",
+      "composer": "Koti",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4939555
+    },
+    {
+      "id": "7bade85bfdfa",
+      "title": "Divi Dari Vidi",
+      "normalizedTitle": "divi dari vidi",
+      "trackNumber": 3,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Divi Dari Vidi.mp3",
+      "composer": "Koti",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5314465
+    },
+    {
+      "id": "29b78ed89f48",
+      "title": "Ee Rukkamma",
+      "normalizedTitle": "ee rukkamma",
+      "trackNumber": 4,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Ee Rukkamma.mp3",
+      "composer": "Koti",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4238214
+    },
+    {
+      "id": "7bd6f0161218",
+      "title": "Entha Baagundi",
+      "normalizedTitle": "entha baagundi",
+      "trackNumber": 5,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Entha Baagundi.mp3",
+      "composer": "Koti",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4165913
+    },
+    {
+      "id": "dfb8a81ec5ec",
+      "title": "Srikaram Idhi",
+      "normalizedTitle": "srikaram idhi",
+      "trackNumber": 6,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Srikaram Idhi.mp3",
+      "composer": "Koti",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5021473
+    }
+  ]
+}

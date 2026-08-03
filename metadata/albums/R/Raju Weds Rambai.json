@@ -1,0 +1,49 @@
+{
+  "album": {
+    "id": "d00d481c140f",
+    "name": "Raju Weds Rambai",
+    "year": 2020,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Raju Weds Rambai.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "d8ab4f0fc7a9",
+      "title": "Ala Ala Song",
+      "normalizedTitle": "ala ala song",
+      "trackNumber": 1,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Ala Ala Song.mp3",
+      "composer": "Suresh Bobbili",
+      "singers": [
+        "Chinmayi Sripada"
+      ],
+      "bitrate": 123901,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3672522
+    },
+    {
+      "id": "cf0f165d9dd1",
+      "title": "Rambai Neemeedha Naku Song",
+      "normalizedTitle": "rambai neemeedha naku song",
+      "trackNumber": 2,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Rambai Neemeedha Naku Song.mp3",
+      "composer": "Suresh Bobbili",
+      "singers": [
+        "Anurag Kulkarni",
+        "Jayasri Pallem"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4338664
+    }
+  ]
+}

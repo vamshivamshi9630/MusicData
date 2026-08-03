@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "30dd6a7fcf60",
+    "name": "Ala Vaikunthapurramuloo",
+    "year": 2020,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ala Vaikunthapurramuloo.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "e0026decc4b1",
+      "title": "Ala Vaikunthapurramuloo Song",
+      "normalizedTitle": "ala vaikunthapurramuloo song",
+      "trackNumber": 1,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Ala Vaikunthapurramuloo Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Priya sisters",
+        "Sri Krishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3385680
+    },
+    {
+      "id": "8e147beb9da2",
+      "title": "Butta Bomma Song",
+      "normalizedTitle": "butta bomma song",
+      "trackNumber": 2,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Butta Bomma Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3260225
+    },
+    {
+      "id": "82af996715b5",
+      "title": "Ramuloo Ramulaa Song",
+      "normalizedTitle": "ramuloo ramulaa song",
+      "trackNumber": 3,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Ramuloo Ramulaa Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Anurag Kulkarni",
+        "Mangli"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4009942
+    },
+    {
+      "id": "b2db67343e74",
+      "title": "Samajavaragamana Female Song",
+      "normalizedTitle": "samajavaragamana female song",
+      "trackNumber": 4,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Samajavaragamana Female Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4151296
+    },
+    {
+      "id": "9c4e6681620b",
+      "title": "Samajavaragamana Song",
+      "normalizedTitle": "samajavaragamana song",
+      "trackNumber": 5,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Samajavaragamana Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3734474
+    },
+    {
+      "id": "c4fb51914251",
+      "title": "Sittharala Sirapadu Song",
+      "normalizedTitle": "sittharala sirapadu song",
+      "trackNumber": 6,
+      "duration": "3:04",
+      "durationSeconds": 184,
+      "audio": "Sittharala Sirapadu Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Soorranna",
+        "Saketh Komanduri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3227691
+    }
+  ]
+}

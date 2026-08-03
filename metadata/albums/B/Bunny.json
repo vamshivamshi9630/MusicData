@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "e9c43c5dcf14",
+    "name": "Bunny",
+    "year": 2005,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bunny.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "481c52f8b4a1",
+      "title": "Bunny Bunny",
+      "normalizedTitle": "bunny bunny",
+      "trackNumber": 1,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Bunny Bunny.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Gowri Munjal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4706307
+    },
+    {
+      "id": "d0bfa10cdee1",
+      "title": "Jabilammavo",
+      "normalizedTitle": "jabilammavo",
+      "trackNumber": 2,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Jabilammavo.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Gowri Munjal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4499803
+    },
+    {
+      "id": "3e1300fcfb14",
+      "title": "Kanapadaledha",
+      "normalizedTitle": "kanapadaledha",
+      "trackNumber": 3,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Kanapadaledha.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Gowri Munjal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3489172
+    },
+    {
+      "id": "1098adc77c77",
+      "title": "Maaro Maaro",
+      "normalizedTitle": "maaro maaro",
+      "trackNumber": 4,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Maaro Maaro.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Gowri Munjal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5035191
+    },
+    {
+      "id": "883b4a1d4f4b",
+      "title": "May Ilu May Ilu",
+      "normalizedTitle": "may ilu may ilu",
+      "trackNumber": 5,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "May Ilu May Ilu.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Gowri Munjal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4865527
+    },
+    {
+      "id": "ffde47ab220d",
+      "title": "Va Va Va Re Va",
+      "normalizedTitle": "va va va re va",
+      "trackNumber": 6,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Va Va Va Re Va.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Gowri Munjal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4071843
+    }
+  ]
+}

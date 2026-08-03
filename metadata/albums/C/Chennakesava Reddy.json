@@ -1,0 +1,82 @@
+{
+  "album": {
+    "id": "10567e72f181",
+    "name": "Chennakesava Reddy",
+    "year": 2002,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chennakesava Reddy.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "e6e7d6d81f1e",
+      "title": "Bakara Bakara Song",
+      "normalizedTitle": "bakara bakara song",
+      "trackNumber": 1,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Bakara Bakara Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5124310
+    },
+    {
+      "id": "c90b27d9e798",
+      "title": "Nee Kopulo Song",
+      "normalizedTitle": "nee kopulo song",
+      "trackNumber": 2,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Nee Kopulo Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4891918
+    },
+    {
+      "id": "56c1519b7a39",
+      "title": "Ooranta Utsavam Song",
+      "normalizedTitle": "ooranta utsavam song",
+      "trackNumber": 3,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Ooranta Utsavam Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5020660
+    },
+    {
+      "id": "4f9e250bac0c",
+      "title": "Telupu Telupu Song",
+      "normalizedTitle": "telupu telupu song",
+      "trackNumber": 4,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Telupu Telupu Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4475219
+    }
+  ]
+}

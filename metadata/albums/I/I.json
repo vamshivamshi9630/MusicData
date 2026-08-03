@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "de7d1b721a1e",
+    "name": "I",
+    "year": 2015,
+    "musicDirector": "A.R. Rahman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "I.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "e3914539168e",
+      "title": "Ayila Ayila Song",
+      "normalizedTitle": "ayila ayila song",
+      "trackNumber": 1,
+      "duration": "5:34",
+      "durationSeconds": 334,
+      "audio": "Ayila Ayila Song.mp3",
+      "composer": "Music: Ar Rahman | Lyrics: C㏊ndrabose, Anant㏊ Sriram, Ramajogayya Saﬅry",
+      "singers": [
+        "Haric㏊ran & Natalie Di Lu㏄io"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5452474
+    },
+    {
+      "id": "25d9cdc371c9",
+      "title": "Ladiyo Song",
+      "normalizedTitle": "ladiyo song",
+      "trackNumber": 2,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Ladiyo Song.mp3",
+      "composer": "Music: Ar Rahman | Lyrics: C㏊ndrabose, Anant㏊ Sriram, Ramajogayya Saﬅry",
+      "singers": [
+        "Nikhita Gandhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4600217
+    },
+    {
+      "id": "91a1c645e7d8",
+      "title": "Nuvvunte Naa Jathagaa (Reprise) Song",
+      "normalizedTitle": "nuvvunte naa jathagaa reprise song",
+      "trackNumber": 3,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Nuvvunte Naa Jathagaa (Reprise) Song.mp3",
+      "composer": "Music: Ar Rahman | Lyrics: C㏊ndrabose, Anant㏊ Sriram, Ramajogayya Saﬅry",
+      "singers": [
+        "Isshrathquadhre & Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4147645
+    },
+    {
+      "id": "ffc8fe129e89",
+      "title": "Nuvvunte Naa Jathagaa Song",
+      "normalizedTitle": "nuvvunte naa jathagaa song",
+      "trackNumber": 4,
+      "duration": "5:50",
+      "durationSeconds": 350,
+      "audio": "Nuvvunte Naa Jathagaa Song.mp3",
+      "composer": "Music: Ar Rahman | Lyrics: C㏊ndrabose, Anant㏊ Sriram, Ramajogayya Saﬅry",
+      "singers": [
+        "Sid Sriram & Isshrathquadhre"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5709121
+    },
+    {
+      "id": "963397845874",
+      "title": "Pareshanayya Song",
+      "normalizedTitle": "pareshanayya song",
+      "trackNumber": 5,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Pareshanayya Song.mp3",
+      "composer": "Music: Ar Rahman | Lyrics: C㏊ndrabose, Anant㏊ Sriram, Ramajogayya Saﬅry",
+      "singers": [
+        "Vĳay Prakash & Neeti Mo㏊n"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4952173
+    },
+    {
+      "id": "65389933177c",
+      "title": "Poolane Kunukeyamantaa Song",
+      "normalizedTitle": "poolane kunukeyamantaa song",
+      "trackNumber": 6,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Poolane Kunukeyamantaa Song.mp3",
+      "composer": "Music: Ar Rahman | Lyrics: C㏊ndrabose, Anant㏊ Sriram, Ramajogayya Saﬅry",
+      "singers": [
+        "Haric㏊ran & Shreya Ghos㏊l"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4996914
+    }
+  ]
+}

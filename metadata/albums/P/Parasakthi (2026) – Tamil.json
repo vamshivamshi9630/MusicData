@@ -1,0 +1,49 @@
+{
+  "album": {
+    "id": "a450598a7f63",
+    "name": "Parasakthi (2026) – Tamil",
+    "year": 2026,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Parasakthi (2026) – Tamil.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "af0d8cde3725",
+      "title": "Adi Alaye Song",
+      "normalizedTitle": "adi alaye song",
+      "trackNumber": 1,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Adi Alaye Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Sean Roldan",
+        "Dhee"
+      ],
+      "bitrate": 136208,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4634639
+    },
+    {
+      "id": "431ab8429327",
+      "title": "Ratnamala Song",
+      "normalizedTitle": "ratnamala song",
+      "trackNumber": 2,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Ratnamala Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "GV Prakash Kumar"
+      ],
+      "bitrate": 130309,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4900400
+    }
+  ]
+}

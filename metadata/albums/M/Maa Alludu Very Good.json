@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "5478279b6668",
+    "name": "Maa Alludu Very Good",
+    "year": 2003,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Maa Alludu Very Good.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "51424690e56b",
+      "title": "Mavagaru Pilla Song",
+      "normalizedTitle": "mavagaru pilla song",
+      "trackNumber": 1,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Mavagaru Pilla Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4592300
+    },
+    {
+      "id": "2c52daa010e5",
+      "title": "Mutyala Pallaki Song",
+      "normalizedTitle": "mutyala pallaki song",
+      "trackNumber": 2,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Mutyala Pallaki Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4695524
+    },
+    {
+      "id": "6d4a155945c2",
+      "title": "Nee Dumpatega Song",
+      "normalizedTitle": "nee dumpatega song",
+      "trackNumber": 3,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Nee Dumpatega Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4595206
+    },
+    {
+      "id": "b1ec909851d8",
+      "title": "Padaka Padaka Song",
+      "normalizedTitle": "padaka padaka song",
+      "trackNumber": 4,
+      "duration": "5:07",
+      "durationSeconds": 307,
+      "audio": "Padaka Padaka Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4940858
+    },
+    {
+      "id": "58f476c55ce0",
+      "title": "Paluke Bangaram Song",
+      "normalizedTitle": "paluke bangaram song",
+      "trackNumber": 5,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Paluke Bangaram Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4518733
+    },
+    {
+      "id": "b280d9222c78",
+      "title": "Pellantu Chesukunte Song",
+      "normalizedTitle": "pellantu chesukunte song",
+      "trackNumber": 6,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Pellantu Chesukunte Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4535868
+    }
+  ]
+}

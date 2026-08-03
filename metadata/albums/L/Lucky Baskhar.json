@@ -1,0 +1,66 @@
+{
+  "album": {
+    "id": "22febe6587e4",
+    "name": "Lucky Baskhar",
+    "year": 2024,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Lucky Baskhar.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "06302148b3d9",
+      "title": "Lucky Baskhar Title Song",
+      "normalizedTitle": "lucky baskhar title song",
+      "trackNumber": 1,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Lucky Baskhar Title Song.mp3",
+      "composer": "G V Prakash Kumar",
+      "singers": [
+        "Usha Uthup"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4360235
+    },
+    {
+      "id": "f4199af678db",
+      "title": "Nijamaa Kalaa Song",
+      "normalizedTitle": "nijamaa kalaa song",
+      "trackNumber": 2,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Nijamaa Kalaa Song.mp3",
+      "composer": "G V Prakash Kumar",
+      "singers": [
+        "Krishna Tejasvi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4344353
+    },
+    {
+      "id": "fddb6863d40d",
+      "title": "Srimathi Garu Song",
+      "normalizedTitle": "srimathi garu song",
+      "trackNumber": 3,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Srimathi Garu Song.mp3",
+      "composer": "G V Prakash Kumar",
+      "singers": [
+        "Vishal Mishra",
+        "Shweta Mohan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10248653
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "65fac49b6dcd",
+    "name": "Varudu Kaavalenu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Varudu Kaavalenu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "e7b4412e8e06",
+      "title": "Chenguna Chenguna Song",
+      "normalizedTitle": "chenguna chenguna song",
+      "trackNumber": 1,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "Chenguna Chenguna Song.mp3",
+      "composer": "Vishal Chandrashekhar",
+      "singers": [
+        "Sinduri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3759744
+    },
+    {
+      "id": "cdef67157309",
+      "title": "Digu Digu Digu Naaga Song",
+      "normalizedTitle": "digu digu digu naaga song",
+      "trackNumber": 2,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Digu Digu Digu Naaga Song.mp3",
+      "composer": "Vishal Chandrashekhar",
+      "singers": [
+        "桓敲慹䜠潨桳污"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3467136
+    },
+    {
+      "id": "b5a8d2d2da62",
+      "title": "Kola Kalle Ilaa Song",
+      "normalizedTitle": "kola kalle ilaa song",
+      "trackNumber": 3,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Kola Kalle Ilaa Song.mp3",
+      "composer": "Vishal Chandrashekhar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3924096
+    },
+    {
+      "id": "a9ad2dc3654d",
+      "title": "Manasulone Nilichipoke Song",
+      "normalizedTitle": "manasulone nilichipoke song",
+      "trackNumber": 4,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "Manasulone Nilichipoke Song.mp3",
+      "composer": "Vishal Chandrashekhar",
+      "singers": [
+        "Chinmayi Sripada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3760128
+    },
+    {
+      "id": "494b17051f20",
+      "title": "Vaddaanam Song",
+      "normalizedTitle": "vaddaanam song",
+      "trackNumber": 5,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Vaddaanam Song.mp3",
+      "composer": "Vishal Chandrashekhar",
+      "singers": [
+        "Geetha Madhuri",
+        "ML Gayathri",
+        "Aditi Bhavaraju",
+        "Sruthi Ranjani & Sri Krishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4376832
+    },
+    {
+      "id": "8404c102f3d4",
+      "title": "What To Do Song",
+      "normalizedTitle": "what to do song",
+      "trackNumber": 6,
+      "duration": "2:48",
+      "durationSeconds": 168,
+      "audio": "What To Do Song.mp3",
+      "composer": "Vishal Chandrashekhar",
+      "singers": [
+        "Amala Chebolu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3024000
+    }
+  ]
+}

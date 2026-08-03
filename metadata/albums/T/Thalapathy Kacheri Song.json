@@ -1,0 +1,33 @@
+{
+  "album": {
+    "id": "5767c5f9264e",
+    "name": "Thalapathy Kacheri Song",
+    "year": 2024,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Thalapathy Kacheri Song.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "17926ecf4c4a",
+      "title": "Thalapathy Kacheri Song",
+      "normalizedTitle": "thalapathy kacheri song",
+      "trackNumber": 1,
+      "duration": "3:21",
+      "durationSeconds": 201,
+      "audio": "Thalapathy Kacheri Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Vijay",
+        "Anirudh Ravichander",
+        "Arivu"
+      ],
+      "bitrate": 118683,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3279358
+    }
+  ]
+}

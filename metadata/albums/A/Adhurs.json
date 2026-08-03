@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "2bcc4552ae2a",
+    "name": "Adhurs",
+    "year": 2010,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Adhurs.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "adcf936d59e2",
+      "title": "Assalaam Valekhum.Mp",
+      "normalizedTitle": "assalaam valekhummp",
+      "trackNumber": 1,
+      "duration": "5:07",
+      "durationSeconds": 307,
+      "audio": "Assalaam Valekhum.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5007553
+    },
+    {
+      "id": "a70f300aa515",
+      "title": "Chandrakala.Mp",
+      "normalizedTitle": "chandrakalamp",
+      "trackNumber": 2,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Chandrakala.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4143619
+    },
+    {
+      "id": "d6759522b563",
+      "title": "Chary.Mp",
+      "normalizedTitle": "charymp",
+      "trackNumber": 3,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Chary.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4815686
+    },
+    {
+      "id": "d9a1f2e7330c",
+      "title": "Neethone.Mp",
+      "normalizedTitle": "neethonemp",
+      "trackNumber": 4,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Neethone.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3775809
+    },
+    {
+      "id": "d33ba5dd2163",
+      "title": "Pilla Naavalla Kadhu.Mp",
+      "normalizedTitle": "pilla naavalla kadhump",
+      "trackNumber": 5,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Pilla Naavalla Kadhu.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3775809
+    },
+    {
+      "id": "b25700e84ff5",
+      "title": "Shiva Shambho.Mp",
+      "normalizedTitle": "shiva shambhomp",
+      "trackNumber": 6,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Shiva Shambho.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4575793
+    },
+    {
+      "id": "22da412ba378",
+      "title": "Shiva Shambo.Mp",
+      "normalizedTitle": "shiva shambomp",
+      "trackNumber": 7,
+      "duration": "1:44",
+      "durationSeconds": 104,
+      "audio": "Shiva Shambo.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1759582
+    }
+  ]
+}

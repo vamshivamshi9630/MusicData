@@ -1,0 +1,136 @@
+{
+  "album": {
+    "id": "929c3e2d0e42",
+    "name": "Guntur Kaaram",
+    "year": 2024,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Guntur Kaaram.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "06b95d8dce17",
+      "title": "Amma Song",
+      "normalizedTitle": "amma song",
+      "trackNumber": 1,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Amma Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Vishal Mishra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4598576
+    },
+    {
+      "id": "a7cb922394d6",
+      "title": "Dum Masala Song (Full) Song",
+      "normalizedTitle": "dum masala song full song",
+      "trackNumber": 2,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Dum Masala Song (Full) Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sanjith Hegde",
+        "S S Thaman"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3764748
+    },
+    {
+      "id": "d9d9ebdc2452",
+      "title": "Guntur Kaaram Mass BGM Song",
+      "normalizedTitle": "guntur kaaram mass bgm song",
+      "trackNumber": 3,
+      "duration": "1:04",
+      "durationSeconds": 64,
+      "audio": "Guntur Kaaram Mass BGM Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2636133
+    },
+    {
+      "id": "8e4527703eea",
+      "title": "Kurchi Madathapetti Song",
+      "normalizedTitle": "kurchi madathapetti song",
+      "trackNumber": 4,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Kurchi Madathapetti Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sahithi Chaganti",
+        "Sri Krishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3932955
+    },
+    {
+      "id": "4383df14effd",
+      "title": "Mawaa Enthaina Song",
+      "normalizedTitle": "mawaa enthaina song",
+      "trackNumber": 5,
+      "duration": "2:54",
+      "durationSeconds": 174,
+      "audio": "Mawaa Enthaina Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sri Krishna",
+        "Ramachari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3144914
+    },
+    {
+      "id": "3b408a5c67c6",
+      "title": "Oh My Baby Song",
+      "normalizedTitle": "oh my baby song",
+      "trackNumber": 6,
+      "duration": "2:59",
+      "durationSeconds": 179,
+      "audio": "Oh My Baby Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Shilpa Rao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3225162
+    },
+    {
+      "id": "aea73e7ee78e",
+      "title": "Ramana Aei Song",
+      "normalizedTitle": "ramana aei song",
+      "trackNumber": 7,
+      "duration": "2:41",
+      "durationSeconds": 161,
+      "audio": "Ramana Aei Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Gotte Kanakavva"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2934681
+    }
+  ]
+}

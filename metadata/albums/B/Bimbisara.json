@@ -1,0 +1,129 @@
+{
+  "album": {
+    "id": "3edd798f25b6",
+    "name": "Bimbisara",
+    "year": 2022,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bimbisara.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "6646c7cacade",
+      "title": "Bimbisara Rap Song",
+      "normalizedTitle": "bimbisara rap song",
+      "trackNumber": 1,
+      "duration": "1:38",
+      "durationSeconds": 98,
+      "audio": "Bimbisara Rap Song.mp3",
+      "composer": "Chirantann Bhatt",
+      "singers": [
+        "Lipsika",
+        "Adithya Iyengar",
+        "Prudhvi Chandra"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3981147
+    },
+    {
+      "id": "283dec429658",
+      "title": "Eeswarude Song",
+      "normalizedTitle": "eeswarude song",
+      "trackNumber": 2,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Eeswarude Song.mp3",
+      "composer": "Chirantann Bhatt",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3962129
+    },
+    {
+      "id": "78400449ec04",
+      "title": "Gulebakavali Song",
+      "normalizedTitle": "gulebakavali song",
+      "trackNumber": 3,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Gulebakavali Song.mp3",
+      "composer": "Chirantann Bhatt",
+      "singers": [
+        "Chinmayi Sripada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4013120
+    },
+    {
+      "id": "76635d49ea0b",
+      "title": "Neetho Unte Chaalu Song",
+      "normalizedTitle": "neetho unte chaalu song",
+      "trackNumber": 4,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Neetho Unte Chaalu Song.mp3",
+      "composer": "Chirantann Bhatt",
+      "singers": [
+        "Mohana Bhogaraju",
+        "Sandilya Pisapati"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4401822
+    },
+    {
+      "id": "6c2af26672d3",
+      "title": "O Tene Palukula Song",
+      "normalizedTitle": "o tene palukula song",
+      "trackNumber": 5,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "O Tene Palukula Song.mp3",
+      "composer": "Chirantann Bhatt",
+      "singers": [
+        "Hymath Mohammed",
+        "Satya Yamini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3728491
+    },
+    {
+      "id": "504379ea2193",
+      "title": "Vijayaho Song",
+      "normalizedTitle": "vijayaho song",
+      "trackNumber": 6,
+      "duration": "2:43",
+      "durationSeconds": 163,
+      "audio": "Vijayaho Song.mp3",
+      "composer": "Chirantann Bhatt",
+      "singers": [
+        "Hemachandra",
+        "Sai Charan",
+        "Lokesh",
+        "Arun Koundinya",
+        "Raghuram",
+        "Harika Narayan",
+        "Nayana Nair",
+        "Poornima",
+        "Sri Soumya",
+        "Gomathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2673979
+    }
+  ]
+}

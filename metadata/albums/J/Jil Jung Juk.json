@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "758373fdbf62",
+    "name": "Jil Jung Juk",
+    "year": 2016,
+    "musicDirector": "Vishal Chandrasekhar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jil Jung Juk.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c935e470ffd9",
+      "title": "Casanova Song",
+      "normalizedTitle": "casanova song",
+      "trackNumber": 1,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Casanova Song.mp3",
+      "composer": "Vishal Chandrashekhar",
+      "singers": [
+        "Andrea Jeremiah"
+      ],
+      "bitrate": 135909,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4554003
+    },
+    {
+      "id": "00b0a89cf0e1",
+      "title": "Domeru Lordu Song",
+      "normalizedTitle": "domeru lordu song",
+      "trackNumber": 2,
+      "duration": "2:57",
+      "durationSeconds": 177,
+      "audio": "Domeru Lordu Song.mp3",
+      "composer": "Vishal Chandrashekhar",
+      "singers": [
+        "Anthony Dasan",
+        "Kavitha Thomas"
+      ],
+      "bitrate": 131617,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3179154
+    },
+    {
+      "id": "073dbef64cef",
+      "title": "Red Roadu Song",
+      "normalizedTitle": "red roadu song",
+      "trackNumber": 3,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Red Roadu Song.mp3",
+      "composer": "Vishal Chandrashekhar",
+      "singers": [
+        "Santhosh Narayanan",
+        "Siddharth",
+        "Sean Roldan"
+      ],
+      "bitrate": 129535,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3750288
+    },
+    {
+      "id": "3ae502ce8045",
+      "title": "Shoot the Kili Song",
+      "normalizedTitle": "shoot the kili song",
+      "trackNumber": 4,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Shoot the Kili Song.mp3",
+      "composer": "Vishal Chandrashekhar",
+      "singers": [
+        "Vishal Chandrashekhar & Siddharth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3985688
+    },
+    {
+      "id": "72dcab749364",
+      "title": "Shoot The Kuruv Song",
+      "normalizedTitle": "shoot the kuruv song",
+      "trackNumber": 5,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Shoot The Kuruv Song.mp3",
+      "composer": "Vishal Chandrashekhar",
+      "singers": [
+        "Anirudh",
+        "Siddharth",
+        "Radha Ravi"
+      ],
+      "bitrate": 132263,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4589358
+    },
+    {
+      "id": "7a4106d97382",
+      "title": "Shoot The Song",
+      "normalizedTitle": "shoot the song",
+      "trackNumber": 6,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Shoot The Song.mp3",
+      "composer": "Vishal Chandrashekhar",
+      "singers": [
+        "Vishal Chandrasekar"
+      ],
+      "bitrate": 134383,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4704951
+    }
+  ]
+}

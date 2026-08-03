@@ -1,0 +1,86 @@
+{
+  "album": {
+    "id": "4c94485e0c21",
+    "name": "V",
+    "year": 2020,
+    "musicDirector": "Amit Trivedi",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "V.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "a72429f35e15",
+      "title": "Baby Touch Me Now Song",
+      "normalizedTitle": "baby touch me now song",
+      "trackNumber": 1,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Baby Touch Me Now Song.mp3",
+      "composer": "Amit Trivedi",
+      "singers": [
+        "Sharvi Yadav"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3731968
+    },
+    {
+      "id": "a8bfc974a68b",
+      "title": "Manasu Maree Song",
+      "normalizedTitle": "manasu maree song",
+      "trackNumber": 2,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Manasu Maree Song.mp3",
+      "composer": "Amit Trivedi",
+      "singers": [
+        "Amit Trivedi",
+        "Shashaa Tirupati & Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4408380
+    },
+    {
+      "id": "5d156567b286",
+      "title": "Ranga Rangeli Song",
+      "normalizedTitle": "ranga rangeli song",
+      "trackNumber": 3,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Ranga Rangeli Song.mp3",
+      "composer": "Amit Trivedi",
+      "singers": [
+        "Yazin Nizar",
+        "Nikhita Gandhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3685888
+    },
+    {
+      "id": "4c7350925b00",
+      "title": "Vastunna Vachestunna Song",
+      "normalizedTitle": "vastunna vachestunna song",
+      "trackNumber": 4,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Vastunna Vachestunna Song.mp3",
+      "composer": "Amit Trivedi",
+      "singers": [
+        "Shreya Goshal",
+        "Amit Trivedi",
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3721600
+    }
+  ]
+}

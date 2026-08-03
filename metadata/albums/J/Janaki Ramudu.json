@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "cbe5b207103b",
+    "name": "Janaki Ramudu",
+    "year": 1988,
+    "musicDirector": "K. V. Mahadevan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Janaki Ramudu.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "09a44588c7cc",
+      "title": "Adirindi Mama Song",
+      "normalizedTitle": "adirindi mama song",
+      "trackNumber": 1,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Adirindi Mama Song.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "Balu & P.Susheela"
+      ],
+      "bitrate": 263806,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8973937
+    },
+    {
+      "id": "459b3bd34456",
+      "title": "Arere Dada Pett Song",
+      "normalizedTitle": "arere dada pett song",
+      "trackNumber": 2,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Arere Dada Pett Song.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "Balu & P.Susheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4325680
+    },
+    {
+      "id": "ca075d08d71a",
+      "title": "Chilaka Paccha Song",
+      "normalizedTitle": "chilaka paccha song",
+      "trackNumber": 3,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Chilaka Paccha Song.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "Balu & S.Janaki"
+      ],
+      "bitrate": 252099,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8800672
+    },
+    {
+      "id": "cfb7a254ec09",
+      "title": "Na Gonthu Sruth Song",
+      "normalizedTitle": "na gonthu sruth song",
+      "trackNumber": 4,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Na Gonthu Sruth Song.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "Balu & Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4109595
+    },
+    {
+      "id": "00c118149b3a",
+      "title": "Nee Charanam Ka Song",
+      "normalizedTitle": "nee charanam ka song",
+      "trackNumber": 5,
+      "duration": "5:25",
+      "durationSeconds": 325,
+      "audio": "Nee Charanam Ka Song.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "Balu & Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5252296
+    }
+  ]
+}

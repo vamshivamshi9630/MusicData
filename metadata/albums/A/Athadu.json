@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "125125116c9c",
+    "name": "Athadu",
+    "year": 2005,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Athadu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "317b1334439c",
+      "title": "Adharaku",
+      "normalizedTitle": "adharaku",
+      "trackNumber": 1,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Adharaku.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Trisha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4838775
+    },
+    {
+      "id": "d3e3da1d3610",
+      "title": "Avunu Nizam",
+      "normalizedTitle": "avunu nizam",
+      "trackNumber": 2,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Avunu Nizam.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Trisha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4968364
+    },
+    {
+      "id": "616fa625811b",
+      "title": "Chandamama",
+      "normalizedTitle": "chandamama",
+      "trackNumber": 3,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Chandamama.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Trisha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5328657
+    },
+    {
+      "id": "332f5c64ac19",
+      "title": "Neetho Cheppana",
+      "normalizedTitle": "neetho cheppana",
+      "trackNumber": 4,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Neetho Cheppana.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Trisha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4455960
+    },
+    {
+      "id": "0948d9bc6a03",
+      "title": "Pilichina",
+      "normalizedTitle": "pilichina",
+      "trackNumber": 5,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Pilichina.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Trisha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4841331
+    },
+    {
+      "id": "549f3e73fa89",
+      "title": "Pillagali",
+      "normalizedTitle": "pillagali",
+      "trackNumber": 6,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Pillagali.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Trisha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4715915
+    }
+  ]
+}

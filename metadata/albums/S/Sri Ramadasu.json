@@ -1,0 +1,342 @@
+{
+  "album": {
+    "id": "04afac8c4144",
+    "name": "Sri Ramadasu",
+    "year": 2006,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sri Ramadasu.png",
+    "songCount": 19
+  },
+  "songs": [
+    {
+      "id": "4cd72a49e45e",
+      "title": "Adigadigo Badragiri",
+      "normalizedTitle": "adigadigo badragiri",
+      "trackNumber": 1,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Adigadigo Badragiri.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3979610
+    },
+    {
+      "id": "a32ab5230eba",
+      "title": "Allah",
+      "normalizedTitle": "allah",
+      "trackNumber": 2,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Allah.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4286828
+    },
+    {
+      "id": "22b5124cfa21",
+      "title": "Antha Ramamayam",
+      "normalizedTitle": "antha ramamayam",
+      "trackNumber": 3,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Antha Ramamayam.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3447122
+    },
+    {
+      "id": "3690f67583d7",
+      "title": "Bhadra Sheela",
+      "normalizedTitle": "bhadra sheela",
+      "trackNumber": 4,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Bhadra Sheela.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4913334
+    },
+    {
+      "id": "8ce973aca44f",
+      "title": "Chalu Chalu",
+      "normalizedTitle": "chalu chalu",
+      "trackNumber": 5,
+      "duration": "3:21",
+      "durationSeconds": 201,
+      "audio": "Chalu Chalu.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "S.P Balasubrahmanyam",
+        "Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3350181
+    },
+    {
+      "id": "9ef31e4350dc",
+      "title": "Charanamulane",
+      "normalizedTitle": "charanamulane",
+      "trackNumber": 6,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Charanamulane.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "Madhu Bala Krishna",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3985925
+    },
+    {
+      "id": "ed430ecda9bf",
+      "title": "Dasaradhi",
+      "normalizedTitle": "dasaradhi",
+      "trackNumber": 7,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Dasaradhi.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "S.P Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3775208
+    },
+    {
+      "id": "7ced40a2fe12",
+      "title": "Entho Ruchira",
+      "normalizedTitle": "entho ruchira",
+      "trackNumber": 8,
+      "duration": "2:50",
+      "durationSeconds": 170,
+      "audio": "Entho Ruchira.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "M. M. Keeravani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2849018
+    },
+    {
+      "id": "f9af5dea2b36",
+      "title": "Hylessa",
+      "normalizedTitle": "hylessa",
+      "trackNumber": 9,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Hylessa.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "M.M.Keeravani",
+        "Devi Sri Prasad",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4250905
+    },
+    {
+      "id": "4eb7044f3403",
+      "title": "Idhigidhigo",
+      "normalizedTitle": "idhigidhigo",
+      "trackNumber": 10,
+      "duration": "2:27",
+      "durationSeconds": 147,
+      "audio": "Idhigidhigo.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2473683
+    },
+    {
+      "id": "b71a5f7fde48",
+      "title": "Isvakulaku",
+      "normalizedTitle": "isvakulaku",
+      "trackNumber": 11,
+      "duration": "2:10",
+      "durationSeconds": 130,
+      "audio": "Isvakulaku.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2202027
+    },
+    {
+      "id": "cb3d41fae7ba",
+      "title": "Mangalam",
+      "normalizedTitle": "mangalam",
+      "trackNumber": 12,
+      "duration": "0:49",
+      "durationSeconds": 49,
+      "audio": "Mangalam.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "Brundham"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 906750
+    },
+    {
+      "id": "8d4f4a6eaae4",
+      "title": "Nannu Brovamani",
+      "normalizedTitle": "nannu brovamani",
+      "trackNumber": 13,
+      "duration": "2:56",
+      "durationSeconds": 176,
+      "audio": "Nannu Brovamani.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "S.P Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2947260
+    },
+    {
+      "id": "30784af60145",
+      "title": "Paluke Bangramayera",
+      "normalizedTitle": "paluke bangramayera",
+      "trackNumber": 14,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Paluke Bangramayera.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "M. M. Keeravani",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3955812
+    },
+    {
+      "id": "b5fe5e491588",
+      "title": "Shuddha Brahma",
+      "normalizedTitle": "shuddha brahma",
+      "trackNumber": 15,
+      "duration": "2:20",
+      "durationSeconds": 140,
+      "audio": "Shuddha Brahma.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "Pranavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2370453
+    },
+    {
+      "id": "58136cbf45c5",
+      "title": "Sri Raghavam (Traditional)",
+      "normalizedTitle": "sri raghavam traditional",
+      "trackNumber": 16,
+      "duration": "1:00",
+      "durationSeconds": 60,
+      "audio": "Sri Raghavam (Traditional).mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "M. M. Keeravani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1086102
+    },
+    {
+      "id": "bfa056558a9a",
+      "title": "Sri Rama Ramethi",
+      "normalizedTitle": "sri rama ramethi",
+      "trackNumber": 17,
+      "duration": "0:45",
+      "durationSeconds": 45,
+      "audio": "Sri Rama Ramethi.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "M. M. Keeravani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 856205
+    },
+    {
+      "id": "5cc637aff9a0",
+      "title": "Thandrimata",
+      "normalizedTitle": "thandrimata",
+      "trackNumber": 18,
+      "duration": "0:46",
+      "durationSeconds": 46,
+      "audio": "Thandrimata.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 858688
+    },
+    {
+      "id": "2e3c4c09caa6",
+      "title": "Yetheruga Nanu",
+      "normalizedTitle": "yetheruga nanu",
+      "trackNumber": 19,
+      "duration": "2:08",
+      "durationSeconds": 128,
+      "audio": "Yetheruga Nanu.mp3",
+      "composer": "M.M Keeravani",
+      "singers": [
+        "Vijay Yesudas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2176532
+    }
+  ]
+}

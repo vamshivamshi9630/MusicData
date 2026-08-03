@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "75bc2efea1c5",
+    "name": "Manmadha",
+    "year": 2004,
+    "musicDirector": "Yuvan Shankar Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Manmadha.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "800f1b40587b",
+      "title": "Andaala Menakave Song",
+      "normalizedTitle": "andaala menakave song",
+      "trackNumber": 1,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Andaala Menakave Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Ranjith",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4199738
+    },
+    {
+      "id": "b82366b6e80c",
+      "title": "Kadanna Prema Song",
+      "normalizedTitle": "kadanna prema song",
+      "trackNumber": 2,
+      "duration": "6:56",
+      "durationSeconds": 416,
+      "audio": "Kadanna Prema Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "S.P. Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6681128
+    },
+    {
+      "id": "54b0a4c7cfe2",
+      "title": "Manmadha Song",
+      "normalizedTitle": "manmadha song",
+      "trackNumber": 3,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Manmadha Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4365614
+    },
+    {
+      "id": "e3de7b069e9b",
+      "title": "Ningilanti Mana Song",
+      "normalizedTitle": "ningilanti mana song",
+      "trackNumber": 4,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Ningilanti Mana Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Tippu",
+        "Murali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4884348
+    },
+    {
+      "id": "67f9e82667df",
+      "title": "Thathai Thathai Song",
+      "normalizedTitle": "thathai thathai song",
+      "trackNumber": 5,
+      "duration": "5:54",
+      "durationSeconds": 354,
+      "audio": "Thathai Thathai Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Devi Sri Prasad",
+        "Kalpana",
+        "Clinton",
+        "Vasundhara Das"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5687313
+    },
+    {
+      "id": "a2c2fd8d62f5",
+      "title": "Theme Song",
+      "normalizedTitle": "theme song",
+      "trackNumber": 6,
+      "duration": "2:33",
+      "durationSeconds": 153,
+      "audio": "Theme Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Viva Girls"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2470583
+    }
+  ]
+}

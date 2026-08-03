@@ -1,0 +1,138 @@
+{
+  "album": {
+    "id": "58ef04937c07",
+    "name": "Mana Shankara Varaprasad Garu",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mana Shankara Varaprasad Garu.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "bc418438ea5d",
+      "title": "Flying High Song",
+      "normalizedTitle": "flying high song",
+      "trackNumber": 1,
+      "duration": "2:14",
+      "durationSeconds": 134,
+      "audio": "Flying High Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Naira"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5691200
+    },
+    {
+      "id": "57d2e906b736",
+      "title": "Hook Step Song",
+      "normalizedTitle": "hook step song",
+      "trackNumber": 2,
+      "duration": "2:18",
+      "durationSeconds": 138,
+      "audio": "Hook Step Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo"
+      ],
+      "bitrate": 144013,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2813687
+    },
+    {
+      "id": "ecd0ab23beb5",
+      "title": "Meesaala Pilla",
+      "normalizedTitle": "meesaala pilla",
+      "trackNumber": 3,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Meesaala Pilla.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Udit Narayan",
+        "Shweta Mohan"
+      ],
+      "bitrate": 130876,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4073397
+    },
+    {
+      "id": "8885977e53b0",
+      "title": "Meesaala Pilla  (Full Song)",
+      "normalizedTitle": "meesaala pilla full song",
+      "trackNumber": 4,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Meesaala Pilla  (Full Song).mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Udit Narayan",
+        "Shweta Mohan"
+      ],
+      "bitrate": 130876,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4061109
+    },
+    {
+      "id": "4a2cc824810e",
+      "title": "Mega Victory Mass Song",
+      "normalizedTitle": "mega victory mass song",
+      "trackNumber": 5,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Mega Victory Mass Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Nakash Aziz",
+        "Vishal Dadlani"
+      ],
+      "bitrate": 127398,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3444668
+    },
+    {
+      "id": "5b220655f93e",
+      "title": "Peddi Reddy Song",
+      "normalizedTitle": "peddi reddy song",
+      "trackNumber": 6,
+      "duration": "1:05",
+      "durationSeconds": 65,
+      "audio": "Peddi Reddy Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Chiranjeevi",
+        "Raghuarm"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2944808
+    },
+    {
+      "id": "a930804f46f5",
+      "title": "Sasirekha Song",
+      "normalizedTitle": "sasirekha song",
+      "trackNumber": 7,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Sasirekha Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo",
+        "Madhu Priya"
+      ],
+      "bitrate": 127587,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3972570
+    }
+  ]
+}

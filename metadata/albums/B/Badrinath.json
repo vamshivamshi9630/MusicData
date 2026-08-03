@@ -1,0 +1,176 @@
+{
+  "album": {
+    "id": "dd8c9ec753a9",
+    "name": "Badrinath",
+    "year": 2011,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Badrinath.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "625f153a2999",
+      "title": "Ambadhari (Remix)",
+      "normalizedTitle": "ambadhari remix",
+      "trackNumber": 1,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Ambadhari (Remix).mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3759906
+    },
+    {
+      "id": "995fac445da5",
+      "title": "Ambadhari",
+      "normalizedTitle": "ambadhari",
+      "trackNumber": 2,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Ambadhari.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4077923
+    },
+    {
+      "id": "175f92320e7c",
+      "title": "Badrinath Theme",
+      "normalizedTitle": "badrinath theme",
+      "trackNumber": 3,
+      "duration": "2:17",
+      "durationSeconds": 137,
+      "audio": "Badrinath Theme.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2304532
+    },
+    {
+      "id": "4314ca96af60",
+      "title": "Chiranjeeva",
+      "normalizedTitle": "chiranjeeva",
+      "trackNumber": 4,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Chiranjeeva.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4633003
+    },
+    {
+      "id": "fc9a67d4a607",
+      "title": "In The Night",
+      "normalizedTitle": "in the night",
+      "trackNumber": 5,
+      "duration": "3:01",
+      "durationSeconds": 181,
+      "audio": "In The Night.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3007544
+    },
+    {
+      "id": "7312e88f7a01",
+      "title": "Nachavura",
+      "normalizedTitle": "nachavura",
+      "trackNumber": 6,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Nachavura.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3959637
+    },
+    {
+      "id": "a40c8534c805",
+      "title": "Nath Nath",
+      "normalizedTitle": "nath nath",
+      "trackNumber": 7,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Nath Nath.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4145637
+    },
+    {
+      "id": "796b30139cc9",
+      "title": "Omkareswari",
+      "normalizedTitle": "omkareswari",
+      "trackNumber": 8,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Omkareswari.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4922637
+    },
+    {
+      "id": "f3147363505b",
+      "title": "Vasudhara",
+      "normalizedTitle": "vasudhara",
+      "trackNumber": 9,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Vasudhara.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4957315
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "b4e32133e8e7",
+    "name": "Seenu",
+    "year": 1999,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Seenu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "3a6eb05d2623",
+      "title": "Aatakundo Time Song",
+      "normalizedTitle": "aatakundo time song",
+      "trackNumber": 1,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Aatakundo Time Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4675334
+    },
+    {
+      "id": "b066fa8a2297",
+      "title": "Emani Cheppanu Prema Song",
+      "normalizedTitle": "emani cheppanu prema song",
+      "trackNumber": 2,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Emani Cheppanu Prema Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5132164
+    },
+    {
+      "id": "12e5dbb0c82f",
+      "title": "Hello Neredu Kalla Song",
+      "normalizedTitle": "hello neredu kalla song",
+      "trackNumber": 3,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Hello Neredu Kalla Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4478894
+    },
+    {
+      "id": "0610122433f1",
+      "title": "O Manali O Manali Song",
+      "normalizedTitle": "o manali o manali song",
+      "trackNumber": 4,
+      "duration": "5:31",
+      "durationSeconds": 331,
+      "audio": "O Manali O Manali Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5316066
+    },
+    {
+      "id": "31138663badf",
+      "title": "Premante Yemitante Song",
+      "normalizedTitle": "premante yemitante song",
+      "trackNumber": 5,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Premante Yemitante Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4897689
+    },
+    {
+      "id": "8fdbc922107a",
+      "title": "Ye Kommakakomma Song",
+      "normalizedTitle": "ye kommakakomma song",
+      "trackNumber": 6,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Ye Kommakakomma Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4624343
+    }
+  ]
+}

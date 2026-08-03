@@ -1,0 +1,135 @@
+{
+  "album": {
+    "id": "83ecc9e1efc2",
+    "name": "Nuvvu Vastavani",
+    "year": 2000,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nuvvu Vastavani.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "e9ace28ce2ec",
+      "title": "Kalalonaina",
+      "normalizedTitle": "kalalonaina",
+      "trackNumber": 1,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Kalalonaina.mp3",
+      "composer": "S.A.Rajkumar",
+      "singers": [
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5316565
+    },
+    {
+      "id": "dd71f38c1e24",
+      "title": "Komma Komma",
+      "normalizedTitle": "komma komma",
+      "trackNumber": 2,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Komma Komma.mp3",
+      "composer": "S.A.Rajkumar",
+      "singers": [
+        "K. S. Chithra",
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4673343
+    },
+    {
+      "id": "1dd09c199bed",
+      "title": "Meghamai",
+      "normalizedTitle": "meghamai",
+      "trackNumber": 3,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Meghamai.mp3",
+      "composer": "S.A.Rajkumar",
+      "singers": [
+        "Rajesh",
+        "Sujatha Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4655779
+    },
+    {
+      "id": "c6a32ba57fc8",
+      "title": "Neeva Devunive",
+      "normalizedTitle": "neeva devunive",
+      "trackNumber": 4,
+      "duration": "1:21",
+      "durationSeconds": 81,
+      "audio": "Neeva Devunive.mp3",
+      "composer": "S.A.Rajkumar",
+      "singers": [
+        "Sujatha Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1717106
+    },
+    {
+      "id": "7f2be7ff0263",
+      "title": "Patala Pallakivai (Female)",
+      "normalizedTitle": "patala pallakivai female",
+      "trackNumber": 5,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Patala Pallakivai (Female).mp3",
+      "composer": "S.A.Rajkumar",
+      "singers": [
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5198310
+    },
+    {
+      "id": "b71e58803110",
+      "title": "Patala Pallakivai (Male)",
+      "normalizedTitle": "patala pallakivai male",
+      "trackNumber": 6,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Patala Pallakivai (Male).mp3",
+      "composer": "S.A.Rajkumar",
+      "singers": [
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4869614
+    },
+    {
+      "id": "60d19cbfab74",
+      "title": "Railu Bandini",
+      "normalizedTitle": "railu bandini",
+      "trackNumber": 7,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Railu Bandini.mp3",
+      "composer": "S.A.Rajkumar",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5022345
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "eba4dc929832",
+    "name": "Tulasi",
+    "year": 2007,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Tulasi.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "0debf0189479",
+      "title": "Mia Mia Song",
+      "normalizedTitle": "mia mia song",
+      "trackNumber": 1,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Mia Mia Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Naveen",
+        "Mamta Mohandas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4376093
+    },
+    {
+      "id": "64729cda2592",
+      "title": "Ne Chuk Chuk Bandini Song",
+      "normalizedTitle": "ne chuk chuk bandini song",
+      "trackNumber": 2,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Ne Chuk Chuk Bandini Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad",
+        "Malgudi Subha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4982586
+    },
+    {
+      "id": "fa80a49d3833",
+      "title": "Nee Kallathoti Song",
+      "normalizedTitle": "nee kallathoti song",
+      "trackNumber": 3,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Nee Kallathoti Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3798476
+    },
+    {
+      "id": "dbf07e9f57aa",
+      "title": "Tula Tula Thulasi Song",
+      "normalizedTitle": "tula tula thulasi song",
+      "trackNumber": 4,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Tula Tula Thulasi Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Tippu",
+        "Priya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4451744
+    },
+    {
+      "id": "9fe3f09ac4bc",
+      "title": "Vennelintha Song",
+      "normalizedTitle": "vennelintha song",
+      "trackNumber": 5,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Vennelintha Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Venu",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4130323
+    }
+  ]
+}

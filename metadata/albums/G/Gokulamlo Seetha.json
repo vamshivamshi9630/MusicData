@@ -1,0 +1,140 @@
+{
+  "album": {
+    "id": "f67eb3387987",
+    "name": "Gokulamlo Seetha",
+    "year": 1997,
+    "musicDirector": "Koti",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gokulamlo Seetha.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "64fc0ba9726f",
+      "title": "Andala Seemalo",
+      "normalizedTitle": "andala seemalo",
+      "trackNumber": 1,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Andala Seemalo.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Venkatesh",
+        "Raasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4386934
+    },
+    {
+      "id": "05cce09edb60",
+      "title": "Gokula Krshna",
+      "normalizedTitle": "gokula krshna",
+      "trackNumber": 2,
+      "duration": "5:19",
+      "durationSeconds": 319,
+      "audio": "Gokula Krshna.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Venkatesh",
+        "Raasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5217417
+    },
+    {
+      "id": "a6c7223085b4",
+      "title": "He Papa Papa",
+      "normalizedTitle": "he papa papa",
+      "trackNumber": 3,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "He Papa Papa.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Venkatesh",
+        "Raasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5034768
+    },
+    {
+      "id": "1a187ea55239",
+      "title": "Manasunna Kanulunte",
+      "normalizedTitle": "manasunna kanulunte",
+      "trackNumber": 4,
+      "duration": "5:24",
+      "durationSeconds": 324,
+      "audio": "Manasunna Kanulunte.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Venkatesh",
+        "Raasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5287228
+    },
+    {
+      "id": "eb2d78c4ffa1",
+      "title": "Ooh Andi Pilla",
+      "normalizedTitle": "ooh andi pilla",
+      "trackNumber": 5,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Ooh Andi Pilla.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Venkatesh",
+        "Raasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4487658
+    },
+    {
+      "id": "b3e969bc4e50",
+      "title": "Podde Erugani",
+      "normalizedTitle": "podde erugani",
+      "trackNumber": 6,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Podde Erugani.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Venkatesh",
+        "Raasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4415890
+    },
+    {
+      "id": "a4dec4c1aef8",
+      "title": "Prema Oh Prema",
+      "normalizedTitle": "prema oh prema",
+      "trackNumber": 7,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Prema Oh Prema.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Venkatesh",
+        "Raasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4418798
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "album": {
+    "id": "fbbd3295fcc0",
+    "name": "Hit3",
+    "year": 2025,
+    "musicDirector": "Mickey J. Meyer",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Hit3.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "26c5ecd8950e",
+      "title": "Abki Baar Arjun Sarkaar Song",
+      "normalizedTitle": "abki baar arjun sarkaar song",
+      "trackNumber": 1,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Abki Baar Arjun Sarkaar Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 129278,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4162284
+    },
+    {
+      "id": "edbe16ca7b02",
+      "title": "Poratame Song",
+      "normalizedTitle": "poratame song",
+      "trackNumber": 2,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Poratame Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Karthik",
+        "Sanvi Sudeep"
+      ],
+      "bitrate": 126970,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3064784
+    },
+    {
+      "id": "22e8b0138a9b",
+      "title": "Prema Velluva Song",
+      "normalizedTitle": "prema velluva song",
+      "trackNumber": 3,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Prema Velluva Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Sid Sriram",
+        "Nutana Mohan"
+      ],
+      "bitrate": 127975,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4207584
+    },
+    {
+      "id": "590112919559",
+      "title": "Thanu Song",
+      "normalizedTitle": "thanu song",
+      "trackNumber": 4,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Thanu Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 126073,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4182178
+    }
+  ]
+}

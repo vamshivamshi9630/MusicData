@@ -1,0 +1,66 @@
+{
+  "album": {
+    "id": "5b62c478f4ed",
+    "name": "Falaknuma Das",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Falaknuma Das.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "4d2d1b68087c",
+      "title": "Arerey Manasa Song",
+      "normalizedTitle": "arerey manasa song",
+      "trackNumber": 1,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Arerey Manasa Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5080004
+    },
+    {
+      "id": "f7193cceef35",
+      "title": "Dasu Bindasu Song",
+      "normalizedTitle": "dasu bindasu song",
+      "trackNumber": 2,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Dasu Bindasu Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Kailash Kher"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4764672
+    },
+    {
+      "id": "ec0cb01c39b4",
+      "title": "Paye Paye Song",
+      "normalizedTitle": "paye paye song",
+      "trackNumber": 3,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Paye Paye Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Rahul Siplijung",
+        "Shiva Nagulu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4713628
+    }
+  ]
+}

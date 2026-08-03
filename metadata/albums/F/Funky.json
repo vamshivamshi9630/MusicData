@@ -1,0 +1,66 @@
+{
+  "album": {
+    "id": "7f912abfefac",
+    "name": "Funky",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Funky.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "14cb1b453d74",
+      "title": "Dheere Dheere Song",
+      "normalizedTitle": "dheere dheere song",
+      "trackNumber": 1,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Dheere Dheere Song.mp3",
+      "composer": "Bhems Ceciroleo",
+      "singers": [
+        "Sanjith Hegde"
+      ],
+      "bitrate": 129083,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4797870
+    },
+    {
+      "id": "294f8040b121",
+      "title": "Rattatataav Song",
+      "normalizedTitle": "rattatataav song",
+      "trackNumber": 2,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Rattatataav Song.mp3",
+      "composer": "Bhems Ceciroleo",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 124515,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3987267
+    },
+    {
+      "id": "735ab272903a",
+      "title": "Yama Yamma Song",
+      "normalizedTitle": "yama yamma song",
+      "trackNumber": 3,
+      "duration": "2:49",
+      "durationSeconds": 169,
+      "audio": "Yama Yamma Song.mp3",
+      "composer": "Bhems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo",
+        "Rohini Sorrat"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3047801
+    }
+  ]
+}

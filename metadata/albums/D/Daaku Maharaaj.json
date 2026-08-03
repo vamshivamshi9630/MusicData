@@ -1,0 +1,87 @@
+{
+  "album": {
+    "id": "8b25ee5ba592",
+    "name": "Daaku Maharaaj",
+    "year": 2025,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Daaku Maharaaj.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "e6831bf1af0c",
+      "title": "Chinni Song",
+      "normalizedTitle": "chinni song",
+      "trackNumber": 1,
+      "duration": "3:40",
+      "durationSeconds": 220,
+      "audio": "Chinni Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Vishal Mishra"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9110144
+    },
+    {
+      "id": "62c07275a90a",
+      "title": "Dabidi Dibidi Song",
+      "normalizedTitle": "dabidi dibidi song",
+      "trackNumber": 2,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Dabidi Dibidi Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S",
+        "Vagdevi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4488402
+    },
+    {
+      "id": "4ab4f7b41011",
+      "title": "Sukka Neere Song",
+      "normalizedTitle": "sukka neere song",
+      "trackNumber": 3,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Sukka Neere Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S",
+        "S Riya Seepana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4832383
+    },
+    {
+      "id": "10161acfdb9d",
+      "title": "The Rage of Daaku Song",
+      "normalizedTitle": "the rage of daaku song",
+      "trackNumber": 4,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "The Rage of Daaku Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Bharath Raj",
+        "Nakash Aziz",
+        "Ritesh G Rao",
+        "K. Pranati"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4428216
+    }
+  ]
+}

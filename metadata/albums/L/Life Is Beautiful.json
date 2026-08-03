@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "6536bba976b1",
+    "name": "Life Is Beautiful",
+    "year": 2012,
+    "musicDirector": "Mickey J. Meyer",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Life Is Beautiful.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "320b14b7064a",
+      "title": "Amma Ani Kothaga Song",
+      "normalizedTitle": "amma ani kothaga song",
+      "trackNumber": 1,
+      "duration": "5:49",
+      "durationSeconds": 349,
+      "audio": "Amma Ani Kothaga Song.mp3",
+      "composer": "Music : Mickey J Meyer | Lyrics : Vanamali",
+      "singers": [
+        "Sashi Kiran",
+        "Sravana Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5680910
+    },
+    {
+      "id": "4c0052484341",
+      "title": "Atu Itu Ooguthu Song",
+      "normalizedTitle": "atu itu ooguthu song",
+      "trackNumber": 2,
+      "duration": "5:31",
+      "durationSeconds": 331,
+      "audio": "Atu Itu Ooguthu Song.mp3",
+      "composer": "Music : Mickey J Meyer | Lyrics : Anantha Sriram",
+      "singers": [
+        "Sri Ramachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5389157
+    },
+    {
+      "id": "46c43c7c1b35",
+      "title": "Beautiful Girl Song",
+      "normalizedTitle": "beautiful girl song",
+      "trackNumber": 3,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Beautiful Girl Song.mp3",
+      "composer": "Music : Mickey J Meyer | Lyrics : Vanamali",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4660206
+    },
+    {
+      "id": "5ca080026e78",
+      "title": "Its Your Love Song",
+      "normalizedTitle": "its your love song",
+      "trackNumber": 4,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Its Your Love Song.mp3",
+      "composer": "Music : Mickey J Meyer | Lyrics : Anantha Sriram",
+      "singers": [
+        "Naresh Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5077765
+    },
+    {
+      "id": "1758bc2e5550",
+      "title": "Life is Beautiful Pop Song",
+      "normalizedTitle": "life is beautiful pop song",
+      "trackNumber": 5,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Life is Beautiful Pop Song.mp3",
+      "composer": "Music : Mickey J Meyer | Lyrics : Anantha Sriram",
+      "singers": [
+        "Sri Ramachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5418008
+    },
+    {
+      "id": "5384f08bd436",
+      "title": "Life is Beautiful Song",
+      "normalizedTitle": "life is beautiful song",
+      "trackNumber": 6,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Life is Beautiful Song.mp3",
+      "composer": "Music : Mickey J Meyer | Lyrics : Anantha Sriram",
+      "singers": [
+        "Kk"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5244939
+    }
+  ]
+}

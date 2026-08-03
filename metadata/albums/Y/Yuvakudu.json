@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "2d856ee625f9",
+    "name": "Yuvakudu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Yuvakudu.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "ebbb27a64267",
+      "title": "Chitikeste Alalaina",
+      "normalizedTitle": "chitikeste alalaina",
+      "trackNumber": 1,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Chitikeste Alalaina.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3828606
+    },
+    {
+      "id": "7b44015bd3a5",
+      "title": "Jagada Jagada",
+      "normalizedTitle": "jagada jagada",
+      "trackNumber": 2,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Jagada Jagada.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4272884
+    },
+    {
+      "id": "b467494bf3a8",
+      "title": "Maikam Kadidi",
+      "normalizedTitle": "maikam kadidi",
+      "trackNumber": 3,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Maikam Kadidi.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4538288
+    },
+    {
+      "id": "ff80ccf7dc82",
+      "title": "Naa Paadam Aagena",
+      "normalizedTitle": "naa paadam aagena",
+      "trackNumber": 4,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Naa Paadam Aagena.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4812060
+    },
+    {
+      "id": "676128a6fac8",
+      "title": "Takatayya Jathulayya",
+      "normalizedTitle": "takatayya jathulayya",
+      "trackNumber": 5,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Takatayya Jathulayya.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3956085
+    }
+  ]
+}

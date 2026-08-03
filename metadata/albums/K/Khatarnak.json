@@ -1,0 +1,123 @@
+{
+  "album": {
+    "id": "5b8003bbef9d",
+    "name": "Khatarnak",
+    "year": 2006,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Khatarnak.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c01062f86945",
+      "title": "Aa Gaganamlona.Mp",
+      "normalizedTitle": "aa gaganamlonamp",
+      "trackNumber": 1,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Aa Gaganamlona.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Geetha Madhuri",
+        "Nani",
+        "Noel"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5055574
+    },
+    {
+      "id": "f1caeff71eef",
+      "title": "Buji Bujji Papa.Mp",
+      "normalizedTitle": "buji bujji papamp",
+      "trackNumber": 2,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Buji Bujji Papa.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shankar Mahadevan",
+        "R. Gayatri",
+        "Noel"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3844804
+    },
+    {
+      "id": "8f4edc462c60",
+      "title": "Dom Kudithe.Mp",
+      "normalizedTitle": "dom kudithemp",
+      "trackNumber": 3,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Dom Kudithe.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shankar Mahadevan",
+        "Chitra Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4811104
+    },
+    {
+      "id": "7df0a4cc90fd",
+      "title": "Lovvu Chese .Mp",
+      "normalizedTitle": "lovvu chese mp",
+      "trackNumber": 4,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Lovvu Chese .Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Venu",
+        "Ulaganathan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4548613
+    },
+    {
+      "id": "f728ddcc2bb5",
+      "title": "Maatante Maatera.Mp",
+      "normalizedTitle": "maatante maateramp",
+      "trackNumber": 5,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Maatante Maatera.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3852275
+    },
+    {
+      "id": "597273d46322",
+      "title": "Vestava.Mp",
+      "normalizedTitle": "vestavamp",
+      "trackNumber": 6,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Vestava.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shankar Mahadevan",
+        "Chitra Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4462084
+    }
+  ]
+}

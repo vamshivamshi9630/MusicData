@@ -1,0 +1,171 @@
+{
+  "album": {
+    "id": "3a6662dc510c",
+    "name": "Aarya2",
+    "year": 2009,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aarya2.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "e7ed79cc6363",
+      "title": "Baby He Loves You",
+      "normalizedTitle": "baby he loves you",
+      "trackNumber": 1,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Baby He Loves You.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5260199
+    },
+    {
+      "id": "ce895eb73674",
+      "title": "Karige Loga (D-Plugged)",
+      "normalizedTitle": "karige loga dplugged",
+      "trackNumber": 2,
+      "duration": "2:54",
+      "durationSeconds": 174,
+      "audio": "Karige Loga (D-Plugged).mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2905827
+    },
+    {
+      "id": "39465817f67e",
+      "title": "Karige Loga",
+      "normalizedTitle": "karige loga",
+      "trackNumber": 3,
+      "duration": "6:03",
+      "durationSeconds": 363,
+      "audio": "Karige Loga.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kunal Ganjawala",
+        "Megha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5929353
+    },
+    {
+      "id": "4946094185c9",
+      "title": "Mr",
+      "normalizedTitle": "mr",
+      "trackNumber": 4,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Mr.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Baba Sehgal",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4548022
+    },
+    {
+      "id": "50dddcb6086e",
+      "title": "Mr.Perfect (DSP Mix)",
+      "normalizedTitle": "mrperfect dsp mix",
+      "trackNumber": 5,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Mr.Perfect (DSP Mix).mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Baba Sehgal",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4216980
+    },
+    {
+      "id": "18278a0f85b1",
+      "title": "Mr.Perfect",
+      "normalizedTitle": "mrperfect",
+      "trackNumber": 6,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Mr.Perfect.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Baba Sehgal",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4548022
+    },
+    {
+      "id": "66c7e87c0116",
+      "title": "My Love Is Gone",
+      "normalizedTitle": "my love is gone",
+      "trackNumber": 7,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "My Love Is Gone.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4734386
+    },
+    {
+      "id": "204e7174bf4a",
+      "title": "Ring Ringa",
+      "normalizedTitle": "ring ringa",
+      "trackNumber": 8,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Ring Ringa.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Priya Hemesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5454114
+    },
+    {
+      "id": "04f829baf6d3",
+      "title": "Uppenantha",
+      "normalizedTitle": "uppenantha",
+      "trackNumber": 9,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Uppenantha.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "K.K"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5352950
+    }
+  ]
+}

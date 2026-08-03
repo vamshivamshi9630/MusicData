@@ -1,0 +1,140 @@
+{
+  "album": {
+    "id": "f85b43067a28",
+    "name": "Lovely",
+    "year": 2012,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "1fc8d8120b50",
+      "title": "Chori Choriye Song",
+      "normalizedTitle": "chori choriye song",
+      "trackNumber": 1,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Chori Choriye Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Anantha Sriram",
+      "singers": [
+        "Vijay Prakash",
+        "Anjana Sowmya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4243453
+    },
+    {
+      "id": "af60366f1483",
+      "title": "Dolare Dolare Song",
+      "normalizedTitle": "dolare dolare song",
+      "trackNumber": 2,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Dolare Dolare Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Benny Dayal",
+        "Bhargavi",
+        "Noel"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4546480
+    },
+    {
+      "id": "2d456a750398",
+      "title": "Evo Evevo Song",
+      "normalizedTitle": "evo evevo song",
+      "trackNumber": 3,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Evo Evevo Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Sirasri",
+      "singers": [
+        "Chaitra",
+        "Anup Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4044049
+    },
+    {
+      "id": "cb122826f9b9",
+      "title": "I Dont Know Song",
+      "normalizedTitle": "i dont know song",
+      "trackNumber": 4,
+      "duration": "2:15",
+      "durationSeconds": 135,
+      "audio": "I Dont Know Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Anup Rubens",
+      "singers": [
+        "Chaitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2234271
+    },
+    {
+      "id": "01ef938a414b",
+      "title": "Lovely Lovely Song",
+      "normalizedTitle": "lovely lovely song",
+      "trackNumber": 5,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Lovely Lovely Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Kandikonda",
+      "singers": [
+        "Ranjith",
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3927030
+    },
+    {
+      "id": "58d448a8b827",
+      "title": "Nenunnadi Song",
+      "normalizedTitle": "nenunnadi song",
+      "trackNumber": 6,
+      "duration": "1:23",
+      "durationSeconds": 83,
+      "audio": "Nenunnadi Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Anantha Sriram",
+      "singers": [
+        "Anup Rubens",
+        "Dhanunjay"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1416775
+    },
+    {
+      "id": "9e971711b190",
+      "title": "Ninnu Chusina Song",
+      "normalizedTitle": "ninnu chusina song",
+      "trackNumber": 7,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Ninnu Chusina Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Anantha Sriram",
+      "singers": [
+        "Anup Rubens",
+        "Aishwarya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4309061
+    }
+  ]
+}

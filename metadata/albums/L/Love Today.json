@@ -1,0 +1,65 @@
+{
+  "album": {
+    "id": "17118271ab34",
+    "name": "Love Today",
+    "year": 2022,
+    "musicDirector": "Yuvan Shankar Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Love Today.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "dc5792bd201e",
+      "title": "Bangu Aaku Thechi Song",
+      "normalizedTitle": "bangu aaku thechi song",
+      "trackNumber": 1,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Bangu Aaku Thechi Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Yogi Sekar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3435304
+    },
+    {
+      "id": "edf2715effd3",
+      "title": "Pilla Padesaave Song",
+      "normalizedTitle": "pilla padesaave song",
+      "trackNumber": 2,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Pilla Padesaave Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3853677
+    },
+    {
+      "id": "2dabc156f2f7",
+      "title": "Pranam Pothunna Song",
+      "normalizedTitle": "pranam pothunna song",
+      "trackNumber": 3,
+      "duration": "3:51",
+      "durationSeconds": 231,
+      "audio": "Pranam Pothunna Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Yuvan Shankar Raja"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3771757
+    }
+  ]
+}

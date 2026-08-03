@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "16bb1ecec743",
+    "name": "Vishwanath And Sons",
+    "year": 2025,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Vishwanath And Sons.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "f72c1d3002b9",
+      "title": "Neno Butterfly Song",
+      "normalizedTitle": "neno butterfly song",
+      "trackNumber": 1,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Neno Butterfly Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Sublahshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4057721
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "album": {
+    "id": "4fec9021d636",
+    "name": "Game Changer",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Game Changer.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "2cb24743c1c8",
+      "title": "Arugu Meedha Song",
+      "normalizedTitle": "arugu meedha song",
+      "trackNumber": 1,
+      "duration": "5:42",
+      "durationSeconds": 342,
+      "audio": "Arugu Meedha Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Roshini",
+        "JKV"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 14071360
+    },
+    {
+      "id": "fc772a68455a",
+      "title": "Dhop Song",
+      "normalizedTitle": "dhop song",
+      "trackNumber": 2,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Dhop Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "SS Thaman",
+        "Roshini",
+        "JKV",
+        "Prudhvi Sruthi Ranjani"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 11924800
+    },
+    {
+      "id": "8f3b80e19b64",
+      "title": "Jaragandi Song",
+      "normalizedTitle": "jaragandi song",
+      "trackNumber": 3,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Jaragandi Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Daler Mehndi & Sunidhi Chauhan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4445624
+    },
+    {
+      "id": "42d04c55abdc",
+      "title": "Konda Devara Song",
+      "normalizedTitle": "konda devara song",
+      "trackNumber": 4,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Konda Devara Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sravana Bhargavi",
+        "Kasarla Shyam"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7024960
+    },
+    {
+      "id": "4be04952717d",
+      "title": "Koparap Song",
+      "normalizedTitle": "koparap song",
+      "trackNumber": 5,
+      "duration": "2:35",
+      "durationSeconds": 155,
+      "audio": "Koparap Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Roll Rida"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6599680
+    },
+    {
+      "id": "7bd413ca4706",
+      "title": "Naanaa Hyraanaa Song",
+      "normalizedTitle": "naanaa hyraanaa song",
+      "trackNumber": 6,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Naanaa Hyraanaa Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Karthik",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4673161
+    },
+    {
+      "id": "5dc67a939f9e",
+      "title": "Raa Macha Macha Song (Full) Song",
+      "normalizedTitle": "raa macha macha song full song",
+      "trackNumber": 7,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Raa Macha Macha Song (Full) Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Nakash Aziz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4630738
+    },
+    {
+      "id": "ffdc879e6b7d",
+      "title": "Unpredictable Song",
+      "normalizedTitle": "unpredictable song",
+      "trackNumber": 8,
+      "duration": "2:51",
+      "durationSeconds": 171,
+      "audio": "Unpredictable Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S & Blazze"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7244029
+    }
+  ]
+}

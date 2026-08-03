@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "194b8b2cee48",
+    "name": "Idi Maa Prema Katha",
+    "year": 2017,
+    "musicDirector": "Karthik Kodakandla",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Idi Maa Prema Katha.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "7765a04f92ef",
+      "title": "Andham Dhaagina Song",
+      "normalizedTitle": "andham dhaagina song",
+      "trackNumber": 1,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Andham Dhaagina Song.mp3",
+      "composer": "Karthik Kodakandla",
+      "singers": [
+        "Karthik Kodakandla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3824588
+    },
+    {
+      "id": "e5ed32f5d2a4",
+      "title": "Emaindho Anukuntu Song",
+      "normalizedTitle": "emaindho anukuntu song",
+      "trackNumber": 2,
+      "duration": "1:52",
+      "durationSeconds": 112,
+      "audio": "Emaindho Anukuntu Song.mp3",
+      "composer": "Karthik Kodakandla",
+      "singers": [
+        "Swathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1954221
+    },
+    {
+      "id": "8ceee50c75fc",
+      "title": "Kannulu Terichina Manasuna Song",
+      "normalizedTitle": "kannulu terichina manasuna song",
+      "trackNumber": 3,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Kannulu Terichina Manasuna Song.mp3",
+      "composer": "Karthik Kodakandla",
+      "singers": [
+        "Karuna",
+        "Anjana Sowmya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4548076
+    },
+    {
+      "id": "be860fcce4e6",
+      "title": "Natho Mata Cheppaka Song",
+      "normalizedTitle": "natho mata cheppaka song",
+      "trackNumber": 4,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Natho Mata Cheppaka Song.mp3",
+      "composer": "Karthik Kodakandla",
+      "singers": [
+        "Sai Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4218724
+    },
+    {
+      "id": "9efdd2548896",
+      "title": "Nuvvika Ravani (Female) Song",
+      "normalizedTitle": "nuvvika ravani female song",
+      "trackNumber": 5,
+      "duration": "1:23",
+      "durationSeconds": 83,
+      "audio": "Nuvvika Ravani (Female) Song.mp3",
+      "composer": "Karthik Kodakandla",
+      "singers": [
+        "Pranavi Acharya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1478583
+    },
+    {
+      "id": "82520f26fbba",
+      "title": "Nuvvika Ravani (Male) Song",
+      "normalizedTitle": "nuvvika ravani male song",
+      "trackNumber": 6,
+      "duration": "7:02",
+      "durationSeconds": 422,
+      "audio": "Nuvvika Ravani (Male) Song.mp3",
+      "composer": "Karthik Kodakandla",
+      "singers": [
+        "Vedala Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6905783
+    }
+  ]
+}

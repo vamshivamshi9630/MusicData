@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "636f4bc452b3",
+    "name": "Annavaram",
+    "year": 2006,
+    "musicDirector": "Ramana Gogula",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Annavaram.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "f1f019bfd87a",
+      "title": "Annayya Annavante.Mp",
+      "normalizedTitle": "annayya annavantemp",
+      "trackNumber": 1,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Annayya Annavante.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Asin"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4724267
+    },
+    {
+      "id": "27daac4e0f7a",
+      "title": "Lucia.Mp",
+      "normalizedTitle": "luciamp",
+      "trackNumber": 2,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Lucia.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Asin"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3745993
+    },
+    {
+      "id": "73afeb83ad7a",
+      "title": "Mehabooba.Mp",
+      "normalizedTitle": "mehaboobamp",
+      "trackNumber": 3,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Mehabooba.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Asin"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3429590
+    },
+    {
+      "id": "1d8bbed401e5",
+      "title": "Neevalle Neevalle.Mp",
+      "normalizedTitle": "neevalle neevallemp",
+      "trackNumber": 4,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Neevalle Neevalle.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Asin"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4258667
+    },
+    {
+      "id": "5c4e1a19177e",
+      "title": "Raakshasa Rajyam.Mp",
+      "normalizedTitle": "raakshasa rajyammp",
+      "trackNumber": 5,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Raakshasa Rajyam.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Asin"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3980326
+    }
+  ]
+}

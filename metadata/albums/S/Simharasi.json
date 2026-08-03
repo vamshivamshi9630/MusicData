@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "64acc115aae0",
+    "name": "Simharasi",
+    "year": 2001,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Simharasi.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "b6abe2e09f7a",
+      "title": "Amma Ane Pilichi Song",
+      "normalizedTitle": "amma ane pilichi song",
+      "trackNumber": 1,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Amma Ane Pilichi Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "S. Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4701476
+    },
+    {
+      "id": "dfe201dc65bf",
+      "title": "Pedalante Song",
+      "normalizedTitle": "pedalante song",
+      "trackNumber": 2,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Pedalante Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "S. P. Balasubrahmanyam",
+        "Sujatha Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4327807
+    },
+    {
+      "id": "091a0f9844b5",
+      "title": "Rani Rani Song",
+      "normalizedTitle": "rani rani song",
+      "trackNumber": 3,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Rani Rani Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "S. P. Balasubrahmanyam",
+        "Swarnalatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4869482
+    },
+    {
+      "id": "0cde299b124d",
+      "title": "Satyabhama Song",
+      "normalizedTitle": "satyabhama song",
+      "trackNumber": 4,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Satyabhama Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Udit Narayan",
+        "Sujatha Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4731139
+    },
+    {
+      "id": "557264665cd8",
+      "title": "Telusa Nesthama Song",
+      "normalizedTitle": "telusa nesthama song",
+      "trackNumber": 5,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Telusa Nesthama Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Hariharan",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5198846
+    }
+  ]
+}

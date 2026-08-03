@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "8e3e70b583d2",
+    "name": "Dhee",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Dhee.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "4f35dd18c60c",
+      "title": "Em Maayo Maayo Song",
+      "normalizedTitle": "em maayo maayo song",
+      "trackNumber": 1,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Em Maayo Maayo Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5024377
+    },
+    {
+      "id": "d506ae2ef621",
+      "title": "Jathara Song",
+      "normalizedTitle": "jathara song",
+      "trackNumber": 2,
+      "duration": "3:31",
+      "durationSeconds": 211,
+      "audio": "Jathara Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3409787
+    },
+    {
+      "id": "2d4f51b391b4",
+      "title": "Kanupapa Edhi Song",
+      "normalizedTitle": "kanupapa edhi song",
+      "trackNumber": 3,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Kanupapa Edhi Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4695037
+    },
+    {
+      "id": "e76e36615b76",
+      "title": "Kikku Ledura Song",
+      "normalizedTitle": "kikku ledura song",
+      "trackNumber": 4,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Kikku Ledura Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4241117
+    },
+    {
+      "id": "aa4ff5eb8319",
+      "title": "Kocham Koncham Song",
+      "normalizedTitle": "kocham koncham song",
+      "trackNumber": 5,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Kocham Koncham Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5171081
+    },
+    {
+      "id": "f197cbec334a",
+      "title": "Mirchi Mirchi Song",
+      "normalizedTitle": "mirchi mirchi song",
+      "trackNumber": 6,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Mirchi Mirchi Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4416662
+    },
+    {
+      "id": "4a6c76962901",
+      "title": "Thodasa Aalasam Song",
+      "normalizedTitle": "thodasa aalasam song",
+      "trackNumber": 7,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Thodasa Aalasam Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4442162
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "109e6c068a9c",
+    "name": "Andhrudu",
+    "year": 2005,
+    "musicDirector": "Kalyani Malik",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Andhrudu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "baf783c718de",
+      "title": "Gundello Yemundo",
+      "normalizedTitle": "gundello yemundo",
+      "trackNumber": 1,
+      "duration": "5:31",
+      "durationSeconds": 331,
+      "audio": "Gundello Yemundo.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Ranjith",
+        "Sahithi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5407378
+    },
+    {
+      "id": "833116c19481",
+      "title": "Kokilamma",
+      "normalizedTitle": "kokilamma",
+      "trackNumber": 2,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Kokilamma.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3934452
+    },
+    {
+      "id": "f1ad07260184",
+      "title": "Osari Preminchaka",
+      "normalizedTitle": "osari preminchaka",
+      "trackNumber": 3,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Osari Preminchaka.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "KK"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3738859
+    },
+    {
+      "id": "5defc3ee1fca",
+      "title": "Pari Ayee Parades",
+      "normalizedTitle": "pari ayee parades",
+      "trackNumber": 4,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Pari Ayee Parades.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Mathangi",
+        "Kalyan Mallik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4522154
+    },
+    {
+      "id": "a3e3b6c4db98",
+      "title": "Pranamlo Pranamga",
+      "normalizedTitle": "pranamlo pranamga",
+      "trackNumber": 5,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Pranamlo Pranamga.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4756175
+    },
+    {
+      "id": "0ee4ec999319",
+      "title": "Purushuni Kosam",
+      "normalizedTitle": "purushuni kosam",
+      "trackNumber": 6,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Purushuni Kosam.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Mathangi",
+        "Kalyan Mallik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4663400
+    }
+  ]
+}

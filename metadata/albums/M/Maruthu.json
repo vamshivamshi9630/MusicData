@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "02c832e1a58e",
+    "name": "Maruthu",
+    "year": 2016,
+    "musicDirector": "D. Imman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Maruthu.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "8f39495b5eee",
+      "title": "Akka Petha Jakkavandi Song",
+      "normalizedTitle": "akka petha jakkavandi song",
+      "trackNumber": 1,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Akka Petha Jakkavandi Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4375980
+    },
+    {
+      "id": "c6e0d0acfba8",
+      "title": "Karuvakatya Karuvya Song",
+      "normalizedTitle": "karuvakatya karuvya song",
+      "trackNumber": 2,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Karuvakatya Karuvya Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5133342
+    },
+    {
+      "id": "63aefe719c4f",
+      "title": "Maruthu Theme Song",
+      "normalizedTitle": "maruthu theme song",
+      "trackNumber": 3,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Maruthu Theme Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3738886
+    },
+    {
+      "id": "6efb69f0320d",
+      "title": "Othasada Rosa Song",
+      "normalizedTitle": "othasada rosa song",
+      "trackNumber": 4,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Othasada Rosa Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4964358
+    },
+    {
+      "id": "392087bf441b",
+      "title": "Sooravalida Song",
+      "normalizedTitle": "sooravalida song",
+      "trackNumber": 5,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Sooravalida Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5361383
+    }
+  ]
+}

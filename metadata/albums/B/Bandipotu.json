@@ -1,0 +1,138 @@
+{
+  "album": {
+    "id": "5f475765ba31",
+    "name": "Bandipotu",
+    "year": 2015,
+    "musicDirector": "Kalyan Koduri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bandipotu.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "c4cbb846de1c",
+      "title": "Anta Nee Kosam Song",
+      "normalizedTitle": "anta nee kosam song",
+      "trackNumber": 1,
+      "duration": "3:03",
+      "durationSeconds": 183,
+      "audio": "Anta Nee Kosam Song.mp3",
+      "composer": "Kalyan Koduri",
+      "singers": [
+        "Ghantasala",
+        "P.Susheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3051197
+    },
+    {
+      "id": "7c6cf33beb60",
+      "title": "Malliyallo Song",
+      "normalizedTitle": "malliyallo song",
+      "trackNumber": 2,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Malliyallo Song.mp3",
+      "composer": "Kalyan Koduri",
+      "singers": [
+        "Ghantasala",
+        "P.Susheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3841412
+    },
+    {
+      "id": "a553e989f8b8",
+      "title": "Manchitanamu Song",
+      "normalizedTitle": "manchitanamu song",
+      "trackNumber": 3,
+      "duration": "5:34",
+      "durationSeconds": 334,
+      "audio": "Manchitanamu Song.mp3",
+      "composer": "Kalyan Koduri",
+      "singers": [
+        "Ghantasala",
+        "P.Susheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5453951
+    },
+    {
+      "id": "70039eb1dfb9",
+      "title": "O Ante Teluyani Song",
+      "normalizedTitle": "o ante teluyani song",
+      "trackNumber": 4,
+      "duration": "5:49",
+      "durationSeconds": 349,
+      "audio": "O Ante Teluyani Song.mp3",
+      "composer": "Kalyan Koduri",
+      "singers": [
+        "Ghantasala",
+        "P.Susheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5693309
+    },
+    {
+      "id": "844441a62283",
+      "title": "Oohalu Gusa Gusa Song",
+      "normalizedTitle": "oohalu gusa gusa song",
+      "trackNumber": 5,
+      "duration": "3:45",
+      "durationSeconds": 225,
+      "audio": "Oohalu Gusa Gusa Song.mp3",
+      "composer": "Kalyan Koduri",
+      "singers": [
+        "Ghantasala",
+        "P.Susheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 1,
+      "fileSize": 3718080
+    },
+    {
+      "id": "2985cc55c110",
+      "title": "Vagala Ranivi Song",
+      "normalizedTitle": "vagala ranivi song",
+      "trackNumber": 6,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Vagala Ranivi Song.mp3",
+      "composer": "Kalyan Koduri",
+      "singers": [
+        "Ghantasala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 1,
+      "fileSize": 3581621
+    },
+    {
+      "id": "70da1c4cc58d",
+      "title": "Vayasunnadi Song",
+      "normalizedTitle": "vayasunnadi song",
+      "trackNumber": 7,
+      "duration": "3:01",
+      "durationSeconds": 181,
+      "audio": "Vayasunnadi Song.mp3",
+      "composer": "Kalyan Koduri",
+      "singers": [
+        "S.Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3008663
+    }
+  ]
+}

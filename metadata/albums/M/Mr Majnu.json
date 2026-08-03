@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "bf9e29ef17b8",
+    "name": "Mr Majnu",
+    "year": 2019,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mr Majnu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "b64edc19a3fa",
+      "title": "Chiru Chiru Navvula Songs- Tushar Joshi, Koti Saluri, Ramya Behra128 Kbps Song",
+      "normalizedTitle": "chiru chiru navvula songs tushar joshi koti saluri ramya behra128 kbps song",
+      "trackNumber": 1,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Chiru Chiru Navvula Songs- Tushar Joshi, Koti Saluri, Ramya Behra128 Kbps Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Tushar Joshi",
+        "Koti Saluri",
+        "Ramya Behra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5041152
+    },
+    {
+      "id": "0d58818d8bf0",
+      "title": "Hey Nenila Song",
+      "normalizedTitle": "hey nenila song",
+      "trackNumber": 2,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Hey Nenila Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Sruthi Ranjani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4256640
+    },
+    {
+      "id": "f03a387b7f35",
+      "title": "Koppamga Kopamga Song",
+      "normalizedTitle": "koppamga kopamga song",
+      "trackNumber": 3,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Koppamga Kopamga Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Armaan Malik",
+        "S S Thaman"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4704768
+    },
+    {
+      "id": "fc57425c658c",
+      "title": "Mr Majnu Title Song",
+      "normalizedTitle": "mr majnu title song",
+      "trackNumber": 4,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Mr Majnu Title Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Ramya NSK",
+        "S S Thaman"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4035245
+    },
+    {
+      "id": "67c8ac874322",
+      "title": "Naalo Neeku Song",
+      "normalizedTitle": "naalo neeku song",
+      "trackNumber": 5,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Naalo Neeku Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Shreya Ghosal",
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4496917
+    },
+    {
+      "id": "f06e52c92050",
+      "title": "Yemainado Song",
+      "normalizedTitle": "yemainado song",
+      "trackNumber": 6,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Yemainado Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3466974
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "album": {
+    "id": "e73b48f750be",
+    "name": "Eagle",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Eagle.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "1f5835ffa909",
+      "title": "Aadu Macha Song",
+      "normalizedTitle": "aadu macha song",
+      "trackNumber": 1,
+      "duration": "3:31",
+      "durationSeconds": 211,
+      "audio": "Aadu Macha Song.mp3",
+      "composer": "Davzand",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3429273
+    },
+    {
+      "id": "a581b53d56f1",
+      "title": "Gallanthe Song",
+      "normalizedTitle": "gallanthe song",
+      "trackNumber": 2,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Gallanthe Song.mp3",
+      "composer": "Davzand",
+      "singers": [
+        "Kapil Kapilan",
+        "Lynn"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3642014
+    },
+    {
+      "id": "ab70728ef2aa",
+      "title": "Garudam Song",
+      "normalizedTitle": "garudam song",
+      "trackNumber": 3,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Garudam Song.mp3",
+      "composer": "Davzand",
+      "singers": [
+        "Srikrishna & Team"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3703600
+    },
+    {
+      "id": "6789a8625c11",
+      "title": "Hey Garuda Song",
+      "normalizedTitle": "hey garuda song",
+      "trackNumber": 4,
+      "duration": "2:38",
+      "durationSeconds": 158,
+      "audio": "Hey Garuda Song.mp3",
+      "composer": "Davzand",
+      "singers": [
+        "Harika Narayan",
+        "Hema Chandra",
+        "& KK"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2891506
+    }
+  ]
+}

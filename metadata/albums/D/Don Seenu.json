@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "93dc2bfe09c4",
+    "name": "Don Seenu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Don Seenu.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "f64ef219026c",
+      "title": "Aduguthundi Song",
+      "normalizedTitle": "aduguthundi song",
+      "trackNumber": 1,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Aduguthundi Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Vennelakanti",
+      "singers": [
+        "Hemachandra",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4350042
+    },
+    {
+      "id": "ac1b79420fab",
+      "title": "Aidhella Vayasu Song",
+      "normalizedTitle": "aidhella vayasu song",
+      "trackNumber": 2,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Aidhella Vayasu Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Baba Sehgal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3172249
+    },
+    {
+      "id": "38aacecdb584",
+      "title": "Andhamemo Song",
+      "normalizedTitle": "andhamemo song",
+      "trackNumber": 3,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Andhamemo Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Hemachandra",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4221728
+    },
+    {
+      "id": "5de58400ab66",
+      "title": "Nayanakana Song",
+      "normalizedTitle": "nayanakana song",
+      "trackNumber": 4,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Nayanakana Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Venu",
+        "Rita",
+        "Bhargavi Pillai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4130209
+    },
+    {
+      "id": "88a8f2dcf6fb",
+      "title": "Raja Raja Song",
+      "normalizedTitle": "raja raja song",
+      "trackNumber": 5,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Raja Raja Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Sri Krishna",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4194999
+    }
+  ]
+}

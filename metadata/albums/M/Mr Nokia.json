@@ -1,0 +1,153 @@
+{
+  "album": {
+    "id": "6221c3ab6be1",
+    "name": "Mr Nokia",
+    "year": 2012,
+    "musicDirector": "Ilaiyaraaja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mr Nokia.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "a4f6d981e335",
+      "title": "No Money No Honey Song",
+      "normalizedTitle": "no money no honey song",
+      "trackNumber": 1,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "No Money No Honey Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Karthik",
+        "Premji"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4692239
+    },
+    {
+      "id": "1e2ff2f18018",
+      "title": "No.Keyia Song",
+      "normalizedTitle": "nokeyia song",
+      "trackNumber": 2,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "No.Keyia Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3889305
+    },
+    {
+      "id": "ac848d219701",
+      "title": "No.Keyia Theme",
+      "normalizedTitle": "nokeyia theme",
+      "trackNumber": 3,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "No.Keyia Theme.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Lakshmi Bhupal",
+      "singers": [
+        "Blazee"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3464663
+    },
+    {
+      "id": "e655c55b76df",
+      "title": "No",
+      "normalizedTitle": "no",
+      "trackNumber": 4,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "No.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Lakshmi Bhupal",
+      "singers": [
+        "Blazee"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3464663
+    },
+    {
+      "id": "95bf01d6389c",
+      "title": "Oke Oka Jeevitham Song",
+      "normalizedTitle": "oke oka jeevitham song",
+      "trackNumber": 5,
+      "duration": "6:02",
+      "durationSeconds": 362,
+      "audio": "Oke Oka Jeevitham Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5888846
+    },
+    {
+      "id": "f9aa09154d7a",
+      "title": "Pista Pista Song",
+      "normalizedTitle": "pista pista song",
+      "trackNumber": 6,
+      "duration": "5:40",
+      "durationSeconds": 340,
+      "audio": "Pista Pista Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Manoj Manchu",
+      "singers": [
+        "Karthik",
+        "Yuvan Shankar Raja"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5538190
+    },
+    {
+      "id": "93eef19ff651",
+      "title": "Pranam Poye Badha Song",
+      "normalizedTitle": "pranam poye badha song",
+      "trackNumber": 7,
+      "duration": "2:42",
+      "durationSeconds": 162,
+      "audio": "Pranam Poye Badha Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Manoj Manchu",
+      "singers": [
+        "Yuvan Shankar Raja"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2688956
+    },
+    {
+      "id": "3a35d942e24a",
+      "title": "Ye Janma Bandhamo Song",
+      "normalizedTitle": "ye janma bandhamo song",
+      "trackNumber": 8,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Ye Janma Bandhamo Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Lakshmi Bhupal",
+      "singers": [
+        "Ranjith",
+        "Priya Hemesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5336320
+    }
+  ]
+}

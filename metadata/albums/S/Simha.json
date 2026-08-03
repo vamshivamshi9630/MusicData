@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "fe2f57a0785c",
+    "name": "Simha",
+    "year": 2010,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Simha.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "84ef88cf6eb1",
+      "title": "Achahai Song",
+      "normalizedTitle": "achahai song",
+      "trackNumber": 1,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Achahai Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Chandrabose",
+      "singers": [
+        "Udit Narayan",
+        "Anjana Soumya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4561431
+    },
+    {
+      "id": "a7cc4580e8cf",
+      "title": "Bangarukonda Song",
+      "normalizedTitle": "bangarukonda song",
+      "trackNumber": 2,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Bangarukonda Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Chandrabose",
+      "singers": [
+        "Hariharan",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4581487
+    },
+    {
+      "id": "82c568d43778",
+      "title": "Janaki Song",
+      "normalizedTitle": "janaki song",
+      "trackNumber": 3,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Janaki Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Kunal Ganjawala",
+        "Tina Kamal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4607829
+    },
+    {
+      "id": "14ff0401609c",
+      "title": "Kanulara Chuddamu Song",
+      "normalizedTitle": "kanulara chuddamu song",
+      "trackNumber": 4,
+      "duration": "6:12",
+      "durationSeconds": 372,
+      "audio": "Kanulara Chuddamu Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Veturi",
+      "singers": [
+        "Chakri",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6059385
+    },
+    {
+      "id": "8776024ed3b3",
+      "title": "Orabba Song",
+      "normalizedTitle": "orabba song",
+      "trackNumber": 5,
+      "duration": "5:36",
+      "durationSeconds": 336,
+      "audio": "Orabba Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Chandrabose",
+      "singers": [
+        "Simha",
+        "Adarshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5483843
+    },
+    {
+      "id": "bf5a59a51f6a",
+      "title": "Simhamanti Song",
+      "normalizedTitle": "simhamanti song",
+      "trackNumber": 6,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Simhamanti Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Chandrabose",
+      "singers": [
+        "Mano",
+        "Sravani Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4801754
+    }
+  ]
+}

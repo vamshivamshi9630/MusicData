@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "a691c809be2b",
+    "name": "Roja",
+    "year": 1992,
+    "musicDirector": "A.R. Rahman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Roja.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "47e73a3ddacf",
+      "title": "Chinni Chinni Aasa (Bit) Song",
+      "normalizedTitle": "chinni chinni aasa bit song",
+      "trackNumber": 1,
+      "duration": "1:06",
+      "durationSeconds": 66,
+      "audio": "Chinni Chinni Aasa (Bit) Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1077124
+    },
+    {
+      "id": "168492d49030",
+      "title": "Chinni Chinni Aasa Song",
+      "normalizedTitle": "chinni chinni aasa song",
+      "trackNumber": 2,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Chinni Chinni Aasa Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4733013
+    },
+    {
+      "id": "9e5fa36613be",
+      "title": "Naa Cheli Rojave Song",
+      "normalizedTitle": "naa cheli rojave song",
+      "trackNumber": 3,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Naa Cheli Rojave Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4796125
+    },
+    {
+      "id": "05293345fd7f",
+      "title": "Nagamani Nagamani Song",
+      "normalizedTitle": "nagamani nagamani song",
+      "trackNumber": 4,
+      "duration": "5:58",
+      "durationSeconds": 358,
+      "audio": "Nagamani Nagamani Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5748236
+    },
+    {
+      "id": "cadf2584b07c",
+      "title": "Paruvam Vanaga Song",
+      "normalizedTitle": "paruvam vanaga song",
+      "trackNumber": 5,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "Paruvam Vanaga Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5084098
+    },
+    {
+      "id": "ab2cc5b1dcd5",
+      "title": "Vinara Vinara Song",
+      "normalizedTitle": "vinara vinara song",
+      "trackNumber": 6,
+      "duration": "3:04",
+      "durationSeconds": 184,
+      "audio": "Vinara Vinara Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2960030
+    }
+  ]
+}

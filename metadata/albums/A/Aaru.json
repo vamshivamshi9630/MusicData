@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "6aeb875e6a4d",
+    "name": "Aaru",
+    "year": 2005,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aaru.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "7ca4fc5cc172",
+      "title": "Choododdhe Nann Song",
+      "normalizedTitle": "choododdhe nann song",
+      "trackNumber": 1,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Choododdhe Nann Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4225672
+    },
+    {
+      "id": "953b1c66f47c",
+      "title": "Droham Song",
+      "normalizedTitle": "droham song",
+      "trackNumber": 2,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Droham Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3499657
+    },
+    {
+      "id": "ec771d732811",
+      "title": "Puttanata Putta Song",
+      "normalizedTitle": "puttanata putta song",
+      "trackNumber": 3,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Puttanata Putta Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4338527
+    },
+    {
+      "id": "3df1f04caa2f",
+      "title": "Soda Bottle Song",
+      "normalizedTitle": "soda bottle song",
+      "trackNumber": 4,
+      "duration": "5:24",
+      "durationSeconds": 324,
+      "audio": "Soda Bottle Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5207867
+    },
+    {
+      "id": "500aa066f3ba",
+      "title": "Tention Vaddhu Song",
+      "normalizedTitle": "tention vaddhu song",
+      "trackNumber": 5,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Tention Vaddhu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4366949
+    }
+  ]
+}

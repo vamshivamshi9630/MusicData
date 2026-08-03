@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "0b6c4ab9f545",
+    "name": "Bhagavanth Kesari",
+    "year": 2023,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bhagavanth Kesari.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "d5b150699507",
+      "title": "Ganesh Anthem Song",
+      "normalizedTitle": "ganesh anthem song",
+      "trackNumber": 1,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Ganesh Anthem Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Kareemulla",
+        "Maneesh Pandranki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4829207
+    },
+    {
+      "id": "a335a57f0638",
+      "title": "Ichi Padi Ichi Padi Song",
+      "normalizedTitle": "ichi padi ichi padi song",
+      "trackNumber": 2,
+      "duration": "3:41",
+      "durationSeconds": 221,
+      "audio": "Ichi Padi Ichi Padi Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Anthony Daasan",
+        "Geetha Madhuri",
+        "Sahithi Chaganti",
+        "Naresh mamindla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3948984
+    },
+    {
+      "id": "20318b1bd8ec",
+      "title": "Jaaguda Jaaguda Song",
+      "normalizedTitle": "jaaguda jaaguda song",
+      "trackNumber": 3,
+      "duration": "2:59",
+      "durationSeconds": 179,
+      "audio": "Jaaguda Jaaguda Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Jyoti Nooran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3271472
+    },
+    {
+      "id": "5bad2d290153",
+      "title": "Maanu Maaku Song",
+      "normalizedTitle": "maanu maaku song",
+      "trackNumber": 4,
+      "duration": "2:30",
+      "durationSeconds": 150,
+      "audio": "Maanu Maaku Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Keerthana Srinivasan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6415988
+    },
+    {
+      "id": "8d04e81af2ce",
+      "title": "Roar of Kesari Song",
+      "normalizedTitle": "roar of kesari song",
+      "trackNumber": 5,
+      "duration": "3:19",
+      "durationSeconds": 199,
+      "audio": "Roar of Kesari Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Maneesha Pandranki"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5187072
+    },
+    {
+      "id": "223063d17ebe",
+      "title": "Uyyaalo Uyyaala Song",
+      "normalizedTitle": "uyyaalo uyyaala song",
+      "trackNumber": 6,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Uyyaalo Uyyaala Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "S.P. Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4517826
+    }
+  ]
+}

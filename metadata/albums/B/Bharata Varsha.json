@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "4c6ff25a1567",
+    "name": "Bharata Varsha",
+    "year": 2025,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bharata Varsha.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "cf1cc1e425b0",
+      "title": "Veera Jayadheera Song",
+      "normalizedTitle": "veera jayadheera song",
+      "trackNumber": 1,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Veera Jayadheera Song.mp3",
+      "composer": "Anudeep Dev",
+      "singers": [
+        "Deepak Blue",
+        "Lakshmi Meghana"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11298796
+    }
+  ]
+}

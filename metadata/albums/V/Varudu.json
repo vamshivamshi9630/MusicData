@@ -1,0 +1,128 @@
+{
+  "album": {
+    "id": "bd863912bb20",
+    "name": "Varudu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Varudu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "4de66c445e31",
+      "title": "Aidhurojula Pelli",
+      "normalizedTitle": "aidhurojula pelli",
+      "trackNumber": 1,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Aidhurojula Pelli.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Arya",
+        "Suhasini Mani Ratnam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4715606
+    },
+    {
+      "id": "df091ec5c81e",
+      "title": "Bahusha Vo Chanchalaa",
+      "normalizedTitle": "bahusha vo chanchalaa",
+      "trackNumber": 2,
+      "duration": "6:13",
+      "durationSeconds": 373,
+      "audio": "Bahusha Vo Chanchalaa.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Arya",
+        "Suhasini Mani Ratnam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6039717
+    },
+    {
+      "id": "c0dce35a5dfa",
+      "title": "Kalalu Kaavule",
+      "normalizedTitle": "kalalu kaavule",
+      "trackNumber": 3,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Kalalu Kaavule.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Arya",
+        "Suhasini Mani Ratnam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4280107
+    },
+    {
+      "id": "1a3be2fdece4",
+      "title": "Relaare Relaare",
+      "normalizedTitle": "relaare relaare",
+      "trackNumber": 4,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Relaare Relaare.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Arya",
+        "Suhasini Mani Ratnam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4243310
+    },
+    {
+      "id": "cee75a064aa1",
+      "title": "Saare Jahaa.. Premaa Yahaa",
+      "normalizedTitle": "saare jahaa premaa yahaa",
+      "trackNumber": 5,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Saare Jahaa.. Premaa Yahaa.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Arya",
+        "Suhasini Mani Ratnam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4635756
+    },
+    {
+      "id": "f50fcb541e46",
+      "title": "Thalambraalatho",
+      "normalizedTitle": "thalambraalatho",
+      "trackNumber": 6,
+      "duration": "3:19",
+      "durationSeconds": 199,
+      "audio": "Thalambraalatho.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Arya",
+        "Suhasini Mani Ratnam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3261940
+    }
+  ]
+}

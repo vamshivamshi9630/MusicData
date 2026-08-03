@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "a0c534fffaba",
+    "name": "Mahanubhavudu",
+    "year": 2017,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mahanubhavudu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "fb95dd3bb257",
+      "title": "Bhamalu Bhammalluu Song",
+      "normalizedTitle": "bhamalu bhammalluu song",
+      "trackNumber": 1,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Bhamalu Bhammalluu Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Nakash Aziz"
+      ],
+      "bitrate": 319689,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8958757
+    },
+    {
+      "id": "6480c0135aca",
+      "title": "Eppudainna Song",
+      "normalizedTitle": "eppudainna song",
+      "trackNumber": 2,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Eppudainna Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Swetha Pandit"
+      ],
+      "bitrate": 319694,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10285681
+    },
+    {
+      "id": "3e7fae991ed0",
+      "title": "Kiss Me Baby Song",
+      "normalizedTitle": "kiss me baby song",
+      "trackNumber": 3,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Kiss Me Baby Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "S S Thaman",
+        "Manisha Eerabathini"
+      ],
+      "bitrate": 319690,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9233329
+    },
+    {
+      "id": "e5d5e00fd99d",
+      "title": "Mahanubavudu Song",
+      "normalizedTitle": "mahanubavudu song",
+      "trackNumber": 4,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Mahanubavudu Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Geetha Madhuri",
+        "MM Manasi"
+      ],
+      "bitrate": 319555,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11235197
+    },
+    {
+      "id": "3e7b188d2eed",
+      "title": "My Love Is Back Song",
+      "normalizedTitle": "my love is back song",
+      "trackNumber": 5,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "My Love Is Back Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Rahul Nambiar"
+      ],
+      "bitrate": 319696,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11124013
+    },
+    {
+      "id": "b12ab869e6ac",
+      "title": "Rendu Kallu Song",
+      "normalizedTitle": "rendu kallu song",
+      "trackNumber": 6,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Rendu Kallu Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 319689,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8926393
+    }
+  ]
+}

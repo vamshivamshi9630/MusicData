@@ -1,0 +1,136 @@
+{
+  "album": {
+    "id": "108fab36f1cd",
+    "name": "Amma Nanna O Tamil Ammayi",
+    "year": 2003,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Amma Nanna O Tamil Ammayi.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "6cfd9c3adb6c",
+      "title": "Chennai Chandrama.Mp",
+      "normalizedTitle": "chennai chandramamp",
+      "trackNumber": 1,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Chennai Chandrama.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4163355
+    },
+    {
+      "id": "0b3e15b9871c",
+      "title": "Chumma.Mp",
+      "normalizedTitle": "chummamp",
+      "trackNumber": 2,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Chumma.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ravi Varma",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4459694
+    },
+    {
+      "id": "e57ced56e382",
+      "title": "Jhum Jhumare.Mp",
+      "normalizedTitle": "jhum jhumaremp",
+      "trackNumber": 3,
+      "duration": "6:03",
+      "durationSeconds": 363,
+      "audio": "Jhum Jhumare.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5895372
+    },
+    {
+      "id": "27af0c4f36b7",
+      "title": "Lunch Kosthava.Mp",
+      "normalizedTitle": "lunch kosthavamp",
+      "trackNumber": 4,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Lunch Kosthava.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chakri",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4831268
+    },
+    {
+      "id": "a719307493cf",
+      "title": "Nevve Neeve.Mp",
+      "normalizedTitle": "nevve neevemp",
+      "trackNumber": 5,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Nevve Neeve.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5364976
+    },
+    {
+      "id": "ef50c2403661",
+      "title": "Spirit Of Chandu.Mp",
+      "normalizedTitle": "spirit of chandump",
+      "trackNumber": 6,
+      "duration": "3:12",
+      "durationSeconds": 192,
+      "audio": "Spirit Of Chandu.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3162381
+    },
+    {
+      "id": "2066e614518d",
+      "title": "Thaluku Thaluku.Mp",
+      "normalizedTitle": "thaluku thalukump",
+      "trackNumber": 7,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Thaluku Thaluku.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Raghu Kunche",
+        "Smita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4604742
+    }
+  ]
+}

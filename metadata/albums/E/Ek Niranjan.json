@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "f7623e772dff",
+    "name": "Ek Niranjan",
+    "year": 2009,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ek Niranjan.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "608b89cc907a",
+      "title": "Ek Niranjan",
+      "normalizedTitle": "ek niranjan",
+      "trackNumber": 1,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Ek Niranjan.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4889832
+    },
+    {
+      "id": "8b0247c5a370",
+      "title": "Evaru Lerani.Mp3",
+      "normalizedTitle": "evaru leranimp3",
+      "trackNumber": 2,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Evaru Lerani.Mp3.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4449307
+    },
+    {
+      "id": "0aa395557a8e",
+      "title": "Gundello",
+      "normalizedTitle": "gundello",
+      "trackNumber": 3,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Gundello.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Geetha Madhuri",
+        "Vedala Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3964922
+    },
+    {
+      "id": "3fe62d51e2bc",
+      "title": "Mahammari",
+      "normalizedTitle": "mahammari",
+      "trackNumber": 4,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Mahammari.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4572225
+    },
+    {
+      "id": "4f5dcf74e1da",
+      "title": "Nartanatara",
+      "normalizedTitle": "nartanatara",
+      "trackNumber": 5,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Nartanatara.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4641646
+    },
+    {
+      "id": "07b2975938ed",
+      "title": "Sameera",
+      "normalizedTitle": "sameera",
+      "trackNumber": 6,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Sameera.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4931620
+    }
+  ]
+}

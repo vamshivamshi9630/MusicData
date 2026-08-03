@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "d29efdeb5d08",
+    "name": "Chinnadana Neekosam",
+    "year": 2014,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chinnadana Neekosam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "6e998ca42280",
+      "title": "Albelli Song",
+      "normalizedTitle": "albelli song",
+      "trackNumber": 1,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Albelli Song.mp3",
+      "composer": "Anoop Rubens",
+      "singers": [
+        "Simha",
+        "Jhanvi Narang"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4026135
+    },
+    {
+      "id": "aebc7ac5b48c",
+      "title": "Chinnadana Neekosam Song",
+      "normalizedTitle": "chinnadana neekosam song",
+      "trackNumber": 2,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Chinnadana Neekosam Song.mp3",
+      "composer": "Anoop Rubens",
+      "singers": [
+        "Raja Hasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3899497
+    },
+    {
+      "id": "91c7868af4e9",
+      "title": "Dil Dil Dil Song",
+      "normalizedTitle": "dil dil dil song",
+      "trackNumber": 3,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Dil Dil Dil Song.mp3",
+      "composer": "Anoop Rubens",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3947556
+    },
+    {
+      "id": "0af7ec990294",
+      "title": "Everybody Chalo All Song",
+      "normalizedTitle": "everybody chalo all song",
+      "trackNumber": 4,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Everybody Chalo All Song.mp3",
+      "composer": "Anoop Rubens",
+      "singers": [
+        "Jaspreet Jasz",
+        "Dhanunjay",
+        "Anudeep"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3252984
+    },
+    {
+      "id": "c74ecc696369",
+      "title": "Mundhugane Song",
+      "normalizedTitle": "mundhugane song",
+      "trackNumber": 5,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Mundhugane Song.mp3",
+      "composer": "Anoop Rubens",
+      "singers": [
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3420920
+    },
+    {
+      "id": "20196e222a5a",
+      "title": "Ooh La Laa Song",
+      "normalizedTitle": "ooh la laa song",
+      "trackNumber": 6,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Ooh La Laa Song.mp3",
+      "composer": "Anoop Rubens",
+      "singers": [
+        "Anoop Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3811294
+    }
+  ]
+}

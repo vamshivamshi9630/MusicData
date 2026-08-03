@@ -1,0 +1,140 @@
+{
+  "album": {
+    "id": "4bf82e1deece",
+    "name": "Seema Raja",
+    "year": 2018,
+    "musicDirector": "D. Imman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Seema Raja.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "cd757dbcdcf9",
+      "title": "A Late Night Walk With Veena Song",
+      "normalizedTitle": "a late night walk with veena song",
+      "trackNumber": 1,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "A Late Night Walk With Veena Song.mp3",
+      "composer": "D. Imman",
+      "singers": [
+        "Punya Srinivas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4256216
+    },
+    {
+      "id": "656ea600e0fc",
+      "title": "Nuvve Leka Nene Song",
+      "normalizedTitle": "nuvve leka nene song",
+      "trackNumber": 2,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Nuvve Leka Nene Song.mp3",
+      "composer": "D. Imman",
+      "singers": [
+        "Vedala Hemachandra",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4823819
+    },
+    {
+      "id": "bf9615aa4b72",
+      "title": "Paraak Paraak Song",
+      "normalizedTitle": "paraak paraak song",
+      "trackNumber": 3,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Paraak Paraak Song.mp3",
+      "composer": "D. Imman",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4639457
+    },
+    {
+      "id": "2910d0021752",
+      "title": "Raja Raja Seemaraja Song",
+      "normalizedTitle": "raja raja seemaraja song",
+      "trackNumber": 4,
+      "duration": "5:13",
+      "durationSeconds": 313,
+      "audio": "Raja Raja Seemaraja Song.mp3",
+      "composer": "D. Imman",
+      "singers": [
+        "M. L. R. Karthikeyan",
+        "Kavitha Gopi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5400193
+    },
+    {
+      "id": "8956002a121e",
+      "title": "Rammaa Seetha Raadhamma Song",
+      "normalizedTitle": "rammaa seetha raadhamma song",
+      "trackNumber": 5,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Rammaa Seetha Raadhamma Song.mp3",
+      "composer": "D. Imman",
+      "singers": [
+        "Vedala Hemachandra",
+        "Vandana Srinivasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4623641
+    },
+    {
+      "id": "951701479363",
+      "title": "Seemaraja Swag Song",
+      "normalizedTitle": "seemaraja swag song",
+      "trackNumber": 6,
+      "duration": "1:30",
+      "durationSeconds": 90,
+      "audio": "Seemaraja Swag Song.mp3",
+      "composer": "D. Imman",
+      "singers": [
+        "Shenbagaraj",
+        "Vignesh Narayanan",
+        "Santosh Hariharan",
+        "Deepak",
+        "Swetha Suresh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1833813
+    },
+    {
+      "id": "4e975cb00d7b",
+      "title": "Vannelaadi Song",
+      "normalizedTitle": "vannelaadi song",
+      "trackNumber": 7,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Vannelaadi Song.mp3",
+      "composer": "D. Imman",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4420858
+    }
+  ]
+}

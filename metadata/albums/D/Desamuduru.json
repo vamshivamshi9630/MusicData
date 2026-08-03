@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "1357775e3b28",
+    "name": "Desamuduru",
+    "year": 2007,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Desamuduru.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "6e35a6c3d760",
+      "title": "Attantode",
+      "normalizedTitle": "attantode",
+      "trackNumber": 1,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Attantode.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Hansika Motwani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4956768
+    },
+    {
+      "id": "28cdb116e8c9",
+      "title": "Gili",
+      "normalizedTitle": "gili",
+      "trackNumber": 2,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Gili.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Hansika Motwani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4465642
+    },
+    {
+      "id": "17adf15938f0",
+      "title": "Gola",
+      "normalizedTitle": "gola",
+      "trackNumber": 3,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Gola.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Hansika Motwani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4577673
+    },
+    {
+      "id": "0aa41f002e9f",
+      "title": "Manasuley",
+      "normalizedTitle": "manasuley",
+      "trackNumber": 4,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Manasuley.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Hansika Motwani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4767843
+    },
+    {
+      "id": "d4d0dade015f",
+      "title": "Ninne",
+      "normalizedTitle": "ninne",
+      "trackNumber": 5,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Ninne.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Hansika Motwani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4584351
+    },
+    {
+      "id": "3293a24477d9",
+      "title": "Satte",
+      "normalizedTitle": "satte",
+      "trackNumber": 6,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Satte.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Hansika Motwani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4235337
+    }
+  ]
+}

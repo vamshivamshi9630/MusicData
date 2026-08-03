@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "6985640856c5",
+    "name": "Columbus",
+    "year": 2015,
+    "musicDirector": "Jitin Roshan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Columbus.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "44ca05e92a27",
+      "title": "Break it Up Song",
+      "normalizedTitle": "break it up song",
+      "trackNumber": 1,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Break it Up Song.mp3",
+      "composer": "Music : Jithin Roshan | Lyrics : Bhaskara Bhatla",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4048147
+    },
+    {
+      "id": "e720d253c910",
+      "title": "Gaalullo Song",
+      "normalizedTitle": "gaalullo song",
+      "trackNumber": 2,
+      "duration": "5:26",
+      "durationSeconds": 326,
+      "audio": "Gaalullo Song.mp3",
+      "composer": "Music : Jithin Roshan | Lyrics : Bhaskara Bhatla",
+      "singers": [
+        "Yazin Nizar",
+        "Pooja & Sashwith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5308332
+    },
+    {
+      "id": "b8ed46f09dab",
+      "title": "Manchu Keratam Song",
+      "normalizedTitle": "manchu keratam song",
+      "trackNumber": 3,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Manchu Keratam Song.mp3",
+      "composer": "Music : Jithin Roshan | Lyrics : Srimani",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3958700
+    },
+    {
+      "id": "30c1d9556514",
+      "title": "Poosane Puvvulaga Song",
+      "normalizedTitle": "poosane puvvulaga song",
+      "trackNumber": 4,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Poosane Puvvulaga Song.mp3",
+      "composer": "Music : Jithin Roshan | Lyrics : Srimani",
+      "singers": [
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4247939
+    },
+    {
+      "id": "b1432117707c",
+      "title": "Pranama Song",
+      "normalizedTitle": "pranama song",
+      "trackNumber": 5,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Pranama Song.mp3",
+      "composer": "Music : Jithin Roshan | Lyrics : Srimani",
+      "singers": [
+        "Naresh Ayer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3088497
+    },
+    {
+      "id": "39afdbff6b30",
+      "title": "Tummeda Jummanipicha Song",
+      "normalizedTitle": "tummeda jummanipicha song",
+      "trackNumber": 6,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Tummeda Jummanipicha Song.mp3",
+      "composer": "Music : Jithin Roshan | Lyrics : Srimani",
+      "singers": [
+        "Shashaa Tirupathi",
+        "Naresh Ayer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4244640
+    }
+  ]
+}

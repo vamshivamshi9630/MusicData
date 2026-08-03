@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "6b47941e00f5",
+    "name": "Shikaaru",
+    "year": 2022,
+    "musicDirector": "Shekhar Chandra",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Shikaaru.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "0fc4d9ca73ce",
+      "title": "Manasu Dhari Thappene Song",
+      "normalizedTitle": "manasu dhari thappene song",
+      "trackNumber": 1,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Manasu Dhari Thappene Song.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3642752
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "album": {
+    "id": "b835ce49ae2d",
+    "name": "Sye Raa Narasimha Reddy",
+    "year": 2019,
+    "musicDirector": "Amit Trivedi",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sye Raa Narasimha Reddy.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "533cf982f1c5",
+      "title": "Andam Ankitam Song",
+      "normalizedTitle": "andam ankitam song",
+      "trackNumber": 1,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Andam Ankitam Song.mp3",
+      "composer": "Amit Trivedi",
+      "singers": [
+        "Vijay Prakash",
+        "Shashaa"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4293701
+    },
+    {
+      "id": "b4dba5885606",
+      "title": "Jaago Narasimhaa jaagore Song",
+      "normalizedTitle": "jaago narasimhaa jaagore song",
+      "trackNumber": 2,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Jaago Narasimhaa jaagore Song.mp3",
+      "composer": "Amit Trivedi",
+      "singers": [
+        "Shankar Mahadevan",
+        "Haricharan",
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5160966
+    },
+    {
+      "id": "bc232f9d978d",
+      "title": "Swaasalona desame Song",
+      "normalizedTitle": "swaasalona desame song",
+      "trackNumber": 3,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Swaasalona desame Song.mp3",
+      "composer": "Amit Trivedi",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4234963
+    }
+  ]
+}

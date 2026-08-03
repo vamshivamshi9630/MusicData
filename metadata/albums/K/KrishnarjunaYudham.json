@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "bc966e9366c1",
+    "name": "KrishnarjunaYudham",
+    "year": 2018,
+    "musicDirector": "Hiphop Tamizha",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "KrishnarjunaYudham.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "fd95540a3545",
+      "title": "Dhaari Choodu - SenSongsMp3.Co Song",
+      "normalizedTitle": "dhaari choodu sensongsmp3co song",
+      "trackNumber": 1,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Dhaari Choodu - SenSongsMp3.Co Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Penchal Das"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3314808
+    },
+    {
+      "id": "d4f32a19d5dc",
+      "title": "Ela Ela - SenSongsMp3.Co Song",
+      "normalizedTitle": "ela ela sensongsmp3co song",
+      "trackNumber": 2,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Ela Ela - SenSongsMp3.Co Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3926993
+    },
+    {
+      "id": "3cd72800b4dd",
+      "title": "I Wanna Fly - SenSongsMp3.Co Song",
+      "normalizedTitle": "i wanna fly sensongsmp3co song",
+      "trackNumber": 3,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "I Wanna Fly - SenSongsMp3.Co Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "LV Revanth",
+        "Sanjith Hegde"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4113019
+    },
+    {
+      "id": "4140deebb7b6",
+      "title": "Thaaney Vachhindhanaa - SenSongsMp3.Co Song",
+      "normalizedTitle": "thaaney vachhindhanaa sensongsmp3co song",
+      "trackNumber": 4,
+      "duration": "3:25",
+      "durationSeconds": 205,
+      "audio": "Thaaney Vachhindhanaa - SenSongsMp3.Co Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Kaala Bhairava",
+        "Padmalatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3588446
+    },
+    {
+      "id": "d9ee4445f3d4",
+      "title": "Turn This Party Up - SenSongsMp3.Co Song",
+      "normalizedTitle": "turn this party up sensongsmp3co song",
+      "trackNumber": 5,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Turn This Party Up - SenSongsMp3.Co Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Hiphop Tamizha",
+        "Brodha V"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3616867
+    },
+    {
+      "id": "04eafe514a2a",
+      "title": "Urime Manase - SenSongsMp3.Co Song",
+      "normalizedTitle": "urime manase sensongsmp3co song",
+      "trackNumber": 6,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Urime Manase - SenSongsMp3.Co Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Raghu Dixit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4742237
+    }
+  ]
+}

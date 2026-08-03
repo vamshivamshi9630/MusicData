@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "dc62fc08ae6a",
+    "name": "Amaran",
+    "year": 2024,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Amaran.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "76ad89edef55",
+      "title": "Azadi Song",
+      "normalizedTitle": "azadi song",
+      "trackNumber": 1,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Azadi Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Arivu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3429862
+    },
+    {
+      "id": "3263c0ec563e",
+      "title": "Hey Minnale Song",
+      "normalizedTitle": "hey minnale song",
+      "trackNumber": 2,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Hey Minnale Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Haricharan",
+        "Shweta Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3951429
+    },
+    {
+      "id": "56808f7deb32",
+      "title": "Sai Pallavis Intro Song",
+      "normalizedTitle": "sai pallavis intro song",
+      "trackNumber": 3,
+      "duration": "1:00",
+      "durationSeconds": 60,
+      "audio": "Sai Pallavis Intro Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "GV Prakash Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1292862
+    },
+    {
+      "id": "562ef5161c3e",
+      "title": "Uyirey Song",
+      "normalizedTitle": "uyirey song",
+      "trackNumber": 4,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Uyirey Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Nakul Abhyankar",
+        "Ramya Bhat Abhyankar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3693257
+    },
+    {
+      "id": "6f9793f90bc9",
+      "title": "Vennilavu Saaral Song",
+      "normalizedTitle": "vennilavu saaral song",
+      "trackNumber": 5,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Vennilavu Saaral Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Kapil Kapilan",
+        "Rakshita Suresh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3747512
+    }
+  ]
+}

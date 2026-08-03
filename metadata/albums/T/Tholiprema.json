@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "7006c081f1d3",
+    "name": "Tholiprema",
+    "year": 2018,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Tholiprema.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "db03340f0483",
+      "title": "Allasani Vaari Song",
+      "normalizedTitle": "allasani vaari song",
+      "trackNumber": 1,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Allasani Vaari Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 319700,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 12097637
+    },
+    {
+      "id": "b8ee54d60d8a",
+      "title": "Break The Rules Song",
+      "normalizedTitle": "break the rules song",
+      "trackNumber": 2,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Break The Rules Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Raghu Dixit"
+      ],
+      "bitrate": 319694,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10096289
+    },
+    {
+      "id": "213070536aeb",
+      "title": "Ninnila Song",
+      "normalizedTitle": "ninnila song",
+      "trackNumber": 3,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Ninnila Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Armaan Malik",
+        "S S Thaman"
+      ],
+      "bitrate": 319693,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9649457
+    },
+    {
+      "id": "04c43535c499",
+      "title": "Sunona Sunaina Song",
+      "normalizedTitle": "sunona sunaina song",
+      "trackNumber": 4,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Sunona Sunaina Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Rahul Nambiar"
+      ],
+      "bitrate": 319691,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9000089
+    },
+    {
+      "id": "889dc32db995",
+      "title": "Toliprema Song",
+      "normalizedTitle": "toliprema song",
+      "trackNumber": 5,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Toliprema Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 319230,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9962129
+    },
+    {
+      "id": "735421aac401",
+      "title": "Vinnane Vinnane Song",
+      "normalizedTitle": "vinnane vinnane song",
+      "trackNumber": 6,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Vinnane Vinnane Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Armaan Malik",
+        "Devan Ekambaram"
+      ],
+      "bitrate": 319664,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10066117
+    }
+  ]
+}

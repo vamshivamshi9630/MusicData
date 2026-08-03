@@ -1,0 +1,50 @@
+{
+  "album": {
+    "id": "cc36abaecece",
+    "name": "Gaami",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gaami.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "60dea6d9f8fc",
+      "title": "Gamyaanne Song",
+      "normalizedTitle": "gamyaanne song",
+      "trackNumber": 1,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Gamyaanne Song.mp3",
+      "composer": "Naresh Kumaran",
+      "singers": [
+        "Anurag Kulkarni",
+        "Sweekar Agasthi",
+        "Sugunamma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4624594
+    },
+    {
+      "id": "2a4a434bd592",
+      "title": "Shivam Song",
+      "normalizedTitle": "shivam song",
+      "trackNumber": 2,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Shivam Song.mp3",
+      "composer": "Naresh Kumaran",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3866834
+    }
+  ]
+}

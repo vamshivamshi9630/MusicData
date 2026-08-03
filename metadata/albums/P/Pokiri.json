@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "ddd2bb2ce06d",
+    "name": "Pokiri",
+    "year": 2006,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Pokiri.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "75ba458da4f1",
+      "title": "Choododdu",
+      "normalizedTitle": "choododdu",
+      "trackNumber": 1,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Choododdu.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Ileana D Cruz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4930626
+    },
+    {
+      "id": "27d0c0e91665",
+      "title": "Devuda",
+      "normalizedTitle": "devuda",
+      "trackNumber": 2,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Devuda.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Ileana D Cruz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4445341
+    },
+    {
+      "id": "39c62d1bf886",
+      "title": "Dole Dole",
+      "normalizedTitle": "dole dole",
+      "trackNumber": 3,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Dole Dole.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Ileana D Cruz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4627182
+    },
+    {
+      "id": "20fe49065500",
+      "title": "Gala Gala",
+      "normalizedTitle": "gala gala",
+      "trackNumber": 4,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Gala Gala.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Ileana D Cruz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4504278
+    },
+    {
+      "id": "714f8dd0d7ed",
+      "title": "Ippatikinka",
+      "normalizedTitle": "ippatikinka",
+      "trackNumber": 5,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Ippatikinka.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Ileana D Cruz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4540674
+    },
+    {
+      "id": "d2ae026c1aa1",
+      "title": "Jagadame",
+      "normalizedTitle": "jagadame",
+      "trackNumber": 6,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Jagadame.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Ileana D Cruz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4432825
+    }
+  ]
+}

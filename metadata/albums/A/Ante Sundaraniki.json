@@ -1,0 +1,135 @@
+{
+  "album": {
+    "id": "59f9a5e7a2ea",
+    "name": "Ante Sundaraniki",
+    "year": 2022,
+    "musicDirector": "Vivek Sagar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ante Sundaraniki.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "10ac11898f13",
+      "title": "Entha Chithram Song",
+      "normalizedTitle": "entha chithram song",
+      "trackNumber": 1,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Entha Chithram Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Anurag Kulkarni",
+        "Keerthana Vaidyanathan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4704968
+    },
+    {
+      "id": "2aa60c927725",
+      "title": "Natavara Chiru Song",
+      "normalizedTitle": "natavara chiru song",
+      "trackNumber": 2,
+      "duration": "2:44",
+      "durationSeconds": 164,
+      "audio": "Natavara Chiru Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Mano"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2683529
+    },
+    {
+      "id": "6bf66ef9b1eb",
+      "title": "Orori Sanchari Song",
+      "normalizedTitle": "orori sanchari song",
+      "trackNumber": 3,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Orori Sanchari Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Sachin Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5218953
+    },
+    {
+      "id": "0d9ffb1a69ea",
+      "title": "Rango Ranga Song",
+      "normalizedTitle": "rango ranga song",
+      "trackNumber": 4,
+      "duration": "2:34",
+      "durationSeconds": 154,
+      "audio": "Rango Ranga Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "N.C.Karunya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2532312
+    },
+    {
+      "id": "fe9c6ff4b2dc",
+      "title": "Thandanaanandha Song",
+      "normalizedTitle": "thandanaanandha song",
+      "trackNumber": 5,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Thandanaanandha Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Shankar Mahadevan",
+        "Swetha Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4238943
+    },
+    {
+      "id": "be7b0fde6767",
+      "title": "The Pancha Kattu Song",
+      "normalizedTitle": "the pancha kattu song",
+      "trackNumber": 6,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "The Pancha Kattu Song.mp3",
+      "composer": "Vivek Athreya",
+      "singers": [
+        "Aruna Sairam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4744832
+    },
+    {
+      "id": "f2fbba97336c",
+      "title": "Thera Theesindhi Song",
+      "normalizedTitle": "thera theesindhi song",
+      "trackNumber": 7,
+      "duration": "2:33",
+      "durationSeconds": 153,
+      "audio": "Thera Theesindhi Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Shakthisree Gopalan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2517683
+    }
+  ]
+}

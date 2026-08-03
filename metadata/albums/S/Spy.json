@@ -1,0 +1,49 @@
+{
+  "album": {
+    "id": "57d4aa377250",
+    "name": "Spy",
+    "year": 2023,
+    "musicDirector": "Sricharan Pakala",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Spy.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "404e492b6086",
+      "title": "Azaadi Song",
+      "normalizedTitle": "azaadi song",
+      "trackNumber": 1,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Azaadi Song.mp3",
+      "composer": "Sricharan Pakala, Vishal Chandrasekhar",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3393349
+    },
+    {
+      "id": "721863e39e4d",
+      "title": "Jhoom Jhoom Song",
+      "normalizedTitle": "jhoom jhoom song",
+      "trackNumber": 2,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Jhoom Jhoom Song.mp3",
+      "composer": "Sricharan Pakala, Vishal Chandrasekhar",
+      "singers": [
+        "Anurag Kulkarni",
+        "Ramya Behera"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3986243
+    }
+  ]
+}

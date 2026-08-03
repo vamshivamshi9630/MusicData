@@ -1,0 +1,167 @@
+{
+  "album": {
+    "id": "d2ef2b9d3dd0",
+    "name": "Prema Paavuralu",
+    "year": 1989,
+    "musicDirector": "Raamlaxman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Prema Paavuralu.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "262820bb5634",
+      "title": "Mallikava Rangavallikava Song",
+      "normalizedTitle": "mallikava rangavallikava song",
+      "trackNumber": 1,
+      "duration": "6:41",
+      "durationSeconds": 401,
+      "audio": "Mallikava Rangavallikava Song.mp3",
+      "composer": "Raamlaxman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6429092
+    },
+    {
+      "id": "8e98a9e4ff6b",
+      "title": "Naalo Nenu Song",
+      "normalizedTitle": "naalo nenu song",
+      "trackNumber": 2,
+      "duration": "3:19",
+      "durationSeconds": 199,
+      "audio": "Naalo Nenu Song.mp3",
+      "composer": "Raamlaxman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6396491
+    },
+    {
+      "id": "51792a5edb65",
+      "title": "Nee Jathaleka (Female) Song",
+      "normalizedTitle": "nee jathaleka female song",
+      "trackNumber": 3,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Nee Jathaleka (Female) Song.mp3",
+      "composer": "Raamlaxman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6614771
+    },
+    {
+      "id": "b7d30fa382b2",
+      "title": "Nee Jathaleka (Male) Song",
+      "normalizedTitle": "nee jathaleka male song",
+      "trackNumber": 4,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Nee Jathaleka (Male) Song.mp3",
+      "composer": "Raamlaxman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5918346
+    },
+    {
+      "id": "7ba44bbe3258",
+      "title": "Nuvve Naaku Song",
+      "normalizedTitle": "nuvve naaku song",
+      "trackNumber": 5,
+      "duration": "21:28",
+      "durationSeconds": 1288,
+      "audio": "Nuvve Naaku Song.mp3",
+      "composer": "Raamlaxman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 8000,
+      "sampleRate": 22050,
+      "channels": 2,
+      "fileSize": 1292472
+    },
+    {
+      "id": "b6a754bf18cf",
+      "title": "Oh Paavurama Song",
+      "normalizedTitle": "oh paavurama song",
+      "trackNumber": 6,
+      "duration": "8:08",
+      "durationSeconds": 488,
+      "audio": "Oh Paavurama Song.mp3",
+      "composer": "Raamlaxman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7812119
+    },
+    {
+      "id": "b39bc4349cf4",
+      "title": "Premincha Song",
+      "normalizedTitle": "premincha song",
+      "trackNumber": 7,
+      "duration": "5:57",
+      "durationSeconds": 357,
+      "audio": "Premincha Song.mp3",
+      "composer": "Raamlaxman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7153938
+    },
+    {
+      "id": "bffb532fbf1a",
+      "title": "Saayam Sandhya Velaindi Song",
+      "normalizedTitle": "saayam sandhya velaindi song",
+      "trackNumber": 8,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Saayam Sandhya Velaindi Song.mp3",
+      "composer": "Raamlaxman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5650330
+    },
+    {
+      "id": "b988756808c5",
+      "title": "Sneha Bandham Song",
+      "normalizedTitle": "sneha bandham song",
+      "trackNumber": 9,
+      "duration": "6:40",
+      "durationSeconds": 400,
+      "audio": "Sneha Bandham Song.mp3",
+      "composer": "Raamlaxman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6411956
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "album": {
+    "id": "def539f8e4cd",
+    "name": "Vasthadu Naa Raju",
+    "year": 2011,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Vasthadu Naa Raju.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "2d35bf1404ce",
+      "title": "Hello Every Body Song",
+      "normalizedTitle": "hello every body song",
+      "trackNumber": 1,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Hello Every Body Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Ranjith",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4293098
+    },
+    {
+      "id": "bc8735990ed8",
+      "title": "Kalagane Veyla Song",
+      "normalizedTitle": "kalagane veyla song",
+      "trackNumber": 2,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Kalagane Veyla Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Sri Ramachandra",
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4574813
+    },
+    {
+      "id": "a771c53c3d4a",
+      "title": "Naathone Nuvvu Song",
+      "normalizedTitle": "naathone nuvvu song",
+      "trackNumber": 3,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Naathone Nuvvu Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Saketh",
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4822653
+    },
+    {
+      "id": "2d97f5d66e23",
+      "title": "Olla Song",
+      "normalizedTitle": "olla song",
+      "trackNumber": 4,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Olla Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Vishwa",
+      "singers": [
+        "Ranjith",
+        "Janani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4574755
+    },
+    {
+      "id": "b75fe03bf81c",
+      "title": "Padha Padha Song",
+      "normalizedTitle": "padha padha song",
+      "trackNumber": 5,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Padha Padha Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Vennelakanti",
+      "singers": [
+        "Hemachandra",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4062793
+    },
+    {
+      "id": "efc295f08a87",
+      "title": "Sadaymiya Song",
+      "normalizedTitle": "sadaymiya song",
+      "trackNumber": 6,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Sadaymiya Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Vennelakanti",
+      "singers": [
+        "Ranjith",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4071968
+    },
+    {
+      "id": "be6a5f2fb032",
+      "title": "Yedho Yedho Song",
+      "normalizedTitle": "yedho yedho song",
+      "trackNumber": 7,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Yedho Yedho Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Karthik",
+        "Chaitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4655461
+    }
+  ]
+}

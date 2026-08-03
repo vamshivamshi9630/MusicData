@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "417361c62975",
+    "name": "Aa Naluguru",
+    "year": 2004,
+    "musicDirector": "R. P. Patnaik",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aa Naluguru.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "d48ed97283f7",
+      "title": "Good Morning Song",
+      "normalizedTitle": "good morning song",
+      "trackNumber": 1,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Good Morning Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 127706,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4808950
+    },
+    {
+      "id": "483e17e96c58",
+      "title": "Gundepai Thannut Song",
+      "normalizedTitle": "gundepai thannut song",
+      "trackNumber": 2,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Gundepai Thannut Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 127706,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4984832
+    },
+    {
+      "id": "858777b1d554",
+      "title": "Inko Rojochindan Song",
+      "normalizedTitle": "inko rojochindan song",
+      "trackNumber": 3,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Inko Rojochindan Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4722688
+    },
+    {
+      "id": "43be14b58358",
+      "title": "Naluguroo Mechin Song",
+      "normalizedTitle": "naluguroo mechin song",
+      "trackNumber": 4,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Naluguroo Mechin Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3294071
+    },
+    {
+      "id": "12885e070453",
+      "title": "Okkadai Ravadam Song",
+      "normalizedTitle": "okkadai ravadam song",
+      "trackNumber": 5,
+      "duration": "3:12",
+      "durationSeconds": 192,
+      "audio": "Okkadai Ravadam Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3103894
+    }
+  ]
+}

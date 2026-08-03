@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "a001b665dc9e",
+    "name": "Sukumarudu",
+    "year": 2013,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sukumarudu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "3e600b2b8cda",
+      "title": "Manasuna Nuvvele Song",
+      "normalizedTitle": "manasuna nuvvele song",
+      "trackNumber": 1,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Manasuna Nuvvele Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Rambhatla",
+      "singers": [
+        "Anjana Sowmya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4660112
+    },
+    {
+      "id": "4d3c52b36127",
+      "title": "Manasuna Veyyi Song",
+      "normalizedTitle": "manasuna veyyi song",
+      "trackNumber": 2,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Manasuna Veyyi Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Balaji",
+      "singers": [
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4049045
+    },
+    {
+      "id": "b29469f1373c",
+      "title": "Neelakashamlo Song",
+      "normalizedTitle": "neelakashamlo song",
+      "trackNumber": 3,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Neelakashamlo Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Sreemani",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4356249
+    },
+    {
+      "id": "5024d62f8b03",
+      "title": "O Baby O Baby Song",
+      "normalizedTitle": "o baby o baby song",
+      "trackNumber": 4,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "O Baby O Baby Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Sreemani",
+      "singers": [
+        "Anup Rubens",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4034431
+    },
+    {
+      "id": "fb5edfd80a3e",
+      "title": "Sukumarudu Song",
+      "normalizedTitle": "sukumarudu song",
+      "trackNumber": 5,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Sukumarudu Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Balaji",
+      "singers": [
+        "Raja Hasan",
+        "Rajesh",
+        "Dhanunjay",
+        "Manju",
+        "Ramya",
+        "Pradeepthi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4102202
+    },
+    {
+      "id": "386e78d38c94",
+      "title": "Tongi Tongi Song",
+      "normalizedTitle": "tongi tongi song",
+      "trackNumber": 6,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Tongi Tongi Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Kandikonda",
+      "singers": [
+        "Anup Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3342296
+    }
+  ]
+}

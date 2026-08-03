@@ -1,0 +1,190 @@
+{
+  "album": {
+    "id": "d689cf79bba4",
+    "name": "Dasara",
+    "year": 2023,
+    "musicDirector": "Santhosh Narayanan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Dasara.png",
+    "songCount": 10
+  },
+  "songs": [
+    {
+      "id": "7905ecdca227",
+      "title": "Celebration of Vennela Song",
+      "normalizedTitle": "celebration of vennela song",
+      "trackNumber": 1,
+      "duration": "0:46",
+      "durationSeconds": 46,
+      "audio": "Celebration of Vennela Song.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Santhosh Narayanam"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2206888
+    },
+    {
+      "id": "6eb83378b485",
+      "title": "Chamkeela Angeelesi Song",
+      "normalizedTitle": "chamkeela angeelesi song",
+      "trackNumber": 2,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Chamkeela Angeelesi Song.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Ram Miriyala",
+        "Dhee"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3493576
+    },
+    {
+      "id": "6237f67879ac",
+      "title": "Chithu Song",
+      "normalizedTitle": "chithu song",
+      "trackNumber": 3,
+      "duration": "2:47",
+      "durationSeconds": 167,
+      "audio": "Chithu Song.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Kanakavva"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3044061
+    },
+    {
+      "id": "329cd02b4ee8",
+      "title": "Cricket Rap",
+      "normalizedTitle": "cricket rap",
+      "trackNumber": 4,
+      "duration": "2:40",
+      "durationSeconds": 160,
+      "audio": "Cricket Rap.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Santhosh Narayanan"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5487970
+    },
+    {
+      "id": "30f698535c31",
+      "title": "Dhoom Dhaam Dhosthaan Song",
+      "normalizedTitle": "dhoom dhaam dhosthaan song",
+      "trackNumber": 5,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Dhoom Dhaam Dhosthaan Song.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Rahul Sipligunj",
+        "Gotte Kanakavva",
+        "Gannora Dasa Laxmi",
+        "Palamuru Jangireddy",
+        "Narasanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4227700
+    },
+    {
+      "id": "974ac7286ca7",
+      "title": "Ee Dharani Song",
+      "normalizedTitle": "ee dharani song",
+      "trackNumber": 6,
+      "duration": "0:53",
+      "durationSeconds": 53,
+      "audio": "Ee Dharani Song.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1210474
+    },
+    {
+      "id": "c546d2edea13",
+      "title": "Monna Badilo Song",
+      "normalizedTitle": "monna badilo song",
+      "trackNumber": 7,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Monna Badilo Song.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Pavithra Chari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4824985
+    },
+    {
+      "id": "3bd20b310050",
+      "title": "Oh Ammalaalo Ammalaalo Song",
+      "normalizedTitle": "oh ammalaalo ammalaalo song",
+      "trackNumber": 8,
+      "duration": "2:38",
+      "durationSeconds": 158,
+      "audio": "Oh Ammalaalo Ammalaalo Song.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2898402
+    },
+    {
+      "id": "cf9070860d9a",
+      "title": "Ori Vaari Song",
+      "normalizedTitle": "ori vaari song",
+      "trackNumber": 9,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Ori Vaari Song.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Santhosh Narayanan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3327876
+    },
+    {
+      "id": "291b5bdf663a",
+      "title": "Silk Bar",
+      "normalizedTitle": "silk bar",
+      "trackNumber": 10,
+      "duration": "3:06",
+      "durationSeconds": 186,
+      "audio": "Silk Bar.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Narsanna",
+        "Kanakavva"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3350425
+    }
+  ]
+}

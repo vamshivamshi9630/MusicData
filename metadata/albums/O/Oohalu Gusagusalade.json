@@ -1,0 +1,82 @@
+{
+  "album": {
+    "id": "89776a3f6478",
+    "name": "Oohalu Gusagusalade",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Oohalu Gusagusalade.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "8442fa95ea47",
+      "title": "Em Sandheham Ledhu Song",
+      "normalizedTitle": "em sandheham ledhu song",
+      "trackNumber": 1,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Em Sandheham Ledhu Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Kalyani Koduri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4088765
+    },
+    {
+      "id": "515fce18bf42",
+      "title": "Eviti Hadavidi Song",
+      "normalizedTitle": "eviti hadavidi song",
+      "trackNumber": 2,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Eviti Hadavidi Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Kalyani Koduri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3670371
+    },
+    {
+      "id": "d5295821b338",
+      "title": "Inthakante Song",
+      "normalizedTitle": "inthakante song",
+      "trackNumber": 3,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Inthakante Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Kalyani Koduri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4382968
+    },
+    {
+      "id": "fcb63548b4d6",
+      "title": "Inthakante Vere Song",
+      "normalizedTitle": "inthakante vere song",
+      "trackNumber": 4,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Inthakante Vere Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Karunya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3953308
+    }
+  ]
+}

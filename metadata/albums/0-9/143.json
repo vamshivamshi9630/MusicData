@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "d6f0c71ef0c8",
+    "name": "143",
+    "year": 2004,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "143.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "34e459b62122",
+      "title": "Endukani Mp3 Song",
+      "normalizedTitle": "endukani mp3 song",
+      "trackNumber": 1,
+      "duration": "5:38",
+      "durationSeconds": 338,
+      "audio": "Endukani Mp3 Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5550007
+    },
+    {
+      "id": "063e8568f437",
+      "title": "Kalalona Mp3 Song",
+      "normalizedTitle": "kalalona mp3 song",
+      "trackNumber": 2,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Kalalona Mp3 Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4696952
+    },
+    {
+      "id": "0ded1ade108e",
+      "title": "Lechipodama Mp3 Song",
+      "normalizedTitle": "lechipodama mp3 song",
+      "trackNumber": 3,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Lechipodama Mp3 Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Chakri",
+        "Pallavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4599167
+    },
+    {
+      "id": "765afabb3b6a",
+      "title": "Orori Devuda Mp3 Song",
+      "normalizedTitle": "orori devuda mp3 song",
+      "trackNumber": 4,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Orori Devuda Mp3 Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Ravi Varma",
+        "Sunandha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4500535
+    },
+    {
+      "id": "e540d880878b",
+      "title": "Ra Ragamayi Mp3 Song",
+      "normalizedTitle": "ra ragamayi mp3 song",
+      "trackNumber": 5,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Ra Ragamayi Mp3 Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Chakri",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4834898
+    },
+    {
+      "id": "5c27ae2dc2ef",
+      "title": "Tha Thadi Mp3 Song",
+      "normalizedTitle": "tha thadi mp3 song",
+      "trackNumber": 6,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Tha Thadi Mp3 Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Venugopal",
+        "Adarshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3911625
+    }
+  ]
+}

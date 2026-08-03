@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "790fe6cc5634",
+    "name": "Thandel",
+    "year": 2025,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Thandel.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "f70755fa8ea5",
+      "title": "Aazaadi Song",
+      "normalizedTitle": "aazaadi song",
+      "trackNumber": 1,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Aazaadi Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Nakul Abhaynkar"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10592424
+    },
+    {
+      "id": "5e5dff7ef465",
+      "title": "Bujji Thalli Song ( Sad Version ) Song",
+      "normalizedTitle": "bujji thalli song sad version song",
+      "trackNumber": 2,
+      "duration": "2:35",
+      "durationSeconds": 155,
+      "audio": "Bujji Thalli Song ( Sad Version ) Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Javed Ali"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6571657
+    },
+    {
+      "id": "2996a8f8cd31",
+      "title": "Bujji Thalli Song",
+      "normalizedTitle": "bujji thalli song",
+      "trackNumber": 3,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Bujji Thalli Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Javed Ali"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 10196864
+    },
+    {
+      "id": "c7dc49479785",
+      "title": "Hilesso Hilessa Song",
+      "normalizedTitle": "hilesso hilessa song",
+      "trackNumber": 4,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Hilesso Hilessa Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Nakash Aziz",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4020434
+    },
+    {
+      "id": "85f7b2b3870e",
+      "title": "Namo Namah Shivaya Song",
+      "normalizedTitle": "namo namah shivaya song",
+      "trackNumber": 5,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Namo Namah Shivaya Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Anurag Kulkarni",
+        "Haripriya"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 12062336
+    }
+  ]
+}

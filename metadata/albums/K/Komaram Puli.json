@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "cae893b233c1",
+    "name": "Komaram Puli",
+    "year": 2010,
+    "musicDirector": "A. R. Rahman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Komaram Puli.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "80d0b02adc6d",
+      "title": "Amma Thale.Mp",
+      "normalizedTitle": "amma thalemp",
+      "trackNumber": 1,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Amma Thale.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Nikesha Patel"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4405698
+    },
+    {
+      "id": "fb187d056d2e",
+      "title": "Dochey.Mp",
+      "normalizedTitle": "docheymp",
+      "trackNumber": 2,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Dochey.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Nikesha Patel"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4260262
+    },
+    {
+      "id": "339247d55002",
+      "title": "Maaralente.Mp",
+      "normalizedTitle": "maaralentemp",
+      "trackNumber": 3,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Maaralente.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Nikesha Patel"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4912297
+    },
+    {
+      "id": "4dbd9a205071",
+      "title": "Maham Maye.Mp",
+      "normalizedTitle": "maham mayemp",
+      "trackNumber": 4,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Maham Maye.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Nikesha Patel"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4052533
+    },
+    {
+      "id": "666310695f93",
+      "title": "Namakame.Mp",
+      "normalizedTitle": "namakamemp",
+      "trackNumber": 5,
+      "duration": "6:25",
+      "durationSeconds": 385,
+      "audio": "Namakame.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Nikesha Patel"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6238865
+    },
+    {
+      "id": "d62bf3398918",
+      "title": "Power Star.Mp",
+      "normalizedTitle": "power starmp",
+      "trackNumber": 6,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Power Star.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Nikesha Patel"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4646443
+    }
+  ]
+}

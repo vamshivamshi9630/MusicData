@@ -1,0 +1,143 @@
+{
+  "album": {
+    "id": "e06a357c92cd",
+    "name": "Jaabilamma-Neeku-Antha-Kopama",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jaabilamma-Neeku-Antha-Kopama.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "4be25d8a7a93",
+      "title": "Golden Sparrow Song",
+      "normalizedTitle": "golden sparrow song",
+      "trackNumber": 1,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Golden Sparrow Song.mp3",
+      "composer": "G. V. Prakash Kumar - MassTamilan",
+      "singers": [
+        "G. V. Prakash Kumar",
+        "Aswin Satya",
+        "Sudheesh Sasikumar",
+        "Sublahshini - MassTamilan"
+      ],
+      "bitrate": 256767,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7465505
+    },
+    {
+      "id": "b32d45688181",
+      "title": "Naa Praanam Song",
+      "normalizedTitle": "naa praanam song",
+      "trackNumber": 2,
+      "duration": "1:48",
+      "durationSeconds": 108,
+      "audio": "Naa Praanam Song.mp3",
+      "composer": "G. V. Prakash Kumar - MassTamilan",
+      "singers": [
+        "G. V. Prakash Kumar",
+        "Aswin Satya - MassTamilan"
+      ],
+      "bitrate": 257665,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3574835
+    },
+    {
+      "id": "f2389154b5b7",
+      "title": "Nee Manusu Naan Manusu Song",
+      "normalizedTitle": "nee manusu naan manusu song",
+      "trackNumber": 3,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Nee Manusu Naan Manusu Song.mp3",
+      "composer": "G. V. Prakash Kumar - MassTamilan",
+      "singers": [
+        "G. V. Prakash Kumar",
+        "Krishna Tejasvi - MassTamilan"
+      ],
+      "bitrate": 261674,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6612265
+    },
+    {
+      "id": "3b9172e327ba",
+      "title": "Pillaa Song",
+      "normalizedTitle": "pillaa song",
+      "trackNumber": 4,
+      "duration": "3:06",
+      "durationSeconds": 186,
+      "audio": "Pillaa Song.mp3",
+      "composer": "G. V. Prakash Kumar - MassTamilan",
+      "singers": [
+        "G. V. Prakash Kumar",
+        "Krishna Tejasvi - MassTamilan"
+      ],
+      "bitrate": 257692,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6073453
+    },
+    {
+      "id": "f47f114b8906",
+      "title": "Prema Failai Poyera Song",
+      "normalizedTitle": "prema failai poyera song",
+      "trackNumber": 5,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Prema Failai Poyera Song.mp3",
+      "composer": "G. V. Prakash Kumar - MassTamilan",
+      "singers": [
+        "G. V. Prakash Kumar",
+        "Krishna Tejasvi - MassTamilan"
+      ],
+      "bitrate": 262959,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7814724
+    },
+    {
+      "id": "b2693f8aab5d",
+      "title": "Yedhee Song",
+      "normalizedTitle": "yedhee song",
+      "trackNumber": 6,
+      "duration": "3:22",
+      "durationSeconds": 202,
+      "audio": "Yedhee Song.mp3",
+      "composer": "G. V. Prakash Kumar - MassTamilan",
+      "singers": [
+        "G. V. Prakash Kumar",
+        "Amal C Ajith",
+        "Sruthy Sivadas - MassTamilan"
+      ],
+      "bitrate": 254032,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6486695
+    },
+    {
+      "id": "0f2b092c0964",
+      "title": "Yettu Poya Song",
+      "normalizedTitle": "yettu poya song",
+      "trackNumber": 7,
+      "duration": "3:10",
+      "durationSeconds": 190,
+      "audio": "Yettu Poya Song.mp3",
+      "composer": "G. V. Prakash Kumar - MassTamilan",
+      "singers": [
+        "G. V. Prakash Kumar",
+        "Krishna Tejasvi - MassTamilan"
+      ],
+      "bitrate": 254424,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6135197
+    }
+  ]
+}

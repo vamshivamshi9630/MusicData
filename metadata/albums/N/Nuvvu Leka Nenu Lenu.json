@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "4f0d61fd92e3",
+    "name": "Nuvvu Leka Nenu Lenu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nuvvu Leka Nenu Lenu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "81b8d8efa43e",
+      "title": "Chi Chi",
+      "normalizedTitle": "chi chi",
+      "trackNumber": 1,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Chi Chi.mp3",
+      "composer": "R.P.Patnaik",
+      "singers": [
+        "Usha",
+        "R.P. Patnaik",
+        "Lenina Chowdhary"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3938187
+    },
+    {
+      "id": "4181aca6c438",
+      "title": "Chinni Chinni",
+      "normalizedTitle": "chinni chinni",
+      "trackNumber": 2,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Chinni Chinni.mp3",
+      "composer": "R.P.Patnaik",
+      "singers": [
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4411704
+    },
+    {
+      "id": "930638b552f5",
+      "title": "Edo Edo",
+      "normalizedTitle": "edo edo",
+      "trackNumber": 3,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Edo Edo.mp3",
+      "composer": "R.P.Patnaik",
+      "singers": [
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4786198
+    },
+    {
+      "id": "b757b4586b73",
+      "title": "Ela Ela",
+      "normalizedTitle": "ela ela",
+      "trackNumber": 4,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Ela Ela.mp3",
+      "composer": "R.P.Patnaik",
+      "singers": [
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4118285
+    },
+    {
+      "id": "0ee657520038",
+      "title": "Nindu Godari",
+      "normalizedTitle": "nindu godari",
+      "trackNumber": 5,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Nindu Godari.mp3",
+      "composer": "R.P.Patnaik",
+      "singers": [
+        "Kousalya",
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3893467
+    },
+    {
+      "id": "65adbb47418d",
+      "title": "Nuvvante",
+      "normalizedTitle": "nuvvante",
+      "trackNumber": 6,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Nuvvante.mp3",
+      "composer": "R.P.Patnaik",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4182683
+    }
+  ]
+}

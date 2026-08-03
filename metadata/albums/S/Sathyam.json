@@ -1,0 +1,137 @@
+{
+  "album": {
+    "id": "eba996fc1743",
+    "name": "Sathyam",
+    "year": 2003,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sathyam.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "bbab3de59b58",
+      "title": "I Am In Love Song",
+      "normalizedTitle": "i am in love song",
+      "trackNumber": 1,
+      "duration": "5:57",
+      "durationSeconds": 357,
+      "audio": "I Am In Love Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Venu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5741520
+    },
+    {
+      "id": "d49e30b26fe2",
+      "title": "Kuch Kuch Song",
+      "normalizedTitle": "kuch kuch song",
+      "trackNumber": 2,
+      "duration": "5:28",
+      "durationSeconds": 328,
+      "audio": "Kuch Kuch Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Viswa",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5282607
+    },
+    {
+      "id": "4a36959b18d6",
+      "title": "Madhurame Madhurame Song",
+      "normalizedTitle": "madhurame madhurame song",
+      "trackNumber": 3,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Madhurame Madhurame Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4549958
+    },
+    {
+      "id": "37f14d17f277",
+      "title": "Mokkajonna Song",
+      "normalizedTitle": "mokkajonna song",
+      "trackNumber": 4,
+      "duration": "2:50",
+      "durationSeconds": 170,
+      "audio": "Mokkajonna Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Venkata Ramana",
+        "Suryakiran",
+        "Rajesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2742743
+    },
+    {
+      "id": "c771b25f7258",
+      "title": "O Maguva Song",
+      "normalizedTitle": "o maguva song",
+      "trackNumber": 5,
+      "duration": "5:59",
+      "durationSeconds": 359,
+      "audio": "O Maguva Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5769945
+    },
+    {
+      "id": "d06a01c24744",
+      "title": "Ori Devuda Song",
+      "normalizedTitle": "ori devuda song",
+      "trackNumber": 6,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Ori Devuda Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Vasu",
+        "Suryakiran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4631858
+    },
+    {
+      "id": "eb74439c08a1",
+      "title": "Pilichina Song",
+      "normalizedTitle": "pilichina song",
+      "trackNumber": 7,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Pilichina Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Ravi Varma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5167258
+    }
+  ]
+}

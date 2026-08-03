@@ -1,0 +1,85 @@
+{
+  "album": {
+    "id": "c8b1a1a3e6bc",
+    "name": "Lie",
+    "year": 2017,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Lie.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "8eecec03064b",
+      "title": "Bombhaat Song",
+      "normalizedTitle": "bombhaat song",
+      "trackNumber": 1,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Bombhaat Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4556186
+    },
+    {
+      "id": "8403ca6a24b6",
+      "title": "Freedom Song",
+      "normalizedTitle": "freedom song",
+      "trackNumber": 2,
+      "duration": "3:45",
+      "durationSeconds": 225,
+      "audio": "Freedom Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Anurag Kulkarni",
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4270488
+    },
+    {
+      "id": "740e6f19f21c",
+      "title": "Laggam Time Song",
+      "normalizedTitle": "laggam time song",
+      "trackNumber": 3,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Laggam Time Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Sai Charan",
+        "Sahithi Chaganti"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5333470
+    },
+    {
+      "id": "c95f4868da66",
+      "title": "Miss Sunshine Song",
+      "normalizedTitle": "miss sunshine song",
+      "trackNumber": 4,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Miss Sunshine Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Anurag Kulkarni",
+        "Sindhuri.S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4440206
+    }
+  ]
+}

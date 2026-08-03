@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "66707d729179",
+    "name": "Miss India",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Miss India.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "d3fcdc5995e8",
+      "title": "Kotthaga Kotthaga Song",
+      "normalizedTitle": "kotthaga kotthaga song",
+      "trackNumber": 1,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Kotthaga Kotthaga Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Shreya Ghoshal",
+        "Thaman S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3600975
+    },
+    {
+      "id": "d8c2a726d945",
+      "title": "Lacha Gummadi Song",
+      "normalizedTitle": "lacha gummadi song",
+      "trackNumber": 2,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Lacha Gummadi Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Sri Vardhini"
+      ],
+      "bitrate": 164472,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5062833
+    },
+    {
+      "id": "165d9995bf2d",
+      "title": "Miss India Theme Song",
+      "normalizedTitle": "miss india theme song",
+      "trackNumber": 3,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Miss India Theme Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Harika Narayan & Sruthi Ranjani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4054167
+    },
+    {
+      "id": "462f2d840847",
+      "title": "Naa Chinni Lokame Song",
+      "normalizedTitle": "naa chinni lokame song",
+      "trackNumber": 4,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Naa Chinni Lokame Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "ADITI & Ramya behra & sri krishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4055140
+    }
+  ]
+}

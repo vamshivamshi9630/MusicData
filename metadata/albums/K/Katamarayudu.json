@@ -1,0 +1,139 @@
+{
+  "album": {
+    "id": "3903c84bac4f",
+    "name": "Katamarayudu",
+    "year": 2017,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Katamarayudu.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "e124f19a230b",
+      "title": "Emo Emo Song",
+      "normalizedTitle": "emo emo song",
+      "trackNumber": 1,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Emo Emo Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Armaan Malik",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4826647
+    },
+    {
+      "id": "3c8da9e093ec",
+      "title": "Jivvu Jivvu Song",
+      "normalizedTitle": "jivvu jivvu song",
+      "trackNumber": 2,
+      "duration": "2:38",
+      "durationSeconds": 158,
+      "audio": "Jivvu Jivvu Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Dhanunjay"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3266809
+    },
+    {
+      "id": "f6c232ab555d",
+      "title": "Laage Laage Song",
+      "normalizedTitle": "laage laage song",
+      "trackNumber": 3,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Laage Laage Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Nakash Aziz",
+        "Dhanunjay",
+        "Nuthana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4511013
+    },
+    {
+      "id": "2d40b4acad23",
+      "title": "Love Theme Song",
+      "normalizedTitle": "love theme song",
+      "trackNumber": 4,
+      "duration": "1:06",
+      "durationSeconds": 66,
+      "audio": "Love Theme Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1787643
+    },
+    {
+      "id": "6c9949804743",
+      "title": "Mira Mira Meesam Song",
+      "normalizedTitle": "mira mira meesam song",
+      "trackNumber": 5,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Mira Mira Meesam Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4779791
+    },
+    {
+      "id": "6c048cab9bf1",
+      "title": "Netha Cheera Song",
+      "normalizedTitle": "netha cheera song",
+      "trackNumber": 6,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Netha Cheera Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Sai Charan",
+        "Sahithi",
+        "Simha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4571677
+    },
+    {
+      "id": "df90797ad526",
+      "title": "Yelo Yedarilo Vaana Song",
+      "normalizedTitle": "yelo yedarilo vaana song",
+      "trackNumber": 7,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Yelo Yedarilo Vaana Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Dhanunjay",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4632733
+    }
+  ]
+}

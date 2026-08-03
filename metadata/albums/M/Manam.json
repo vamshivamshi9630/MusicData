@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "8f364b3ed097",
+    "name": "Manam",
+    "year": 2014,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Manam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "9ba579e34c33",
+      "title": "Chinni Chinni Aasalu Song",
+      "normalizedTitle": "chinni chinni aasalu song",
+      "trackNumber": 1,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Chinni Chinni Aasalu Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens",
+        "Ashwin",
+        "Hari Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5199385
+    },
+    {
+      "id": "35331940d178",
+      "title": "Edhi Prema Song",
+      "normalizedTitle": "edhi prema song",
+      "trackNumber": 2,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Edhi Prema Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4042418
+    },
+    {
+      "id": "668ddefceafe",
+      "title": "Kani Penchina Ma Ammake Song",
+      "normalizedTitle": "kani penchina ma ammake song",
+      "trackNumber": 3,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Kani Penchina Ma Ammake Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4042438
+    },
+    {
+      "id": "7d415f3b5512",
+      "title": "Kanulanu Thaake Song",
+      "normalizedTitle": "kanulanu thaake song",
+      "trackNumber": 4,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Kanulanu Thaake Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4788490
+    },
+    {
+      "id": "2780aa9ce7c1",
+      "title": "Manam (Theme) Song",
+      "normalizedTitle": "manam theme song",
+      "trackNumber": 5,
+      "duration": "2:12",
+      "durationSeconds": 132,
+      "audio": "Manam (Theme) Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens",
+        "Agastine Choir"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2185454
+    },
+    {
+      "id": "b6483225727d",
+      "title": "Piyo Piyo Re Song",
+      "normalizedTitle": "piyo piyo re song",
+      "trackNumber": 6,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Piyo Piyo Re Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens",
+        "Megh Raj",
+        "Rahul Aggarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3276371
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "album": {
+    "id": "374b3d881fa7",
+    "name": "Nuvvosthanante Nenoddantana",
+    "year": 2005,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nuvvosthanante Nenoddantana.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "accb9fd4fafd",
+      "title": "Adire Adire Song",
+      "normalizedTitle": "adire adire song",
+      "trackNumber": 1,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Adire Adire Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Jessie Gift",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4136717
+    },
+    {
+      "id": "cf7c18d30dbb",
+      "title": "Chandrullo Unde Song",
+      "normalizedTitle": "chandrullo unde song",
+      "trackNumber": 2,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Chandrullo Unde Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4138406
+    },
+    {
+      "id": "ba344f96e9cf",
+      "title": "Ghal Ghal Ghal Song",
+      "normalizedTitle": "ghal ghal ghal song",
+      "trackNumber": 3,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Ghal Ghal Ghal Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "S.P. Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5166980
+    },
+    {
+      "id": "ffe71af90c28",
+      "title": "Niluvadhamu Ninu Song",
+      "normalizedTitle": "niluvadhamu ninu song",
+      "trackNumber": 4,
+      "duration": "5:59",
+      "durationSeconds": 359,
+      "audio": "Niluvadhamu Ninu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Karthik",
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5771379
+    },
+    {
+      "id": "4e22822df9ea",
+      "title": "Padam Kadalanan Song",
+      "normalizedTitle": "padam kadalanan song",
+      "trackNumber": 5,
+      "duration": "1:10",
+      "durationSeconds": 70,
+      "audio": "Padam Kadalanan Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1150804
+    },
+    {
+      "id": "fd64b450fd81",
+      "title": "Paripoke Pitta Song",
+      "normalizedTitle": "paripoke pitta song",
+      "trackNumber": 6,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Paripoke Pitta Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mallikarjun",
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3536111
+    },
+    {
+      "id": "858e685909b9",
+      "title": "Something Something Song",
+      "normalizedTitle": "something something song",
+      "trackNumber": 7,
+      "duration": "5:34",
+      "durationSeconds": 334,
+      "audio": "Something Something Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5380549
+    }
+  ]
+}

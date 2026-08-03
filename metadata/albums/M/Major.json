@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "6558a6a3379d",
+    "name": "Major",
+    "year": 2022,
+    "musicDirector": "Sricharan Pakala",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Major.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "93a393da3b5c",
+      "title": "Hrudayama Song",
+      "normalizedTitle": "hrudayama song",
+      "trackNumber": 1,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Hrudayama Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5520192
+    },
+    {
+      "id": "08c11915e8bb",
+      "title": "Jana Gana Mana Song",
+      "normalizedTitle": "jana gana mana song",
+      "trackNumber": 2,
+      "duration": "2:09",
+      "durationSeconds": 129,
+      "audio": "Jana Gana Mana Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Tojan Toby"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5456020
+    },
+    {
+      "id": "459effb01c3e",
+      "title": "Kanna Kanna Song",
+      "normalizedTitle": "kanna kanna song",
+      "trackNumber": 3,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Kanna Kanna Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "K.S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3753254
+    },
+    {
+      "id": "12be5e317c2d",
+      "title": "Oh Isha Song",
+      "normalizedTitle": "oh isha song",
+      "trackNumber": 4,
+      "duration": "2:41",
+      "durationSeconds": 161,
+      "audio": "Oh Isha Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Armaan Malik",
+        "Chinmayi Sripada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2875957
+    }
+  ]
+}

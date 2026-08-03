@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "dc7d810be346",
+    "name": "A Aa",
+    "year": 2016,
+    "musicDirector": "Mickey J. Meyer",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "A Aa.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "b4b0b0ed2c6a",
+      "title": "Anasuya Kosam.Mp3",
+      "normalizedTitle": "anasuya kosammp3",
+      "trackNumber": 1,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Anasuya Kosam.Mp3.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3414962
+    },
+    {
+      "id": "9a7321b29fab",
+      "title": "Mummy Returns.Mp3",
+      "normalizedTitle": "mummy returnsmp3",
+      "trackNumber": 2,
+      "duration": "2:53",
+      "durationSeconds": 173,
+      "audio": "Mummy Returns.Mp3.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Sravana Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2920116
+    },
+    {
+      "id": "019e075e857a",
+      "title": "Rang De.Mp3",
+      "normalizedTitle": "rang demp3",
+      "trackNumber": 3,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Rang De.Mp3.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Ramya Behara",
+        "Rahul Nambiar",
+        "Shivani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4001822
+    },
+    {
+      "id": "f9ed986e4092",
+      "title": "Yaa Yaa.Mp3",
+      "normalizedTitle": "yaa yaamp3",
+      "trackNumber": 4,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Yaa Yaa.Mp3.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Abhay Jodhpurkar",
+        "Chitra",
+        "Anjana Sowmya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3972989
+    },
+    {
+      "id": "14e78b80bbb4",
+      "title": "Yellipoke Shyamala.Mp3",
+      "normalizedTitle": "yellipoke shyamalamp3",
+      "trackNumber": 5,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Yellipoke Shyamala.Mp3.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3582155
+    }
+  ]
+}

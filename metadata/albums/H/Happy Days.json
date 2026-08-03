@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "03d286d54861",
+    "name": "Happy Days",
+    "year": 2007,
+    "musicDirector": "Mickey J. Meyer",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Happy Days.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "b7680011886c",
+      "title": "Arey Rey Song",
+      "normalizedTitle": "arey rey song",
+      "trackNumber": 1,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Arey Rey Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4766025
+    },
+    {
+      "id": "43516a169cf2",
+      "title": "Jill Jill Jinga Song",
+      "normalizedTitle": "jill jill jinga song",
+      "trackNumber": 2,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Jill Jill Jinga Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Krishna Chaitanya",
+        "Kranthi",
+        "Aditya Siddharth",
+        "Sashi Kiran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4354885
+    },
+    {
+      "id": "8034986839e6",
+      "title": "O My Friend Song",
+      "normalizedTitle": "o my friend song",
+      "trackNumber": 3,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "O My Friend Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4796960
+    },
+    {
+      "id": "f5a73e8c7f55",
+      "title": "Ya Kundendu Song",
+      "normalizedTitle": "ya kundendu song",
+      "trackNumber": 4,
+      "duration": "1:21",
+      "durationSeconds": 81,
+      "audio": "Ya Kundendu Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Pranavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1319954
+    },
+    {
+      "id": "11fbbfd14cb0",
+      "title": "Ye Cheekati Song",
+      "normalizedTitle": "ye cheekati song",
+      "trackNumber": 5,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Ye Cheekati Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Ranjith",
+        "Sunitha Sarathy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4515708
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "album": {
+    "id": "e8d54c8a6c8f",
+    "name": "Oke Oka Jeevitham",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Oke Oka Jeevitham.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "d70f0ea6b274",
+      "title": "Amma Song",
+      "normalizedTitle": "amma song",
+      "trackNumber": 1,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Amma Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5109376
+    },
+    {
+      "id": "562e03779b77",
+      "title": "Maari Poye Song",
+      "normalizedTitle": "maari poye song",
+      "trackNumber": 2,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Maari Poye Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Karthi",
+        "Travis King"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4036275
+    },
+    {
+      "id": "e067552a9cd1",
+      "title": "Okate Kadhaa Song",
+      "normalizedTitle": "okate kadhaa song",
+      "trackNumber": 3,
+      "duration": "5:31",
+      "durationSeconds": 331,
+      "audio": "Okate Kadhaa Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Goutham Bharadwaj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5352428
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "album": {
+    "id": "4467ac737ab0",
+    "name": "Nene Ambani",
+    "year": 2010,
+    "musicDirector": "Yuvan Shankar Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nene Ambani.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "50db2dc01357",
+      "title": "Aire Aire Nenegiripo Song",
+      "normalizedTitle": "aire aire nenegiripo song",
+      "trackNumber": 1,
+      "duration": "5:07",
+      "durationSeconds": 307,
+      "audio": "Aire Aire Nenegiripo Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Bhuvanachandra",
+      "singers": [
+        "Rakhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5002702
+    },
+    {
+      "id": "50d8bfbb7f61",
+      "title": "Alalade Paper Ne Song",
+      "normalizedTitle": "alalade paper ne song",
+      "trackNumber": 2,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Alalade Paper Ne Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Vennelakanti",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4669152
+    },
+    {
+      "id": "77d78c731710",
+      "title": "Are Basu Basu Basu Song",
+      "normalizedTitle": "are basu basu basu song",
+      "trackNumber": 3,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Are Basu Basu Basu Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Vennelakanti",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3935220
+    },
+    {
+      "id": "afe92c3edd5c",
+      "title": "Evaree Ammayani Adiga Song",
+      "normalizedTitle": "evaree ammayani adiga song",
+      "trackNumber": 4,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Evaree Ammayani Adiga Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Vennelakanti",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4947529
+    },
+    {
+      "id": "69a657aa799e",
+      "title": "Maama Maama Song",
+      "normalizedTitle": "maama maama song",
+      "trackNumber": 5,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Maama Maama Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Bhuvanachandra",
+      "singers": [
+        "Tippu",
+        "Divya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4234897
+    }
+  ]
+}

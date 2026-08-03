@@ -1,0 +1,50 @@
+{
+  "album": {
+    "id": "2749a0836228",
+    "name": "Good Bad Ugly",
+    "year": 2025,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Good Bad Ugly.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "af05b76a4afc",
+      "title": "God Bless U Song",
+      "normalizedTitle": "god bless u song",
+      "trackNumber": 1,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "God Bless U Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Anirudh Ravichander",
+        "Paal Dabba"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5927645
+    },
+    {
+      "id": "4c4d55f3ee6b",
+      "title": "OG Sambavam Song",
+      "normalizedTitle": "og sambavam song",
+      "trackNumber": 2,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "OG Sambavam Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "GV Prakah Kumar",
+        "Adhik Ravichandran"
+      ],
+      "bitrate": 130960,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3560829
+    }
+  ]
+}

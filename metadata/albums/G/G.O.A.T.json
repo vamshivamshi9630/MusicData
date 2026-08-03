@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "0f3fa9d9eb83",
+    "name": "G.O.A.T",
+    "year": 2024,
+    "musicDirector": "Yuvan Shankar Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "G.O.A.T.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "8006ae825133",
+      "title": "Ayyo Paapam Saaru Song",
+      "normalizedTitle": "ayyo paapam saaru song",
+      "trackNumber": 1,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Ayyo Paapam Saaru Song.mp3",
+      "composer": "Leon James",
+      "singers": [
+        "Sean Rolden"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5138287
+    }
+  ]
+}

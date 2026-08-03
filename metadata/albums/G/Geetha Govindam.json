@@ -1,0 +1,150 @@
+{
+  "album": {
+    "id": "c0627639a4e4",
+    "name": "Geetha Govindam",
+    "year": 2018,
+    "musicDirector": "Gopi Sundar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Geetha Govindam.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "fb5841e4b631",
+      "title": "Inkem Inkem Inkem Kaavaale 3D Surround Song",
+      "normalizedTitle": "inkem inkem inkem kaavaale 3d surround song",
+      "trackNumber": 1,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Inkem Inkem Inkem Kaavaale 3D Surround Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10645198
+    },
+    {
+      "id": "ded00a39b2e9",
+      "title": "Inkem Inkem Inkem Kaavaale Song",
+      "normalizedTitle": "inkem inkem inkem kaavaale song",
+      "trackNumber": 2,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Inkem Inkem Inkem Kaavaale Song.mp3",
+      "composer": "Music: Gopi Sundar | Lyrics: Anantha Sriram, Shree Mani, Sagar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4922877
+    },
+    {
+      "id": "0ad5b534c3de",
+      "title": "Kanureppala Kaalam Song",
+      "normalizedTitle": "kanureppala kaalam song",
+      "trackNumber": 3,
+      "duration": "2:42",
+      "durationSeconds": 162,
+      "audio": "Kanureppala Kaalam Song.mp3",
+      "composer": "Music: Gopi Sundar | Lyrics: Anantha Sriram, Shree Mani, Sagar",
+      "singers": [
+        "Gopi Sundar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3253117
+    },
+    {
+      "id": "cf802193e454",
+      "title": "Tanemandhe Tanemandhe Song",
+      "normalizedTitle": "tanemandhe tanemandhe song",
+      "trackNumber": 4,
+      "duration": "0:17",
+      "durationSeconds": 17,
+      "audio": "Tanemandhe Tanemandhe Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Gopi Sundar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1547915
+    },
+    {
+      "id": "5894a62fe7df",
+      "title": "Vachindamma Song",
+      "normalizedTitle": "vachindamma song",
+      "trackNumber": 5,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Vachindamma Song.mp3",
+      "composer": "Music: Gopi Sundar | Lyrics: Anantha Sriram, Shree Mani, Sagar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4662041
+    },
+    {
+      "id": "a7170e3bf211",
+      "title": "What The F Song",
+      "normalizedTitle": "what the f song",
+      "trackNumber": 6,
+      "duration": "2:58",
+      "durationSeconds": 178,
+      "audio": "What The F Song.mp3",
+      "composer": "Music: Gopi Sundar | Lyrics: Anantha Sriram, Shree Mani, Sagar",
+      "singers": [
+        "Vijay Deverakonda"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3513082
+    },
+    {
+      "id": "339e7833b047",
+      "title": "What The Life Song",
+      "normalizedTitle": "what the life song",
+      "trackNumber": 7,
+      "duration": "2:58",
+      "durationSeconds": 178,
+      "audio": "What The Life Song.mp3",
+      "composer": "Music: Gopi Sundar | Lyrics: Anantha Sriram, Shree Mani, Sagar",
+      "singers": [
+        "Vijay Devarakonda"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3513507
+    },
+    {
+      "id": "df7f7e7710f1",
+      "title": "Yenti Yenti Song",
+      "normalizedTitle": "yenti yenti song",
+      "trackNumber": 8,
+      "duration": "3:19",
+      "durationSeconds": 199,
+      "audio": "Yenti Yenti Song.mp3",
+      "composer": "Music: Gopi Sundar | Lyrics: Anantha Sriram, Shree Mani, Sagar",
+      "singers": [
+        "Chinmayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3842837
+    }
+  ]
+}

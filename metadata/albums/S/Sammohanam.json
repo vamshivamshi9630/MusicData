@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "92f0a7714f50",
+    "name": "Sammohanam",
+    "year": 2018,
+    "musicDirector": "Vivek Sagar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sammohanam.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "f928ac78a2d2",
+      "title": "Kanulalo Thadigaa Song",
+      "normalizedTitle": "kanulalo thadigaa song",
+      "trackNumber": 1,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Kanulalo Thadigaa Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Chaitra Ambadipudi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4491305
+    },
+    {
+      "id": "0ade040a6862",
+      "title": "Manasainadedo Song",
+      "normalizedTitle": "manasainadedo song",
+      "trackNumber": 2,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Manasainadedo Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Vivek Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4339621
+    },
+    {
+      "id": "b1be02463277",
+      "title": "O Cheli Thaara Song",
+      "normalizedTitle": "o cheli thaara song",
+      "trackNumber": 3,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "O Cheli Thaara Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4889711
+    },
+    {
+      "id": "8b68a42f7c52",
+      "title": "Oohalu Oorege Gaalanthaa Song",
+      "normalizedTitle": "oohalu oorege gaalanthaa song",
+      "trackNumber": 4,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Oohalu Oorege Gaalanthaa Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Haricharan",
+        "Keerthana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4987012
+    }
+  ]
+}

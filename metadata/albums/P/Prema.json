@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "fd95b73d098f",
+    "name": "Prema",
+    "year": 1989,
+    "musicDirector": "Ilaiyaraaja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Prema.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "1d1701c2df34",
+      "title": "Eenade Edo Song",
+      "normalizedTitle": "eenade edo song",
+      "trackNumber": 1,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Eenade Edo Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4326756
+    },
+    {
+      "id": "ac334696c4af",
+      "title": "Ekkada Ekkada Song",
+      "normalizedTitle": "ekkada ekkada song",
+      "trackNumber": 2,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Ekkada Ekkada Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4428738
+    },
+    {
+      "id": "bcf9f460b1f9",
+      "title": "I Am Sorry Song",
+      "normalizedTitle": "i am sorry song",
+      "trackNumber": 3,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "I Am Sorry Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4558306
+    },
+    {
+      "id": "fc183a08731f",
+      "title": "Ivvu Ivvu Song",
+      "normalizedTitle": "ivvu ivvu song",
+      "trackNumber": 4,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Ivvu Ivvu Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5129656
+    },
+    {
+      "id": "26d254e484f4",
+      "title": "Ontarivadini Song",
+      "normalizedTitle": "ontarivadini song",
+      "trackNumber": 5,
+      "duration": "2:11",
+      "durationSeconds": 131,
+      "audio": "Ontarivadini Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2114916
+    },
+    {
+      "id": "779af1e9f2d6",
+      "title": "Priyathama Song",
+      "normalizedTitle": "priyathama song",
+      "trackNumber": 6,
+      "duration": "5:51",
+      "durationSeconds": 351,
+      "audio": "Priyathama Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5635805
+    },
+    {
+      "id": "ff6cc9c0a35b",
+      "title": "You Are My Hero Song",
+      "normalizedTitle": "you are my hero song",
+      "trackNumber": 7,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "You Are My Hero Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4317979
+    }
+  ]
+}

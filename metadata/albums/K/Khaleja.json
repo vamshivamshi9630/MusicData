@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "48d129aaa210",
+    "name": "Khaleja",
+    "year": 2010,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Khaleja.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "4c75ba41e142",
+      "title": "Bhoom Shakenaka",
+      "normalizedTitle": "bhoom shakenaka",
+      "trackNumber": 1,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Bhoom Shakenaka.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Anushka Shetty"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4675972
+    },
+    {
+      "id": "cd38ff0137f8",
+      "title": "Makathika",
+      "normalizedTitle": "makathika",
+      "trackNumber": 2,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Makathika.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Anushka Shetty"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4749087
+    },
+    {
+      "id": "b906ed460dcc",
+      "title": "Pileche",
+      "normalizedTitle": "pileche",
+      "trackNumber": 3,
+      "duration": "5:41",
+      "durationSeconds": 341,
+      "audio": "Pileche.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Anushka Shetty"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5548223
+    },
+    {
+      "id": "67b3f0502961",
+      "title": "Sada Siva",
+      "normalizedTitle": "sada siva",
+      "trackNumber": 4,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Sada Siva.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Anushka Shetty"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4390910
+    },
+    {
+      "id": "e8fc5579eb6c",
+      "title": "Sunday Monday",
+      "normalizedTitle": "sunday monday",
+      "trackNumber": 5,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Sunday Monday.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Anushka Shetty"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4570633
+    },
+    {
+      "id": "7597bd7c58ee",
+      "title": "Taxi",
+      "normalizedTitle": "taxi",
+      "trackNumber": 6,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Taxi.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Anushka Shetty"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4585633
+    }
+  ]
+}

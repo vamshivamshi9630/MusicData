@@ -1,0 +1,173 @@
+{
+  "album": {
+    "id": "56ebf3112a56",
+    "name": "They Call Him OG",
+    "year": 2024,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "They Call Him OG.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "32744eed4210",
+      "title": "Fire Storm Song",
+      "normalizedTitle": "fire storm song",
+      "trackNumber": 1,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Fire Storm Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Simbu",
+        "SS Thaman",
+        "Deepak Blue"
+      ],
+      "bitrate": 132327,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4318572
+    },
+    {
+      "id": "bba7091d28b9",
+      "title": "Guns And Roses Song",
+      "normalizedTitle": "guns and roses song",
+      "trackNumber": 2,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Guns And Roses Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S"
+      ],
+      "bitrate": 131396,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4555403
+    },
+    {
+      "id": "e2ac26501128",
+      "title": "Hungry Cheetah Song",
+      "normalizedTitle": "hungry cheetah song",
+      "trackNumber": 3,
+      "duration": "0:39",
+      "durationSeconds": 39,
+      "audio": "Hungry Cheetah Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 680940
+    },
+    {
+      "id": "67a4757712b6",
+      "title": "In The Streets of Fire Song",
+      "normalizedTitle": "in the streets of fire song",
+      "trackNumber": 4,
+      "duration": "1:59",
+      "durationSeconds": 119,
+      "audio": "In The Streets of Fire Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Harsha D"
+      ],
+      "bitrate": 121884,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2144997
+    },
+    {
+      "id": "d36a002acb7c",
+      "title": "Kiss Kiss Bang Bang Song",
+      "normalizedTitle": "kiss kiss bang bang song",
+      "trackNumber": 5,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Kiss Kiss Bang Bang Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "SS Thaman",
+        "Madhubanti Bagchi",
+        "Kumara Vagdevi"
+      ],
+      "bitrate": 135402,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4674366
+    },
+    {
+      "id": "bec11973b928",
+      "title": "Kiss Kiss Bang Bang",
+      "normalizedTitle": "kiss kiss bang bang",
+      "trackNumber": 6,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Kiss Kiss Bang Bang.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "SS Thaman",
+        "Madhubanti Bagchi",
+        "Kumara Vagdevi"
+      ],
+      "bitrate": 135402,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4674366
+    },
+    {
+      "id": "59bf6aa5375d",
+      "title": "Suvvi Suvvi Song",
+      "normalizedTitle": "suvvi suvvi song",
+      "trackNumber": 7,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Suvvi Suvvi Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11588925
+    },
+    {
+      "id": "5a3a9774f02b",
+      "title": "Trance of OMI Song",
+      "normalizedTitle": "trance of omi song",
+      "trackNumber": 8,
+      "duration": "2:53",
+      "durationSeconds": 173,
+      "audio": "Trance of OMI Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sruthi Ranjani"
+      ],
+      "bitrate": 130052,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3135739
+    },
+    {
+      "id": "3aab51b70f6b",
+      "title": "Washi O Washi Song",
+      "normalizedTitle": "washi o washi song",
+      "trackNumber": 9,
+      "duration": "1:52",
+      "durationSeconds": 112,
+      "audio": "Washi O Washi Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Pawan Kalyan"
+      ],
+      "bitrate": 120877,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2017031
+    }
+  ]
+}

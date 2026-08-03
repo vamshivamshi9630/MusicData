@@ -1,0 +1,82 @@
+{
+  "album": {
+    "id": "95a6729ebfb7",
+    "name": "Nava Manmadhudu",
+    "year": 2015,
+    "musicDirector": "Anirudh Ravichander",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nava Manmadhudu.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "53db4256778e",
+      "title": "Emannavoo Song",
+      "normalizedTitle": "emannavoo song",
+      "trackNumber": 1,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "Emannavoo Song.mp3",
+      "composer": "Music : Anirudh Ravichander | Lyricist : Rakendu Mouli",
+      "singers": [
+        "Shweta Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3480578
+    },
+    {
+      "id": "afb4333345c9",
+      "title": "Manasa Manasa Song",
+      "normalizedTitle": "manasa manasa song",
+      "trackNumber": 2,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Manasa Manasa Song.mp3",
+      "composer": "Music : Anirudh Ravichander | Lyricist : Rakendu Mouli",
+      "singers": [
+        "Dhanush & Sunitha Sarathy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4359580
+    },
+    {
+      "id": "e053cdc944a8",
+      "title": "Nee Takkari Look Ke Song",
+      "normalizedTitle": "nee takkari look ke song",
+      "trackNumber": 3,
+      "duration": "2:31",
+      "durationSeconds": 151,
+      "audio": "Nee Takkari Look Ke Song.mp3",
+      "composer": "Music : Anirudh Ravichander | Lyricist : Rakendu Mouli",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2479599
+    },
+    {
+      "id": "2e1c4f074bbf",
+      "title": "Odini Lali Song",
+      "normalizedTitle": "odini lali song",
+      "trackNumber": 4,
+      "duration": "2:57",
+      "durationSeconds": 177,
+      "audio": "Odini Lali Song.mp3",
+      "composer": "Music : Anirudh Ravichander | Lyricist : Vennelakanti",
+      "singers": [
+        "Dhanush & Shweta Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2887096
+    }
+  ]
+}

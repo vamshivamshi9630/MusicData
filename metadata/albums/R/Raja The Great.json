@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "53309e011d33",
+    "name": "Raja The Great",
+    "year": 2017,
+    "musicDirector": "Sai Kartheek",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Raja The Great.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c813277c3276",
+      "title": "Allabe Allabe Song",
+      "normalizedTitle": "allabe allabe song",
+      "trackNumber": 1,
+      "duration": "3:00",
+      "durationSeconds": 180,
+      "audio": "Allabe Allabe Song.mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3418579
+    },
+    {
+      "id": "92ef6d3a8493",
+      "title": "Chinnari Song",
+      "normalizedTitle": "chinnari song",
+      "trackNumber": 2,
+      "duration": "3:10",
+      "durationSeconds": 190,
+      "audio": "Chinnari Song.mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Haricharan",
+        "Divija Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3581583
+    },
+    {
+      "id": "de3a191f0aa3",
+      "title": "Gunna Gunna Mamidi Song",
+      "normalizedTitle": "gunna gunna mamidi song",
+      "trackNumber": 3,
+      "duration": "0:46",
+      "durationSeconds": 46,
+      "audio": "Gunna Gunna Mamidi Song.mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Sai Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1278685
+    },
+    {
+      "id": "a17de2d574b8",
+      "title": "Naake Ne Nachesthunna Song",
+      "normalizedTitle": "naake ne nachesthunna song",
+      "trackNumber": 4,
+      "duration": "3:21",
+      "durationSeconds": 201,
+      "audio": "Naake Ne Nachesthunna Song.mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Sameera Bharadwaj",
+        "M.L. Shruthi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3760233
+    },
+    {
+      "id": "fcf3ed0deccf",
+      "title": "Raja The Great Song",
+      "normalizedTitle": "raja the great song",
+      "trackNumber": 5,
+      "duration": "3:41",
+      "durationSeconds": 221,
+      "audio": "Raja The Great Song.mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Revanth",
+        "Saketh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4082851
+    },
+    {
+      "id": "6220a5707b29",
+      "title": "Yenniyalo Yenniyalo Song",
+      "normalizedTitle": "yenniyalo yenniyalo song",
+      "trackNumber": 6,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Yenniyalo Yenniyalo Song.mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Sai Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4493152
+    }
+  ]
+}

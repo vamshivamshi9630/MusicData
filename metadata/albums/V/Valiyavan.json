@@ -1,0 +1,135 @@
+{
+  "album": {
+    "id": "89b613e5cbfe",
+    "name": "Valiyavan",
+    "year": 2015,
+    "musicDirector": "D. Imman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Valiyavan.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "8ab20d90e7f1",
+      "title": "Aahaa Kathal Song",
+      "normalizedTitle": "aahaa kathal song",
+      "trackNumber": 1,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Aahaa Kathal Song.mp3",
+      "composer": "D.Imman",
+      "singers": [
+        "KG Ranjith"
+      ],
+      "bitrate": 126318,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4158472
+    },
+    {
+      "id": "f522a25eff9d",
+      "title": "Eyes on you Song",
+      "normalizedTitle": "eyes on you song",
+      "trackNumber": 2,
+      "duration": "2:45",
+      "durationSeconds": 165,
+      "audio": "Eyes on you Song.mp3",
+      "composer": "D.Imman",
+      "singers": [
+        "D.Imman"
+      ],
+      "bitrate": 119292,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2556461
+    },
+    {
+      "id": "13aa2fc36d0c",
+      "title": "Hello Hello Song",
+      "normalizedTitle": "hello hello song",
+      "trackNumber": 3,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Hello Hello Song.mp3",
+      "composer": "D.Imman",
+      "singers": [
+        "Papon"
+      ],
+      "bitrate": 132827,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4607368
+    },
+    {
+      "id": "2d0890ef9490",
+      "title": "Kathal Nallavan Song",
+      "normalizedTitle": "kathal nallavan song",
+      "trackNumber": 4,
+      "duration": "3:03",
+      "durationSeconds": 183,
+      "audio": "Kathal Nallavan Song.mp3",
+      "composer": "D.Imman",
+      "singers": [
+        "Snigdha Chandra",
+        "Elfe Choir"
+      ],
+      "bitrate": 128621,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3030363
+    },
+    {
+      "id": "deb2149420c5",
+      "title": "O Baby Come Song",
+      "normalizedTitle": "o baby come song",
+      "trackNumber": 5,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "O Baby Come Song.mp3",
+      "composer": "D.Imman",
+      "singers": [
+        "D.Imman",
+        "MLR Karthikeyan"
+      ],
+      "bitrate": 128737,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4203334
+    },
+    {
+      "id": "2bb5bb63d395",
+      "title": "Yelomia Song",
+      "normalizedTitle": "yelomia song",
+      "trackNumber": 6,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Yelomia Song.mp3",
+      "composer": "D.Imman",
+      "singers": [
+        "Sunidhi Chauhan"
+      ],
+      "bitrate": 123774,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3946277
+    },
+    {
+      "id": "a55e800f4c78",
+      "title": "Yelomia",
+      "normalizedTitle": "yelomia",
+      "trackNumber": 7,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Yelomia.mp3",
+      "composer": "D.Imman",
+      "singers": [
+        "D.Imman"
+      ],
+      "bitrate": 126145,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4020251
+    }
+  ]
+}

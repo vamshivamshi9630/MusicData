@@ -1,0 +1,152 @@
+{
+  "album": {
+    "id": "386a85d8c887",
+    "name": "Josh",
+    "year": 2009,
+    "musicDirector": "Sandeep Chowta",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Josh.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "d5a7ddb9cf6d",
+      "title": "Annayochinado (Bit Song) Song",
+      "normalizedTitle": "annayochinado bit song song",
+      "trackNumber": 1,
+      "duration": "0:51",
+      "durationSeconds": 51,
+      "audio": "Annayochinado (Bit Song) Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Ramana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 846460
+    },
+    {
+      "id": "f5d391c52bef",
+      "title": "Bad Bad Boy Song",
+      "normalizedTitle": "bad bad boy song",
+      "trackNumber": 2,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Bad Bad Boy Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4495230
+    },
+    {
+      "id": "92689d9b3dc5",
+      "title": "College Bulloda Song",
+      "normalizedTitle": "college bulloda song",
+      "trackNumber": 3,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "College Bulloda Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Vittal Rahul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3652632
+    },
+    {
+      "id": "1ee3e33f2213",
+      "title": "Diridiri Diridi Song",
+      "normalizedTitle": "diridiri diridi song",
+      "trackNumber": 4,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Diridiri Diridi Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Sandeep Chowta",
+        "Kunal Ganjawala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4649095
+    },
+    {
+      "id": "aa7b1710e158",
+      "title": "Evvariki Song",
+      "normalizedTitle": "evvariki song",
+      "trackNumber": 5,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Evvariki Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Rahul Vaidya",
+        "Ujjaini Mukherjee"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4792859
+    },
+    {
+      "id": "74897cd628cd",
+      "title": "Jigijikka (Bit Song) Song",
+      "normalizedTitle": "jigijikka bit song song",
+      "trackNumber": 6,
+      "duration": "1:12",
+      "durationSeconds": 72,
+      "audio": "Jigijikka (Bit Song) Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "G. Raju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1183747
+    },
+    {
+      "id": "f5ed8b77094c",
+      "title": "Me Me Meka (Bit Song) Song",
+      "normalizedTitle": "me me meka bit song song",
+      "trackNumber": 7,
+      "duration": "0:57",
+      "durationSeconds": 57,
+      "audio": "Me Me Meka (Bit Song) Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Chandrabose"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 940505
+    },
+    {
+      "id": "9f6b69f4b472",
+      "title": "Neetho Vunte Song",
+      "normalizedTitle": "neetho vunte song",
+      "trackNumber": 8,
+      "duration": "5:26",
+      "durationSeconds": 326,
+      "audio": "Neetho Vunte Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5240871
+    }
+  ]
+}

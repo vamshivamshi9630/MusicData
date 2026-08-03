@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "f713dc2d46af",
+    "name": "Uppu Karuvadu",
+    "year": 2015,
+    "musicDirector": "Steve Vatz",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Uppu Karuvadu.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "173936b9ea74",
+      "title": "Pudhu Oru Kadavu Song",
+      "normalizedTitle": "pudhu oru kadavu song",
+      "trackNumber": 1,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Pudhu Oru Kadavu Song.mp3",
+      "composer": "Steeve Vatz",
+      "singers": [
+        "Gautham Vasudev Menon"
+      ],
+      "bitrate": 132654,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3334510
+    },
+    {
+      "id": "4315573fb90a",
+      "title": "Uk Uk Song",
+      "normalizedTitle": "uk uk song",
+      "trackNumber": 2,
+      "duration": "1:24",
+      "durationSeconds": 84,
+      "audio": "Uk Uk Song.mp3",
+      "composer": "Steeve Vatz",
+      "singers": [
+        "Steeve Vatz"
+      ],
+      "bitrate": 128614,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1405534
+    },
+    {
+      "id": "dc0585af6a6e",
+      "title": "Uk Uk.mp Song",
+      "normalizedTitle": "uk ukmp song",
+      "trackNumber": 3,
+      "duration": "1:24",
+      "durationSeconds": 84,
+      "audio": "Uk Uk.mp Song.mp3",
+      "composer": "Steeve Vatz",
+      "singers": [
+        "Steeve Vatz"
+      ],
+      "bitrate": 130969,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1441861
+    },
+    {
+      "id": "c4f9af4b513a",
+      "title": "Uppu Karuvadu Song",
+      "normalizedTitle": "uppu karuvadu song",
+      "trackNumber": 4,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Uppu Karuvadu Song.mp3",
+      "composer": "Steeve Vatz",
+      "singers": [
+        "Velmurugan",
+        "M.M. Manasi"
+      ],
+      "bitrate": 131061,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3767520
+    }
+  ]
+}

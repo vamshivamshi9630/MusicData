@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "be8ba41c0c66",
+    "name": "Pavazha Malli",
+    "year": 2025,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Pavazha Malli.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "f66aab0bc554",
+      "title": "Pavazha Malli Song",
+      "normalizedTitle": "pavazha malli song",
+      "trackNumber": 1,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Pavazha Malli Song.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar‬",
+        "Shruti Haasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5380268
+    }
+  ]
+}

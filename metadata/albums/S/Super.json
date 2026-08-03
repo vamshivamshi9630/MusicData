@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "73d1b1b1bc1d",
+    "name": "Super",
+    "year": 2005,
+    "musicDirector": "Sandeep Chowta",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Super.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "45b57155599b",
+      "title": "Akkad Bakkad",
+      "normalizedTitle": "akkad bakkad",
+      "trackNumber": 1,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Akkad Bakkad.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Sonu Kakkar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4947600
+    },
+    {
+      "id": "b9611e77d9d6",
+      "title": "Chandramukhi",
+      "normalizedTitle": "chandramukhi",
+      "trackNumber": 2,
+      "duration": "5:25",
+      "durationSeconds": 325,
+      "audio": "Chandramukhi.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Sandeep Chowta"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5351779
+    },
+    {
+      "id": "8bf77b8bf795",
+      "title": "Gichchi Gichchi",
+      "normalizedTitle": "gichchi gichchi",
+      "trackNumber": 3,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Gichchi Gichchi.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Udit Narayan",
+        "Sowmya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4824340
+    },
+    {
+      "id": "57c8761c4071",
+      "title": "Masthana",
+      "normalizedTitle": "masthana",
+      "trackNumber": 4,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Masthana.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Sandeep Chowta",
+        "Nikita Nigam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4336570
+    },
+    {
+      "id": "19975154b42d",
+      "title": "Mila Mila",
+      "normalizedTitle": "mila mila",
+      "trackNumber": 5,
+      "duration": "5:36",
+      "durationSeconds": 336,
+      "audio": "Mila Mila.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Anushka Shetty"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5529378
+    },
+    {
+      "id": "db224f11a86c",
+      "title": "Mudduletti",
+      "normalizedTitle": "mudduletti",
+      "trackNumber": 6,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Mudduletti.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Sonu Nigam",
+        "Sonu Kakkar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4364587
+    }
+  ]
+}

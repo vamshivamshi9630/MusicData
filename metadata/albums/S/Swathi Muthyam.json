@@ -1,0 +1,150 @@
+{
+  "album": {
+    "id": "d7f3a8cf5fa5",
+    "name": "Swathi Muthyam",
+    "year": 2022,
+    "musicDirector": "Mahati Swara Sagar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Swathi Muthyam.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "5a56e1f5eb9e",
+      "title": "Chinnari Ponnari",
+      "normalizedTitle": "chinnari ponnari",
+      "trackNumber": 1,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Chinnari Ponnari.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4563322
+    },
+    {
+      "id": "e14b9c1f4cbb",
+      "title": "Dhrmam Sarnam",
+      "normalizedTitle": "dhrmam sarnam",
+      "trackNumber": 2,
+      "duration": "2:50",
+      "durationSeconds": 170,
+      "audio": "Dhrmam Sarnam.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2733915
+    },
+    {
+      "id": "19ba682eb6c9",
+      "title": "Manasu Palike",
+      "normalizedTitle": "manasu palike",
+      "trackNumber": 3,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Manasu Palike.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5343652
+    },
+    {
+      "id": "02602b88eaf8",
+      "title": "Pattucheera",
+      "normalizedTitle": "pattucheera",
+      "trackNumber": 4,
+      "duration": "1:19",
+      "durationSeconds": 79,
+      "audio": "Pattucheera.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1281089
+    },
+    {
+      "id": "e019caa2dbcc",
+      "title": "Raama Kanvemira",
+      "normalizedTitle": "raama kanvemira",
+      "trackNumber": 5,
+      "duration": "6:53",
+      "durationSeconds": 413,
+      "audio": "Raama Kanvemira.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6620935
+    },
+    {
+      "id": "6ad7782ed53b",
+      "title": "Suvvee Suvvee",
+      "normalizedTitle": "suvvee suvvee",
+      "trackNumber": 6,
+      "duration": "5:42",
+      "durationSeconds": 342,
+      "audio": "Suvvee Suvvee.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5488684
+    },
+    {
+      "id": "1b1a0f22386a",
+      "title": "Vatapathra Sayiki (Happy)",
+      "normalizedTitle": "vatapathra sayiki happy",
+      "trackNumber": 7,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Vatapathra Sayiki (Happy).mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4385690
+    },
+    {
+      "id": "3972d16e9ae6",
+      "title": "Vatapathra Sayiki (Sad)",
+      "normalizedTitle": "vatapathra sayiki sad",
+      "trackNumber": 8,
+      "duration": "1:03",
+      "durationSeconds": 63,
+      "audio": "Vatapathra Sayiki (Sad).mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1024880
+    }
+  ]
+}

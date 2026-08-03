@@ -1,0 +1,71 @@
+{
+  "album": {
+    "id": "a209bcaa7173",
+    "name": "Gopala Gopala",
+    "year": 2015,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gopala Gopala.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "b299364d371a",
+      "title": "Bhaje Bhaaje.Mp",
+      "normalizedTitle": "bhaje bhaajemp",
+      "trackNumber": 1,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Bhaje Bhaaje.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Venkatesh",
+        "Pawan Kalyan",
+        "Shriya Saran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3909143
+    },
+    {
+      "id": "d71e67f97e6c",
+      "title": "Enduko Enduko.Mp",
+      "normalizedTitle": "enduko endukomp",
+      "trackNumber": 2,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Enduko Enduko.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Venkatesh",
+        "Pawan Kalyan",
+        "Shriya Saran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4296597
+    },
+    {
+      "id": "1f33cf46719a",
+      "title": "Needhe Needhe.Mp",
+      "normalizedTitle": "needhe needhemp",
+      "trackNumber": 3,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Needhe Needhe.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Venkatesh",
+        "Pawan Kalyan",
+        "Shriya Saran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4020740
+    }
+  ]
+}

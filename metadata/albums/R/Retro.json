@@ -1,0 +1,66 @@
+{
+  "album": {
+    "id": "85e546430991",
+    "name": "Retro",
+    "year": 2020,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Retro.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "5d33476fde37",
+      "title": "Kanimaa Song",
+      "normalizedTitle": "kanimaa song",
+      "trackNumber": 1,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Kanimaa Song.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Santhosh Narayanan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4282724
+    },
+    {
+      "id": "e49e0372d966",
+      "title": "Kannadi Poove Song",
+      "normalizedTitle": "kannadi poove song",
+      "trackNumber": 2,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Kannadi Poove Song.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Santhosh Narayanan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10847609
+    },
+    {
+      "id": "90983a5c5b57",
+      "title": "The One Song",
+      "normalizedTitle": "the one song",
+      "trackNumber": 3,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "The One Song.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Sid Sriram",
+        "Santhosh Narayanan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9940288
+    }
+  ]
+}

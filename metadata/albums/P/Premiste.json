@@ -1,0 +1,140 @@
+{
+  "album": {
+    "id": "e6af389fd63f",
+    "name": "Premiste",
+    "year": 2004,
+    "musicDirector": "Joshua Sridhar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "dd60b5da7e5f",
+      "title": "Gira Gira Song",
+      "normalizedTitle": "gira gira song",
+      "trackNumber": 1,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Gira Gira Song.mp3",
+      "composer": "Joshua Sridhar",
+      "singers": [
+        "Shalini Singh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4881384
+    },
+    {
+      "id": "f639b3f94897",
+      "title": "Ithade Song",
+      "normalizedTitle": "ithade song",
+      "trackNumber": 2,
+      "duration": "2:09",
+      "durationSeconds": 129,
+      "audio": "Ithade Song.mp3",
+      "composer": "Joshua Sridhar",
+      "singers": [
+        "Sunita Sarathy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2089831
+    },
+    {
+      "id": "7d09c970f298",
+      "title": "Janma Needhe Song",
+      "normalizedTitle": "janma needhe song",
+      "trackNumber": 3,
+      "duration": "6:16",
+      "durationSeconds": 376,
+      "audio": "Janma Needhe Song.mp3",
+      "composer": "Joshua Sridhar",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6049984
+    },
+    {
+      "id": "51feeb055c3a",
+      "title": "Mattilanti Song",
+      "normalizedTitle": "mattilanti song",
+      "trackNumber": 4,
+      "duration": "6:17",
+      "durationSeconds": 377,
+      "audio": "Mattilanti Song.mp3",
+      "composer": "Joshua Sridhar",
+      "singers": [
+        "Haricharan",
+        "Harini Sudhakar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6060477
+    },
+    {
+      "id": "f75ddf893638",
+      "title": "Moolasandhu Song",
+      "normalizedTitle": "moolasandhu song",
+      "trackNumber": 5,
+      "duration": "6:03",
+      "durationSeconds": 363,
+      "audio": "Moolasandhu Song.mp3",
+      "composer": "Joshua Sridhar",
+      "singers": [
+        "Karthik",
+        "Tippu",
+        "Srivardhini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5840214
+    },
+    {
+      "id": "9115530ed6b3",
+      "title": "Puvvu Nacchenu Song",
+      "normalizedTitle": "puvvu nacchenu song",
+      "trackNumber": 6,
+      "duration": "3:31",
+      "durationSeconds": 211,
+      "audio": "Puvvu Nacchenu Song.mp3",
+      "composer": "Joshua Sridhar",
+      "singers": [
+        "Karthik",
+        "Tippu",
+        "Shalini Singh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3411046
+    },
+    {
+      "id": "1ddc111435c9",
+      "title": "Thandana Dappulatho Song",
+      "normalizedTitle": "thandana dappulatho song",
+      "trackNumber": 7,
+      "duration": "5:41",
+      "durationSeconds": 341,
+      "audio": "Thandana Dappulatho Song.mp3",
+      "composer": "Joshua Sridhar",
+      "singers": [
+        "Malathi",
+        "Srivardhini",
+        "Shalini Singh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5480801
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "b06514d8bc65",
+    "name": "Krishna",
+    "year": 2008,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Krishna.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "66a02ae66c78",
+      "title": "Adaragottu Kottu.Mp",
+      "normalizedTitle": "adaragottu kottump",
+      "trackNumber": 1,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Adaragottu Kottu.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Vaasu",
+        "Shivani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4701518
+    },
+    {
+      "id": "647d17fd7e3e",
+      "title": "Dil Maange More.MP",
+      "normalizedTitle": "dil maange moremp",
+      "trackNumber": 2,
+      "duration": "3:45",
+      "durationSeconds": 225,
+      "audio": "Dil Maange More.MP.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Kunal",
+        "Ganjawala",
+        "Mahalakshmi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3653292
+    },
+    {
+      "id": "2d652ede8883",
+      "title": "Muripinche Maina.MP",
+      "normalizedTitle": "muripinche mainamp",
+      "trackNumber": 3,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Muripinche Maina.MP.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Farid",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4465361
+    },
+    {
+      "id": "c773c16c73a4",
+      "title": "Nee Soku Mada.MP",
+      "normalizedTitle": "nee soku madamp",
+      "trackNumber": 4,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Nee Soku Mada.MP.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4042362
+    },
+    {
+      "id": "8eeeb6c09bfe",
+      "title": "Tarattha Yettuku..MP",
+      "normalizedTitle": "tarattha yettukump",
+      "trackNumber": 5,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Tarattha Yettuku..MP.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Raghu Kunche",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4482523
+    },
+    {
+      "id": "ddd8538431d0",
+      "title": "Tu Mera Jil Jil.MP",
+      "normalizedTitle": "tu mera jil jilmp",
+      "trackNumber": 6,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Tu Mera Jil Jil.MP.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Udit Narayan",
+        "Sadhana Sargam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4669767
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "album": {
+    "id": "3c45d3b34e66",
+    "name": "Gorintaku",
+    "year": 2008,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gorintaku.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "7562216a39fc",
+      "title": "Anna Chellela Song",
+      "normalizedTitle": "anna chellela song",
+      "trackNumber": 1,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Anna Chellela Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "K S Chitra",
+        "SP Balu"
+      ],
+      "bitrate": 229191,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9272286
+    },
+    {
+      "id": "77bdc69f8b0e",
+      "title": "Chellaye Illali Song",
+      "normalizedTitle": "chellaye illali song",
+      "trackNumber": 2,
+      "duration": "1:51",
+      "durationSeconds": 111,
+      "audio": "Chellaye Illali Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Goopila",
+        "Poornima"
+      ],
+      "bitrate": 215193,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3058191
+    },
+    {
+      "id": "5c0ed5ef6012",
+      "title": "Dum Dum Dum Song",
+      "normalizedTitle": "dum dum dum song",
+      "trackNumber": 3,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Dum Dum Dum Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Goopika Poornima",
+        "Udit Narayana"
+      ],
+      "bitrate": 231520,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8731551
+    },
+    {
+      "id": "be7341bf0d96",
+      "title": "Karuna Kuriyu Song",
+      "normalizedTitle": "karuna kuriyu song",
+      "trackNumber": 4,
+      "duration": "2:36",
+      "durationSeconds": 156,
+      "audio": "Karuna Kuriyu Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Hema",
+        "Mano",
+        "Priya Prakash"
+      ],
+      "bitrate": 230997,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4586084
+    },
+    {
+      "id": "0ae15bec39cc",
+      "title": "Rajugari Thotalona Song",
+      "normalizedTitle": "rajugari thotalona song",
+      "trackNumber": 5,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Rajugari Thotalona Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Mano",
+        "Sujatha",
+        "Sunitha"
+      ],
+      "bitrate": 226729,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9353211
+    },
+    {
+      "id": "37e3430dd92a",
+      "title": "Yelo Yelo Illalai Song",
+      "normalizedTitle": "yelo yelo illalai song",
+      "trackNumber": 6,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Yelo Yelo Illalai Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Roshini",
+        "Tippu"
+      ],
+      "bitrate": 233549,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8071618
+    },
+    {
+      "id": "2e8d692dc0aa",
+      "title": "Yeradilo Koila Song",
+      "normalizedTitle": "yeradilo koila song",
+      "trackNumber": 7,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Yeradilo Koila Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "K S Chitra"
+      ],
+      "bitrate": 226089,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7600961
+    }
+  ]
+}

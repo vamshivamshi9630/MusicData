@@ -1,0 +1,152 @@
+{
+  "album": {
+    "id": "4b039338a051",
+    "name": "Maharshi",
+    "year": 2019,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Maharshi.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "e01aaa36023d",
+      "title": "Choti Choti Baatein Song",
+      "normalizedTitle": "choti choti baatein song",
+      "trackNumber": 1,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Choti Choti Baatein Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4687234
+    },
+    {
+      "id": "a2a992997ce8",
+      "title": "Everest Anchuna Song",
+      "normalizedTitle": "everest anchuna song",
+      "trackNumber": 2,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Everest Anchuna Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Hemachandra",
+        "Vishnupriya Ravi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3582601
+    },
+    {
+      "id": "3956a9976652",
+      "title": "Idhe Kadha Nee Katha Song",
+      "normalizedTitle": "idhe kadha nee katha song",
+      "trackNumber": 3,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Idhe Kadha Nee Katha Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3095296
+    },
+    {
+      "id": "7b37c2012794",
+      "title": "Nuvvani Idhi Needani Song",
+      "normalizedTitle": "nuvvani idhi needani song",
+      "trackNumber": 4,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Nuvvani Idhi Needani Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4522624
+    },
+    {
+      "id": "aac24487107e",
+      "title": "Nuvve Samastham Song",
+      "normalizedTitle": "nuvve samastham song",
+      "trackNumber": 5,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Nuvve Samastham Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4786850
+    },
+    {
+      "id": "6f147a8f6cdf",
+      "title": "Paala Pitta Song",
+      "normalizedTitle": "paala pitta song",
+      "trackNumber": 6,
+      "duration": "3:19",
+      "durationSeconds": 199,
+      "audio": "Paala Pitta Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Rahul Sipligunj",
+        "M. M. Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3633533
+    },
+    {
+      "id": "e78cda7182b9",
+      "title": "Padara Padara Song",
+      "normalizedTitle": "padara padara song",
+      "trackNumber": 7,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Padara Padara Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5095350
+    },
+    {
+      "id": "1ee7b1766bf2",
+      "title": "Phir Shuru Song",
+      "normalizedTitle": "phir shuru song",
+      "trackNumber": 8,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Phir Shuru Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Benny Dayal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4466732
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "add8bed82dd5",
+    "name": "Rhythm",
+    "year": 2000,
+    "musicDirector": "A.R. Rahman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Rhythm.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "ccf169ce888d",
+      "title": "Ayyo Paadu Chichu",
+      "normalizedTitle": "ayyo paadu chichu",
+      "trackNumber": 1,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Ayyo Paadu Chichu.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5165646
+    },
+    {
+      "id": "a65ef12b2cee",
+      "title": "Gaale Naa Vaakitikot",
+      "normalizedTitle": "gaale naa vaakitikot",
+      "trackNumber": 2,
+      "duration": "6:16",
+      "durationSeconds": 376,
+      "audio": "Gaale Naa Vaakitikot.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6040447
+    },
+    {
+      "id": "14eafdf86710",
+      "title": "Ichate Nenichate",
+      "normalizedTitle": "ichate nenichate",
+      "trackNumber": 3,
+      "duration": "5:26",
+      "durationSeconds": 326,
+      "audio": "Ichate Nenichate.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5243385
+    },
+    {
+      "id": "523882c15500",
+      "title": "Kadhile Nadiche",
+      "normalizedTitle": "kadhile nadiche",
+      "trackNumber": 4,
+      "duration": "6:48",
+      "durationSeconds": 408,
+      "audio": "Kadhile Nadiche.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6552849
+    },
+    {
+      "id": "59a56828d5ab",
+      "title": "Prema Idhi Nijamena",
+      "normalizedTitle": "prema idhi nijamena",
+      "trackNumber": 5,
+      "duration": "5:56",
+      "durationSeconds": 356,
+      "audio": "Prema Idhi Nijamena.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5733657
+    }
+  ]
+}

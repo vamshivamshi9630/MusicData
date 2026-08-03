@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "289d9fb50f29",
+    "name": "Wife Of V. Varaprasad",
+    "year": 1998,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Wife Of V. Varaprasad.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "dab388d6e153",
+      "title": "Andam Emitante Song",
+      "normalizedTitle": "andam emitante song",
+      "trackNumber": 1,
+      "duration": "5:28",
+      "durationSeconds": 328,
+      "audio": "Andam Emitante Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 238950,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9830665
+    },
+    {
+      "id": "1aede7bbbd90",
+      "title": "Ekkadiki Nee Parugu Song",
+      "normalizedTitle": "ekkadiki nee parugu song",
+      "trackNumber": 2,
+      "duration": "5:28",
+      "durationSeconds": 328,
+      "audio": "Ekkadiki Nee Parugu Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 244077,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10046724
+    },
+    {
+      "id": "6d6fe11883b6",
+      "title": "Mosalu Matalabu Song",
+      "normalizedTitle": "mosalu matalabu song",
+      "trackNumber": 3,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Mosalu Matalabu Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 233415,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8418260
+    },
+    {
+      "id": "189db209618e",
+      "title": "Naa Kannulalo Song",
+      "normalizedTitle": "naa kannulalo song",
+      "trackNumber": 4,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Naa Kannulalo Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 254643,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8638135
+    },
+    {
+      "id": "3517ca2deb44",
+      "title": "Peru Cheppave Song",
+      "normalizedTitle": "peru cheppave song",
+      "trackNumber": 5,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Peru Cheppave Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 235772,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7641575
+    }
+  ]
+}

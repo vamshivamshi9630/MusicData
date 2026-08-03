@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "0097667c5c85",
+    "name": "Bujjigadu",
+    "year": 2008,
+    "musicDirector": "Sandeep Chowta",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bujjigadu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "4b37c7ddfbdd",
+      "title": "Chitti Aayire.Mp",
+      "normalizedTitle": "chitti aayiremp",
+      "trackNumber": 1,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Chitti Aayire.Mp.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Pradeep Somasundaran",
+        "Sonu Kakkar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4726459
+    },
+    {
+      "id": "c426e3c0d79c",
+      "title": "Dhadak Dhadak.Mp",
+      "normalizedTitle": "dhadak dhadakmp",
+      "trackNumber": 2,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Dhadak Dhadak.Mp.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Sandeep Chowta",
+        "Nikita Nigam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4134193
+    },
+    {
+      "id": "2dc58a383396",
+      "title": "Guchchi Guchchi.Mp",
+      "normalizedTitle": "guchchi guchchimp",
+      "trackNumber": 3,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Guchchi Guchchi.Mp.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Shruti Patak"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3183308
+    },
+    {
+      "id": "b6d923c4850f",
+      "title": "Love Me.Mp",
+      "normalizedTitle": "love memp",
+      "trackNumber": 4,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Love Me.Mp.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Sandeep Chowta",
+        "Nikita Nigam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4030527
+    },
+    {
+      "id": "7350662b91a5",
+      "title": "Sudu Sude.Mp",
+      "normalizedTitle": "sudu sudemp",
+      "trackNumber": 5,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Sudu Sude.Mp.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Sandeep Chowta",
+        "Shruti Patak"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4093233
+    },
+    {
+      "id": "51b4bdb89b48",
+      "title": "Talaiva.Mp",
+      "normalizedTitle": "talaivamp",
+      "trackNumber": 6,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Talaiva.Mp.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Mark Lazaro",
+        "Anaida"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3976183
+    }
+  ]
+}

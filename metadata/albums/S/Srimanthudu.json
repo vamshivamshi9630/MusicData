@@ -1,0 +1,123 @@
+{
+  "album": {
+    "id": "c39d02862470",
+    "name": "Srimanthudu",
+    "year": 2015,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Srimanthudu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "a67347cc9e80",
+      "title": "Charuseela Song",
+      "normalizedTitle": "charuseela song",
+      "trackNumber": 1,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Charuseela Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Yazin Nizar",
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4188045
+    },
+    {
+      "id": "fd47b83720b9",
+      "title": "Dhimmathirigae Song",
+      "normalizedTitle": "dhimmathirigae song",
+      "trackNumber": 2,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Dhimmathirigae Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Simha",
+        "Geetha Madhuri",
+        "Priya Hemesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4599339
+    },
+    {
+      "id": "0ccce722730b",
+      "title": "Jaago Song",
+      "normalizedTitle": "jaago song",
+      "trackNumber": 3,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Jaago Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Raghu Dixit",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4124066
+    },
+    {
+      "id": "1319a909591b",
+      "title": "Jatha Kalise Song",
+      "normalizedTitle": "jatha kalise song",
+      "trackNumber": 4,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Jatha Kalise Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3687726
+    },
+    {
+      "id": "a3faae7f7596",
+      "title": "Rama Rama Song",
+      "normalizedTitle": "rama rama song",
+      "trackNumber": 5,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Rama Rama Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sooraj Santhosh",
+        "Ranina Reddy",
+        "Mlr Karthikeyan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4272925
+    },
+    {
+      "id": "d68fddec29c8",
+      "title": "Srimanthuda Song",
+      "normalizedTitle": "srimanthuda song",
+      "trackNumber": 6,
+      "duration": "2:03",
+      "durationSeconds": 123,
+      "audio": "Srimanthuda Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mlr Karthikeyan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2080671
+    }
+  ]
+}

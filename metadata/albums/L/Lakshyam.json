@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "9a0a396cee7d",
+    "name": "Lakshyam",
+    "year": 2007,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Lakshyam.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "1abe0a38a72c",
+      "title": "Chekkara Keli Song",
+      "normalizedTitle": "chekkara keli song",
+      "trackNumber": 1,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Chekkara Keli Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4252431
+    },
+    {
+      "id": "f4c87913d68d",
+      "title": "Gullo Devudu Song",
+      "normalizedTitle": "gullo devudu song",
+      "trackNumber": 2,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Gullo Devudu Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4123698
+    },
+    {
+      "id": "ed7d7cc1d26b",
+      "title": "Naa Coffee Song",
+      "normalizedTitle": "naa coffee song",
+      "trackNumber": 3,
+      "duration": "5:07",
+      "durationSeconds": 307,
+      "audio": "Naa Coffee Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4940386
+    },
+    {
+      "id": "e92dcc3fdcdc",
+      "title": "Niluvave Song",
+      "normalizedTitle": "niluvave song",
+      "trackNumber": 4,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Niluvave Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3036996
+    },
+    {
+      "id": "37870af8d51c",
+      "title": "Sukku Sukku Song",
+      "normalizedTitle": "sukku sukku song",
+      "trackNumber": 5,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Sukku Sukku Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4040940
+    }
+  ]
+}

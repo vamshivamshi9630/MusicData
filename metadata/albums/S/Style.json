@@ -1,0 +1,134 @@
+{
+  "album": {
+    "id": "cb86eb2d914d",
+    "name": "Style",
+    "year": 2006,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Style.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "1d1b87f79cf1",
+      "title": "Chiru Cheyyesthe Song",
+      "normalizedTitle": "chiru cheyyesthe song",
+      "trackNumber": 1,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Chiru Cheyyesthe Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Mano"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4214397
+    },
+    {
+      "id": "d3dccf3e541c",
+      "title": "Merupisaagara Song",
+      "normalizedTitle": "merupisaagara song",
+      "trackNumber": 2,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Merupisaagara Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4554610
+    },
+    {
+      "id": "5b2843194644",
+      "title": "Ra Ra Rammantunna Song",
+      "normalizedTitle": "ra ra rammantunna song",
+      "trackNumber": 3,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Ra Ra Rammantunna Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5207448
+    },
+    {
+      "id": "2556e300cb6f",
+      "title": "Rock & Roll Song",
+      "normalizedTitle": "rock roll song",
+      "trackNumber": 4,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Rock & Roll Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "KK"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4460151
+    },
+    {
+      "id": "0a30ca94b8d9",
+      "title": "Style Style Song",
+      "normalizedTitle": "style style song",
+      "trackNumber": 5,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Style Style Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ravi Varma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4585953
+    },
+    {
+      "id": "9fe84cfce4ad",
+      "title": "Thadava Thadavaku Song",
+      "normalizedTitle": "thadava thadavaku song",
+      "trackNumber": 6,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Thadava Thadavaku Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Karthik",
+        "Mahalakshmi Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4460151
+    },
+    {
+      "id": "90fb4f51b5a6",
+      "title": "Yedalo Yedo Song",
+      "normalizedTitle": "yedalo yedo song",
+      "trackNumber": 7,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Yedalo Yedo Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5027314
+    }
+  ]
+}

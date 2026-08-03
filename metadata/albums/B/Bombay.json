@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "d9bb8452ecaf",
+    "name": "Bombay",
+    "year": 1995,
+    "musicDirector": "A.R. Rahman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bombay.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "e1efacfcb5c0",
+      "title": "Adi Arabi Kadalandam Song",
+      "normalizedTitle": "adi arabi kadalandam song",
+      "trackNumber": 1,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Adi Arabi Kadalandam Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5069888
+    },
+    {
+      "id": "addcdde2cf1d",
+      "title": "Bombay Theme (Instrumental) Song",
+      "normalizedTitle": "bombay theme instrumental song",
+      "trackNumber": 2,
+      "duration": "5:14",
+      "durationSeconds": 314,
+      "audio": "Bombay Theme (Instrumental) Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5041885
+    },
+    {
+      "id": "0be64c1f4bd6",
+      "title": "Kannanule Song",
+      "normalizedTitle": "kannanule song",
+      "trackNumber": 3,
+      "duration": "5:54",
+      "durationSeconds": 354,
+      "audio": "Kannanule Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5679690
+    },
+    {
+      "id": "71806cd0578f",
+      "title": "Kuchi Kuchi Konamma Song",
+      "normalizedTitle": "kuchi kuchi konamma song",
+      "trackNumber": 4,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Kuchi Kuchi Konamma Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4906048
+    },
+    {
+      "id": "b699d31a5fd0",
+      "title": "Poolakundi Komma Song",
+      "normalizedTitle": "poolakundi komma song",
+      "trackNumber": 5,
+      "duration": "5:56",
+      "durationSeconds": 356,
+      "audio": "Poolakundi Komma Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5706858
+    },
+    {
+      "id": "c0c16c0d6438",
+      "title": "Vurike Chilakaa Song",
+      "normalizedTitle": "vurike chilakaa song",
+      "trackNumber": 6,
+      "duration": "7:17",
+      "durationSeconds": 437,
+      "audio": "Vurike Chilakaa Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7012144
+    }
+  ]
+}

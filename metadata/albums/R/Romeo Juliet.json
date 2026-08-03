@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "22f36fba4c91",
+    "name": "Romeo Juliet",
+    "year": 2015,
+    "musicDirector": "D. Imman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Romeo Juliet.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c7c0e4947af0",
+      "title": "Adiyae Ivale Song",
+      "normalizedTitle": "adiyae ivale song",
+      "trackNumber": 1,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Adiyae Ivale Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Jayam Ravi",
+        "Hansika"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5824577
+    },
+    {
+      "id": "29a539ca2fae",
+      "title": "Dandanakka Song",
+      "normalizedTitle": "dandanakka song",
+      "trackNumber": 2,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Dandanakka Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Jayam Ravi",
+        "Hansika"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5282221
+    },
+    {
+      "id": "1a7445fb08e5",
+      "title": "Idharkuthane Asapatte Song",
+      "normalizedTitle": "idharkuthane asapatte song",
+      "trackNumber": 3,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Idharkuthane Asapatte Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Jayam Ravi",
+        "Hansika"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4900669
+    },
+    {
+      "id": "193c0559a14d",
+      "title": "Romeo Romeo Song",
+      "normalizedTitle": "romeo romeo song",
+      "trackNumber": 4,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Romeo Romeo Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Jayam Ravi",
+        "Hansika"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5514529
+    },
+    {
+      "id": "fc796ae55278",
+      "title": "Thoovanam Reprise Song",
+      "normalizedTitle": "thoovanam reprise song",
+      "trackNumber": 5,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Thoovanam Reprise Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Jayam Ravi",
+        "Hansika"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5911243
+    },
+    {
+      "id": "7decb842b757",
+      "title": "Thoovanam Song",
+      "normalizedTitle": "thoovanam song",
+      "trackNumber": 6,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Thoovanam Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Jayam Ravi",
+        "Hansika"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5389779
+    }
+  ]
+}

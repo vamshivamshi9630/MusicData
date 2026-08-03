@@ -1,0 +1,224 @@
+{
+  "album": {
+    "id": "8b43848ad5ae",
+    "name": "Jayam",
+    "year": 2002,
+    "musicDirector": "R. P. Patnaik",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jayam.png",
+    "songCount": 12
+  },
+  "songs": [
+    {
+      "id": "c70a09757ffa",
+      "title": "Dushkara",
+      "normalizedTitle": "dushkara",
+      "trackNumber": 1,
+      "duration": "1:09",
+      "durationSeconds": 69,
+      "audio": "Dushkara.mp3",
+      "composer": "R.P Patnaik",
+      "singers": [
+        "R.P Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1176568
+    },
+    {
+      "id": "367ef59ee117",
+      "title": "Enduko (Female)",
+      "normalizedTitle": "enduko female",
+      "trackNumber": 2,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Enduko (Female).mp3",
+      "composer": "R.P Patnaik",
+      "singers": [
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4692023
+    },
+    {
+      "id": "3beed423ba29",
+      "title": "Enduko (Male)",
+      "normalizedTitle": "enduko male",
+      "trackNumber": 3,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Enduko (Male).mp3",
+      "composer": "R.P Patnaik",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4755147
+    },
+    {
+      "id": "3d9062e0e4d2",
+      "title": "Evvaru Emanna",
+      "normalizedTitle": "evvaru emanna",
+      "trackNumber": 4,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Evvaru Emanna.mp3",
+      "composer": "R.P Patnaik",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4004086
+    },
+    {
+      "id": "334ada8fea8b",
+      "title": "Goranta Prema",
+      "normalizedTitle": "goranta prema",
+      "trackNumber": 5,
+      "duration": "1:08",
+      "durationSeconds": 68,
+      "audio": "Goranta Prema.mp3",
+      "composer": "R.P Patnaik",
+      "singers": [
+        "R.P. Patnaik",
+        "Gayatri Asokan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1159048
+    },
+    {
+      "id": "6636eb67da7f",
+      "title": "Jayam",
+      "normalizedTitle": "jayam",
+      "trackNumber": 6,
+      "duration": "1:50",
+      "durationSeconds": 110,
+      "audio": "Jayam.mp3",
+      "composer": "R.P Patnaik",
+      "singers": [
+        "R.P Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1844877
+    },
+    {
+      "id": "0c6cf1a664b7",
+      "title": "Nestamaa",
+      "normalizedTitle": "nestamaa",
+      "trackNumber": 7,
+      "duration": "1:24",
+      "durationSeconds": 84,
+      "audio": "Nestamaa.mp3",
+      "composer": "R.P Patnaik",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1413563
+    },
+    {
+      "id": "e10567d6b511",
+      "title": "Prema O Prema",
+      "normalizedTitle": "prema o prema",
+      "trackNumber": 8,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Prema O Prema.mp3",
+      "composer": "R.P Patnaik",
+      "singers": [
+        "KK"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3409720
+    },
+    {
+      "id": "cf50b17e0854",
+      "title": "Priyathama",
+      "normalizedTitle": "priyathama",
+      "trackNumber": 9,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Priyathama.mp3",
+      "composer": "R.P Patnaik",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4903108
+    },
+    {
+      "id": "5cd49f6fb66f",
+      "title": "Ranu Ranu",
+      "normalizedTitle": "ranu ranu",
+      "trackNumber": 10,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Ranu Ranu.mp3",
+      "composer": "R.P Patnaik",
+      "singers": [
+        "Teja"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4708355
+    },
+    {
+      "id": "79df405b6399",
+      "title": "Sabbasi",
+      "normalizedTitle": "sabbasi",
+      "trackNumber": 11,
+      "duration": "5:34",
+      "durationSeconds": 334,
+      "audio": "Sabbasi.mp3",
+      "composer": "R.P Patnaik",
+      "singers": [
+        "Ravi Varma",
+        "Balaji",
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5429359
+    },
+    {
+      "id": "6c6dc6bc95f8",
+      "title": "Veeri Veeri",
+      "normalizedTitle": "veeri veeri",
+      "trackNumber": 12,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Veeri Veeri.mp3",
+      "composer": "R.P Patnaik",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3476204
+    }
+  ]
+}

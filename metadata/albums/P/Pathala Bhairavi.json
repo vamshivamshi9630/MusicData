@@ -1,0 +1,184 @@
+{
+  "album": {
+    "id": "bd3fcdf376f3",
+    "name": "Pathala Bhairavi",
+    "year": 1951,
+    "musicDirector": "Ghantasala",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 10
+  },
+  "songs": [
+    {
+      "id": "28d0da9a1523",
+      "title": "Ithihasam Vinnara Song",
+      "normalizedTitle": "ithihasam vinnara song",
+      "trackNumber": 1,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Ithihasam Vinnara Song.mp3",
+      "composer": "Ghantasala",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8171904
+    },
+    {
+      "id": "95b40086ceb0",
+      "title": "Kalavaramaye Song",
+      "normalizedTitle": "kalavaramaye song",
+      "trackNumber": 2,
+      "duration": "3:04",
+      "durationSeconds": 184,
+      "audio": "Kalavaramaye Song.mp3",
+      "composer": "Ghantasala",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7395832
+    },
+    {
+      "id": "cd5c4fabd741",
+      "title": "Kanugona Galano Song",
+      "normalizedTitle": "kanugona galano song",
+      "trackNumber": 3,
+      "duration": "2:48",
+      "durationSeconds": 168,
+      "audio": "Kanugona Galano Song.mp3",
+      "composer": "Ghantasala",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6745344
+    },
+    {
+      "id": "643f5cd587b6",
+      "title": "Pranaya Jeevulaku Haayiga Song",
+      "normalizedTitle": "pranaya jeevulaku haayiga song",
+      "trackNumber": 4,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Pranaya Jeevulaku Haayiga Song.mp3",
+      "composer": "Ghantasala",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6676942
+    },
+    {
+      "id": "a55439d9f800",
+      "title": "Prema Kosamai Valalo Song",
+      "normalizedTitle": "prema kosamai valalo song",
+      "trackNumber": 5,
+      "duration": "2:48",
+      "durationSeconds": 168,
+      "audio": "Prema Kosamai Valalo Song.mp3",
+      "composer": "Ghantasala",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6762624
+    },
+    {
+      "id": "f0147d056b16",
+      "title": "Ranathae Raneravoyi Song",
+      "normalizedTitle": "ranathae raneravoyi song",
+      "trackNumber": 6,
+      "duration": "1:24",
+      "durationSeconds": 84,
+      "audio": "Ranathae Raneravoyi Song.mp3",
+      "composer": "Ghantasala",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3380544
+    },
+    {
+      "id": "2d4e1d0fac09",
+      "title": "Theeyani Oohalu Song",
+      "normalizedTitle": "theeyani oohalu song",
+      "trackNumber": 7,
+      "duration": "2:51",
+      "durationSeconds": 171,
+      "audio": "Theeyani Oohalu Song.mp3",
+      "composer": "Ghantasala",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6848305
+    },
+    {
+      "id": "a08357ddd1c4",
+      "title": "Vagalo Vagalu Song",
+      "normalizedTitle": "vagalo vagalu song",
+      "trackNumber": 8,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Vagalo Vagalu Song.mp3",
+      "composer": "Ghantasala",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 10336704
+    },
+    {
+      "id": "5311098f1121",
+      "title": "Vinave Bala Song",
+      "normalizedTitle": "vinave bala song",
+      "trackNumber": 9,
+      "duration": "2:39",
+      "durationSeconds": 159,
+      "audio": "Vinave Bala Song.mp3",
+      "composer": "Ghantasala",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6366144
+    },
+    {
+      "id": "476c7cbfdf3f",
+      "title": "Yenthaghatu Premayo Song",
+      "normalizedTitle": "yenthaghatu premayo song",
+      "trackNumber": 10,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Yenthaghatu Premayo Song.mp3",
+      "composer": "Ghantasala",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8312207
+    }
+  ]
+}

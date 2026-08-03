@@ -1,0 +1,235 @@
+{
+  "album": {
+    "id": "f4ff23313dd4",
+    "name": "Rajanna",
+    "year": 2011,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Rajanna.png",
+    "songCount": 12
+  },
+  "songs": [
+    {
+      "id": "c543e341fbbd",
+      "title": "Amma Avanee Song",
+      "normalizedTitle": "amma avanee song",
+      "trackNumber": 1,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Amma Avanee Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : K Sivadatta",
+      "singers": [
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4519537
+    },
+    {
+      "id": "8006c23ac2fa",
+      "title": "Chittiguvva Song",
+      "normalizedTitle": "chittiguvva song",
+      "trackNumber": 2,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Chittiguvva Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Ananth Sriram",
+      "singers": [
+        "Shivani",
+        "Venu",
+        "Sanjeev Chaimmalgi",
+        "B. Ramya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3220176
+    },
+    {
+      "id": "4106b8795c87",
+      "title": "Dorasaani Koradaa Song",
+      "normalizedTitle": "dorasaani koradaa song",
+      "trackNumber": 3,
+      "duration": "1:10",
+      "durationSeconds": 70,
+      "audio": "Dorasaani Koradaa Song.mp3",
+      "composer": "Music : M.M. Keeravani",
+      "singers": [
+        "Amrithavarshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1203847
+    },
+    {
+      "id": "07e83d032637",
+      "title": "Gjijigadu Song",
+      "normalizedTitle": "gjijigadu song",
+      "trackNumber": 4,
+      "duration": "2:53",
+      "durationSeconds": 173,
+      "audio": "Gjijigadu Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : K Sivadatta",
+      "singers": [
+        "Sanjeev Chimmalgi",
+        "Kaala Bhairava (Humming)"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2846513
+    },
+    {
+      "id": "27597663c525",
+      "title": "Goodu Chediri Koila Song",
+      "normalizedTitle": "goodu chediri koila song",
+      "trackNumber": 5,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Goodu Chediri Koila Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : K Sivadatta",
+      "singers": [
+        "Shweta Pandit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3575393
+    },
+    {
+      "id": "cc5e548bb771",
+      "title": "Kaaligajja Song",
+      "normalizedTitle": "kaaligajja song",
+      "trackNumber": 6,
+      "duration": "1:34",
+      "durationSeconds": 94,
+      "audio": "Kaaligajja Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Mettapalli Surender",
+      "singers": [
+        "Mettapalli Surender",
+        "Chaitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1588861
+    },
+    {
+      "id": "32d46c4b0de3",
+      "title": "Karakuraathi Gundell Song",
+      "normalizedTitle": "karakuraathi gundell song",
+      "trackNumber": 7,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Karakuraathi Gundell Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : K Sivadatta",
+      "singers": [
+        "M.M. Keeravani",
+        "Kailash Kher"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3467594
+    },
+    {
+      "id": "9633aa90c35d",
+      "title": "Lachuvamma Lachuvam Song",
+      "normalizedTitle": "lachuvamma lachuvam song",
+      "trackNumber": 8,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Lachuvamma Lachuvam Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Suddala Ashok Teja",
+      "singers": [
+        "Deepu",
+        "Shravana Bhargavi",
+        "Rahul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4819294
+    },
+    {
+      "id": "83aead01788d",
+      "title": "Melukove Chittitalli Song",
+      "normalizedTitle": "melukove chittitalli song",
+      "trackNumber": 9,
+      "duration": "2:11",
+      "durationSeconds": 131,
+      "audio": "Melukove Chittitalli Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Chaitanya Prasad",
+      "singers": [
+        "Sudarshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2177326
+    },
+    {
+      "id": "49adf1e23c8a",
+      "title": "Okka Kshanam Song",
+      "normalizedTitle": "okka kshanam song",
+      "trackNumber": 10,
+      "duration": "1:51",
+      "durationSeconds": 111,
+      "audio": "Okka Kshanam Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Ananth Sriram",
+      "singers": [
+        "Balaji",
+        "Deepu",
+        "Revanth",
+        "Rahul",
+        "Pridhvichandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1860143
+    },
+    {
+      "id": "5af1e287887b",
+      "title": "Raa Ree Ro Rela Song",
+      "normalizedTitle": "raa ree ro rela song",
+      "trackNumber": 11,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Raa Ree Ro Rela Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Ananth Sriram",
+      "singers": [
+        "Madhumita",
+        "Revanth",
+        "Shravana Bhargavi",
+        "K. Sahiti",
+        "Amrithavarshini",
+        "B. Ramya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3488996
+    },
+    {
+      "id": "c23221ac7772",
+      "title": "Vey, Ve Song",
+      "normalizedTitle": "vey ve song",
+      "trackNumber": 12,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Vey, Ve Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Suddala Ashok Teja",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3217182
+    }
+  ]
+}

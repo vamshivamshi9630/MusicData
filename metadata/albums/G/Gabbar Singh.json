@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "22daf221e734",
+    "name": "Gabbar Singh",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gabbar Singh.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "1f092cad2043",
+      "title": "Akasam Ammayaithe",
+      "normalizedTitle": "akasam ammayaithe",
+      "trackNumber": 1,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Akasam Ammayaithe.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Shruti Hasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4785157
+    },
+    {
+      "id": "a75b9d8db29a",
+      "title": "Dekho Dekho Gabbar Singh",
+      "normalizedTitle": "dekho dekho gabbar singh",
+      "trackNumber": 2,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Dekho Dekho Gabbar Singh.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Shruti Hasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4286112
+    },
+    {
+      "id": "433e4767a607",
+      "title": "Dil Se",
+      "normalizedTitle": "dil se",
+      "trackNumber": 3,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Dil Se.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Shruti Hasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4313651
+    },
+    {
+      "id": "4dd3e006e874",
+      "title": "Kevvu Keka",
+      "normalizedTitle": "kevvu keka",
+      "trackNumber": 4,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Kevvu Keka.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Shruti Hasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4052028
+    },
+    {
+      "id": "0c3c728877e7",
+      "title": "Mandu Baabulam",
+      "normalizedTitle": "mandu baabulam",
+      "trackNumber": 5,
+      "duration": "1:35",
+      "durationSeconds": 95,
+      "audio": "Mandu Baabulam.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Shruti Hasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1617412
+    },
+    {
+      "id": "44e66470ad11",
+      "title": "Pillaa",
+      "normalizedTitle": "pillaa",
+      "trackNumber": 6,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Pillaa.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Shruti Hasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3771136
+    }
+  ]
+}

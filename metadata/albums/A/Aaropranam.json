@@ -1,0 +1,125 @@
+{
+  "album": {
+    "id": "fe7711c94499",
+    "name": "Aaropranam",
+    "year": 1997,
+    "musicDirector": "Koti",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aaropranam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "414ef96cd5ee",
+      "title": "Cheli Chentaledhu Song",
+      "normalizedTitle": "cheli chentaledhu song",
+      "trackNumber": 1,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Cheli Chentaledhu Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Balasubramanyam S P",
+        "Chithra K S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4524243
+    },
+    {
+      "id": "24e2606d2287",
+      "title": "Makkanare Makkanare Song",
+      "normalizedTitle": "makkanare makkanare song",
+      "trackNumber": 2,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Makkanare Makkanare Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Mano",
+        "Rajgopal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4119663
+    },
+    {
+      "id": "1334f037fea0",
+      "title": "Pedaviki Pedavi Song",
+      "normalizedTitle": "pedaviki pedavi song",
+      "trackNumber": 3,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Pedaviki Pedavi Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Lavanya",
+        "Mano"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4550989
+    },
+    {
+      "id": "712a590d21d9",
+      "title": "Preminchava Song",
+      "normalizedTitle": "preminchava song",
+      "trackNumber": 4,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Preminchava Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Anupama Deshpande",
+        "Balasubramanyam S P",
+        "Chithra K S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5232254
+    },
+    {
+      "id": "d2168a41a00e",
+      "title": "Tell Me You Love Me Song",
+      "normalizedTitle": "tell me you love me song",
+      "trackNumber": 5,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Tell Me You Love Me Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Balasubramanyam S P",
+        "Chithra K S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4893723
+    },
+    {
+      "id": "e68b45d3eff3",
+      "title": "Vinnavantra Abbai Song",
+      "normalizedTitle": "vinnavantra abbai song",
+      "trackNumber": 6,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Vinnavantra Abbai Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Chithra",
+        "Jikki",
+        "SP Balu",
+        "Mano"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5147420
+    }
+  ]
+}

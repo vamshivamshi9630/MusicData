@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "2cf24dba5fb0",
+    "name": "Hello",
+    "year": 2017,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Hello.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "ab47c0799c3a",
+      "title": "Anaganaga Oka Uru (Female) Song",
+      "normalizedTitle": "anaganaga oka uru female song",
+      "trackNumber": 1,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Anaganaga Oka Uru (Female) Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4899654
+    },
+    {
+      "id": "471a2bbe71ba",
+      "title": "Anaganaga Oka Uru Song",
+      "normalizedTitle": "anaganaga oka uru song",
+      "trackNumber": 2,
+      "duration": "5:29",
+      "durationSeconds": 329,
+      "audio": "Anaganaga Oka Uru Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Sri Dhruthi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5495639
+    },
+    {
+      "id": "67bf3ae3c59d",
+      "title": "Hello Song",
+      "normalizedTitle": "hello song",
+      "trackNumber": 3,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Hello Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3639879
+    },
+    {
+      "id": "1adc67786412",
+      "title": "Merise Merise Song",
+      "normalizedTitle": "merise merise song",
+      "trackNumber": 4,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Merise Merise Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Haricharan",
+        "Srinidhi Venkatesh",
+        "Shruthi Ranjani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5348428
+    },
+    {
+      "id": "2aa9960f58c2",
+      "title": "Thalachi Thalachi Song",
+      "normalizedTitle": "thalachi thalachi song",
+      "trackNumber": 5,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Thalachi Thalachi Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5340992
+    },
+    {
+      "id": "43509c708001",
+      "title": "Yevevo Song",
+      "normalizedTitle": "yevevo song",
+      "trackNumber": 6,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Yevevo Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Akhil Akkineni",
+        "Jonita Gandhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4915106
+    }
+  ]
+}

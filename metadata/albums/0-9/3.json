@@ -1,0 +1,190 @@
+{
+  "album": {
+    "id": "4e07408562be",
+    "name": "3",
+    "year": 2012,
+    "musicDirector": "Anirudh Ravichander",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "3.png",
+    "songCount": 10
+  },
+  "songs": [
+    {
+      "id": "b846be0cfdc2",
+      "title": "A Life Full of Love Song",
+      "normalizedTitle": "a life full of love song",
+      "trackNumber": 1,
+      "duration": "1:56",
+      "durationSeconds": 116,
+      "audio": "A Life Full of Love Song.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Theme Music"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1949937
+    },
+    {
+      "id": "c292db658930",
+      "title": "Come on Girls Song",
+      "normalizedTitle": "come on girls song",
+      "trackNumber": 2,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Come on Girls Song.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Anirudh",
+        "Ananth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2894101
+    },
+    {
+      "id": "ee1a061bff68",
+      "title": "Kannuladha Song",
+      "normalizedTitle": "kannuladha song",
+      "trackNumber": 3,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Kannuladha Song.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Dhanush",
+        "Shruthi Haassan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3389812
+    },
+    {
+      "id": "6f93876fd197",
+      "title": "Nee Paata Madhuram Song",
+      "normalizedTitle": "nee paata madhuram song",
+      "trackNumber": 4,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Nee Paata Madhuram Song.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Roop Kumar Rathod",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4311030
+    },
+    {
+      "id": "f97cdd022bdf",
+      "title": "Po Ve Po (Remix) Song",
+      "normalizedTitle": "po ve po remix song",
+      "trackNumber": 5,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Po Ve Po (Remix) Song.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Sathya Prakash",
+        "Harish Swaminathan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3650651
+    },
+    {
+      "id": "a56a484c576d",
+      "title": "Po Ve Po Song",
+      "normalizedTitle": "po ve po song",
+      "trackNumber": 6,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Po Ve Po Song.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Mohit Chauhan",
+        "Anirudh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4158431
+    },
+    {
+      "id": "06c8fef1e4ed",
+      "title": "The Rythm of Love Song",
+      "normalizedTitle": "the rythm of love song",
+      "trackNumber": 7,
+      "duration": "1:14",
+      "durationSeconds": 74,
+      "audio": "The Rythm of Love Song.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Theme Music"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1275765
+    },
+    {
+      "id": "bf03d251c9cf",
+      "title": "Theme of 3 Song",
+      "normalizedTitle": "theme of 3 song",
+      "trackNumber": 8,
+      "duration": "1:29",
+      "durationSeconds": 89,
+      "audio": "Theme of 3 Song.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Theme Music"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1527780
+    },
+    {
+      "id": "b6a883d77ef3",
+      "title": "Why This Kolaveri Di Song",
+      "normalizedTitle": "why this kolaveri di song",
+      "trackNumber": 9,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Why This Kolaveri Di Song.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Dhanush"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4250796
+    },
+    {
+      "id": "e69d6f76da6b",
+      "title": "Yedhalo Oka Mounam Song",
+      "normalizedTitle": "yedhalo oka mounam song",
+      "trackNumber": 10,
+      "duration": "3:25",
+      "durationSeconds": 205,
+      "audio": "Yedhalo Oka Mounam Song.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Ajesh Ahsok",
+        "Anirudh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3370176
+    }
+  ]
+}

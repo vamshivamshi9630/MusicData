@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "5bd0158970bb",
+    "name": "Jai Chiranjeeva",
+    "year": 2005,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jai Chiranjeeva.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "4d154e937b29",
+      "title": "Jai Jai Ganesha Song",
+      "normalizedTitle": "jai jai ganesha song",
+      "trackNumber": 1,
+      "duration": "5:43",
+      "durationSeconds": 343,
+      "audio": "Jai Jai Ganesha Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "S.P. Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5517136
+    },
+    {
+      "id": "698b848a6c7b",
+      "title": "Ko Ko Kodi Song",
+      "normalizedTitle": "ko ko kodi song",
+      "trackNumber": 2,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Ko Ko Kodi Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Udit Narayan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4880602
+    },
+    {
+      "id": "013e9c82c5c5",
+      "title": "Maha Muddu Song",
+      "normalizedTitle": "maha muddu song",
+      "trackNumber": 3,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Maha Muddu Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Karthik",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4920318
+    },
+    {
+      "id": "929879ad2d27",
+      "title": "Thillana Song",
+      "normalizedTitle": "thillana song",
+      "trackNumber": 4,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Thillana Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4640687
+    },
+    {
+      "id": "f7a992f0875f",
+      "title": "Thumsup Thunder Song",
+      "normalizedTitle": "thumsup thunder song",
+      "trackNumber": 5,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Thumsup Thunder Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Nihar",
+        "Mahalakshmi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5167332
+    }
+  ]
+}

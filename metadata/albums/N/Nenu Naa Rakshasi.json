@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "d4cabd218934",
+    "name": "Nenu Naa Rakshasi",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nenu Naa Rakshasi.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "03d6a5ad93e6",
+      "title": "Malli Malli Merupul Song",
+      "normalizedTitle": "malli malli merupul song",
+      "trackNumber": 1,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Malli Malli Merupul Song.mp3",
+      "composer": "Music & Lyrics : Rahman",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4203316
+    },
+    {
+      "id": "1cdc4ae1b4b1",
+      "title": "Meenaachi Song",
+      "normalizedTitle": "meenaachi song",
+      "trackNumber": 2,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Meenaachi Song.mp3",
+      "composer": "Music & Lyrics : Vishwa",
+      "singers": [
+        "Vishwa",
+        "Geetha Madhuri",
+        "Rahul Nambiar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4060392
+    },
+    {
+      "id": "347decb41e83",
+      "title": "Nenu Na Rakshasi Song",
+      "normalizedTitle": "nenu na rakshasi song",
+      "trackNumber": 3,
+      "duration": "1:55",
+      "durationSeconds": 115,
+      "audio": "Nenu Na Rakshasi Song.mp3",
+      "composer": "Music : Anoop Rubens",
+      "singers": [
+        "Instrumental"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1914982
+    },
+    {
+      "id": "efecc505112f",
+      "title": "Padithinammo (Remix) Song",
+      "normalizedTitle": "padithinammo remix song",
+      "trackNumber": 4,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Padithinammo (Remix) Song.mp3",
+      "composer": "Music & Lyrics : Vishwa",
+      "singers": [
+        "Vishwa"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3086089
+    },
+    {
+      "id": "5917d080b151",
+      "title": "Padithinammo Song",
+      "normalizedTitle": "padithinammo song",
+      "trackNumber": 5,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Padithinammo Song.mp3",
+      "composer": "Music & Lyrics : Vishwa",
+      "singers": [
+        "Vishwa"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4381747
+    },
+    {
+      "id": "2e8c98adb448",
+      "title": "Papam Punyam Song",
+      "normalizedTitle": "papam punyam song",
+      "trackNumber": 6,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Papam Punyam Song.mp3",
+      "composer": "Music & Lyrics : Rahman",
+      "singers": [
+        "Bharghavi Pillai",
+        "Hema Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4331222
+    }
+  ]
+}

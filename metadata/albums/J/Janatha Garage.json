@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "9b291604a222",
+    "name": "Janatha Garage",
+    "year": 2016,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Janatha Garage.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "8aac0fd498d6",
+      "title": "Apple Beauty Song",
+      "normalizedTitle": "apple beauty song",
+      "trackNumber": 1,
+      "duration": "3:51",
+      "durationSeconds": 231,
+      "audio": "Apple Beauty Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Yazin Nizar",
+        "Neha Bhasin"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4012663
+    },
+    {
+      "id": "c7bd817c0541",
+      "title": "Jayaho Janatha Song",
+      "normalizedTitle": "jayaho janatha song",
+      "trackNumber": 2,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Jayaho Janatha Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sukhwinder Singh",
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4430222
+    },
+    {
+      "id": "e522dff6b30e",
+      "title": "Nee Selvadigi Song",
+      "normalizedTitle": "nee selvadigi song",
+      "trackNumber": 3,
+      "duration": "1:37",
+      "durationSeconds": 97,
+      "audio": "Nee Selvadigi Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shwetha Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1868931
+    },
+    {
+      "id": "4f13f118cad1",
+      "title": "Pakka Local Song",
+      "normalizedTitle": "pakka local song",
+      "trackNumber": 4,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Pakka Local Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4459036
+    },
+    {
+      "id": "b611fc4cf84a",
+      "title": "Pranaamam Song",
+      "normalizedTitle": "pranaamam song",
+      "trackNumber": 5,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Pranaamam Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4145136
+    },
+    {
+      "id": "d94c2d9b7d41",
+      "title": "Rock On Bro Song",
+      "normalizedTitle": "rock on bro song",
+      "trackNumber": 6,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Rock On Bro Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Raghu Dixit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4264247
+    }
+  ]
+}

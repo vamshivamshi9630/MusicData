@@ -1,0 +1,136 @@
+{
+  "album": {
+    "id": "6412c0c752b4",
+    "name": "Gharshana",
+    "year": 2004,
+    "musicDirector": "Harris Jayaraj",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gharshana.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "230bd8a408bd",
+      "title": "Aadatanama Song",
+      "normalizedTitle": "aadatanama song",
+      "trackNumber": 1,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Aadatanama Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Sunitha Sarathy",
+        "Fabi Mani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4676214
+    },
+    {
+      "id": "64e0b0f940d7",
+      "title": "Andagaada Song",
+      "normalizedTitle": "andagaada song",
+      "trackNumber": 2,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Andagaada Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Harini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5189844
+    },
+    {
+      "id": "0db6d40268a1",
+      "title": "Cheliya Cheliya Song",
+      "normalizedTitle": "cheliya cheliya song",
+      "trackNumber": 3,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Cheliya Cheliya Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "K.K.",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5169810
+    },
+    {
+      "id": "8b1097fe2d1a",
+      "title": "Nanne Nanne Song",
+      "normalizedTitle": "nanne nanne song",
+      "trackNumber": 4,
+      "duration": "5:56",
+      "durationSeconds": 356,
+      "audio": "Nanne Nanne Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Tippu",
+        "Shalini Singh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5721520
+    },
+    {
+      "id": "a36647716551",
+      "title": "The Encounter Song",
+      "normalizedTitle": "the encounter song",
+      "trackNumber": 5,
+      "duration": "1:00",
+      "durationSeconds": 60,
+      "audio": "The Encounter Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Harris Jayaraj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 985150
+    },
+    {
+      "id": "043dee9306fc",
+      "title": "Theme Of Gharsh Song",
+      "normalizedTitle": "theme of gharsh song",
+      "trackNumber": 6,
+      "duration": "2:19",
+      "durationSeconds": 139,
+      "audio": "Theme Of Gharsh Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Harris Jayaraj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2247817
+    },
+    {
+      "id": "211e81f0393f",
+      "title": "Ye Chilipi Song",
+      "normalizedTitle": "ye chilipi song",
+      "trackNumber": 7,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "Ye Chilipi Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Srinivas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5094137
+    }
+  ]
+}

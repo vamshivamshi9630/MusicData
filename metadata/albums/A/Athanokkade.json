@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "f9128584a7e8",
+    "name": "Athanokkade",
+    "year": 2005,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Athanokkade.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "1c12f49c9d1e",
+      "title": "Amma Devudo Song",
+      "normalizedTitle": "amma devudo song",
+      "trackNumber": 1,
+      "duration": "5:19",
+      "durationSeconds": 319,
+      "audio": "Amma Devudo Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5129350
+    },
+    {
+      "id": "e66d422d4d09",
+      "title": "Athanokkade Song",
+      "normalizedTitle": "athanokkade song",
+      "trackNumber": 2,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Athanokkade Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4146728
+    },
+    {
+      "id": "9f4e8694a008",
+      "title": "Chita Pata Song",
+      "normalizedTitle": "chita pata song",
+      "trackNumber": 3,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Chita Pata Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4608571
+    },
+    {
+      "id": "e105e607edaa",
+      "title": "Gundelalo Song",
+      "normalizedTitle": "gundelalo song",
+      "trackNumber": 4,
+      "duration": "5:14",
+      "durationSeconds": 314,
+      "audio": "Gundelalo Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5055785
+    },
+    {
+      "id": "6ab141997bd9",
+      "title": "Meghamaala Song",
+      "normalizedTitle": "meghamaala song",
+      "trackNumber": 5,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Meghamaala Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5026948
+    },
+    {
+      "id": "77d9aebe857f",
+      "title": "Naughty Girl Song",
+      "normalizedTitle": "naughty girl song",
+      "trackNumber": 6,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Naughty Girl Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4414224
+    }
+  ]
+}

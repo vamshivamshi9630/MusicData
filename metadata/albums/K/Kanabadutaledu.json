@@ -1,0 +1,65 @@
+{
+  "album": {
+    "id": "8db60c867543",
+    "name": "Kanabadutaledu",
+    "year": 2021,
+    "musicDirector": "Madhu Ponnas",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kanabadutaledu.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "800ba48560ae",
+      "title": "Mama Mama Song",
+      "normalizedTitle": "mama mama song",
+      "trackNumber": 1,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Mama Mama Song.mp3",
+      "composer": "Madhu Ponnas",
+      "singers": [
+        "Rahul Nambiar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4252416
+    },
+    {
+      "id": "c495de5351cd",
+      "title": "Premey Ledu Song",
+      "normalizedTitle": "premey ledu song",
+      "trackNumber": 2,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Premey Ledu Song.mp3",
+      "composer": "Madhu Ponnas",
+      "singers": [
+        "Rahul Shipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4840320
+    },
+    {
+      "id": "5b756ab6fb32",
+      "title": "Yedakemai Untunde Song",
+      "normalizedTitle": "yedakemai untunde song",
+      "trackNumber": 3,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Yedakemai Untunde Song.mp3",
+      "composer": "Madhu Ponnas",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4350720
+    }
+  ]
+}

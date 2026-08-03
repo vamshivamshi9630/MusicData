@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "50c74d6f9801",
+    "name": "Gulaabi",
+    "year": 1995,
+    "musicDirector": "Shashi Preetam",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gulaabi.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "4a6f6366867b",
+      "title": "Beat In My Heart Song",
+      "normalizedTitle": "beat in my heart song",
+      "trackNumber": 1,
+      "duration": "5:23",
+      "durationSeconds": 323,
+      "audio": "Beat In My Heart Song.mp3",
+      "composer": "Shashi Preetam",
+      "singers": [
+        "Nagoor Babu",
+        "Gayatri"
+      ],
+      "bitrate": 213273,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8652692
+    },
+    {
+      "id": "552cd456764a",
+      "title": "Classroom Lo Song",
+      "normalizedTitle": "classroom lo song",
+      "trackNumber": 2,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Classroom Lo Song.mp3",
+      "composer": "Shashi Preetam",
+      "singers": [
+        "Hariharan",
+        "Chorus"
+      ],
+      "bitrate": 206502,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7158180
+    },
+    {
+      "id": "bd0bf9dd0e1d",
+      "title": "Dream Girl Song",
+      "normalizedTitle": "dream girl song",
+      "trackNumber": 3,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Dream Girl Song.mp3",
+      "composer": "Shashi Preetam",
+      "singers": [
+        "Suresh Peters",
+        "Suchitra Krishnamurthy"
+      ],
+      "bitrate": 209416,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7536522
+    },
+    {
+      "id": "a9d610f7fd30",
+      "title": "Ee Velalo Song",
+      "normalizedTitle": "ee velalo song",
+      "trackNumber": 4,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Ee Velalo Song.mp3",
+      "composer": "Shashi Preetam",
+      "singers": [
+        "Suneetha"
+      ],
+      "bitrate": 202240,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6657586
+    },
+    {
+      "id": "524c301606ae",
+      "title": "Ye Rojaithe Song",
+      "normalizedTitle": "ye rojaithe song",
+      "trackNumber": 5,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Ye Rojaithe Song.mp3",
+      "composer": "Shashi Preetam",
+      "singers": [
+        "Sashi Pritam"
+      ],
+      "bitrate": 194639,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6880398
+    }
+  ]
+}

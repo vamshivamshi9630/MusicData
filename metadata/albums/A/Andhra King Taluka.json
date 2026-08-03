@@ -1,0 +1,153 @@
+{
+  "album": {
+    "id": "867c63e9dbb7",
+    "name": "Andhra King Taluka",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Andhra King Taluka.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "f6d80b5912cb",
+      "title": "Chalu Song",
+      "normalizedTitle": "chalu song",
+      "trackNumber": 1,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Chalu Song.mp3",
+      "composer": "楖敶⁫ₖ敍癲湩",
+      "singers": [
+        "Vivek Siva",
+        "Vishal Dadlani"
+      ],
+      "bitrate": 132683,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4722725
+    },
+    {
+      "id": "39b5468bb40e",
+      "title": "Chinni Gundelo Song",
+      "normalizedTitle": "chinni gundelo song",
+      "trackNumber": 2,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Chinni Gundelo Song.mp3",
+      "composer": "楖敶⁫ₖ敍癲湩",
+      "singers": [
+        "Mervin Solomon",
+        "Satya Yamini"
+      ],
+      "bitrate": 126401,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3734605
+    },
+    {
+      "id": "a21d085883b4",
+      "title": "Chinni Gundelo",
+      "normalizedTitle": "chinni gundelo",
+      "trackNumber": 3,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Chinni Gundelo.mp3",
+      "composer": "楖敶⁫ₖ敍癲湩",
+      "singers": [
+        "Mervin Solomon",
+        "Satya Yamini"
+      ],
+      "bitrate": 126401,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3734605
+    },
+    {
+      "id": "b203ca58aa72",
+      "title": "First Day First Show Song",
+      "normalizedTitle": "first day first show song",
+      "trackNumber": 4,
+      "duration": "2:56",
+      "durationSeconds": 176,
+      "audio": "First Day First Show Song.mp3",
+      "composer": "楖敶⁫ₖ敍癲湩",
+      "singers": [
+        "Vivek Mervin"
+      ],
+      "bitrate": 238465,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7108117
+    },
+    {
+      "id": "eb8fb5af185d",
+      "title": "Nuvvunte Chaley Song",
+      "normalizedTitle": "nuvvunte chaley song",
+      "trackNumber": 5,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Nuvvunte Chaley Song.mp3",
+      "composer": "楖敶⁫ₖ敍癲湩",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 125560,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4035829
+    },
+    {
+      "id": "5e945178ac70",
+      "title": "Padu Padu Song",
+      "normalizedTitle": "padu padu song",
+      "trackNumber": 6,
+      "duration": "1:47",
+      "durationSeconds": 107,
+      "audio": "Padu Padu Song.mp3",
+      "composer": "楖敶⁫ₖ敍癲湩",
+      "singers": [
+        "Ram Pothineni"
+      ],
+      "bitrate": 134422,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2061701
+    },
+    {
+      "id": "c3891497ddb7",
+      "title": "Puppy Shame Song",
+      "normalizedTitle": "puppy shame song",
+      "trackNumber": 7,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "Puppy Shame Song.mp3",
+      "composer": "楖敶⁫ₖ敍癲湩",
+      "singers": [
+        "Ram Pothineni"
+      ],
+      "bitrate": 138786,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3983185
+    },
+    {
+      "id": "04ad6919a7cb",
+      "title": "Untold Emotions Song",
+      "normalizedTitle": "untold emotions song",
+      "trackNumber": 8,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Untold Emotions Song.mp3",
+      "composer": "楖敶⁫ₖ敍癲湩",
+      "singers": [
+        "Swarag Keerthan"
+      ],
+      "bitrate": 128913,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4705627
+    }
+  ]
+}

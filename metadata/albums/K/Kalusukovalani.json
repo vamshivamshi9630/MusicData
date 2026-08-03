@@ -1,0 +1,155 @@
+{
+  "album": {
+    "id": "d78115db0bc1",
+    "name": "Kalusukovalani",
+    "year": 2002,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kalusukovalani.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "7a9abcd85509",
+      "title": "Aakasham Song",
+      "normalizedTitle": "aakasham song",
+      "trackNumber": 1,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Aakasham Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sumangaly",
+        "Satya (Kid)"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4587601
+    },
+    {
+      "id": "d650e21d8b61",
+      "title": "Cheliya Cheliya Song",
+      "normalizedTitle": "cheliya cheliya song",
+      "trackNumber": 2,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Cheliya Cheliya Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4739328
+    },
+    {
+      "id": "db4143f87450",
+      "title": "Oke Oka Kshanam Song",
+      "normalizedTitle": "oke oka kshanam song",
+      "trackNumber": 3,
+      "duration": "1:34",
+      "durationSeconds": 94,
+      "audio": "Oke Oka Kshanam Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sumangaly"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1537732
+    },
+    {
+      "id": "fec42fc62649",
+      "title": "Pade Pade Song",
+      "normalizedTitle": "pade pade song",
+      "trackNumber": 4,
+      "duration": "1:37",
+      "durationSeconds": 97,
+      "audio": "Pade Pade Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sumangaly"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1584114
+    },
+    {
+      "id": "e81f2870944f",
+      "title": "Priya Priya Song",
+      "normalizedTitle": "priya priya song",
+      "trackNumber": 5,
+      "duration": "2:40",
+      "durationSeconds": 160,
+      "audio": "Priya Priya Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Venu",
+        "Sumangaly"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2583888
+    },
+    {
+      "id": "8d99c5c287dd",
+      "title": "Shakila Song",
+      "normalizedTitle": "shakila song",
+      "trackNumber": 6,
+      "duration": "5:45",
+      "durationSeconds": 345,
+      "audio": "Shakila Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devan",
+        "Madangi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5546771
+    },
+    {
+      "id": "adc34c349269",
+      "title": "Tala Talamani Song",
+      "normalizedTitle": "tala talamani song",
+      "trackNumber": 7,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Tala Talamani Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "S.P. Charan",
+        "Harini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4742242
+    },
+    {
+      "id": "8f115528142e",
+      "title": "Udayinchina Song",
+      "normalizedTitle": "udayinchina song",
+      "trackNumber": 8,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Udayinchina Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5185274
+    }
+  ]
+}

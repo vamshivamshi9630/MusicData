@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "38121ffdaa0e",
+    "name": "Andala Rakshasi",
+    "year": 2012,
+    "musicDirector": "Radhan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Andala Rakshasi.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "4ef6bec2fbb1",
+      "title": "Manasa Marchipo Song",
+      "normalizedTitle": "manasa marchipo song",
+      "trackNumber": 1,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Manasa Marchipo Song.mp3",
+      "composer": "Music : Rathan | Lyrics : Laxmi Bhupal",
+      "singers": [
+        "D. Satyaprakash",
+        "Bhargavi Sridhar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4380757
+    },
+    {
+      "id": "de4b1d3dfc06",
+      "title": "Manasu Palike Song",
+      "normalizedTitle": "manasu palike song",
+      "trackNumber": 2,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Manasu Palike Song.mp3",
+      "composer": "Music : Rathan | Lyrics : Rakendu Mouli",
+      "singers": [
+        "Rakendu Mouli"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3731666
+    },
+    {
+      "id": "1d7fb2ab59ac",
+      "title": "Ne Ninnu Chera Song",
+      "normalizedTitle": "ne ninnu chera song",
+      "trackNumber": 3,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Ne Ninnu Chera Song.mp3",
+      "composer": "Music : Rathan | Lyrics : Krishnakanth",
+      "singers": [
+        "Ranjith",
+        "Veena Ghantasala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3429900
+    },
+    {
+      "id": "1efce71b3f5f",
+      "title": "Vennante Song",
+      "normalizedTitle": "vennante song",
+      "trackNumber": 4,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Vennante Song.mp3",
+      "composer": "Music : Rathan | Lyrics : Krishnakanth",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3398553
+    },
+    {
+      "id": "e8e94c405151",
+      "title": "Ye Mantramo Song",
+      "normalizedTitle": "ye mantramo song",
+      "trackNumber": 5,
+      "duration": "2:47",
+      "durationSeconds": 167,
+      "audio": "Ye Mantramo Song.mp3",
+      "composer": "Music : Rathan | Lyrics : Vasishta Sharma",
+      "singers": [
+        "Bobo Shasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2768270
+    },
+    {
+      "id": "78b1207773a5",
+      "title": "Yemito Song",
+      "normalizedTitle": "yemito song",
+      "trackNumber": 6,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Yemito Song.mp3",
+      "composer": "Music : Rathan | Lyrics : Rakendu Mouli",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4383265
+    }
+  ]
+}

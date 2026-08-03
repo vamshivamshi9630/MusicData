@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "418cbaaf0c7f",
+    "name": "Nenu",
+    "year": 2004,
+    "musicDirector": "Vidyasagar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nenu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c393c5c58e1a",
+      "title": "Choostha Choostane",
+      "normalizedTitle": "choostha choostane",
+      "trackNumber": 1,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Choostha Choostane.mp3",
+      "composer": "Vidyasagar",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5153734
+    },
+    {
+      "id": "6511117e30ec",
+      "title": "Devathala Nenu",
+      "normalizedTitle": "devathala nenu",
+      "trackNumber": 2,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Devathala Nenu.mp3",
+      "composer": "Vidyasagar",
+      "singers": [
+        "Harish Harish Raghavendra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5046728
+    },
+    {
+      "id": "58262f243c54",
+      "title": "Dikkulani Daatindhi",
+      "normalizedTitle": "dikkulani daatindhi",
+      "trackNumber": 3,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Dikkulani Daatindhi.mp3",
+      "composer": "Vidyasagar",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5120299
+    },
+    {
+      "id": "57fc92556ea1",
+      "title": "Endhaku Endhaku",
+      "normalizedTitle": "endhaku endhaku",
+      "trackNumber": 4,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Endhaku Endhaku.mp3",
+      "composer": "Vidyasagar",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4968990
+    },
+    {
+      "id": "7a96f24b0bb9",
+      "title": "Naakanti Paapa",
+      "normalizedTitle": "naakanti paapa",
+      "trackNumber": 5,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Naakanti Paapa.mp3",
+      "composer": "Vidyasagar",
+      "singers": [
+        "Srivardhini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5193014
+    },
+    {
+      "id": "f2ca4793e927",
+      "title": "Panendu Dhaati",
+      "normalizedTitle": "panendu dhaati",
+      "trackNumber": 6,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Panendu Dhaati.mp3",
+      "composer": "Vidyasagar",
+      "singers": [
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5203881
+    }
+  ]
+}

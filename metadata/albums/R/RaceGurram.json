@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "2d253a259d1a",
+    "name": "RaceGurram",
+    "year": 2014,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "RaceGurram.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c297a82ef65e",
+      "title": "Bhoochadae",
+      "normalizedTitle": "bhoochadae",
+      "trackNumber": 1,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Bhoochadae.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sruthi Hassan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4305452
+    },
+    {
+      "id": "196d7d0ebbf1",
+      "title": "Cinema Choopistha Mama",
+      "normalizedTitle": "cinema choopistha mama",
+      "trackNumber": 2,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Cinema Choopistha Mama.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sruthi Hassan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4405334
+    },
+    {
+      "id": "b5e31e871c29",
+      "title": "Down Down Duppa",
+      "normalizedTitle": "down down duppa",
+      "trackNumber": 3,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Down Down Duppa.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sruthi Hassan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3929670
+    },
+    {
+      "id": "af271271209b",
+      "title": "Gala Gala",
+      "normalizedTitle": "gala gala",
+      "trackNumber": 4,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Gala Gala.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sruthi Hassan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4035838
+    },
+    {
+      "id": "8a5e19795088",
+      "title": "Race Gurram",
+      "normalizedTitle": "race gurram",
+      "trackNumber": 5,
+      "duration": "3:31",
+      "durationSeconds": 211,
+      "audio": "Race Gurram.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sruthi Hassan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3478710
+    },
+    {
+      "id": "9979ebd44a62",
+      "title": "Sweety",
+      "normalizedTitle": "sweety",
+      "trackNumber": 6,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Sweety.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sruthi Hassan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4413657
+    }
+  ]
+}

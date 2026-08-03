@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "5ae4a3ca279f",
+    "name": "Kushi",
+    "year": 2023,
+    "musicDirector": "Hesham Abdul Wahab",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kushi.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "7e2c41ed30d0",
+      "title": "Aradhya Song",
+      "normalizedTitle": "aradhya song",
+      "trackNumber": 1,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Aradhya Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Sid Sriram",
+        "Chinmayi Sripaada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4782227
+    },
+    {
+      "id": "143437a666d1",
+      "title": "Kushi Title Song",
+      "normalizedTitle": "kushi title song",
+      "trackNumber": 2,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Kushi Title Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Hesham Abdul Wahab"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3563041
+    },
+    {
+      "id": "b84cc2db1b21",
+      "title": "Na Roja Nuvve Song",
+      "normalizedTitle": "na roja nuvve song",
+      "trackNumber": 3,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Na Roja Nuvve Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Hesham Abdul Wahab",
+        "Manju Sri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4176384
+    },
+    {
+      "id": "32bc8e0f8e2f",
+      "title": "Osi Pellama Song",
+      "normalizedTitle": "osi pellama song",
+      "trackNumber": 4,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Osi Pellama Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Rahul Sipligunj",
+        "Saketh"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8971642
+    },
+    {
+      "id": "ab8b495fc26c",
+      "title": "Yedhaki Oka Gaayam Song",
+      "normalizedTitle": "yedhaki oka gaayam song",
+      "trackNumber": 5,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Yedhaki Oka Gaayam Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Hesham Abdul Wahab",
+        "Divya S Menon"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5791181
+    }
+  ]
+}

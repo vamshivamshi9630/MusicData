@@ -1,0 +1,84 @@
+{
+  "album": {
+    "id": "0d3a3c36405b",
+    "name": "Venky Mama",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Venky Mama.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "b51dfc0fb6cc",
+      "title": "Coca Cola Pepsi Song",
+      "normalizedTitle": "coca cola pepsi song",
+      "trackNumber": 1,
+      "duration": "3:41",
+      "durationSeconds": 221,
+      "audio": "Coca Cola Pepsi Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Aditi Bhavaraju & Ramya Behara",
+        "Simha & Hanuman"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3603104
+    },
+    {
+      "id": "2206fd86284c",
+      "title": "Nuvvu Nenu Song",
+      "normalizedTitle": "nuvvu nenu song",
+      "trackNumber": 2,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Nuvvu Nenu Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Anurag Kulkarni",
+        "Nandita Jyothi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4163968
+    },
+    {
+      "id": "4e213fbaf3ab",
+      "title": "Venky Mama Song",
+      "normalizedTitle": "venky mama song",
+      "trackNumber": 3,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Venky Mama Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sri Krishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4551424
+    },
+    {
+      "id": "63488fb79bf1",
+      "title": "Yennallako Song",
+      "normalizedTitle": "yennallako song",
+      "trackNumber": 4,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Yennallako Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Prithvi Chandhra"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5607509
+    }
+  ]
+}

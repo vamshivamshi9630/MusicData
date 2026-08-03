@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "a4d91d46fae5",
+    "name": "Jana Nayagan",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jana Nayagan.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "5212027e3106",
+      "title": "Chella Magale Song",
+      "normalizedTitle": "chella magale song",
+      "trackNumber": 1,
+      "duration": "3:51",
+      "durationSeconds": 231,
+      "audio": "Chella Magale Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Vijay"
+      ],
+      "bitrate": 125066,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3926980
+    },
+    {
+      "id": "a3053e0d940d",
+      "title": "Chella Magale",
+      "normalizedTitle": "chella magale",
+      "trackNumber": 2,
+      "duration": "3:51",
+      "durationSeconds": 231,
+      "audio": "Chella Magale.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Vijay"
+      ],
+      "bitrate": 125066,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3926980
+    },
+    {
+      "id": "7c776be76c5d",
+      "title": "Oru Pere Varalaaru Song",
+      "normalizedTitle": "oru pere varalaaru song",
+      "trackNumber": 3,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Oru Pere Varalaaru Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Vishal Mishra",
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128182,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3996577
+    },
+    {
+      "id": "23320ece4355",
+      "title": "Raavana Mavandaa Song",
+      "normalizedTitle": "raavana mavandaa song",
+      "trackNumber": 4,
+      "duration": "1:52",
+      "durationSeconds": 112,
+      "audio": "Raavana Mavandaa Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 120154,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1899171
+    },
+    {
+      "id": "902451de61eb",
+      "title": "Thalapathy Kacheri Song",
+      "normalizedTitle": "thalapathy kacheri song",
+      "trackNumber": 5,
+      "duration": "3:21",
+      "durationSeconds": 201,
+      "audio": "Thalapathy Kacheri Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Vijay",
+        "Anirudh Ravichander",
+        "Arivu"
+      ],
+      "bitrate": 118683,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3279358
+    }
+  ]
+}

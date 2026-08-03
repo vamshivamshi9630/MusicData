@@ -1,0 +1,128 @@
+{
+  "album": {
+    "id": "ee668bed2cc4",
+    "name": "Naayak",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Naayak.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "80b0b265b417",
+      "title": "Hey Naayak",
+      "normalizedTitle": "hey naayak",
+      "trackNumber": 1,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Hey Naayak.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Kajal Agarwal",
+        "Amala Paul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4543516
+    },
+    {
+      "id": "c0976e5e206f",
+      "title": "Kathi Lanti Pilla",
+      "normalizedTitle": "kathi lanti pilla",
+      "trackNumber": 2,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Kathi Lanti Pilla.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Kajal Agarwal",
+        "Amala Paul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3823793
+    },
+    {
+      "id": "d255f68ba9f7",
+      "title": "Laila O Lailaa",
+      "normalizedTitle": "laila o lailaa",
+      "trackNumber": 3,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Laila O Lailaa.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Kajal Agarwal",
+        "Amala Paul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4487960
+    },
+    {
+      "id": "48a4e351e393",
+      "title": "Nellorae",
+      "normalizedTitle": "nellorae",
+      "trackNumber": 4,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Nellorae.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Kajal Agarwal",
+        "Amala Paul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3849270
+    },
+    {
+      "id": "e2bcd0552c57",
+      "title": "Oka Choopukae Padipoyya",
+      "normalizedTitle": "oka choopukae padipoyya",
+      "trackNumber": 5,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Oka Choopukae Padipoyya.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Kajal Agarwal",
+        "Amala Paul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4665982
+    },
+    {
+      "id": "085c0de32b9a",
+      "title": "Subhalekha Rasukunna",
+      "normalizedTitle": "subhalekha rasukunna",
+      "trackNumber": 6,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Subhalekha Rasukunna.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Kajal Agarwal",
+        "Amala Paul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4153992
+    }
+  ]
+}

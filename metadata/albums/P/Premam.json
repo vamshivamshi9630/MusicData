@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "82cd09a6772d",
+    "name": "Premam",
+    "year": 2016,
+    "musicDirector": "Gopi Sundar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Premam.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "e6fd760178f1",
+      "title": "Agarottula",
+      "normalizedTitle": "agarottula",
+      "trackNumber": 1,
+      "duration": "3:25",
+      "durationSeconds": 205,
+      "audio": "Agarottula.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Naresh Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3433656
+    },
+    {
+      "id": "4aad6fab4231",
+      "title": "Bang Bang",
+      "normalizedTitle": "bang bang",
+      "trackNumber": 2,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Bang Bang.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3739180
+    },
+    {
+      "id": "c1838a09bbf1",
+      "title": "Ennosarlu",
+      "normalizedTitle": "ennosarlu",
+      "trackNumber": 3,
+      "duration": "2:57",
+      "durationSeconds": 177,
+      "audio": "Ennosarlu.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Sachin Warrier"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2976833
+    },
+    {
+      "id": "c95be24ed4c0",
+      "title": "Evadu Evadu",
+      "normalizedTitle": "evadu evadu",
+      "trackNumber": 4,
+      "duration": "3:21",
+      "durationSeconds": 201,
+      "audio": "Evadu Evadu.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3366768
+    },
+    {
+      "id": "04f941c2cc40",
+      "title": "Evare",
+      "normalizedTitle": "evare",
+      "trackNumber": 5,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Evare.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Vijay Yesudas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5095872
+    },
+    {
+      "id": "aa0757fb1142",
+      "title": "Ninna Leni",
+      "normalizedTitle": "ninna leni",
+      "trackNumber": 6,
+      "duration": "2:20",
+      "durationSeconds": 140,
+      "audio": "Ninna Leni.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2382481
+    },
+    {
+      "id": "20ad808e3161",
+      "title": "Prema Pusene.Mp3",
+      "normalizedTitle": "prema pusenemp3",
+      "trackNumber": 7,
+      "duration": "2:43",
+      "durationSeconds": 163,
+      "audio": "Prema Pusene.Mp3.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2764081
+    }
+  ]
+}

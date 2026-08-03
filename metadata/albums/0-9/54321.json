@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "20f3765880a5",
+    "name": "54321",
+    "year": 2016,
+    "musicDirector": "Joshua Sridhar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "54321.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "76efa218ef44",
+      "title": "54321 Song – Song",
+      "normalizedTitle": "54321 song song",
+      "trackNumber": 1,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "54321 Song – Song.mp3",
+      "composer": "Joshua Sridhar",
+      "singers": [
+        "Haricharan",
+        "NSK Ramya"
+      ],
+      "bitrate": 135411,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3886562
+    },
+    {
+      "id": "bd0161937084",
+      "title": "Mayil Thogayin Song",
+      "normalizedTitle": "mayil thogayin song",
+      "trackNumber": 2,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Mayil Thogayin Song.mp3",
+      "composer": "Joshua Sridhar",
+      "singers": [
+        "Ranina"
+      ],
+      "bitrate": 131971,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4553073
+    },
+    {
+      "id": "e6e85a61d1d0",
+      "title": "Nenjamae En Ne Song",
+      "normalizedTitle": "nenjamae en ne song",
+      "trackNumber": 3,
+      "duration": "5:25",
+      "durationSeconds": 325,
+      "audio": "Nenjamae En Ne Song.mp3",
+      "composer": "Joshua Sridhar",
+      "singers": [
+        "Haricharan",
+        "Harini"
+      ],
+      "bitrate": 129713,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5333746
+    },
+    {
+      "id": "02f202fb45c1",
+      "title": "Nenjamae En Nen Song",
+      "normalizedTitle": "nenjamae en nen song",
+      "trackNumber": 4,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Nenjamae En Nen Song.mp3",
+      "composer": "Joshua Sridhar",
+      "singers": [
+        "Haricharan",
+        "Harini"
+      ],
+      "bitrate": 128864,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4322531
+    },
+    {
+      "id": "70b8546537e8",
+      "title": "Revenge Theme Song",
+      "normalizedTitle": "revenge theme song",
+      "trackNumber": 5,
+      "duration": "2:50",
+      "durationSeconds": 170,
+      "audio": "Revenge Theme Song.mp3",
+      "composer": "Joshua Sridhar",
+      "singers": [
+        "Joshua Sridhar"
+      ],
+      "bitrate": 124687,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2699108
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "61a481d600f4",
+    "name": "Sankranthiki Vasthunam",
+    "year": 2025,
+    "musicDirector": "Bheems Ceciroleo",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sankranthiki Vasthunam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "56e65bc1152b",
+      "title": "Blockbuster Pongal Song",
+      "normalizedTitle": "blockbuster pongal song",
+      "trackNumber": 1,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Blockbuster Pongal Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Venkatesh",
+        "Bheems Ceciroleo",
+        "Rohini Soratt"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5091099
+    },
+    {
+      "id": "63e64e86e62c",
+      "title": "Chinna Raju Song",
+      "normalizedTitle": "chinna raju song",
+      "trackNumber": 2,
+      "duration": "0:57",
+      "durationSeconds": 57,
+      "audio": "Chinna Raju Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Revathi Mannava",
+        "Madhavi Ravuri",
+        "Sudha"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3930766
+    },
+    {
+      "id": "c9d519e7aeb0",
+      "title": "Godari Gattu Song",
+      "normalizedTitle": "godari gattu song",
+      "trackNumber": 3,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Godari Gattu Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Ramana Gogula",
+        "Madhu Priya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4425290
+    },
+    {
+      "id": "119702864515",
+      "title": "Guruvarya Song",
+      "normalizedTitle": "guruvarya song",
+      "trackNumber": 4,
+      "duration": "3:31",
+      "durationSeconds": 211,
+      "audio": "Guruvarya Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Sri Krishna"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 10084417
+    },
+    {
+      "id": "614bb7f65094",
+      "title": "Lallayire Song",
+      "normalizedTitle": "lallayire song",
+      "trackNumber": 5,
+      "duration": "1:31",
+      "durationSeconds": 91,
+      "audio": "Lallayire Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5269064
+    },
+    {
+      "id": "758f70ec7d75",
+      "title": "Meenu Song",
+      "normalizedTitle": "meenu song",
+      "trackNumber": 6,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Meenu Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo",
+        "Pranavi Acharya"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7354975
+    }
+  ]
+}

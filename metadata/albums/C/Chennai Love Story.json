@@ -1,0 +1,84 @@
+{
+  "album": {
+    "id": "1f33c372a8fa",
+    "name": "Chennai Love Story",
+    "year": 2025,
+    "musicDirector": "Mickey J. Meyer",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chennai Love Story.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "b4a3a2e7309a",
+      "title": "Guruthundhaa Song",
+      "normalizedTitle": "guruthundhaa song",
+      "trackNumber": 1,
+      "duration": "5:28",
+      "durationSeconds": 328,
+      "audio": "Guruthundhaa Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Haricharan",
+        "Shruthika Samudhrala"
+      ],
+      "bitrate": 124264,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5378676
+    },
+    {
+      "id": "90a7b3ba770f",
+      "title": "Hoyila Hoyila Song",
+      "normalizedTitle": "hoyila hoyila song",
+      "trackNumber": 2,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Hoyila Hoyila Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Sahithi Chaganti",
+        "Dhanunjay Seepana"
+      ],
+      "bitrate": 130841,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4310009
+    },
+    {
+      "id": "4275942a5521",
+      "title": "Jigithara Song",
+      "normalizedTitle": "jigithara song",
+      "trackNumber": 3,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Jigithara Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 129933,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4437308
+    },
+    {
+      "id": "edb243b8fa7f",
+      "title": "Vadhalane Song",
+      "normalizedTitle": "vadhalane song",
+      "trackNumber": 4,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Vadhalane Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Javed Ali"
+      ],
+      "bitrate": 135604,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5929412
+    }
+  ]
+}

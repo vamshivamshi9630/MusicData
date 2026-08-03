@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "280f455db8e6",
+    "name": "Mem Vayasuku Vacham",
+    "year": 2012,
+    "musicDirector": "Sekhar Chandra",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mem Vayasuku Vacham.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "cc67d20c4e20",
+      "title": "Giftulu Isthadu Song",
+      "normalizedTitle": "giftulu isthadu song",
+      "trackNumber": 1,
+      "duration": "2:48",
+      "durationSeconds": 168,
+      "audio": "Giftulu Isthadu Song.mp3",
+      "composer": "Music : Sekhar Chandra | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Geetha Madhuri",
+        "Tejaswini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2601984
+    },
+    {
+      "id": "864d5f744258",
+      "title": "Love You Cheputhondi Song",
+      "normalizedTitle": "love you cheputhondi song",
+      "trackNumber": 2,
+      "duration": "3:19",
+      "durationSeconds": 199,
+      "audio": "Love You Cheputhondi Song.mp3",
+      "composer": "Music : Sekhar Chandra | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3353196
+    },
+    {
+      "id": "32206c740561",
+      "title": "Manasuku Emayindo Song",
+      "normalizedTitle": "manasuku emayindo song",
+      "trackNumber": 3,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Manasuku Emayindo Song.mp3",
+      "composer": "Music : Sekhar Chandra | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Anjana Sowmya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3993516
+    },
+    {
+      "id": "7b740c03de57",
+      "title": "Nuvvala Oka Navvutho Song",
+      "normalizedTitle": "nuvvala oka navvutho song",
+      "trackNumber": 4,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Nuvvala Oka Navvutho Song.mp3",
+      "composer": "Music : Sekhar Chandra | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Sekhar Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3897393
+    },
+    {
+      "id": "9c04c5cc2f32",
+      "title": "Oopirilo Oopiriga Song",
+      "normalizedTitle": "oopirilo oopiriga song",
+      "trackNumber": 5,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Oopirilo Oopiriga Song.mp3",
+      "composer": "Music : Sekhar Chandra | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Harshika",
+        "Deepu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4184945
+    },
+    {
+      "id": "143702dc50ea",
+      "title": "Vellipove Vellipove Song",
+      "normalizedTitle": "vellipove vellipove song",
+      "trackNumber": 6,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Vellipove Vellipove Song.mp3",
+      "composer": "Music : Sekhar Chandra | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4605818
+    }
+  ]
+}

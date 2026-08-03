@@ -1,0 +1,154 @@
+{
+  "album": {
+    "id": "ead84c659c3e",
+    "name": "Santhosham",
+    "year": 2002,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Santhosham.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "e76e6e0f1e75",
+      "title": "Devudey Dhigi",
+      "normalizedTitle": "devudey dhigi",
+      "trackNumber": 1,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Devudey Dhigi.mp3",
+      "composer": "R.P. Patnaik",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4015728
+    },
+    {
+      "id": "fd49b80fba94",
+      "title": "Dhim Dhinaktari",
+      "normalizedTitle": "dhim dhinaktari",
+      "trackNumber": 2,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Dhim Dhinaktari.mp3",
+      "composer": "R.P. Patnaik",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4376029
+    },
+    {
+      "id": "8bafef517ef7",
+      "title": "Diri Diri",
+      "normalizedTitle": "diri diri",
+      "trackNumber": 3,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Diri Diri.mp3",
+      "composer": "R.P. Patnaik",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4354285
+    },
+    {
+      "id": "c2738d0e55d4",
+      "title": "Emainadho Emo",
+      "normalizedTitle": "emainadho emo",
+      "trackNumber": 4,
+      "duration": "1:57",
+      "durationSeconds": 117,
+      "audio": "Emainadho Emo.mp3",
+      "composer": "R.P. Patnaik",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2053835
+    },
+    {
+      "id": "2c4da6a4527a",
+      "title": "Mehabooba",
+      "normalizedTitle": "mehabooba",
+      "trackNumber": 5,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Mehabooba.mp3",
+      "composer": "R.P. Patnaik",
+      "singers": [
+        "R.P. Patnaik",
+        "Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4126923
+    },
+    {
+      "id": "ef83b5229dc1",
+      "title": "Nee Tholisariga",
+      "normalizedTitle": "nee tholisariga",
+      "trackNumber": 6,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Nee Tholisariga.mp3",
+      "composer": "R.P. Patnaik",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4837846
+    },
+    {
+      "id": "50e6e2415eca",
+      "title": "Nuvante Nakistamani",
+      "normalizedTitle": "nuvante nakistamani",
+      "trackNumber": 7,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Nuvante Nakistamani.mp3",
+      "composer": "R.P. Patnaik",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4996278
+    },
+    {
+      "id": "ffe5e4bdd493",
+      "title": "So Much To",
+      "normalizedTitle": "so much to",
+      "trackNumber": 8,
+      "duration": "1:15",
+      "durationSeconds": 75,
+      "audio": "So Much To.mp3",
+      "composer": "R.P. Patnaik",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1376312
+    }
+  ]
+}

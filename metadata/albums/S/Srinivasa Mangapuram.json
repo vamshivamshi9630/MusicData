@@ -1,0 +1,66 @@
+{
+  "album": {
+    "id": "ec6e512c0d77",
+    "name": "Srinivasa Mangapuram",
+    "year": 2025,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Srinivasa Mangapuram.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "d6cbaf38cd93",
+      "title": "Alelle Alelle Song",
+      "normalizedTitle": "alelle alelle song",
+      "trackNumber": 1,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Alelle Alelle Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "GV Prakash Kumar",
+        "Hari Priya"
+      ],
+      "bitrate": 132480,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5738883
+    },
+    {
+      "id": "1771de7f7319",
+      "title": "Gunde Pelipothondhe Song",
+      "normalizedTitle": "gunde pelipothondhe song",
+      "trackNumber": 2,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Gunde Pelipothondhe Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128221,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3623057
+    },
+    {
+      "id": "3008c7d2a318",
+      "title": "Manga Manga Song",
+      "normalizedTitle": "manga manga song",
+      "trackNumber": 3,
+      "duration": "3:09",
+      "durationSeconds": 189,
+      "audio": "Manga Manga Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "LV Revanth"
+      ],
+      "bitrate": 131917,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3399799
+    }
+  ]
+}

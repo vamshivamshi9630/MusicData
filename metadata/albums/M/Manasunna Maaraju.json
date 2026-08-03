@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "24c4eefbe272",
+    "name": "Manasunna Maaraju",
+    "year": 2000,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Manasunna Maaraju.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "ae9ea3850bbc",
+      "title": "Eddulabandi Ekki",
+      "normalizedTitle": "eddulabandi ekki",
+      "trackNumber": 1,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Eddulabandi Ekki.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4605621
+    },
+    {
+      "id": "aefa47e728c0",
+      "title": "Maghamasama",
+      "normalizedTitle": "maghamasama",
+      "trackNumber": 2,
+      "duration": "5:47",
+      "durationSeconds": 347,
+      "audio": "Maghamasama.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5583635
+    },
+    {
+      "id": "9a053edc21a0",
+      "title": "Nenugaali Gopuram",
+      "normalizedTitle": "nenugaali gopuram",
+      "trackNumber": 3,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Nenugaali Gopuram.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5160673
+    },
+    {
+      "id": "4eb3eb196203",
+      "title": "O Premaa",
+      "normalizedTitle": "o premaa",
+      "trackNumber": 4,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "O Premaa.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5105484
+    },
+    {
+      "id": "23ba78ec50d7",
+      "title": "Oodala Marrichettu",
+      "normalizedTitle": "oodala marrichettu",
+      "trackNumber": 5,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Oodala Marrichettu.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4528720
+    }
+  ]
+}

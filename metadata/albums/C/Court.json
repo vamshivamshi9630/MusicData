@@ -1,0 +1,65 @@
+{
+  "album": {
+    "id": "a2f89e6fe92d",
+    "name": "Court",
+    "year": 2020,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Court.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "a6f8ea624d45",
+      "title": "Are Ningiloni Chukkalone",
+      "normalizedTitle": "are ningiloni chukkalone",
+      "trackNumber": 1,
+      "duration": "0:29",
+      "durationSeconds": 29,
+      "audio": "Are Ningiloni Chukkalone.mp3",
+      "composer": "Vijai Bulganin",
+      "singers": [
+        "Anurag Kulakarni & Sameera Bharadwaj"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1006659
+    },
+    {
+      "id": "b4af7cc6f3a4",
+      "title": "Chitti Guvva Song",
+      "normalizedTitle": "chitti guvva song",
+      "trackNumber": 2,
+      "duration": "3:06",
+      "durationSeconds": 186,
+      "audio": "Chitti Guvva Song.mp3",
+      "composer": "Vijay Bulganin",
+      "singers": [
+        "Kala Bhairava"
+      ],
+      "bitrate": 130376,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3422150
+    },
+    {
+      "id": "ea8bab0d17dd",
+      "title": "Premalo",
+      "normalizedTitle": "premalo",
+      "trackNumber": 3,
+      "duration": "5:24",
+      "durationSeconds": 324,
+      "audio": "Premalo.mp3",
+      "composer": "Vijai Bulganin",
+      "singers": [
+        "Anurag Kulakarni & Sameera Bharadwaj"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8093363
+    }
+  ]
+}

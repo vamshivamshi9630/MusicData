@@ -1,0 +1,82 @@
+{
+  "album": {
+    "id": "46e6733e3aa7",
+    "name": "Tillu Square",
+    "year": 2024,
+    "musicDirector": "Ram Miriyala",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Tillu Square.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "fe0d13943329",
+      "title": "Dj Tillu Revamp Song",
+      "normalizedTitle": "dj tillu revamp song",
+      "trackNumber": 1,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Dj Tillu Revamp Song.mp3",
+      "composer": "Ram Miriyala",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3449460
+    },
+    {
+      "id": "eb3a3f1f6c5a",
+      "title": "Oh My Lilly Song",
+      "normalizedTitle": "oh my lilly song",
+      "trackNumber": 2,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Oh My Lilly Song.mp3",
+      "composer": "Ram Miriyala",
+      "singers": [
+        "Sreerama Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3950593
+    },
+    {
+      "id": "3d056743bcb4",
+      "title": "Radhika Song",
+      "normalizedTitle": "radhika song",
+      "trackNumber": 3,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Radhika Song.mp3",
+      "composer": "Ram Miriyala",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4342367
+    },
+    {
+      "id": "f2e347a1bed3",
+      "title": "Ticket Eh Konakunda Song",
+      "normalizedTitle": "ticket eh konakunda song",
+      "trackNumber": 4,
+      "duration": "2:25",
+      "durationSeconds": 145,
+      "audio": "Ticket Eh Konakunda Song.mp3",
+      "composer": "Ram Miriyala",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2660562
+    }
+  ]
+}

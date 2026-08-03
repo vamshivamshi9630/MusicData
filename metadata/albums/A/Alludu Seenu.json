@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "45222da36db1",
+    "name": "Alludu Seenu",
+    "year": 2014,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Alludu Seenu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "0f92e352edd8",
+      "title": "Alludu Seenu Song",
+      "normalizedTitle": "alludu seenu song",
+      "trackNumber": 1,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Alludu Seenu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Simha",
+        "Priya Hemesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3999110
+    },
+    {
+      "id": "ea57905788e1",
+      "title": "Labbar Bomma Song",
+      "normalizedTitle": "labbar bomma song",
+      "trackNumber": 2,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Labbar Bomma Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sooraj Santhosh",
+        "Ranina Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4446347
+    },
+    {
+      "id": "3b9283afe0c5",
+      "title": "Neeli Neeli Song",
+      "normalizedTitle": "neeli neeli song",
+      "trackNumber": 3,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Neeli Neeli Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Karthik",
+        "Harini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4088126
+    },
+    {
+      "id": "6ee2e3c63dec",
+      "title": "Oho Bujji Konda Song",
+      "normalizedTitle": "oho bujji konda song",
+      "trackNumber": 4,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Oho Bujji Konda Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Jaspreet Jasz",
+        "Sharmila"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3590360
+    },
+    {
+      "id": "c0f3a1bebe49",
+      "title": "Ori Devudo Song",
+      "normalizedTitle": "ori devudo song",
+      "trackNumber": 5,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Ori Devudo Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Javed Ali",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4123658
+    },
+    {
+      "id": "7ca988f7b685",
+      "title": "Whatsup Antu Song",
+      "normalizedTitle": "whatsup antu song",
+      "trackNumber": 6,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Whatsup Antu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad",
+        "Sharmila"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3951475
+    }
+  ]
+}

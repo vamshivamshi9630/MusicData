@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "f8f474a55bef",
+    "name": "Supreme",
+    "year": 2016,
+    "musicDirector": "Sai Kartheek",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Supreme.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "cdd936465a49",
+      "title": "Andham Hindolam Remix.Mp",
+      "normalizedTitle": "andham hindolam remixmp",
+      "trackNumber": 1,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Andham Hindolam Remix.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4376164
+    },
+    {
+      "id": "4937d1d9b97a",
+      "title": "Anjaneyudu Neevadu.Mp",
+      "normalizedTitle": "anjaneyudu neevadump",
+      "trackNumber": 2,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Anjaneyudu Neevadu.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4188554
+    },
+    {
+      "id": "c04949e8aaf9",
+      "title": "Bellam Sri Devi.Mp",
+      "normalizedTitle": "bellam sri devimp",
+      "trackNumber": 3,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Bellam Sri Devi.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4078133
+    },
+    {
+      "id": "1d020859ea5e",
+      "title": "Chalo Chalo.Mp",
+      "normalizedTitle": "chalo chalomp",
+      "trackNumber": 4,
+      "duration": "2:30",
+      "durationSeconds": 150,
+      "audio": "Chalo Chalo.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2578921
+    },
+    {
+      "id": "361763d5d8b8",
+      "title": "Taxi Vaala.Mp",
+      "normalizedTitle": "taxi vaalamp",
+      "trackNumber": 5,
+      "duration": "3:02",
+      "durationSeconds": 182,
+      "audio": "Taxi Vaala.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3080494
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "album": {
+    "id": "f07d9bb4c2d0",
+    "name": "Disco Raja",
+    "year": 2020,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Disco Raja.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "3bfc1d014bff",
+      "title": "Dilliwala Song",
+      "normalizedTitle": "dilliwala song",
+      "trackNumber": 1,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Dilliwala Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Aditya Iyengar",
+        "Geetha Madhuri",
+        "Rahul Nambiar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4599889
+    },
+    {
+      "id": "af079646f337",
+      "title": "Freak Out Song",
+      "normalizedTitle": "freak out song",
+      "trackNumber": 2,
+      "duration": "2:16",
+      "durationSeconds": 136,
+      "audio": "Freak Out Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Ravi Teja",
+        "Thaman S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2623292
+    },
+    {
+      "id": "418b1587074a",
+      "title": "Nuvvu Naatho Emannavo Song",
+      "normalizedTitle": "nuvvu naatho emannavo song",
+      "trackNumber": 3,
+      "duration": "5:40",
+      "durationSeconds": 340,
+      "audio": "Nuvvu Naatho Emannavo Song.mp3",
+      "composer": "S.Thaman",
+      "singers": [
+        "S.P. Balasubramanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5891968
+    },
+    {
+      "id": "f88c682248ce",
+      "title": "Rum Pum Bum Song",
+      "normalizedTitle": "rum pum bum song",
+      "trackNumber": 4,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Rum Pum Bum Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Ravi Teja",
+        "Bappi Lahiri",
+        "Sri Krishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3746796
+    }
+  ]
+}

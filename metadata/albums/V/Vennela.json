@@ -1,0 +1,162 @@
+{
+  "album": {
+    "id": "d108e8360eff",
+    "name": "Vennela",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Vennela.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "d015542c97f9",
+      "title": "Bhagyam Podduna Song",
+      "normalizedTitle": "bhagyam podduna song",
+      "trackNumber": 1,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Bhagyam Podduna Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sudeep",
+        "Saindhavi",
+        "Funky M"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4435050
+    },
+    {
+      "id": "d70fd3eeee56",
+      "title": "Busy Life Song",
+      "normalizedTitle": "busy life song",
+      "trackNumber": 2,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Busy Life Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Arvind",
+        "Devan",
+        "Sudeep",
+        "Funky M"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3613756
+    },
+    {
+      "id": "6c88384078d6",
+      "title": "Chesthara Love Song",
+      "normalizedTitle": "chesthara love song",
+      "trackNumber": 3,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Chesthara Love Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sudeep",
+        "Saindhavi",
+        "Ranjani",
+        "Devan",
+        "Anitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4447198
+    },
+    {
+      "id": "1ad64a0886c6",
+      "title": "East West Song",
+      "normalizedTitle": "east west song",
+      "trackNumber": 4,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "East West Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3861973
+    },
+    {
+      "id": "9b88a21cab30",
+      "title": "Nela Thakani Song",
+      "normalizedTitle": "nela thakani song",
+      "trackNumber": 5,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Nela Thakani Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sudeep",
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3594928
+    },
+    {
+      "id": "78eece7611a9",
+      "title": "Ningi Nela Song",
+      "normalizedTitle": "ningi nela song",
+      "trackNumber": 6,
+      "duration": "2:18",
+      "durationSeconds": 138,
+      "audio": "Ningi Nela Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Gopalarao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2235728
+    },
+    {
+      "id": "6188e40da995",
+      "title": "Preyasi Kaavu Song",
+      "normalizedTitle": "preyasi kaavu song",
+      "trackNumber": 7,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Preyasi Kaavu Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Rishi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4100636
+    },
+    {
+      "id": "1fc13f5b6f17",
+      "title": "Super Model Song",
+      "normalizedTitle": "super model song",
+      "trackNumber": 8,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Super Model Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Karthik",
+        "Saindhavi",
+        "Devan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4687905
+    }
+  ]
+}

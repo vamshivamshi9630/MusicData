@@ -1,0 +1,86 @@
+{
+  "album": {
+    "id": "631959834f64",
+    "name": "Laila",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Laila.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "35314acf0e91",
+      "title": "Atak Matak Song",
+      "normalizedTitle": "atak matak song",
+      "trackNumber": 1,
+      "duration": "3:21",
+      "durationSeconds": 201,
+      "audio": "Atak Matak Song.mp3",
+      "composer": "Leon James",
+      "singers": [
+        "Nakash Aziz",
+        "Aditi Bhavaraju"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8403200
+    },
+    {
+      "id": "4a04c0d1c75f",
+      "title": "Icchukundam Baby Song",
+      "normalizedTitle": "icchukundam baby song",
+      "trackNumber": 2,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Icchukundam Baby Song.mp3",
+      "composer": "Leon James",
+      "singers": [
+        "Adithya RK",
+        "MM Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3662327
+    },
+    {
+      "id": "2043989b5a3e",
+      "title": "Oho Rathamma Song",
+      "normalizedTitle": "oho rathamma song",
+      "trackNumber": 3,
+      "duration": "3:06",
+      "durationSeconds": 186,
+      "audio": "Oho Rathamma Song.mp3",
+      "composer": "Leon James",
+      "singers": [
+        "Penchal Das",
+        "Madhu Priya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3317928
+    },
+    {
+      "id": "3e7f46304d4a",
+      "title": "Sonu Model Song",
+      "normalizedTitle": "sonu model song",
+      "trackNumber": 4,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Sonu Model Song.mp3",
+      "composer": "Leon James",
+      "singers": [
+        "Narayanan Ravishankar",
+        "Reshma Shyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4655398
+    }
+  ]
+}

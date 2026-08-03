@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "f639c19e4952",
+    "name": "Gudumba Shankar",
+    "year": 2004,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gudumba Shankar.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "2204692868f2",
+      "title": "Chiguraku Chatu.Mp",
+      "normalizedTitle": "chiguraku chatump",
+      "trackNumber": 1,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Chiguraku Chatu.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Meera Jasmine"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5047722
+    },
+    {
+      "id": "b3092b1fffc2",
+      "title": "Chilakamma.Mp",
+      "normalizedTitle": "chilakammamp",
+      "trackNumber": 2,
+      "duration": "5:29",
+      "durationSeconds": 329,
+      "audio": "Chilakamma.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Meera Jasmine"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5321507
+    },
+    {
+      "id": "c77a49f48755",
+      "title": "Chitti Nadumune.Mp",
+      "normalizedTitle": "chitti nadumunemp",
+      "trackNumber": 3,
+      "duration": "5:56",
+      "durationSeconds": 356,
+      "audio": "Chitti Nadumune.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Meera Jasmine"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5759932
+    },
+    {
+      "id": "4f4484146604",
+      "title": "Emantaro.Mp",
+      "normalizedTitle": "emantaromp",
+      "trackNumber": 4,
+      "duration": "6:20",
+      "durationSeconds": 380,
+      "audio": "Emantaro.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Meera Jasmine"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6136487
+    },
+    {
+      "id": "996bbb89e3c4",
+      "title": "Killi Killi.Mp",
+      "normalizedTitle": "killi killimp",
+      "trackNumber": 5,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Killi Killi.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Meera Jasmine"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4047963
+    },
+    {
+      "id": "f53ae55b94e9",
+      "title": "Le Le Le.Mp",
+      "normalizedTitle": "le le lemp",
+      "trackNumber": 6,
+      "duration": "5:55",
+      "durationSeconds": 355,
+      "audio": "Le Le Le.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Meera Jasmine"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5734387
+    }
+  ]
+}

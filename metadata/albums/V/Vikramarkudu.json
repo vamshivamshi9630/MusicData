@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "c5ac23837bbe",
+    "name": "Vikramarkudu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Vikramarkudu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "3da269d308ec",
+      "title": "Collagee Papala.Mp",
+      "normalizedTitle": "collagee papalamp",
+      "trackNumber": 1,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Collagee Papala.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chitra",
+        "Jassie Gift"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5056126
+    },
+    {
+      "id": "f297d762cec4",
+      "title": "Dammare Damma",
+      "normalizedTitle": "dammare damma",
+      "trackNumber": 2,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Dammare Damma.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chitra",
+        "Tippu",
+        "Vijji"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4048842
+    },
+    {
+      "id": "52c2de90747d",
+      "title": "Dooranga.Mp",
+      "normalizedTitle": "doorangamp",
+      "trackNumber": 3,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Dooranga.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "M.M. Keeravani",
+        "Ganga"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4787368
+    },
+    {
+      "id": "a4e1ef16c53e",
+      "title": "Jolaalee.Mp",
+      "normalizedTitle": "jolaaleemp",
+      "trackNumber": 4,
+      "duration": "2:01",
+      "durationSeconds": 121,
+      "audio": "Jolaalee.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2053053
+    },
+    {
+      "id": "894b618376f1",
+      "title": "Jum Jum Maya.Mp",
+      "normalizedTitle": "jum jum mayamp",
+      "trackNumber": 5,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Jum Jum Maya.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "M.M. Keeravani",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4585088
+    },
+    {
+      "id": "47f9efa3d76c",
+      "title": "Vastavaa.Mp",
+      "normalizedTitle": "vastavaamp",
+      "trackNumber": 6,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Vastavaa.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4104411
+    }
+  ]
+}

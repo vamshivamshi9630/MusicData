@@ -1,0 +1,145 @@
+{
+  "album": {
+    "id": "f801b520344a",
+    "name": "Thammudu",
+    "year": 1999,
+    "musicDirector": "Ramana Gogula",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Thammudu.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "629cccaab656",
+      "title": "College Blues",
+      "normalizedTitle": "college blues",
+      "trackNumber": 1,
+      "duration": "2:10",
+      "durationSeconds": 130,
+      "audio": "College Blues.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Preeti Jhangiani",
+        "Aditi Govitrikar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2150913
+    },
+    {
+      "id": "f83049cfaa2a",
+      "title": "Edola Vundi",
+      "normalizedTitle": "edola vundi",
+      "trackNumber": 2,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Edola Vundi.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Preeti Jhangiani",
+        "Aditi Govitrikar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5042366
+    },
+    {
+      "id": "085ecec84131",
+      "title": "Kala Kala Lu Kila Kila Lu",
+      "normalizedTitle": "kala kala lu kila kila lu",
+      "trackNumber": 3,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Kala Kala Lu Kila Kila Lu.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Preeti Jhangiani",
+        "Aditi Govitrikar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5040297
+    },
+    {
+      "id": "71c40477445b",
+      "title": "Made In Andhra Student",
+      "normalizedTitle": "made in andhra student",
+      "trackNumber": 4,
+      "duration": "6:58",
+      "durationSeconds": 418,
+      "audio": "Made In Andhra Student.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Preeti Jhangiani",
+        "Aditi Govitrikar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6753095
+    },
+    {
+      "id": "792617f44557",
+      "title": "Pedavi Datani Matokatundi",
+      "normalizedTitle": "pedavi datani matokatundi",
+      "trackNumber": 5,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Pedavi Datani Matokatundi.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Preeti Jhangiani",
+        "Aditi Govitrikar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4506575
+    },
+    {
+      "id": "7a43191273a0",
+      "title": "Travelling Soldier Song",
+      "normalizedTitle": "travelling soldier song",
+      "trackNumber": 6,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Travelling Soldier Song.mp3",
+      "composer": "Ramana Gokula",
+      "singers": [
+        "Ramana Gokula"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4387903
+    },
+    {
+      "id": "b4e978127294",
+      "title": "Vayyari Bhama",
+      "normalizedTitle": "vayyari bhama",
+      "trackNumber": 7,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Vayyari Bhama.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Preeti Jhangiani",
+        "Aditi Govitrikar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5128470
+    }
+  ]
+}

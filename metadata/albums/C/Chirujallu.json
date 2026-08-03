@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "f71c612eccb8",
+    "name": "Chirujallu",
+    "year": 2001,
+    "musicDirector": "Vandemataram Srinivas",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chirujallu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "54300a8cda68",
+      "title": "Bhudevi",
+      "normalizedTitle": "bhudevi",
+      "trackNumber": 1,
+      "duration": "5:36",
+      "durationSeconds": 336,
+      "audio": "Bhudevi.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5402207
+    },
+    {
+      "id": "50ea51b9c1d8",
+      "title": "Hai Rama",
+      "normalizedTitle": "hai rama",
+      "trackNumber": 2,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Hai Rama.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4839636
+    },
+    {
+      "id": "7c6d27738fae",
+      "title": "Kalalo",
+      "normalizedTitle": "kalalo",
+      "trackNumber": 3,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Kalalo.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4780699
+    },
+    {
+      "id": "508123f152fc",
+      "title": "Kurisindhi",
+      "normalizedTitle": "kurisindhi",
+      "trackNumber": 4,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Kurisindhi.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5180694
+    },
+    {
+      "id": "5f2387770002",
+      "title": "Radhe Radhe",
+      "normalizedTitle": "radhe radhe",
+      "trackNumber": 5,
+      "duration": "6:50",
+      "durationSeconds": 410,
+      "audio": "Radhe Radhe.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6592144
+    },
+    {
+      "id": "135b2c95a386",
+      "title": "Rende",
+      "normalizedTitle": "rende",
+      "trackNumber": 6,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Rende.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4451763
+    }
+  ]
+}

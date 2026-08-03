@@ -1,0 +1,67 @@
+{
+  "album": {
+    "id": "5815755fc6ef",
+    "name": "Robinhood",
+    "year": 2024,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Robinhood.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "a22beb96704c",
+      "title": "Adhi Dha Surprisu Song",
+      "normalizedTitle": "adhi dha surprisu song",
+      "trackNumber": 1,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Adhi Dha Surprisu Song.mp3",
+      "composer": "G V Prakash Kumar",
+      "singers": [
+        "Anurag Kulkarni",
+        "Neeti Mohan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9873491
+    },
+    {
+      "id": "8602d47baa93",
+      "title": "One More Time Song",
+      "normalizedTitle": "one more time song",
+      "trackNumber": 2,
+      "duration": "3:17",
+      "durationSeconds": 197,
+      "audio": "One More Time Song.mp3",
+      "composer": "G V Prakash Kumar",
+      "singers": [
+        "GV Prakash Kumar",
+        "Vidya Vox"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7933055
+    },
+    {
+      "id": "6f0e6d003a19",
+      "title": "Wherever You Go Song",
+      "normalizedTitle": "wherever you go song",
+      "trackNumber": 3,
+      "duration": "2:35",
+      "durationSeconds": 155,
+      "audio": "Wherever You Go Song.mp3",
+      "composer": "G V Prakash Kumar",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6308761
+    }
+  ]
+}

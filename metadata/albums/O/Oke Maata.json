@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "978496499605",
+    "name": "Oke Maata",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Oke Maata.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "c6d5d6ffaaa8",
+      "title": "Hatteri Buttabomma",
+      "normalizedTitle": "hatteri buttabomma",
+      "trackNumber": 1,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Hatteri Buttabomma.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3495076
+    },
+    {
+      "id": "eb5c3b2ca82b",
+      "title": "Kiss Me",
+      "normalizedTitle": "kiss me",
+      "trackNumber": 2,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Kiss Me.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4593451
+    },
+    {
+      "id": "6339c97e22c0",
+      "title": "Kolo Kolo Koyilalo",
+      "normalizedTitle": "kolo kolo koyilalo",
+      "trackNumber": 3,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Kolo Kolo Koyilalo.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4521166
+    },
+    {
+      "id": "48e242086fae",
+      "title": "Maa Manchi Vayyari",
+      "normalizedTitle": "maa manchi vayyari",
+      "trackNumber": 4,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Maa Manchi Vayyari.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3956503
+    },
+    {
+      "id": "d37f2d2495e6",
+      "title": "Raja Raja Chola",
+      "normalizedTitle": "raja raja chola",
+      "trackNumber": 5,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Raja Raja Chola.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3910522
+    }
+  ]
+}

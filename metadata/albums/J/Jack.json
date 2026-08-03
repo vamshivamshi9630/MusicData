@@ -1,0 +1,50 @@
+{
+  "album": {
+    "id": "31611159e7e6",
+    "name": "Jack",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jack.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "00859baaff33",
+      "title": "Kiss Song",
+      "normalizedTitle": "kiss song",
+      "trackNumber": 1,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Kiss Song.mp3",
+      "composer": "Achu Rajamani",
+      "singers": [
+        "Javed Ali",
+        "Amala Chebolu",
+        "Suresh Bobili"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9485312
+    },
+    {
+      "id": "eaa5d95561db",
+      "title": "Pablo Neruda Song",
+      "normalizedTitle": "pablo neruda song",
+      "trackNumber": 2,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Pablo Neruda Song.mp3",
+      "composer": "Achu Rajamani",
+      "singers": [
+        "Benny Dayal"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8578501
+    }
+  ]
+}

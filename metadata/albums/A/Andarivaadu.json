@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "eb6dd75bedb3",
+    "name": "Andarivaadu",
+    "year": 2005,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Andarivaadu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c3315626a788",
+      "title": "Ammamma Nee Mesam",
+      "normalizedTitle": "ammamma nee mesam",
+      "trackNumber": 1,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Ammamma Nee Mesam.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Udit Narayan",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5066629
+    },
+    {
+      "id": "c8f86b2014a6",
+      "title": "Andharivadu",
+      "normalizedTitle": "andharivadu",
+      "trackNumber": 2,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Andharivadu.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Andarivaadu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4282941
+    },
+    {
+      "id": "9f94075f1875",
+      "title": "F T V Figaralle",
+      "normalizedTitle": "f t v figaralle",
+      "trackNumber": 3,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "F T V Figaralle.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "KK",
+        "Sunitha Sarathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4727638
+    },
+    {
+      "id": "0e5bc6af0a99",
+      "title": "Kodi Koora",
+      "normalizedTitle": "kodi koora",
+      "trackNumber": 4,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Kodi Koora.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Jassie Gift",
+        "Malathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5172777
+    },
+    {
+      "id": "f2ee05e2f021",
+      "title": "Okati Rendu",
+      "normalizedTitle": "okati rendu",
+      "trackNumber": 5,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Okati Rendu.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shankar Mahadevan",
+        "Grace Karunas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4736441
+    },
+    {
+      "id": "9931692bd606",
+      "title": "Paduchu Bangarama",
+      "normalizedTitle": "paduchu bangarama",
+      "trackNumber": 6,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Paduchu Bangarama.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mallikarjun",
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5249699
+    }
+  ]
+}

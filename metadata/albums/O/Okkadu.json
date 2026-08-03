@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "f220ea32cce6",
+    "name": "Okkadu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Okkadu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "925263b5ecc6",
+      "title": "Attarintiki Song",
+      "normalizedTitle": "attarintiki song",
+      "trackNumber": 1,
+      "duration": "5:59",
+      "durationSeconds": 359,
+      "audio": "Attarintiki Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Hari Haran",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5783702
+    },
+    {
+      "id": "5f39209e5a37",
+      "title": "Cheppave Chirugali Song",
+      "normalizedTitle": "cheppave chirugali song",
+      "trackNumber": 2,
+      "duration": "5:32",
+      "durationSeconds": 332,
+      "audio": "Cheppave Chirugali Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Udit Narayan",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5359477
+    },
+    {
+      "id": "963e223a63bc",
+      "title": "Hare Rama",
+      "normalizedTitle": "hare rama",
+      "trackNumber": 3,
+      "duration": "5:59",
+      "durationSeconds": 359,
+      "audio": "Hare Rama.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5824703
+    },
+    {
+      "id": "cdc9733901bb",
+      "title": "Hay Rey Hai",
+      "normalizedTitle": "hay rey hai",
+      "trackNumber": 4,
+      "duration": "5:07",
+      "durationSeconds": 307,
+      "audio": "Hay Rey Hai.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Karthik",
+        "Ks Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4987531
+    },
+    {
+      "id": "b57793dfa2de",
+      "title": "Nuvvem Maya Song",
+      "normalizedTitle": "nuvvem maya song",
+      "trackNumber": 5,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Nuvvem Maya Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3947177
+    },
+    {
+      "id": "1485341306bc",
+      "title": "Sahasam Song",
+      "normalizedTitle": "sahasam song",
+      "trackNumber": 6,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Sahasam Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Mallikarjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4895501
+    }
+  ]
+}

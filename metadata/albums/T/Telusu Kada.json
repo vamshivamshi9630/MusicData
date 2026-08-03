@@ -1,0 +1,66 @@
+{
+  "album": {
+    "id": "dfd73f580512",
+    "name": "Telusu Kada",
+    "year": 2024,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Telusu Kada.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "08046a8b9a0d",
+      "title": "Babai Song",
+      "normalizedTitle": "babai song",
+      "trackNumber": 1,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Babai Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 130062,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4309326
+    },
+    {
+      "id": "26bf5218dd0f",
+      "title": "Mallika Gandha Song",
+      "normalizedTitle": "mallika gandha song",
+      "trackNumber": 2,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Mallika Gandha Song.mp3",
+      "composer": "SS Thaman",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 129596,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4653402
+    },
+    {
+      "id": "1e19dbab7a68",
+      "title": "Sogasu Chudatharama Song",
+      "normalizedTitle": "sogasu chudatharama song",
+      "trackNumber": 3,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Sogasu Chudatharama Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Karthik",
+        "Adviteeya Vojjala"
+      ],
+      "bitrate": 134923,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4455819
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "efdb576dc727",
+    "name": "The Thaandavam Song",
+    "year": 2012,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "84b3a13afeb7",
+      "title": "Bangaru Bittaa Song",
+      "normalizedTitle": "bangaru bittaa song",
+      "trackNumber": 1,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Bangaru Bittaa Song.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "Naresh Iyer",
+        "Mahathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4795352
+    },
+    {
+      "id": "ec1a4b007aac",
+      "title": "Kale Kantini Song",
+      "normalizedTitle": "kale kantini song",
+      "trackNumber": 2,
+      "duration": "5:45",
+      "durationSeconds": 345,
+      "audio": "Kale Kantini Song.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "Shubha Mudgal",
+        "Nithya Sree",
+        "Vineetha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5542261
+    },
+    {
+      "id": "9fe3ca1ab2ba",
+      "title": "Megamalle Song",
+      "normalizedTitle": "megamalle song",
+      "trackNumber": 3,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Megamalle Song.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "Harish Raghavendra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5315686
+    },
+    {
+      "id": "8c84ff4f86c4",
+      "title": "Neela Kaasam Song",
+      "normalizedTitle": "neela kaasam song",
+      "trackNumber": 4,
+      "duration": "5:14",
+      "durationSeconds": 314,
+      "audio": "Neela Kaasam Song.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "Benny Dayal",
+        "Prashaandhini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5046554
+    },
+    {
+      "id": "6d245e7f7afe",
+      "title": "Poovune Song",
+      "normalizedTitle": "poovune song",
+      "trackNumber": 5,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Poovune Song.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "Sreenivas",
+        "Harini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4309254
+    },
+    {
+      "id": "a5c6928b6070",
+      "title": "Theme Song",
+      "normalizedTitle": "theme song",
+      "trackNumber": 6,
+      "duration": "2:02",
+      "durationSeconds": 122,
+      "audio": "Theme Song.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "Naresh Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1977803
+    }
+  ]
+}

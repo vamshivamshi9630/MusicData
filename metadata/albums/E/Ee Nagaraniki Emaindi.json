@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "51607e56dbda",
+    "name": "Ee Nagaraniki Emaindi",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ee Nagaraniki Emaindi.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "24195b0b7732",
+      "title": "Aagi Aagi Song",
+      "normalizedTitle": "aagi aagi song",
+      "trackNumber": 1,
+      "duration": "6:48",
+      "durationSeconds": 408,
+      "audio": "Aagi Aagi Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Anurag Kulkarni",
+        "Manisha Eerabathini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6878578
+    },
+    {
+      "id": "982b7ef496d9",
+      "title": "Collegee Agelona Song",
+      "normalizedTitle": "collegee agelona song",
+      "trackNumber": 2,
+      "duration": "2:38",
+      "durationSeconds": 158,
+      "audio": "Collegee Agelona Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Wilson Herald"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2882580
+    },
+    {
+      "id": "b26fe4e335af",
+      "title": "Maarey Kalaley Song",
+      "normalizedTitle": "maarey kalaley song",
+      "trackNumber": 3,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Maarey Kalaley Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Suraj Santosh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4230480
+    },
+    {
+      "id": "e29aab802fc4",
+      "title": "Parada Jarupukoni Song",
+      "normalizedTitle": "parada jarupukoni song",
+      "trackNumber": 4,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Parada Jarupukoni Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4702355
+    },
+    {
+      "id": "3563efd440b3",
+      "title": "Swagatham Suswagatham Song",
+      "normalizedTitle": "swagatham suswagatham song",
+      "trackNumber": 5,
+      "duration": "2:02",
+      "durationSeconds": 122,
+      "audio": "Swagatham Suswagatham Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Cisco Chi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2307031
+    },
+    {
+      "id": "6b1e7dc36f77",
+      "title": "Veediponidhi Okateley Song",
+      "normalizedTitle": "veediponidhi okateley song",
+      "trackNumber": 6,
+      "duration": "3:07",
+      "durationSeconds": 187,
+      "audio": "Veediponidhi Okateley Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Vivek Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3354437
+    }
+  ]
+}

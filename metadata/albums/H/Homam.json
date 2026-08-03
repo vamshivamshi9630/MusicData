@@ -1,0 +1,87 @@
+{
+  "album": {
+    "id": "62d7fdca9ba2",
+    "name": "Homam",
+    "year": 2008,
+    "musicDirector": "Nithin Raikwar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Homam.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "ed0b22ea0b2d",
+      "title": "Katti Naaku Song",
+      "normalizedTitle": "katti naaku song",
+      "trackNumber": 1,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Katti Naaku Song.mp3",
+      "composer": "Nithin Raikwar",
+      "singers": [
+        "Malathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3392203
+    },
+    {
+      "id": "b6eb6dca6dab",
+      "title": "Magaallu Mee Song",
+      "normalizedTitle": "magaallu mee song",
+      "trackNumber": 2,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Magaallu Mee Song.mp3",
+      "composer": "Nithin Raikwar",
+      "singers": [
+        "Madhu Shri",
+        "J.D. Chakravarthy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4798256
+    },
+    {
+      "id": "29f52ecb7da1",
+      "title": "Pedavikidem Song",
+      "normalizedTitle": "pedavikidem song",
+      "trackNumber": 3,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Pedavikidem Song.mp3",
+      "composer": "Nithin Raikwar",
+      "singers": [
+        "Mamata Mohan Das",
+        "Jagapathi Babu",
+        "J.D. Chakravarthy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4377829
+    },
+    {
+      "id": "5c94057ae7ea",
+      "title": "Yey Mister Ninne Song",
+      "normalizedTitle": "yey mister ninne song",
+      "trackNumber": 4,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Yey Mister Ninne Song.mp3",
+      "composer": "Nithin Raikwar",
+      "singers": [
+        "Mamata Mohan Das",
+        "Shivani",
+        "Nihal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3393075
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "album": {
+    "id": "60e77101e769",
+    "name": "Dude",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Dude.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "6e0afffc3ead",
+      "title": "Anthu Leni Premani Lopala (Male) Song",
+      "normalizedTitle": "anthu leni premani lopala male song",
+      "trackNumber": 1,
+      "duration": "0:39",
+      "durationSeconds": 39,
+      "audio": "Anthu Leni Premani Lopala (Male) Song.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar",
+        "Deepthi Suresh",
+        "Bhumi"
+      ],
+      "bitrate": 130799,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1000547
+    },
+    {
+      "id": "c36c487065d3",
+      "title": "Anthu Leni Premani Lopala",
+      "normalizedTitle": "anthu leni premani lopala",
+      "trackNumber": 2,
+      "duration": "0:39",
+      "durationSeconds": 39,
+      "audio": "Anthu Leni Premani Lopala.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar",
+        "Deepthi Suresh",
+        "Bhumi"
+      ],
+      "bitrate": 130799,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1000547
+    },
+    {
+      "id": "0d5ab7a645cb",
+      "title": "Anthuleni Premani Lopala Dachukoni (Female)",
+      "normalizedTitle": "anthuleni premani lopala dachukoni female",
+      "trackNumber": 3,
+      "duration": "0:54",
+      "durationSeconds": 54,
+      "audio": "Anthuleni Premani Lopala Dachukoni (Female).mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar&#8236",
+        "Jonita Gandhi"
+      ],
+      "bitrate": 129141,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1234304
+    },
+    {
+      "id": "ca4d90bc00ae",
+      "title": "Anthuleni Premani Lopala Dachukoni",
+      "normalizedTitle": "anthuleni premani lopala dachukoni",
+      "trackNumber": 4,
+      "duration": "0:54",
+      "durationSeconds": 54,
+      "audio": "Anthuleni Premani Lopala Dachukoni.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar&#8236",
+        "Jonita Gandhi"
+      ],
+      "bitrate": 129141,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1234304
+    },
+    {
+      "id": "fd635240b63c",
+      "title": "Baagundu Po",
+      "normalizedTitle": "baagundu po",
+      "trackNumber": 5,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Baagundu Po.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sanjith Hegde"
+      ],
+      "bitrate": 126808,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4090869
+    },
+    {
+      "id": "e57c2539b7bf",
+      "title": "Boom Boom Voilen Music",
+      "normalizedTitle": "boom boom voilen music",
+      "trackNumber": 6,
+      "duration": "0:32",
+      "durationSeconds": 32,
+      "audio": "Boom Boom Voilen Music.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar",
+        "Deepthi Suresh",
+        "Bhumi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 859074
+    },
+    {
+      "id": "4c8b7dcc2515",
+      "title": "Nee Gunde Lona",
+      "normalizedTitle": "nee gunde lona",
+      "trackNumber": 7,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Nee Gunde Lona.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar&#8236",
+        "Jonita Gandhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4500625
+    },
+    {
+      "id": "9bbc09e285bd",
+      "title": "Singari Song",
+      "normalizedTitle": "singari song",
+      "trackNumber": 8,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Singari Song.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar&#8236"
+      ],
+      "bitrate": 131390,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3744356
+    }
+  ]
+}

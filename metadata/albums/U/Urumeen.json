@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "d1f20be5f6f8",
+    "name": "Urumeen",
+    "year": 2015,
+    "musicDirector": "Achu Rajamani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Urumeen.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "041b609d69ca",
+      "title": "Baby Baby Song",
+      "normalizedTitle": "baby baby song",
+      "trackNumber": 1,
+      "duration": "3:19",
+      "durationSeconds": 199,
+      "audio": "Baby Baby Song.mp3",
+      "composer": "Achu",
+      "singers": [
+        "Anthony Daasan"
+      ],
+      "bitrate": 133553,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3394520
+    },
+    {
+      "id": "645329cbfe84",
+      "title": "Hey Umayaal Song",
+      "normalizedTitle": "hey umayaal song",
+      "trackNumber": 2,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Hey Umayaal Song.mp3",
+      "composer": "Achu",
+      "singers": [
+        "Vijay Yesudas"
+      ],
+      "bitrate": 135755,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2888191
+    },
+    {
+      "id": "67813856eafe",
+      "title": "Siru Nadai Song",
+      "normalizedTitle": "siru nadai song",
+      "trackNumber": 3,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Siru Nadai Song.mp3",
+      "composer": "Achu",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 117202,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3001228
+    },
+    {
+      "id": "1936680b350e",
+      "title": "Yaadhum Oorae Song",
+      "normalizedTitle": "yaadhum oorae song",
+      "trackNumber": 4,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Yaadhum Oorae Song.mp3",
+      "composer": "Achu",
+      "singers": [
+        "Guna",
+        "Rohan Prakash & Kamalaja Rajagopal"
+      ],
+      "bitrate": 122624,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3683229
+    }
+  ]
+}

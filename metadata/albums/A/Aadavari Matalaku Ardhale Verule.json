@@ -1,0 +1,124 @@
+{
+  "album": {
+    "id": "7c92da5cecc7",
+    "name": "Aadavari Matalaku Ardhale Verule",
+    "year": 2007,
+    "musicDirector": "Yuvan Shankar Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aadavari Matalaku Ardhale Verule.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "21b92d79a0ad",
+      "title": "Allantha Doorala Song",
+      "normalizedTitle": "allantha doorala song",
+      "trackNumber": 1,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Allantha Doorala Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "S.P. Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4426346
+    },
+    {
+      "id": "3773e215ae05",
+      "title": "Cheli Chamaku Song",
+      "normalizedTitle": "cheli chamaku song",
+      "trackNumber": 2,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Cheli Chamaku Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Adnan Sami",
+        "Anushka",
+        "Swetha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4973065
+    },
+    {
+      "id": "11bba222f6bc",
+      "title": "Manasa Mannichamma Song",
+      "normalizedTitle": "manasa mannichamma song",
+      "trackNumber": 3,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Manasa Mannichamma Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Karthik",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4412152
+    },
+    {
+      "id": "cabb69dc6163",
+      "title": "Naa Manasuki Song",
+      "normalizedTitle": "naa manasuki song",
+      "trackNumber": 4,
+      "duration": "5:41",
+      "durationSeconds": 341,
+      "audio": "Naa Manasuki Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Karthik",
+        "Gayathri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5484627
+    },
+    {
+      "id": "3ea3785a4b4d",
+      "title": "O Baby Song",
+      "normalizedTitle": "o baby song",
+      "trackNumber": 5,
+      "duration": "5:37",
+      "durationSeconds": 337,
+      "audio": "O Baby Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Hari Charan",
+        "Jenny",
+        "Mathangi",
+        "Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5420695
+    },
+    {
+      "id": "8679c4bc73f1",
+      "title": "Yemaindhi Ee Vela Song",
+      "normalizedTitle": "yemaindhi ee vela song",
+      "trackNumber": 6,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Yemaindhi Ee Vela Song.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Udit Narayan",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5168654
+    }
+  ]
+}

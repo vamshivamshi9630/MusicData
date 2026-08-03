@@ -1,0 +1,72 @@
+{
+  "album": {
+    "id": "9eabc6d9a24a",
+    "name": "Biker",
+    "year": 2020,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Biker.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "88f2fdb0437f",
+      "title": "Preety Baby Song",
+      "normalizedTitle": "preety baby song",
+      "trackNumber": 1,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Preety Baby Song.mp3",
+      "composer": "Ghibran",
+      "singers": [
+        "Ghibran",
+        "Yazin Nizar",
+        "Sublahshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4427398
+    },
+    {
+      "id": "43557bc9e742",
+      "title": "Preety Baby",
+      "normalizedTitle": "preety baby",
+      "trackNumber": 2,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Preety Baby.mp3",
+      "composer": "Ghibran",
+      "singers": [
+        "Ghibran",
+        "Yazin Nizar",
+        "Sublahshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4427398
+    },
+    {
+      "id": "0cb2a782ea18",
+      "title": "Ziddi Ziddi Song",
+      "normalizedTitle": "ziddi ziddi song",
+      "trackNumber": 3,
+      "duration": "2:30",
+      "durationSeconds": 150,
+      "audio": "Ziddi Ziddi Song.mp3",
+      "composer": "Ghibran",
+      "singers": [
+        "Ghibran",
+        "Shenbagaraj",
+        "Aravind Srinivas",
+        "Sudharsan Ram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2770650
+    }
+  ]
+}

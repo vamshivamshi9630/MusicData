@@ -1,0 +1,107 @@
+{
+  "album": {
+    "id": "feba1e78ad8a",
+    "name": "Manchivadu",
+    "year": 2003,
+    "musicDirector": "Sirpy",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Manchivadu.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "636e42f96e15",
+      "title": "Anaganaga Oka Chinna Song",
+      "normalizedTitle": "anaganaga oka chinna song",
+      "trackNumber": 1,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Anaganaga Oka Chinna Song.mp3",
+      "composer": "Music : Shirpi | Lyrics : E.S. Murthy",
+      "singers": [
+        "Mukesh",
+        "Swetha Mohan",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4687302
+    },
+    {
+      "id": "fe8543b2c91b",
+      "title": "Chirugali Pallakilo Song",
+      "normalizedTitle": "chirugali pallakilo song",
+      "trackNumber": 2,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Chirugali Pallakilo Song.mp3",
+      "composer": "Music : Shirpi | Lyrics : Abhinay Srinivas",
+      "singers": [
+        "Ranjith",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3974660
+    },
+    {
+      "id": "fb0bc16cb1ae",
+      "title": "Dum Dum Laka Laka Song",
+      "normalizedTitle": "dum dum laka laka song",
+      "trackNumber": 3,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Dum Dum Laka Laka Song.mp3",
+      "composer": "Music : Shirpi | Lyrics : Abhinay Srinivas",
+      "singers": [
+        "Karthik",
+        "Sathyam",
+        "Anitha",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4209583
+    },
+    {
+      "id": "643468768715",
+      "title": "Edi Aa Vennela Song",
+      "normalizedTitle": "edi aa vennela song",
+      "trackNumber": 4,
+      "duration": "2:17",
+      "durationSeconds": 137,
+      "audio": "Edi Aa Vennela Song.mp3",
+      "composer": "Music : Shirpi | Lyrics : E.S. Murthy",
+      "singers": [
+        "Karthik",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2280251
+    },
+    {
+      "id": "d9bfa2288ab3",
+      "title": "Orabbayyela Lelayilo Song",
+      "normalizedTitle": "orabbayyela lelayilo song",
+      "trackNumber": 5,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Orabbayyela Lelayilo Song.mp3",
+      "composer": "Music : Shirpi | Lyrics : Bhuvanachandra",
+      "singers": [
+        "M.K. Balaji",
+        "Anitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4202872
+    }
+  ]
+}

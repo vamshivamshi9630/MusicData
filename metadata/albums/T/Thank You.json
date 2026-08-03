@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "844347e54f00",
+    "name": "Thank You",
+    "year": 2022,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Thank You.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "a0ada1369ea2",
+      "title": "E Nimisham Song",
+      "normalizedTitle": "e nimisham song",
+      "trackNumber": 1,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "E Nimisham Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Manisha Eerabathini",
+        "Sri Krishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4325211
+    },
+    {
+      "id": "1349ee708a0e",
+      "title": "Ento Enteynto Song",
+      "normalizedTitle": "ento enteynto song",
+      "trackNumber": 2,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Ento Enteynto Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Jonita Gandhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4105781
+    },
+    {
+      "id": "4bbd9c62f3ff",
+      "title": "Farewell Song",
+      "normalizedTitle": "farewell song",
+      "trackNumber": 3,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Farewell Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4510784
+    },
+    {
+      "id": "25368427f4ab",
+      "title": "Maro Maro Song",
+      "normalizedTitle": "maro maro song",
+      "trackNumber": 4,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Maro Maro Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Deepu",
+        "Prudhvi Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3974124
+    },
+    {
+      "id": "1cd0764fd9ea",
+      "title": "Thank You Title Song",
+      "normalizedTitle": "thank you title song",
+      "trackNumber": 5,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Thank You Title Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4346944
+    }
+  ]
+}

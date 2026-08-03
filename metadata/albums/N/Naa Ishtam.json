@@ -1,0 +1,137 @@
+{
+  "album": {
+    "id": "081d14109d39",
+    "name": "Naa Ishtam",
+    "year": 2012,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Naa Ishtam.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "89ddec93e653",
+      "title": "Changure Andhaale Song",
+      "normalizedTitle": "changure andhaale song",
+      "trackNumber": 1,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Changure Andhaale Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Vanamali",
+      "singers": [
+        "Hemachandra",
+        "Uma Neha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3890203
+    },
+    {
+      "id": "88d55ca65612",
+      "title": "Haayi Haayiga Song",
+      "normalizedTitle": "haayi haayiga song",
+      "trackNumber": 2,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Haayi Haayiga Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Balaji",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4487427
+    },
+    {
+      "id": "716f63bc6452",
+      "title": "Jillele Jillele Song",
+      "normalizedTitle": "jillele jillele song",
+      "trackNumber": 3,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Jillele Jillele Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Balaji",
+      "singers": [
+        "Adnan Sami",
+        "Mamata Sarma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4143484
+    },
+    {
+      "id": "daab35b9e77c",
+      "title": "Ma Pedhakka Song",
+      "normalizedTitle": "ma pedhakka song",
+      "trackNumber": 4,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Ma Pedhakka Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Balaji",
+      "singers": [
+        "Geetha Madhuri",
+        "Deepthi Chari",
+        "Aishwarya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4794689
+    },
+    {
+      "id": "3a50a7467bab",
+      "title": "Na Ishtam Song",
+      "normalizedTitle": "na ishtam song",
+      "trackNumber": 5,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Na Ishtam Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Chandrabose",
+      "singers": [
+        "Kunal Ganjawala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4248790
+    },
+    {
+      "id": "f9c6bf416bf9",
+      "title": "Nee Kannullo Song",
+      "normalizedTitle": "nee kannullo song",
+      "trackNumber": 6,
+      "duration": "2:11",
+      "durationSeconds": 131,
+      "audio": "Nee Kannullo Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Balaji",
+      "singers": [
+        "Shaan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2178196
+    },
+    {
+      "id": "118d98e3497b",
+      "title": "O Saathiya Song",
+      "normalizedTitle": "o saathiya song",
+      "trackNumber": 7,
+      "duration": "5:45",
+      "durationSeconds": 345,
+      "audio": "O Saathiya Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Balaji",
+      "singers": [
+        "K.K."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5607127
+    }
+  ]
+}

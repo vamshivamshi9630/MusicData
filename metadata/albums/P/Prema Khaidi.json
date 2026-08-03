@@ -1,0 +1,106 @@
+{
+  "album": {
+    "id": "1f41a3302d54",
+    "name": "Prema Khaidi",
+    "year": 1990,
+    "musicDirector": "Raj-Koti",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Prema Khaidi.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "ba7f52e8bdec",
+      "title": "Idemiti Song",
+      "normalizedTitle": "idemiti song",
+      "trackNumber": 1,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Idemiti Song.mp3",
+      "composer": "Music : D. Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Naresh Iyer",
+        "Sadhana Sargam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3915824
+    },
+    {
+      "id": "ac5f5e1e9f67",
+      "title": "Jingi Chika Song",
+      "normalizedTitle": "jingi chika song",
+      "trackNumber": 2,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Jingi Chika Song.mp3",
+      "composer": "Music : D. Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Solar Sai",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3795442
+    },
+    {
+      "id": "faa64aedf419",
+      "title": "Kicha Kicha Kiyya Song",
+      "normalizedTitle": "kicha kicha kiyya song",
+      "trackNumber": 3,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Kicha Kicha Kiyya Song.mp3",
+      "composer": "Music : D. Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Baby Harini",
+        "Sriranjani",
+        "S. Srimathi",
+        "G. Athreya",
+        "Lakshman"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4141186
+    },
+    {
+      "id": "346094c85792",
+      "title": "Mainaa Mainaa Song",
+      "normalizedTitle": "mainaa mainaa song",
+      "trackNumber": 4,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Mainaa Mainaa Song.mp3",
+      "composer": "Music : D. Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Shaan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4440331
+    },
+    {
+      "id": "e82a80347068",
+      "title": "Nuvvu Nenu Song",
+      "normalizedTitle": "nuvvu nenu song",
+      "trackNumber": 5,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Nuvvu Nenu Song.mp3",
+      "composer": "Music : D. Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Benny Dayal",
+        "Shreya Goshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4783930
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "album": {
+    "id": "aaeb5db4ef6a",
+    "name": "Bommarillu",
+    "year": 2006,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bommarillu.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "668daf21e383",
+      "title": "Apudo Ipudo",
+      "normalizedTitle": "apudo ipudo",
+      "trackNumber": 1,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Apudo Ipudo.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Siddharth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4012204
+    },
+    {
+      "id": "77ddce0222f9",
+      "title": "Bommanu Geesthey",
+      "normalizedTitle": "bommanu geesthey",
+      "trackNumber": 2,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Bommanu Geesthey.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Gopika Poornima",
+        "Jeans Srinivas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3911918
+    },
+    {
+      "id": "8cd137df1480",
+      "title": "Kaani Ippudu",
+      "normalizedTitle": "kaani ippudu",
+      "trackNumber": 3,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Kaani Ippudu.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5176207
+    },
+    {
+      "id": "486098ec74a7",
+      "title": "Laalu Dharvaja",
+      "normalizedTitle": "laalu dharvaja",
+      "trackNumber": 4,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Laalu Dharvaja.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Naveen",
+        "Murali",
+        "Priya Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4806335
+    },
+    {
+      "id": "aa4d3dfee393",
+      "title": "Music Bit",
+      "normalizedTitle": "music bit",
+      "trackNumber": 5,
+      "duration": "0:48",
+      "durationSeconds": 48,
+      "audio": "Music Bit.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 897090
+    },
+    {
+      "id": "07cdea44ccec",
+      "title": "Nammaka Tappani",
+      "normalizedTitle": "nammaka tappani",
+      "trackNumber": 6,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Nammaka Tappani.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4520045
+    },
+    {
+      "id": "5d59ac65dfdb",
+      "title": "We Have Romeo",
+      "normalizedTitle": "we have romeo",
+      "trackNumber": 7,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "We Have Romeo.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Ranjith",
+        "Andrea"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3879500
+    }
+  ]
+}

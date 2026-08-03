@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "fc6f2ead1f1b",
+    "name": "Gowtham SSC",
+    "year": 2005,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gowtham SSC.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "781783339e8d",
+      "title": "Amma Nanna",
+      "normalizedTitle": "amma nanna",
+      "trackNumber": 1,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Amma Nanna.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 257620,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8373754
+    },
+    {
+      "id": "2d3ab384f8bd",
+      "title": "Anaganaga Oka Raju",
+      "normalizedTitle": "anaganaga oka raju",
+      "trackNumber": 2,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Anaganaga Oka Raju.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 246397,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8921508
+    },
+    {
+      "id": "7387dd00f1de",
+      "title": "Edho Aaasa",
+      "normalizedTitle": "edho aaasa",
+      "trackNumber": 3,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Edho Aaasa.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 246254,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8318899
+    },
+    {
+      "id": "3c7b787e6916",
+      "title": "Madhi Layalo",
+      "normalizedTitle": "madhi layalo",
+      "trackNumber": 4,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Madhi Layalo.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 250543,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8659730
+    },
+    {
+      "id": "58808a7eab0f",
+      "title": "Oh Oh Mariya",
+      "normalizedTitle": "oh oh mariya",
+      "trackNumber": 5,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Oh Oh Mariya.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 251716,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7733600
+    },
+    {
+      "id": "ecd7b7f9f13c",
+      "title": "Theme Bit",
+      "normalizedTitle": "theme bit",
+      "trackNumber": 6,
+      "duration": "1:14",
+      "durationSeconds": 74,
+      "audio": "Theme Bit.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 258792,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2446650
+    },
+    {
+      "id": "ddaf611010a8",
+      "title": "Yedho Aaasa",
+      "normalizedTitle": "yedho aaasa",
+      "trackNumber": 7,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Yedho Aaasa.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 246254,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8318901
+    }
+  ]
+}

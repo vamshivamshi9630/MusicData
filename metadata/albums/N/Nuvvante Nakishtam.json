@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "8a79dfc364a4",
+    "name": "Nuvvante Nakishtam",
+    "year": 2005,
+    "musicDirector": "Joshua Sridhar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nuvvante Nakishtam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "22c5f8c78709",
+      "title": "Choopultho",
+      "normalizedTitle": "choopultho",
+      "trackNumber": 1,
+      "duration": "6:19",
+      "durationSeconds": 379,
+      "audio": "Choopultho.mp3",
+      "composer": "Koti",
+      "singers": [
+        "KK",
+        "Shalini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6516074
+    },
+    {
+      "id": "f14606bc457e",
+      "title": "Endhukey Paruvama",
+      "normalizedTitle": "endhukey paruvama",
+      "trackNumber": 2,
+      "duration": "5:52",
+      "durationSeconds": 352,
+      "audio": "Endhukey Paruvama.mp3",
+      "composer": "Koti",
+      "singers": [
+        "KK",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6073883
+    },
+    {
+      "id": "8629b463bbea",
+      "title": "Manasichavanuko",
+      "normalizedTitle": "manasichavanuko",
+      "trackNumber": 3,
+      "duration": "6:03",
+      "durationSeconds": 363,
+      "audio": "Manasichavanuko.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Sonu Nigam",
+        "S.P. Balasubrahmanyam",
+        "Sashana Saragam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6259923
+    },
+    {
+      "id": "62522bde80f7",
+      "title": "Nee Navvu Poolavnam",
+      "normalizedTitle": "nee navvu poolavnam",
+      "trackNumber": 4,
+      "duration": "6:11",
+      "durationSeconds": 371,
+      "audio": "Nee Navvu Poolavnam.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Sonu Nigam",
+        "Sangeetha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6389463
+    },
+    {
+      "id": "992f51ccdb38",
+      "title": "Ollo Dallo",
+      "normalizedTitle": "ollo dallo",
+      "trackNumber": 5,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Ollo Dallo.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Udit Narayan",
+        "Sadhana Sargam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5498378
+    },
+    {
+      "id": "352c99aa69d9",
+      "title": "Thidatharu",
+      "normalizedTitle": "thidatharu",
+      "trackNumber": 6,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Thidatharu.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Vishwa Deepak"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1739776
+    }
+  ]
+}

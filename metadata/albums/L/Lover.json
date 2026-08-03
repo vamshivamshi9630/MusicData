@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "16a2dd3a8725",
+    "name": "Lover",
+    "year": 2018,
+    "musicDirector": "Ankit Tiwari",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "3950093075b0",
+      "title": "Adbhutam Song",
+      "normalizedTitle": "adbhutam song",
+      "trackNumber": 1,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Adbhutam Song.mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Jubin Nautiyal",
+        "Ranjini Jose"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3525314
+    },
+    {
+      "id": "94966c3fb885",
+      "title": "Anthe Kada Mari Song",
+      "normalizedTitle": "anthe kada mari song",
+      "trackNumber": 2,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Anthe Kada Mari Song.mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Ankit Tiwari",
+        "Jonita Gandhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4605321
+    },
+    {
+      "id": "37738d4b3835",
+      "title": "Naalo Chilipi Kala (Theme Song) Song",
+      "normalizedTitle": "naalo chilipi kala theme song song",
+      "trackNumber": 3,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Naalo Chilipi Kala (Theme Song) Song.mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3567528
+    },
+    {
+      "id": "698cca6cd185",
+      "title": "Ramuni Banamla Song",
+      "normalizedTitle": "ramuni banamla song",
+      "trackNumber": 4,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Ramuni Banamla Song.mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Sai Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3407867
+    },
+    {
+      "id": "89b6aa7c0bba",
+      "title": "What A Ammayi Song",
+      "normalizedTitle": "what a ammayi song",
+      "trackNumber": 5,
+      "duration": "3:45",
+      "durationSeconds": 225,
+      "audio": "What A Ammayi Song.mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Sonu Nigam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3676197
+    },
+    {
+      "id": "a19aa65d82d0",
+      "title": "Yevaipuga Naa Choopu Saagali (Sad Song) Song",
+      "normalizedTitle": "yevaipuga naa choopu saagali sad song song",
+      "trackNumber": 6,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Yevaipuga Naa Choopu Saagali (Sad Song) Song.mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Ankit Tiwari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5125262
+    }
+  ]
+}

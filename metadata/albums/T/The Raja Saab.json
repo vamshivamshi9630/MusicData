@@ -1,0 +1,123 @@
+{
+  "album": {
+    "id": "0e6e08d4ff92",
+    "name": "The Raja Saab",
+    "year": 2025,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "The Raja Saab.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "d5a89b7eb37e",
+      "title": "Dil Mange More Song",
+      "normalizedTitle": "dil mange more song",
+      "trackNumber": 1,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Dil Mange More Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Nakash Aziz"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 10866112
+    },
+    {
+      "id": "567c8b1e2521",
+      "title": "Nache Nache Song",
+      "normalizedTitle": "nache nache song",
+      "trackNumber": 2,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Nache Nache Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "SS Thaman",
+        "Nakash Aziz",
+        "Brinda"
+      ],
+      "bitrate": 107043,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3932916
+    },
+    {
+      "id": "2e2b32ac41cb",
+      "title": "Raje Yuvaraje Song",
+      "normalizedTitle": "raje yuvaraje song",
+      "trackNumber": 3,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Raje Yuvaraje Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "SS Thaman",
+        "Adviteeya Vojjala",
+        "Baby Riya Seepana"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10391408
+    },
+    {
+      "id": "b8799db05c4b",
+      "title": "Rebel Maniac Song",
+      "normalizedTitle": "rebel maniac song",
+      "trackNumber": 4,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Rebel Maniac Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Asura",
+        "Sahithi Adapa"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8728192
+    },
+    {
+      "id": "f661889c9000",
+      "title": "Rebel Saab Song",
+      "normalizedTitle": "rebel saab song",
+      "trackNumber": 5,
+      "duration": "3:41",
+      "durationSeconds": 221,
+      "audio": "Rebel Saab Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sanjith Hegde",
+        "Blaaze"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9263402
+    },
+    {
+      "id": "1133a8dfc9a0",
+      "title": "Sahana Sahana Song",
+      "normalizedTitle": "sahana sahana song",
+      "trackNumber": 6,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Sahana Sahana Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Vishal Mishra",
+        "Sruthi Ranjani"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 10664512
+    }
+  ]
+}

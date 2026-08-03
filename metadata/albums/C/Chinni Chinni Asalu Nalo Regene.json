@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "14ff4e7b52ed",
+    "name": "Chinni Chinni Asalu Nalo Regene",
+    "year": 2020,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chinni Chinni Asalu Nalo Regene.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "20f782563e74",
+      "title": "Aalochinchaku Song",
+      "normalizedTitle": "aalochinchaku song",
+      "trackNumber": 1,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Aalochinchaku Song.mp3",
+      "composer": "Rap Rock Shakeel",
+      "singers": [
+        "Moushimi Neha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3263523
+    },
+    {
+      "id": "fad6a6c0a4c2",
+      "title": "Detthadi Song",
+      "normalizedTitle": "detthadi song",
+      "trackNumber": 2,
+      "duration": "2:20",
+      "durationSeconds": 140,
+      "audio": "Detthadi Song.mp3",
+      "composer": "Rap Rock Shakeel",
+      "singers": [
+        "Sonia",
+        "Deepti",
+        "Moushimi Neha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2304327
+    },
+    {
+      "id": "717bf547f1c5",
+      "title": "Manasulu Chere Song",
+      "normalizedTitle": "manasulu chere song",
+      "trackNumber": 3,
+      "duration": "2:21",
+      "durationSeconds": 141,
+      "audio": "Manasulu Chere Song.mp3",
+      "composer": "Rap Rock Shakeel",
+      "singers": [
+        "Geetha Madhuri",
+        "Bhole"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2322297
+    },
+    {
+      "id": "4858f21e1b0d",
+      "title": "Prema Prema Song",
+      "normalizedTitle": "prema prema song",
+      "trackNumber": 4,
+      "duration": "2:10",
+      "durationSeconds": 130,
+      "audio": "Prema Prema Song.mp3",
+      "composer": "Rap Rock Shakeel",
+      "singers": [
+        "Hemachandra",
+        "Moushimi Neha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2143833
+    },
+    {
+      "id": "73e97fab7ec2",
+      "title": "Tappatadugu Song",
+      "normalizedTitle": "tappatadugu song",
+      "trackNumber": 5,
+      "duration": "2:28",
+      "durationSeconds": 148,
+      "audio": "Tappatadugu Song.mp3",
+      "composer": "Rap Rock Shakeel",
+      "singers": [
+        "Rap Rock Shakeel"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2435966
+    }
+  ]
+}

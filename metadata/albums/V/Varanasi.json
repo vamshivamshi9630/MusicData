@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "ee2349eb6fb3",
+    "name": "Varanasi",
+    "year": 2020,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Varanasi.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "b37be387006e",
+      "title": "Globe Trotter Song",
+      "normalizedTitle": "globe trotter song",
+      "trackNumber": 1,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Globe Trotter Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Shruti Haasan",
+        "Kaala Bhairava"
+      ],
+      "bitrate": 233704,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6671926
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "d2a0213fea37",
+    "name": "Malli Malli Idi Rani Roju",
+    "year": 2015,
+    "musicDirector": "Gopi Sundar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Malli Malli Idi Rani Roju.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "99e2c961fcc0",
+      "title": "Choti Jindagi",
+      "normalizedTitle": "choti jindagi",
+      "trackNumber": 1,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Choti Jindagi.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Hiranmayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4303394
+    },
+    {
+      "id": "cdf89bf25b62",
+      "title": "Gathama Gathama",
+      "normalizedTitle": "gathama gathama",
+      "trackNumber": 2,
+      "duration": "2:58",
+      "durationSeconds": 178,
+      "audio": "Gathama Gathama.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Priya Himesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3175750
+    },
+    {
+      "id": "05698271d07d",
+      "title": "Marhaba",
+      "normalizedTitle": "marhaba",
+      "trackNumber": 3,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Marhaba.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "K. S. Chithra",
+        "Aaishwarya",
+        "Gopi Sunder"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4795364
+    },
+    {
+      "id": "dffbf9c2f2c9",
+      "title": "Varinche Prema",
+      "normalizedTitle": "varinche prema",
+      "trackNumber": 4,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Varinche Prema.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4637347
+    },
+    {
+      "id": "4bddd53816c7",
+      "title": "Yenno Yenno",
+      "normalizedTitle": "yenno yenno",
+      "trackNumber": 5,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Yenno Yenno.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Karthik",
+        "Chinmayi Sripaada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4646550
+    }
+  ]
+}

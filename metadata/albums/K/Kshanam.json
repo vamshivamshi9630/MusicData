@@ -1,0 +1,135 @@
+{
+  "album": {
+    "id": "fff50612665c",
+    "name": "Kshanam",
+    "year": 2016,
+    "musicDirector": "Sricharan Pakala",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kshanam.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "507de42b1530",
+      "title": "Cheliya Cheliya Song",
+      "normalizedTitle": "cheliya cheliya song",
+      "trackNumber": 1,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Cheliya Cheliya Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Ishaq Vali",
+        "Nalini Srikar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4167272
+    },
+    {
+      "id": "abc7449e2e64",
+      "title": "Conspiracy Song",
+      "normalizedTitle": "conspiracy song",
+      "trackNumber": 2,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Conspiracy Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Sricharan Pakala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2730718
+    },
+    {
+      "id": "d7e66d39721f",
+      "title": "Ee Kshanam Song",
+      "normalizedTitle": "ee kshanam song",
+      "trackNumber": 3,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Ee Kshanam Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Ravikanth Perepu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3972893
+    },
+    {
+      "id": "c15283a09762",
+      "title": "Nostalgia Song",
+      "normalizedTitle": "nostalgia song",
+      "trackNumber": 4,
+      "duration": "2:15",
+      "durationSeconds": 135,
+      "audio": "Nostalgia Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Sricharan Pakala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2224568
+    },
+    {
+      "id": "a84f9b3bd358",
+      "title": "Pada Pada Pranama Song",
+      "normalizedTitle": "pada pada pranama song",
+      "trackNumber": 5,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Pada Pada Pranama Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Poojan Kohli",
+        "Ambika Sashital"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4262161
+    },
+    {
+      "id": "b56b5a51a4f1",
+      "title": "Rishis Destiny Song",
+      "normalizedTitle": "rishis destiny song",
+      "trackNumber": 6,
+      "duration": "2:04",
+      "durationSeconds": 124,
+      "audio": "Rishis Destiny Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Sricharan Pakala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2054886
+    },
+    {
+      "id": "24b6de6f1cc1",
+      "title": "Soul of Kshanam Song",
+      "normalizedTitle": "soul of kshanam song",
+      "trackNumber": 7,
+      "duration": "1:50",
+      "durationSeconds": 110,
+      "audio": "Soul of Kshanam Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Sricharan Pakala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1838803
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "album": {
+    "id": "82b1b91f03d6",
+    "name": "Saripodhaa Sanivaaram",
+    "year": 2024,
+    "musicDirector": "Jakes Bejoy",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Saripodhaa Sanivaaram.png",
+    "songCount": 12
+  },
+  "songs": [
+    {
+      "id": "ea9d2f7a9c04",
+      "title": "Bhaga Bhaga Song",
+      "normalizedTitle": "bhaga bhaga song",
+      "trackNumber": 1,
+      "duration": "2:56",
+      "durationSeconds": 176,
+      "audio": "Bhaga Bhaga Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Chorous"
+      ],
+      "bitrate": 128006,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3169796
+    },
+    {
+      "id": "66c14dc19830",
+      "title": "Dimbhaka Song",
+      "normalizedTitle": "dimbhaka song",
+      "trackNumber": 2,
+      "duration": "2:33",
+      "durationSeconds": 153,
+      "audio": "Dimbhaka Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Saicharan Bhaskaruni",
+        "Pranav Chaganty"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2811467
+    },
+    {
+      "id": "97c73829ab25",
+      "title": "Garam Garam Song",
+      "normalizedTitle": "garam garam song",
+      "trackNumber": 3,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Garam Garam Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Vishal Dadlani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4147679
+    },
+    {
+      "id": "a9940d7fbeaa",
+      "title": "Laalijo Raagam Song",
+      "normalizedTitle": "laalijo raagam song",
+      "trackNumber": 4,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Laalijo Raagam Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Madhura Dhara Talluri"
+      ],
+      "bitrate": 128004,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4421166
+    },
+    {
+      "id": "2882c1afa164",
+      "title": "Malupero Song",
+      "normalizedTitle": "malupero song",
+      "trackNumber": 5,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Malupero Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "PVNS Rohit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4860302
+    },
+    {
+      "id": "3d787305eda1",
+      "title": "Not A Teaser Song",
+      "normalizedTitle": "not a teaser song",
+      "trackNumber": 6,
+      "duration": "1:19",
+      "durationSeconds": 79,
+      "audio": "Not A Teaser Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Jakes Bejoy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1618193
+    },
+    {
+      "id": "2afcdfe58a81",
+      "title": "Samavarthi Song",
+      "normalizedTitle": "samavarthi song",
+      "trackNumber": 7,
+      "duration": "1:24",
+      "durationSeconds": 84,
+      "audio": "Samavarthi Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Jakes Bejoy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1705964
+    },
+    {
+      "id": "7eca3e0f15e3",
+      "title": "Sarimapa Song",
+      "normalizedTitle": "sarimapa song",
+      "trackNumber": 8,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Sarimapa Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4557282
+    },
+    {
+      "id": "8f75368aded6",
+      "title": "Shiva Thandavame Song",
+      "normalizedTitle": "shiva thandavame song",
+      "trackNumber": 9,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Shiva Thandavame Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Jakes Bejoy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3374040
+    },
+    {
+      "id": "1e2619a8d96d",
+      "title": "Ullaasam Song",
+      "normalizedTitle": "ullaasam song",
+      "trackNumber": 10,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Ullaasam Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Sanjith Hegde",
+        "Krishna Lasya Muthyala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4352482
+    },
+    {
+      "id": "f7cd175e3634",
+      "title": "Unchained Song",
+      "normalizedTitle": "unchained song",
+      "trackNumber": 11,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Unchained Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Jakes Bejoy"
+      ],
+      "bitrate": 128007,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3023093
+    },
+    {
+      "id": "83fa855e805c",
+      "title": "Veta Vinodham Song",
+      "normalizedTitle": "veta vinodham song",
+      "trackNumber": 12,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Veta Vinodham Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Deepak Blue"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3016267
+    }
+  ]
+}

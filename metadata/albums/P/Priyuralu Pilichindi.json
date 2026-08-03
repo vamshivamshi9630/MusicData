@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "27bd0cf7dd7c",
+    "name": "Priyuralu Pilichindi",
+    "year": 2000,
+    "musicDirector": "A.R. Rahman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Priyuralu Pilichindi.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "30d23c678fb7",
+      "title": "Doboochulaatelara Song",
+      "normalizedTitle": "doboochulaatelara song",
+      "trackNumber": 1,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Doboochulaatelara Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "K.S. Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5016057
+    },
+    {
+      "id": "a700a9693196",
+      "title": "Palike Gorinka Song",
+      "normalizedTitle": "palike gorinka song",
+      "trackNumber": 2,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Palike Gorinka Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "Sadhana Sargam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4518685
+    },
+    {
+      "id": "f05a437739ed",
+      "title": "Smaiyai Song",
+      "normalizedTitle": "smaiyai song",
+      "trackNumber": 3,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Smaiyai Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "Devan",
+        "Clinton",
+        "Dominique"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4984718
+    },
+    {
+      "id": "529068baa92d",
+      "title": "Thongi Choose Song",
+      "normalizedTitle": "thongi choose song",
+      "trackNumber": 4,
+      "duration": "5:19",
+      "durationSeconds": 319,
+      "audio": "Thongi Choose Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "Hariharan",
+        "Mahalaxmi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5126408
+    },
+    {
+      "id": "97524e3beb7b",
+      "title": "Yemaaye Naa Kavitna Song",
+      "normalizedTitle": "yemaaye naa kavitna song",
+      "trackNumber": 5,
+      "duration": "5:13",
+      "durationSeconds": 313,
+      "audio": "Yemaaye Naa Kavitna Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "K.S. Chitra",
+        "Sreenivas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5044086
+    },
+    {
+      "id": "39291c6e5091",
+      "title": "Yemi Cheyamanduve Song",
+      "normalizedTitle": "yemi cheyamanduve song",
+      "trackNumber": 6,
+      "duration": "6:00",
+      "durationSeconds": 360,
+      "audio": "Yemi Cheyamanduve Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5795981
+    }
+  ]
+}

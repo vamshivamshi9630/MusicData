@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "2c8bf2ca70ef",
+    "name": "Pravarakhyudu",
+    "year": 2009,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Pravarakhyudu.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "6864fd459b1a",
+      "title": "Bangaram Song",
+      "normalizedTitle": "bangaram song",
+      "trackNumber": 1,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Bangaram Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "M.M. Keeravani",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4250318
+    },
+    {
+      "id": "3174dcb01f14",
+      "title": "Cool Be Cool Song",
+      "normalizedTitle": "cool be cool song",
+      "trackNumber": 2,
+      "duration": "5:24",
+      "durationSeconds": 324,
+      "audio": "Cool Be Cool Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Hemachandra",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5218731
+    },
+    {
+      "id": "297daf7f1195",
+      "title": "Emai Poyano Song",
+      "normalizedTitle": "emai poyano song",
+      "trackNumber": 3,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Emai Poyano Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Anuj Gurwara",
+        "Shivani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4023354
+    },
+    {
+      "id": "f82d1899a43d",
+      "title": "Gaalamesi Patti Song",
+      "normalizedTitle": "gaalamesi patti song",
+      "trackNumber": 4,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Gaalamesi Patti Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Ranjith",
+        "Bhargavi Pillai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4758992
+    },
+    {
+      "id": "5de1b27f55d4",
+      "title": "Neela Neelimabb Song",
+      "normalizedTitle": "neela neelimabb song",
+      "trackNumber": 5,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Neela Neelimabb Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4152903
+    }
+  ]
+}

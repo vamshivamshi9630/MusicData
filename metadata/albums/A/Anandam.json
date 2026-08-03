@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "d9d61e4419fd",
+    "name": "Anandam",
+    "year": 2001,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Anandam.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "4bd399fa29d1",
+      "title": "Anandam Song",
+      "normalizedTitle": "anandam song",
+      "trackNumber": 1,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Anandam Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4218185
+    },
+    {
+      "id": "ab0079f7f38e",
+      "title": "Evaraina Epudai Song",
+      "normalizedTitle": "evaraina epudai song",
+      "trackNumber": 2,
+      "duration": "1:57",
+      "durationSeconds": 117,
+      "audio": "Evaraina Epudai Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1902537
+    },
+    {
+      "id": "34781ad07512",
+      "title": "Evaraina Epudaina Song",
+      "normalizedTitle": "evaraina epudaina song",
+      "trackNumber": 3,
+      "duration": "1:58",
+      "durationSeconds": 118,
+      "audio": "Evaraina Epudaina Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1860190
+    },
+    {
+      "id": "68c0fabbbc16",
+      "title": "Kanulu Therachi Song",
+      "normalizedTitle": "kanulu therachi song",
+      "trackNumber": 4,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Kanulu Therachi Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4515374
+    },
+    {
+      "id": "0925b32306d5",
+      "title": "Monalisa Song",
+      "normalizedTitle": "monalisa song",
+      "trackNumber": 5,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Monalisa Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4843036
+    },
+    {
+      "id": "10abf7bfd121",
+      "title": "Oka Merupu Song",
+      "normalizedTitle": "oka merupu song",
+      "trackNumber": 6,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Oka Merupu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4955889
+    },
+    {
+      "id": "399eed9992bc",
+      "title": "Premante Emitante Song",
+      "normalizedTitle": "premante emitante song",
+      "trackNumber": 7,
+      "duration": "5:19",
+      "durationSeconds": 319,
+      "audio": "Premante Emitante Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5130192
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "a55b0153fdbf",
+    "name": "GodFather",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "GodFather.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "5270f0705e33",
+      "title": "Annayya Song",
+      "normalizedTitle": "annayya song",
+      "trackNumber": 1,
+      "duration": "3:00",
+      "durationSeconds": 180,
+      "audio": "Annayya Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Viashnavi Kovvuri",
+        "Thaman S",
+        "Megastar Chiranjeevi",
+        "Salman Khan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3018948
+    },
+    {
+      "id": "48f0480b024c",
+      "title": "Blast Baby Song",
+      "normalizedTitle": "blast baby song",
+      "trackNumber": 2,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Blast Baby Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Damini Bhatla",
+        "Blaaze"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3732858
+    },
+    {
+      "id": "b8a5483be384",
+      "title": "God Father Title Song",
+      "normalizedTitle": "god father title song",
+      "trackNumber": 3,
+      "duration": "2:45",
+      "durationSeconds": 165,
+      "audio": "God Father Title Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sri Krishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2902011
+    },
+    {
+      "id": "65aadccc45e2",
+      "title": "Najabhaja Song",
+      "normalizedTitle": "najabhaja song",
+      "trackNumber": 4,
+      "duration": "3:17",
+      "durationSeconds": 197,
+      "audio": "Najabhaja Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sri Krishna",
+        "Prudhvi Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3416895
+    },
+    {
+      "id": "455984774945",
+      "title": "Padara Sainika Song",
+      "normalizedTitle": "padara sainika song",
+      "trackNumber": 5,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Padara Sainika Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sreerama Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4315493
+    },
+    {
+      "id": "4747d6b4c4a0",
+      "title": "Thaar Maar Thakkar Maar Song",
+      "normalizedTitle": "thaar maar thakkar maar song",
+      "trackNumber": 6,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Thaar Maar Thakkar Maar Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4544833
+    }
+  ]
+}

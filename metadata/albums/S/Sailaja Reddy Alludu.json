@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "3e8027320db8",
+    "name": "Sailaja Reddy Alludu",
+    "year": 2018,
+    "musicDirector": "Gopi Sundar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sailaja Reddy Alludu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "ef882eb3efcb",
+      "title": "Anu Baby Song",
+      "normalizedTitle": "anu baby song",
+      "trackNumber": 1,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Anu Baby Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Anudeep Dev"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4852867
+    },
+    {
+      "id": "bedc7763557e",
+      "title": "Egiregire Song",
+      "normalizedTitle": "egiregire song",
+      "trackNumber": 2,
+      "duration": "3:09",
+      "durationSeconds": 189,
+      "audio": "Egiregire Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Sid Sriram",
+        "Lipsika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3728256
+    },
+    {
+      "id": "753923800774",
+      "title": "Gold Rangu Pilla Song",
+      "normalizedTitle": "gold rangu pilla song",
+      "trackNumber": 3,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Gold Rangu Pilla Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Anurag Kulkarni",
+        "Ramya Behera",
+        "Mohana Bhogaraju",
+        "M. Haripriya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4263992
+    },
+    {
+      "id": "5462617cdf66",
+      "title": "Pelli Pandhiri Song",
+      "normalizedTitle": "pelli pandhiri song",
+      "trackNumber": 4,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Pelli Pandhiri Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Vijay Yesudas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5200128
+    },
+    {
+      "id": "614291fca44a",
+      "title": "Shailaja Reddy Alludu Choode Song",
+      "normalizedTitle": "shailaja reddy alludu choode song",
+      "trackNumber": 5,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Shailaja Reddy Alludu Choode Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Mangli Satyavathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3809703
+    },
+    {
+      "id": "71c5cbbb2390",
+      "title": "Thanu Vethikina Song",
+      "normalizedTitle": "thanu vethikina song",
+      "trackNumber": 6,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Thanu Vethikina Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Satya Yamini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4656384
+    }
+  ]
+}

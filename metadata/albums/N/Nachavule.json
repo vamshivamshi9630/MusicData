@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "c82ccdff3cd2",
+    "name": "Nachavule",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nachavule.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "50831791c391",
+      "title": "Evevo Song",
+      "normalizedTitle": "evevo song",
+      "trackNumber": 1,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Evevo Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Ranjit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4134140
+    },
+    {
+      "id": "bf20439108bd",
+      "title": "Manninchava Song",
+      "normalizedTitle": "manninchava song",
+      "trackNumber": 2,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Manninchava Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Ranjit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4114926
+    },
+    {
+      "id": "50c9843160b4",
+      "title": "Nesthama Song",
+      "normalizedTitle": "nesthama song",
+      "trackNumber": 3,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Nesthama Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Deepu",
+        "Harshika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4064783
+    },
+    {
+      "id": "7d1a8f147709",
+      "title": "Ninne Ninne Song",
+      "normalizedTitle": "ninne ninne song",
+      "trackNumber": 4,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Ninne Ninne Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4153812
+    },
+    {
+      "id": "cd9b083e0e49",
+      "title": "O O Priya Song",
+      "normalizedTitle": "o o priya song",
+      "trackNumber": 5,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "O O Priya Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Deepu",
+        "Harshika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3918917
+    },
+    {
+      "id": "87e10236b02a",
+      "title": "Paavu Thakkuva Thommidi Song",
+      "normalizedTitle": "paavu thakkuva thommidi song",
+      "trackNumber": 6,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Paavu Thakkuva Thommidi Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Jessie Gift"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4535845
+    }
+  ]
+}

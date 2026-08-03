@@ -1,0 +1,138 @@
+{
+  "album": {
+    "id": "399cde56f461",
+    "name": "Eeshwar",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Eeshwar.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "d8cb13224816",
+      "title": "AmeerPet.Mp",
+      "normalizedTitle": "ameerpetmp",
+      "trackNumber": 1,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "AmeerPet.Mp.mp3",
+      "composer": "RP Patnaik",
+      "singers": [
+        "R.P.Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4437670
+    },
+    {
+      "id": "1b09f5f1648f",
+      "title": "Dhindhirana.Mp",
+      "normalizedTitle": "dhindhiranamp",
+      "trackNumber": 2,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Dhindhirana.Mp.mp3",
+      "composer": "RP Patnaik",
+      "singers": [
+        "Rajesh",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4442693
+    },
+    {
+      "id": "e2777a956510",
+      "title": "Gundelo Valava.Mp",
+      "normalizedTitle": "gundelo valavamp",
+      "trackNumber": 3,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Gundelo Valava.Mp.mp3",
+      "composer": "RP Patnaik",
+      "singers": [
+        "Rajesh",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4875287
+    },
+    {
+      "id": "5a6948ce761a",
+      "title": "Innalu.Mp",
+      "normalizedTitle": "innalump",
+      "trackNumber": 4,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Innalu.Mp.mp3",
+      "composer": "RP Patnaik",
+      "singers": [
+        "Rajesh",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4178951
+    },
+    {
+      "id": "85019b42d3a5",
+      "title": "Kotalono Rani.Mp",
+      "normalizedTitle": "kotalono ranimp",
+      "trackNumber": 5,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Kotalono Rani.Mp.mp3",
+      "composer": "RP Patnaik",
+      "singers": [
+        "Rajesh",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4321071
+    },
+    {
+      "id": "8e0c1a130644",
+      "title": "Musical Bit.Mp",
+      "normalizedTitle": "musical bitmp",
+      "trackNumber": 6,
+      "duration": "1:42",
+      "durationSeconds": 102,
+      "audio": "Musical Bit.Mp.mp3",
+      "composer": "RP Patnaik",
+      "singers": [
+        "R.P.Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1726375
+    },
+    {
+      "id": "cf0d95706341",
+      "title": "Olammo Olammo.Mp",
+      "normalizedTitle": "olammo olammomp",
+      "trackNumber": 7,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Olammo Olammo.Mp.mp3",
+      "composer": "RP Patnaik",
+      "singers": [
+        "R.P.Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3743880
+    }
+  ]
+}

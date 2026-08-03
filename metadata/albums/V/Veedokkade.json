@@ -1,0 +1,85 @@
+{
+  "album": {
+    "id": "d5ebefe8ccaf",
+    "name": "Veedokkade",
+    "year": 2009,
+    "musicDirector": "Harris Jayaraj",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Veedokkade.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "5067476c6fda",
+      "title": "Kallu Moosi Song",
+      "normalizedTitle": "kallu moosi song",
+      "trackNumber": 1,
+      "duration": "5:52",
+      "durationSeconds": 352,
+      "audio": "Kallu Moosi Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5654206
+    },
+    {
+      "id": "d305e8e1a1ac",
+      "title": "Nene Nene Needhanne Song",
+      "normalizedTitle": "nene nene needhanne song",
+      "trackNumber": 2,
+      "duration": "5:42",
+      "durationSeconds": 342,
+      "audio": "Nene Nene Needhanne Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Harish Raghavendra",
+        "Mahathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5508373
+    },
+    {
+      "id": "c63ae2d20d8c",
+      "title": "Oyaayiye Aayiye Song",
+      "normalizedTitle": "oyaayiye aayiye song",
+      "trackNumber": 3,
+      "duration": "5:37",
+      "durationSeconds": 337,
+      "audio": "Oyaayiye Aayiye Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Benny Dayal",
+        "Haricharan",
+        "Chinmayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5415172
+    },
+    {
+      "id": "f55ec8e319a3",
+      "title": "Pela Pela Song",
+      "normalizedTitle": "pela pela song",
+      "trackNumber": 4,
+      "duration": "5:23",
+      "durationSeconds": 323,
+      "audio": "Pela Pela Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5190250
+    }
+  ]
+}

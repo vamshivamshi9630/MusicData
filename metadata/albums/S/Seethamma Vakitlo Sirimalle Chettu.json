@@ -1,0 +1,154 @@
+{
+  "album": {
+    "id": "1494d0d034af",
+    "name": "Seethamma Vakitlo Sirimalle Chettu",
+    "year": 2013,
+    "musicDirector": "Mickey J. Meyer",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Seethamma Vakitlo Sirimalle Chettu.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "eca9497b2adc",
+      "title": "Aaraduguluntada",
+      "normalizedTitle": "aaraduguluntada",
+      "trackNumber": 1,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Aaraduguluntada.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Venkatesh",
+        "Samantha",
+        "Anjali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4030645
+    },
+    {
+      "id": "75d84e1df313",
+      "title": "Inka Cheppaale",
+      "normalizedTitle": "inka cheppaale",
+      "trackNumber": 2,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Inka Cheppaale.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Venkatesh",
+        "Samantha",
+        "Anjali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3644905
+    },
+    {
+      "id": "e73dfd4ac1ca",
+      "title": "Mari Antaga",
+      "normalizedTitle": "mari antaga",
+      "trackNumber": 3,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Mari Antaga.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Venkatesh",
+        "Samantha",
+        "Anjali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3740171
+    },
+    {
+      "id": "3ef1a3ca1a20",
+      "title": "Meghaallo",
+      "normalizedTitle": "meghaallo",
+      "trackNumber": 4,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Meghaallo.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Venkatesh",
+        "Samantha",
+        "Anjali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3899006
+    },
+    {
+      "id": "1da8ff03810b",
+      "title": "Seethamma Vakitlo Sirimalle Chettu",
+      "normalizedTitle": "seethamma vakitlo sirimalle chettu",
+      "trackNumber": 5,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Seethamma Vakitlo Sirimalle Chettu.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Venkatesh",
+        "Samantha",
+        "Anjali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3671654
+    },
+    {
+      "id": "78fe51b704cb",
+      "title": "Vaana Chinukulu",
+      "normalizedTitle": "vaana chinukulu",
+      "trackNumber": 6,
+      "duration": "3:45",
+      "durationSeconds": 225,
+      "audio": "Vaana Chinukulu.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Venkatesh",
+        "Samantha",
+        "Anjali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3700487
+    },
+    {
+      "id": "d475cf60f3f6",
+      "title": "Yem Cheddaam",
+      "normalizedTitle": "yem cheddaam",
+      "trackNumber": 7,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Yem Cheddaam.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Venkatesh",
+        "Samantha",
+        "Anjali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4383027
+    }
+  ]
+}

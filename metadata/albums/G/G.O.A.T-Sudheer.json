@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "cfe4b02bcab7",
+    "name": "G.O.A.T-Sudheer",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "G.O.A.T-Sudheer.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "296d2ee0a6e8",
+      "title": "Ayyo Paapam Saaru Song",
+      "normalizedTitle": "ayyo paapam saaru song",
+      "trackNumber": 1,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Ayyo Paapam Saaru Song.mp3",
+      "composer": "Leon James",
+      "singers": [
+        "Sean Rolden"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5138287
+    }
+  ]
+}

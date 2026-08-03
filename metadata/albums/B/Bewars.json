@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "d7635cad7a02",
+    "name": "Bewars",
+    "year": 2018,
+    "musicDirector": "Sunil Kashyap",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "2b48c3b270a0",
+      "title": "Anthuleni Prema Song",
+      "normalizedTitle": "anthuleni prema song",
+      "trackNumber": 1,
+      "duration": "1:11",
+      "durationSeconds": 71,
+      "audio": "Anthuleni Prema Song.mp3",
+      "composer": "Suneel Kashyap",
+      "singers": [
+        "Asswini"
+      ],
+      "bitrate": 193741,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2110111
+    },
+    {
+      "id": "1e3729edb494",
+      "title": "Kanthi Poola Pandaga Song",
+      "normalizedTitle": "kanthi poola pandaga song",
+      "trackNumber": 2,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Kanthi Poola Pandaga Song.mp3",
+      "composer": "Suneel Kashyap",
+      "singers": [
+        "Vedala Hemachandra",
+        "Divya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4362084
+    },
+    {
+      "id": "b03553dd5ec4",
+      "title": "Naa Istam Ochinatlu Song",
+      "normalizedTitle": "naa istam ochinatlu song",
+      "trackNumber": 3,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Naa Istam Ochinatlu Song.mp3",
+      "composer": "Suneel Kashyap",
+      "singers": [
+        "Anuragh Kulakarni",
+        "Yazin Nizar"
+      ],
+      "bitrate": 209190,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7063380
+    },
+    {
+      "id": "8acfde6e4d86",
+      "title": "Rara Na Atha Kodaka Song",
+      "normalizedTitle": "rara na atha kodaka song",
+      "trackNumber": 4,
+      "duration": "3:00",
+      "durationSeconds": 180,
+      "audio": "Rara Na Atha Kodaka Song.mp3",
+      "composer": "Suneel Kashyap",
+      "singers": [
+        "Anuragh Kulakarny",
+        "Ashwini"
+      ],
+      "bitrate": 206209,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5026955
+    },
+    {
+      "id": "c2ce3b3ff9a6",
+      "title": "Rasakkali Rasakkali Song",
+      "normalizedTitle": "rasakkali rasakkali song",
+      "trackNumber": 5,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Rasakkali Rasakkali Song.mp3",
+      "composer": "Suneel Kashyap",
+      "singers": [
+        "Sunil Kashyap"
+      ],
+      "bitrate": 202015,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5784134
+    },
+    {
+      "id": "92453d966e71",
+      "title": "Thalli Thalli Song",
+      "normalizedTitle": "thalli thalli song",
+      "trackNumber": 6,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Thalli Thalli Song.mp3",
+      "composer": "Suneel Kashyap",
+      "singers": [
+        "Sunil Kashyap"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3638179
+    }
+  ]
+}

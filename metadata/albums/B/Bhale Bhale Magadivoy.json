@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "61502cd8dbba",
+    "name": "Bhale Bhale Magadivoy",
+    "year": 2015,
+    "musicDirector": "Gopi Sundar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bhale Bhale Magadivoy.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "e5702c26fdc6",
+      "title": "Bale Bale Song",
+      "normalizedTitle": "bale bale song",
+      "trackNumber": 1,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Bale Bale Song.mp3",
+      "composer": "Music: Gopi Sunder | Lyrics: B㏊skara B㏊tla, Ramajogayya Saﬅry",
+      "singers": [
+        "Karthik",
+        "Mo㏊na Bhogaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3687434
+    },
+    {
+      "id": "40ae81759e44",
+      "title": "Endaro Song",
+      "normalizedTitle": "endaro song",
+      "trackNumber": 2,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Endaro Song.mp3",
+      "composer": "Music: Gopi Sunder | Lyrics: B㏊skara B㏊tla, Ramajogayya Saﬅry",
+      "singers": [
+        "Runeka Arun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3742572
+    },
+    {
+      "id": "052b718de554",
+      "title": "Hello Hello Song",
+      "normalizedTitle": "hello hello song",
+      "trackNumber": 3,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Hello Hello Song.mp3",
+      "composer": "Music: Gopi Sunder | Lyrics: B㏊skara B㏊tla, Ramajogayya Saﬅry",
+      "singers": [
+        "Karthik",
+        "Ch㏌mayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3474262
+    },
+    {
+      "id": "6d40f2ef266f",
+      "title": "How How Song",
+      "normalizedTitle": "how how song",
+      "trackNumber": 4,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "How How Song.mp3",
+      "composer": "Music: Gopi Sunder | Lyrics: B㏊skara B㏊tla, Ramajogayya Saﬅry",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3680708
+    },
+    {
+      "id": "fb8819dfd7a2",
+      "title": "Motta Modatisari Song",
+      "normalizedTitle": "motta modatisari song",
+      "trackNumber": 5,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Motta Modatisari Song.mp3",
+      "composer": "Music: Gopi Sunder | Lyrics: B㏊skara B㏊tla, Ramajogayya Saﬅry",
+      "singers": [
+        "Sach㏌ Warrier"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3820755
+    }
+  ]
+}

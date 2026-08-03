@@ -1,0 +1,49 @@
+{
+  "album": {
+    "id": "b06fd1a335c4",
+    "name": "Goodachari",
+    "year": 2018,
+    "musicDirector": "Sricharan Pakala",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Goodachari.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "416fb665de9a",
+      "title": "Anaganaga Song",
+      "normalizedTitle": "anaganaga song",
+      "trackNumber": 1,
+      "duration": "2:40",
+      "durationSeconds": 160,
+      "audio": "Anaganaga Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Ambika Sashittal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3490458
+    },
+    {
+      "id": "a98aeabce00a",
+      "title": "Sakhiya Song",
+      "normalizedTitle": "sakhiya song",
+      "trackNumber": 2,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Sakhiya Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Sricharan Pakala",
+        "Yamini Ghantasala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3506884
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "album": {
+    "id": "fb2ed7d3295b",
+    "name": "Rowdy Boys",
+    "year": 2022,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Rowdy Boys.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "d72ff8036ab3",
+      "title": "Break Up (Rock) Song",
+      "normalizedTitle": "break up rock song",
+      "trackNumber": 1,
+      "duration": "2:20",
+      "durationSeconds": 140,
+      "audio": "Break Up (Rock) Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6013744
+    },
+    {
+      "id": "ad925cd73836",
+      "title": "Brindavanam Nunchi Song",
+      "normalizedTitle": "brindavanam nunchi song",
+      "trackNumber": 2,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Brindavanam Nunchi Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mangli"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6004096
+    },
+    {
+      "id": "c8483f7019b5",
+      "title": "Date Night Song",
+      "normalizedTitle": "date night song",
+      "trackNumber": 3,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Date Night Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Ranjith Govind",
+        "Sameera Bharadwaj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4290304
+    },
+    {
+      "id": "ef76a41d5d2e",
+      "title": "Nuvve Naa Dhairyam Song",
+      "normalizedTitle": "nuvve naa dhairyam song",
+      "trackNumber": 4,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Nuvve Naa Dhairyam Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3568384
+    },
+    {
+      "id": "014a7db5b6a1",
+      "title": "Okariki Okarani Song",
+      "normalizedTitle": "okariki okarani song",
+      "trackNumber": 5,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Okariki Okarani Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3744256
+    },
+    {
+      "id": "ce1bcad79f0f",
+      "title": "Preme Aakasam Song",
+      "normalizedTitle": "preme aakasam song",
+      "trackNumber": 6,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Preme Aakasam Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Jaspreet Jasz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3900160
+    },
+    {
+      "id": "a434748ba849",
+      "title": "Rowdy Boys Title Song",
+      "normalizedTitle": "rowdy boys title song",
+      "trackNumber": 7,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Rowdy Boys Title Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "ROLL RIDA"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2857600
+    },
+    {
+      "id": "53b84e7a7cd2",
+      "title": "Vesane O Nicchena Song",
+      "normalizedTitle": "vesane o nicchena song",
+      "trackNumber": 8,
+      "duration": "1:56",
+      "durationSeconds": 116,
+      "audio": "Vesane O Nicchena Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kapil Kapilan",
+        "Sameera Bharadwaj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2260864
+    },
+    {
+      "id": "4d3eea8b2a38",
+      "title": "Ye Zindagi Song",
+      "normalizedTitle": "ye zindagi song",
+      "trackNumber": 9,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Ye Zindagi Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4169344
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "album": {
+    "id": "05bb43291d5e",
+    "name": "Love Story",
+    "year": 2021,
+    "musicDirector": "Pawan Ch",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Love Story.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "21572ec30522",
+      "title": "Ay Pilla Song",
+      "normalizedTitle": "ay pilla song",
+      "trackNumber": 1,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Ay Pilla Song.mp3",
+      "composer": "Pawan Ch",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4316928
+    },
+    {
+      "id": "0ebc822ceaa2",
+      "title": "Evo Evo Kalale Song",
+      "normalizedTitle": "evo evo kalale song",
+      "trackNumber": 2,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Evo Evo Kalale Song.mp3",
+      "composer": "Pawan Ch",
+      "singers": [
+        "Jonita Gandhi",
+        "Nakul Abhyankar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4584192
+    },
+    {
+      "id": "342457ea7f5f",
+      "title": "Nee Chitram Choosi Song",
+      "normalizedTitle": "nee chitram choosi song",
+      "trackNumber": 3,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Nee Chitram Choosi Song.mp3",
+      "composer": "Pawan Ch",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4452480
+    },
+    {
+      "id": "c4152a3e3c59",
+      "title": "Saranga Dariya Song",
+      "normalizedTitle": "saranga dariya song",
+      "trackNumber": 4,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Saranga Dariya Song.mp3",
+      "composer": "Pawan Ch",
+      "singers": [
+        "Mangli"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3954816
+    },
+    {
+      "id": "a1fb1c704d3c",
+      "title": "Winner Winner Bro Song",
+      "normalizedTitle": "winner winner bro song",
+      "trackNumber": 5,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Winner Winner Bro Song.mp3",
+      "composer": "Pawan Ch",
+      "singers": [
+        "Abhijith Rao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3984384
+    }
+  ]
+}

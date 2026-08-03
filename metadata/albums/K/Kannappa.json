@@ -1,0 +1,49 @@
+{
+  "album": {
+    "id": "01f7e56e4bcc",
+    "name": "Kannappa",
+    "year": 2024,
+    "musicDirector": "Stephen Devassy",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kannappa.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "e97b3579ed45",
+      "title": "Love Song",
+      "normalizedTitle": "love song",
+      "trackNumber": 1,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Love Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "LV Revanth",
+        "Sahithi Chaganti"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 10603101
+    },
+    {
+      "id": "3eca8377121e",
+      "title": "Shiva Shiva Shankara Song",
+      "normalizedTitle": "shiva shiva shankara song",
+      "trackNumber": 2,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Shiva Shiva Shankara Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5319284
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "afaceb76e51a",
+    "name": "Majili",
+    "year": 2019,
+    "musicDirector": "Gopi Sundar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Majili.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "d09ade894e1b",
+      "title": "Maaya Maaya Song",
+      "normalizedTitle": "maaya maaya song",
+      "trackNumber": 1,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Maaya Maaya Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Anuraj Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4413599
+    },
+    {
+      "id": "5d50673f4357",
+      "title": "Naa Gundello Song",
+      "normalizedTitle": "naa gundello song",
+      "trackNumber": 2,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Naa Gundello Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Yazin Nizar",
+        "Nikhita Gandhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4596228
+    },
+    {
+      "id": "3534e0b957f8",
+      "title": "One Boy One Girl Song",
+      "normalizedTitle": "one boy one girl song",
+      "trackNumber": 3,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "One Boy One Girl Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4067937
+    },
+    {
+      "id": "060afd19d3aa",
+      "title": "Priyathama Priyathama Song",
+      "normalizedTitle": "priyathama priyathama song",
+      "trackNumber": 4,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Priyathama Priyathama Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Chinmayi Sripaada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4332117
+    },
+    {
+      "id": "092aa493cf66",
+      "title": "Ye Manishike Majiliyo Song",
+      "normalizedTitle": "ye manishike majiliyo song",
+      "trackNumber": 5,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Ye Manishike Majiliyo Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Arun Gopan",
+        "Chinmayi Sripaada",
+        "Baby Anusha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4329242
+    },
+    {
+      "id": "622e5781d059",
+      "title": "Yedetthu Mallele Song",
+      "normalizedTitle": "yedetthu mallele song",
+      "trackNumber": 6,
+      "duration": "2:13",
+      "durationSeconds": 133,
+      "audio": "Yedetthu Mallele Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Kaala Bhairava",
+        "Nikhita Gandhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2538990
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "85b60582ddfe",
+    "name": "Thoppi",
+    "year": 2015,
+    "musicDirector": "Ramprakash Rayappa",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Thoppi.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "ff0a1b60bee6",
+      "title": "Ichi Ichi Song",
+      "normalizedTitle": "ichi ichi song",
+      "trackNumber": 1,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Ichi Ichi Song.mp3",
+      "composer": "Ramprasad Sundar",
+      "singers": [
+        "Karthik",
+        "Swetha Mohan"
+      ],
+      "bitrate": 134466,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5060194
+    },
+    {
+      "id": "5b83c4379ee0",
+      "title": "Kolli Malai Song",
+      "normalizedTitle": "kolli malai song",
+      "trackNumber": 2,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Kolli Malai Song.mp3",
+      "composer": "Ramprasad Sundar",
+      "singers": [
+        "Madurai Murugaiya"
+      ],
+      "bitrate": 148326,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5203047
+    },
+    {
+      "id": "921e1987b9e4",
+      "title": "Naan Endru Oru Song",
+      "normalizedTitle": "naan endru oru song",
+      "trackNumber": 3,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Naan Endru Oru Song.mp3",
+      "composer": "Ramprasad Sundar",
+      "singers": [
+        "Arvin Bigsyze",
+        "Mrinalini Kutsa"
+      ],
+      "bitrate": 130642,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5103123
+    },
+    {
+      "id": "04113aed5d91",
+      "title": "Paava Patta Song",
+      "normalizedTitle": "paava patta song",
+      "trackNumber": 4,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Paava Patta Song.mp3",
+      "composer": "Ramprasad Sundar",
+      "singers": [
+        "Velmurugan"
+      ],
+      "bitrate": 129664,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5198347
+    },
+    {
+      "id": "7152335bf39f",
+      "title": "Thenum Nalla Song",
+      "normalizedTitle": "thenum nalla song",
+      "trackNumber": 5,
+      "duration": "2:56",
+      "durationSeconds": 176,
+      "audio": "Thenum Nalla Song.mp3",
+      "composer": "Ramprasad Sundar",
+      "singers": [
+        "Aravind Bharathi"
+      ],
+      "bitrate": 137238,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3260412
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "34154bcb652f",
+    "name": "Baadshah",
+    "year": 2013,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Baadshah.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "db6d10f4686f",
+      "title": "Baadshah.Mp",
+      "normalizedTitle": "baadshahmp",
+      "trackNumber": 1,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Baadshah.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr Ntr",
+        "Kajal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3417982
+    },
+    {
+      "id": "a3c203c7245d",
+      "title": "Banthi Poola Janaki.Mp",
+      "normalizedTitle": "banthi poola janakimp",
+      "trackNumber": 2,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Banthi Poola Janaki.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr Ntr",
+        "Kajal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4458304
+    },
+    {
+      "id": "5449ea9607a3",
+      "title": "Diamond Girl.Mp",
+      "normalizedTitle": "diamond girlmp",
+      "trackNumber": 3,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Diamond Girl.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr Ntr",
+        "Kajal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3908674
+    },
+    {
+      "id": "afa9a7f0856c",
+      "title": "Rangoli Rangoli.Mp",
+      "normalizedTitle": "rangoli rangolimp",
+      "trackNumber": 4,
+      "duration": "3:00",
+      "durationSeconds": 180,
+      "audio": "Rangoli Rangoli.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr Ntr",
+        "Kajal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2980810
+    },
+    {
+      "id": "78127e706eca",
+      "title": "Sairo Sairo.Mp",
+      "normalizedTitle": "sairo sairomp",
+      "trackNumber": 5,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Sairo Sairo.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr Ntr",
+        "Kajal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3776179
+    },
+    {
+      "id": "18933e7e16ed",
+      "title": "Welcome Kanakam.Mp",
+      "normalizedTitle": "welcome kanakammp",
+      "trackNumber": 6,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Welcome Kanakam.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr Ntr",
+        "Kajal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4263945
+    }
+  ]
+}

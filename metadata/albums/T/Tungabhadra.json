@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "43947fbb55e0",
+    "name": "Tungabhadra",
+    "year": 2015,
+    "musicDirector": "Hari Gaura",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Tungabhadra.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "2c27f761ae86",
+      "title": "Anandam Anandam Song",
+      "normalizedTitle": "anandam anandam song",
+      "trackNumber": 1,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Anandam Anandam Song.mp3",
+      "composer": "Music: Hari Gaura | Lyrics: Ramajogayya Sastry, Sahithi, Radha Subrahmanyam, Chaitanya Prasad",
+      "singers": [
+        "Karthik",
+        "Lipsika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3838970
+    },
+    {
+      "id": "f89d0c968987",
+      "title": "Ila Ila Song",
+      "normalizedTitle": "ila ila song",
+      "trackNumber": 2,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Ila Ila Song.mp3",
+      "composer": "Music: Hari Gaura | Lyrics: Ramajogayya Sastry, Sahithi, Radha Subrahmanyam, Chaitanya Prasad",
+      "singers": [
+        "Hari Goura"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4344254
+    },
+    {
+      "id": "2abdce3d2d80",
+      "title": "Kala Idhe Kala Idhe Song",
+      "normalizedTitle": "kala idhe kala idhe song",
+      "trackNumber": 3,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Kala Idhe Kala Idhe Song.mp3",
+      "composer": "Music: Hari Gaura | Lyrics: Ramajogayya Sastry, Sahithi, Radha Subrahmanyam, Chaitanya Prasad",
+      "singers": [
+        "Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5173929
+    },
+    {
+      "id": "d783cb880e6a",
+      "title": "Nagamani Song",
+      "normalizedTitle": "nagamani song",
+      "trackNumber": 4,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Nagamani Song.mp3",
+      "composer": "Music: Hari Gaura | Lyrics: Ramajogayya Sastry, Sahithi, Radha Subrahmanyam, Chaitanya Prasad",
+      "singers": [
+        "Mlr Karthikeyan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3630392
+    },
+    {
+      "id": "21bc38613c0c",
+      "title": "Raakshasaana Rana Song",
+      "normalizedTitle": "raakshasaana rana song",
+      "trackNumber": 5,
+      "duration": "2:48",
+      "durationSeconds": 168,
+      "audio": "Raakshasaana Rana Song.mp3",
+      "composer": "Music: Hari Gaura | Lyrics: Ramajogayya Sastry, Sahithi, Radha Subrahmanyam, Chaitanya Prasad",
+      "singers": [
+        "Hari Goura"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2735982
+    },
+    {
+      "id": "37188b11244b",
+      "title": "Tarime Pantham Song",
+      "normalizedTitle": "tarime pantham song",
+      "trackNumber": 6,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Tarime Pantham Song.mp3",
+      "composer": "Music: Hari Gaura | Lyrics: Ramajogayya Sastry, Sahithi, Radha Subrahmanyam, Chaitanya Prasad",
+      "singers": [
+        "Hari Goura"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3494140
+    }
+  ]
+}

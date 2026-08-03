@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "4084a32b9bba",
+    "name": "Mass",
+    "year": 2004,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mass.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "4e4525a70e4e",
+      "title": "Indurudu Song",
+      "normalizedTitle": "indurudu song",
+      "trackNumber": 1,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Indurudu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Ranjith",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5235257
+    },
+    {
+      "id": "124ccc7e660a",
+      "title": "Kottu Kottu Song",
+      "normalizedTitle": "kottu kottu song",
+      "trackNumber": 2,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Kottu Kottu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Tippu",
+        "Prasanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5251979
+    },
+    {
+      "id": "527bcd6c002c",
+      "title": "La La Lahirey Song",
+      "normalizedTitle": "la la lahirey song",
+      "trackNumber": 3,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "La La Lahirey Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Venu",
+        "Sunitha Sarathy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4515551
+    },
+    {
+      "id": "cb632c4a8391",
+      "title": "Mass Song",
+      "normalizedTitle": "mass song",
+      "trackNumber": 4,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Mass Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mano",
+        "Ravi Varma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4118462
+    },
+    {
+      "id": "3a8a377de8df",
+      "title": "Naatho Vasthava Song",
+      "normalizedTitle": "naatho vasthava song",
+      "trackNumber": 5,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Naatho Vasthava Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Udit Narayan",
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4827356
+    },
+    {
+      "id": "33bf78cee613",
+      "title": "Vaalu Kalla Song",
+      "normalizedTitle": "vaalu kalla song",
+      "trackNumber": 6,
+      "duration": "5:35",
+      "durationSeconds": 335,
+      "audio": "Vaalu Kalla Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5463048
+    }
+  ]
+}

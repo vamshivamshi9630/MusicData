@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "6fcbef8d18eb",
+    "name": "Rowdy Fellow",
+    "year": 2014,
+    "musicDirector": "Sunny M.R.",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Rowdy Fellow.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "70e0535fb146",
+      "title": "Aa Seetadevi Song",
+      "normalizedTitle": "aa seetadevi song",
+      "trackNumber": 1,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Aa Seetadevi Song.mp3",
+      "composer": "Music: Sunny M.R. | Lyrics: Krishna C㏊itanya, C Narayana Reddy, Vasiﬅ㏊ S㏊rma",
+      "singers": [
+        "Arĳit S㏌gh"
+      ],
+      "bitrate": 217001,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7005227
+    },
+    {
+      "id": "a961032f6f77",
+      "title": "Call of the Rowdy Song",
+      "normalizedTitle": "call of the rowdy song",
+      "trackNumber": 2,
+      "duration": "2:08",
+      "durationSeconds": 128,
+      "audio": "Call of the Rowdy Song.mp3",
+      "composer": "Music: Sunny M.R. | Lyrics: Krishna C㏊itanya, C Narayana Reddy, Vasiﬅ㏊ S㏊rma",
+      "singers": [
+        "Jenny",
+        "Sunny Mr"
+      ],
+      "bitrate": 219756,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3635024
+    },
+    {
+      "id": "7418fca7e1d1",
+      "title": "Red & Yellow Song",
+      "normalizedTitle": "red yellow song",
+      "trackNumber": 3,
+      "duration": "3:05",
+      "durationSeconds": 185,
+      "audio": "Red & Yellow Song.mp3",
+      "composer": "Music: Sunny M.R. | Lyrics: Krishna C㏊itanya, C Narayana Reddy, Vasiﬅ㏊ S㏊rma",
+      "singers": [
+        "S㏊㏐ali Kholgade",
+        "Samrat Kaus"
+      ],
+      "bitrate": 215433,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5083445
+    },
+    {
+      "id": "79ff10f233b6",
+      "title": "Rowdy Song",
+      "normalizedTitle": "rowdy song",
+      "trackNumber": 4,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Rowdy Song.mp3",
+      "composer": "Music: Sunny M.R. | Lyrics: Krishna C㏊itanya, C Narayana Reddy, Vasiﬅ㏊ S㏊rma",
+      "singers": [
+        "Arĳit S㏌gh",
+        "Aditi S㏌gh S㏊r"
+      ],
+      "bitrate": 215663,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5670421
+    },
+    {
+      "id": "2c7e01ae1146",
+      "title": "Yedo Song",
+      "normalizedTitle": "yedo song",
+      "trackNumber": 5,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Yedo Song.mp3",
+      "composer": "Music: Sunny M.R. | Lyrics: Krishna C㏊itanya, C Narayana Reddy, Vasiﬅ㏊ S㏊rma",
+      "singers": [
+        "Harmaan Mallik",
+        "Harshika Gudi"
+      ],
+      "bitrate": 214138,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6433003
+    },
+    {
+      "id": "5fe3d6a2aedb",
+      "title": "Yentha Vaaru Gani Song",
+      "normalizedTitle": "yentha vaaru gani song",
+      "trackNumber": 6,
+      "duration": "3:06",
+      "durationSeconds": 186,
+      "audio": "Yentha Vaaru Gani Song.mp3",
+      "composer": "Music: Sunny M.R. | Lyrics: Krishna C㏊itanya, C Narayana Reddy, Vasiﬅ㏊ S㏊rma",
+      "singers": [
+        "Nakash Aziz",
+        "Natas㏊ P㏌to"
+      ],
+      "bitrate": 211725,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5027282
+    }
+  ]
+}

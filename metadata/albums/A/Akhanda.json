@@ -1,0 +1,105 @@
+{
+  "album": {
+    "id": "60f8fb2184b6",
+    "name": "Akhanda",
+    "year": 2021,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Akhanda.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "8c4ebb540e2f",
+      "title": "Adigaa Adigaa Song",
+      "normalizedTitle": "adigaa adigaa song",
+      "trackNumber": 1,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Adigaa Adigaa Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "S P Charan",
+        "M L Shruti"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4530432
+    },
+    {
+      "id": "db3bf3ce893d",
+      "title": "Akhanda Mass Jathara BGM Song",
+      "normalizedTitle": "akhanda mass jathara bgm song",
+      "trackNumber": 2,
+      "duration": "0:56",
+      "durationSeconds": 56,
+      "audio": "Akhanda Mass Jathara BGM Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Balakrishna",
+        "Thaman S"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1679152
+    },
+    {
+      "id": "ac01356d0064",
+      "title": "Akhanda Title Song",
+      "normalizedTitle": "akhanda title song",
+      "trackNumber": 3,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Akhanda Title Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Shankar Mahadevan",
+        "Siddharth Mahadevan & Shivam Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4833152
+    },
+    {
+      "id": "5ee26a76611b",
+      "title": "Amma Song",
+      "normalizedTitle": "amma song",
+      "trackNumber": 4,
+      "duration": "3:21",
+      "durationSeconds": 201,
+      "audio": "Amma Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Mohana Bhogaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3547392
+    },
+    {
+      "id": "184e47364243",
+      "title": "Jai Balayya Full Song",
+      "normalizedTitle": "jai balayya full song",
+      "trackNumber": 5,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Jai Balayya Full Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Geetha Madhuri",
+        "Sahiti chaganti",
+        "Satya Yamini",
+        "Aditi Bhavaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4550532
+    }
+  ]
+}

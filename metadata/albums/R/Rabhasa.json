@@ -1,0 +1,108 @@
+{
+  "album": {
+    "id": "dfecd99c3e4b",
+    "name": "Rabhasa",
+    "year": 2014,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Rabhasa.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "085d37740741",
+      "title": "Dam Damare",
+      "normalizedTitle": "dam damare",
+      "trackNumber": 1,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Dam Damare.mp3",
+      "composer": "S.S. Thaman",
+      "singers": [
+        "Simha",
+        "Sooraj Santosh",
+        "Nivas",
+        "Deepthi Madhuri",
+        "Manasa Acharya",
+        "Pavani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4091471
+    },
+    {
+      "id": "93860f318834",
+      "title": "Garam Garam Chilaka",
+      "normalizedTitle": "garam garam chilaka",
+      "trackNumber": 2,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Garam Garam Chilaka.mp3",
+      "composer": "S.S. Thaman",
+      "singers": [
+        "Srikrishna",
+        "Deepu",
+        "Bindu Mahima",
+        "Parnika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4138226
+    },
+    {
+      "id": "b82e53c14715",
+      "title": "Hawa Hawa",
+      "normalizedTitle": "hawa hawa",
+      "trackNumber": 3,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Hawa Hawa.mp3",
+      "composer": "S.S. Thaman",
+      "singers": [
+        "Karthik",
+        "Megha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4969919
+    },
+    {
+      "id": "0975e5d2dec8",
+      "title": "Maar Salaam",
+      "normalizedTitle": "maar salaam",
+      "trackNumber": 4,
+      "duration": "3:40",
+      "durationSeconds": 220,
+      "audio": "Maar Salaam.mp3",
+      "composer": "S.S. Thaman",
+      "singers": [
+        "Suchith Suresan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3736131
+    },
+    {
+      "id": "c9d363b26682",
+      "title": "Rakaasi Rakaasi",
+      "normalizedTitle": "rakaasi rakaasi",
+      "trackNumber": 5,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Rakaasi Rakaasi.mp3",
+      "composer": "S.S. Thaman",
+      "singers": [
+        "Jr. N.T.R."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4261468
+    }
+  ]
+}

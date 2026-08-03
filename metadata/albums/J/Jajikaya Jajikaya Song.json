@@ -1,0 +1,66 @@
+{
+  "album": {
+    "id": "e9c58774bb4a",
+    "name": "Jajikaya Jajikaya Song",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jajikaya Jajikaya Song.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "284708b4ba5f",
+      "title": "Babai Song",
+      "normalizedTitle": "babai song",
+      "trackNumber": 1,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Babai Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 130062,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4309326
+    },
+    {
+      "id": "d7afa427451a",
+      "title": "Mallika Gandha Song",
+      "normalizedTitle": "mallika gandha song",
+      "trackNumber": 2,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Mallika Gandha Song.mp3",
+      "composer": "SS Thaman",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 129596,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4653402
+    },
+    {
+      "id": "195957dadee1",
+      "title": "Sogasu Chudatharama Song",
+      "normalizedTitle": "sogasu chudatharama song",
+      "trackNumber": 3,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Sogasu Chudatharama Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Karthik",
+        "Adviteeya Vojjala"
+      ],
+      "bitrate": 134923,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4455819
+    }
+  ]
+}

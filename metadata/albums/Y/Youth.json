@@ -1,0 +1,138 @@
+{
+  "album": {
+    "id": "b5bdafe95dec",
+    "name": "Youth",
+    "year": 2026,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Youth.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "75b12f131518",
+      "title": "Bujji Kutti",
+      "normalizedTitle": "bujji kutti",
+      "trackNumber": 1,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Bujji Kutti.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "G. V. Prakash Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5107466
+    },
+    {
+      "id": "85f8ef6ec502",
+      "title": "Chamiki",
+      "normalizedTitle": "chamiki",
+      "trackNumber": 2,
+      "duration": "0:00",
+      "durationSeconds": 0,
+      "audio": "Chamiki.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "G. V. Prakash Kumar"
+      ],
+      "bitrate": 0,
+      "sampleRate": 0,
+      "channels": 2,
+      "fileSize": 6955403
+    },
+    {
+      "id": "ed13989ac7d0",
+      "title": "Kalale",
+      "normalizedTitle": "kalale",
+      "trackNumber": 3,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Kalale.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "Kittu Vissapragada",
+        "G.V. Prakash Kumar",
+        "Vaishnavi MJS"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8295391
+    },
+    {
+      "id": "4a35e2b93d11",
+      "title": "Love You Cheppesane",
+      "normalizedTitle": "love you cheppesane",
+      "trackNumber": 4,
+      "duration": "3:01",
+      "durationSeconds": 181,
+      "audio": "Love You Cheppesane.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "G. V. Prakash Kumar"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7263228
+    },
+    {
+      "id": "352f2ed2d426",
+      "title": "Na Nacchina Pillave",
+      "normalizedTitle": "na nacchina pillave",
+      "trackNumber": 5,
+      "duration": "2:33",
+      "durationSeconds": 153,
+      "audio": "Na Nacchina Pillave.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "G. V. Prakash Kumar"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6146232
+    },
+    {
+      "id": "0ae7902b56dd",
+      "title": "Sakhiye",
+      "normalizedTitle": "sakhiye",
+      "trackNumber": 6,
+      "duration": "2:52",
+      "durationSeconds": 172,
+      "audio": "Sakhiye.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "Kittu Vissapragada",
+        "G.V. Prakash Kumar",
+        "Sinjith Yerramilli",
+        "Sindhuja Tanuku"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6936703
+    },
+    {
+      "id": "0dd971568125",
+      "title": "Teenage Song",
+      "normalizedTitle": "teenage song",
+      "trackNumber": 7,
+      "duration": "2:36",
+      "durationSeconds": 156,
+      "audio": "Teenage Song.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "G. V. Prakash Kumar"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6243408
+    }
+  ]
+}

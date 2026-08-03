@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "bd60c933af62",
+    "name": "Chandamama",
+    "year": 2007,
+    "musicDirector": "K. M. Radha Krishnan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chandamama.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "1d00fb68b2f9",
+      "title": "Bugge Bangaaram Song",
+      "normalizedTitle": "bugge bangaaram song",
+      "trackNumber": 1,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Bugge Bangaaram Song.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "Rajesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4409121
+    },
+    {
+      "id": "d4bd88cc7297",
+      "title": "Ghallu Ghalluma Song",
+      "normalizedTitle": "ghallu ghalluma song",
+      "trackNumber": 2,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Ghallu Ghalluma Song.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "Karunya",
+        "Gayatri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4123249
+    },
+    {
+      "id": "6229e2b43f70",
+      "title": "Mukkupai Muddu Song",
+      "normalizedTitle": "mukkupai muddu song",
+      "trackNumber": 3,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Mukkupai Muddu Song.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "Hari Charan",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4468503
+    },
+    {
+      "id": "f4adc750cc73",
+      "title": "Nalo Voohalaku Song",
+      "normalizedTitle": "nalo voohalaku song",
+      "trackNumber": 4,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Nalo Voohalaku Song.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "Asha Bhosle",
+        "K.M. Radha Krishnan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4424633
+    },
+    {
+      "id": "0c3e349a4ff2",
+      "title": "Regumulloe Song",
+      "normalizedTitle": "regumulloe song",
+      "trackNumber": 5,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Regumulloe Song.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "Karthik",
+        "M.M. Srilekha",
+        "Noyal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4838827
+    },
+    {
+      "id": "ff77e2bb3d62",
+      "title": "Sakkubaayine Song",
+      "normalizedTitle": "sakkubaayine song",
+      "trackNumber": 6,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Sakkubaayine Song.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "Jessi Gift",
+        "Mamta Mohandas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4443426
+    }
+  ]
+}

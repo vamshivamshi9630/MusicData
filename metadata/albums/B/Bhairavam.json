@@ -1,0 +1,68 @@
+{
+  "album": {
+    "id": "ca93db77d6e9",
+    "name": "Bhairavam",
+    "year": 2024,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bhairavam.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "886f99969ef0",
+      "title": "Bhairavam Theme Song",
+      "normalizedTitle": "bhairavam theme song",
+      "trackNumber": 1,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Bhairavam Theme Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 124879,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3825133
+    },
+    {
+      "id": "133978ebb787",
+      "title": "Dum Damaare Song",
+      "normalizedTitle": "dum damaare song",
+      "trackNumber": 2,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Dum Damaare Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Revanth",
+        "Sahithi Chaganti",
+        "Soujanya Bhagavatula"
+      ],
+      "bitrate": 132426,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4058381
+    },
+    {
+      "id": "0073de6ccbdb",
+      "title": "Oo Vennela Song",
+      "normalizedTitle": "oo vennela song",
+      "trackNumber": 3,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Oo Vennela Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Anurag Kulkarni",
+        "Yamini Ghantasala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3078041
+    }
+  ]
+}

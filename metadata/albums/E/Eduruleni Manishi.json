@@ -1,0 +1,142 @@
+{
+  "album": {
+    "id": "ab335123cf46",
+    "name": "Eduruleni Manishi",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Eduruleni Manishi.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "019c48ae1455",
+      "title": "Are_Eela_Kotti Song",
+      "normalizedTitle": "are eela kotti song",
+      "trackNumber": 1,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Are_Eela_Kotti Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Udit Narayan",
+        "Sujatha"
+      ],
+      "bitrate": 48000,
+      "sampleRate": 32000,
+      "channels": 1,
+      "fileSize": 2233104
+    },
+    {
+      "id": "9c3f6bffa1cf",
+      "title": "Dam_Dama_Dam Song",
+      "normalizedTitle": "dam dama dam song",
+      "trackNumber": 2,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Dam_Dama_Dam Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Balu",
+        "Shankar Mahadevan",
+        "Sujatha",
+        "Krishnam Raju",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5531899
+    },
+    {
+      "id": "73362319d901",
+      "title": "Emaindamma Song",
+      "normalizedTitle": "emaindamma song",
+      "trackNumber": 3,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Emaindamma Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3871665
+    },
+    {
+      "id": "530e58e2999e",
+      "title": "Enadaina_Anukunana Song",
+      "normalizedTitle": "enadaina anukunana song",
+      "trackNumber": 4,
+      "duration": "5:14",
+      "durationSeconds": 314,
+      "audio": "Enadaina_Anukunana Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Hariharan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5766746
+    },
+    {
+      "id": "e5a45e20d8e5",
+      "title": "Manasannadi Song",
+      "normalizedTitle": "manasannadi song",
+      "trackNumber": 5,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Manasannadi Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Hariharan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5226287
+    },
+    {
+      "id": "287d76362efc",
+      "title": "Nadumunu_Chuste Song",
+      "normalizedTitle": "nadumunu chuste song",
+      "trackNumber": 6,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Nadumunu_Chuste Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shankar Mahadevan",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 259515,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10449199
+    },
+    {
+      "id": "95ca6f2f8d91",
+      "title": "Shiva_Stotram Song",
+      "normalizedTitle": "shiva stotram song",
+      "trackNumber": 7,
+      "duration": "2:59",
+      "durationSeconds": 179,
+      "audio": "Shiva_Stotram Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Balu",
+        "Radhika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3606672
+    }
+  ]
+}

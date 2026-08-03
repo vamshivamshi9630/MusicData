@@ -1,0 +1,138 @@
+{
+  "album": {
+    "id": "661492af5f3c",
+    "name": "Attarintiki Daredi",
+    "year": 2013,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Attarintiki Daredi.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "6d82a6484848",
+      "title": "Aaradugula Bullet",
+      "normalizedTitle": "aaradugula bullet",
+      "trackNumber": 1,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Aaradugula Bullet.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Vijay Prakash",
+        "M. L. R. Karthikeyan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4713238
+    },
+    {
+      "id": "2b494d83e497",
+      "title": "Bapu Gari Bomma",
+      "normalizedTitle": "bapu gari bomma",
+      "trackNumber": 2,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Bapu Gari Bomma.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4634352
+    },
+    {
+      "id": "01fedc87eb7c",
+      "title": "Deva Devam",
+      "normalizedTitle": "deva devam",
+      "trackNumber": 3,
+      "duration": "1:46",
+      "durationSeconds": 106,
+      "audio": "Deva Devam.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "M. S. Subbulakshmi",
+        "Rita",
+        "Palghat Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1826527
+    },
+    {
+      "id": "903106f6a636",
+      "title": "Its Time to Party",
+      "normalizedTitle": "its time to party",
+      "trackNumber": 4,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Its Time to Party.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Malgudi Subha",
+        "David Simon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4428586
+    },
+    {
+      "id": "20a411caad3f",
+      "title": "Kaatama Rayuda",
+      "normalizedTitle": "kaatama rayuda",
+      "trackNumber": 5,
+      "duration": "1:05",
+      "durationSeconds": 65,
+      "audio": "Kaatama Rayuda.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Pawan Kalyan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1167851
+    },
+    {
+      "id": "1fa0d94b950f",
+      "title": "Kirraaku",
+      "normalizedTitle": "kirraaku",
+      "trackNumber": 6,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Kirraaku.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "David Simon",
+        "Narendra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3919635
+    },
+    {
+      "id": "6f30873cf3d2",
+      "title": "Ninnu Chudagane",
+      "normalizedTitle": "ninnu chudagane",
+      "trackNumber": 7,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Ninnu Chudagane.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5452511
+    }
+  ]
+}

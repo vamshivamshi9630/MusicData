@@ -1,0 +1,48 @@
+{
+  "album": {
+    "id": "aa7fcd41b44c",
+    "name": "Nallamala",
+    "year": 2022,
+    "musicDirector": "PR",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nallamala.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "7e3e4eda8ecd",
+      "title": "Pada Pada Padara Song",
+      "normalizedTitle": "pada pada padara song",
+      "trackNumber": 1,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Pada Pada Padara Song.mp3",
+      "composer": "P R",
+      "singers": [
+        "Chinmayi Sripada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3334528
+    },
+    {
+      "id": "26f5daf1fbc9",
+      "title": "Yemunnave Pilla Song",
+      "normalizedTitle": "yemunnave pilla song",
+      "trackNumber": 2,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Yemunnave Pilla Song.mp3",
+      "composer": "P R",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7998683
+    }
+  ]
+}

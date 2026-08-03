@@ -1,0 +1,173 @@
+{
+  "album": {
+    "id": "e81dfe69841a",
+    "name": "King",
+    "year": 2008,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "King.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "a022e4d93a01",
+      "title": "A To Z",
+      "normalizedTitle": "a to z",
+      "trackNumber": 1,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "A To Z.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Priya Himesh",
+        "Naveen Madhav"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4849102
+    },
+    {
+      "id": "c6af81d2a7a0",
+      "title": "Ghana Ghana (Funny)",
+      "normalizedTitle": "ghana ghana funny",
+      "trackNumber": 2,
+      "duration": "1:51",
+      "durationSeconds": 111,
+      "audio": "Ghana Ghana (Funny).mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mamatha Mohandas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2076779
+    },
+    {
+      "id": "c33b37171ba1",
+      "title": "Ghana Ghana",
+      "normalizedTitle": "ghana ghana",
+      "trackNumber": 3,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Ghana Ghana.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Ujjayini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3766170
+    },
+    {
+      "id": "3aa8b8914979",
+      "title": "King (Remix)",
+      "normalizedTitle": "king remix",
+      "trackNumber": 4,
+      "duration": "3:51",
+      "durationSeconds": 231,
+      "audio": "King (Remix).mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3988942
+    },
+    {
+      "id": "193f7f302f44",
+      "title": "King",
+      "normalizedTitle": "king",
+      "trackNumber": 5,
+      "duration": "5:26",
+      "durationSeconds": 326,
+      "audio": "King.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Lesle Lewis",
+        "Mamatha Mohandas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5514911
+    },
+    {
+      "id": "3aef573b9e48",
+      "title": "Nenu Neee Raja",
+      "normalizedTitle": "nenu neee raja",
+      "trackNumber": 6,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Nenu Neee Raja.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Rahul Nambiar",
+        "Andrea"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5353997
+    },
+    {
+      "id": "439231825d98",
+      "title": "Nuvu Ready",
+      "normalizedTitle": "nuvu ready",
+      "trackNumber": 7,
+      "duration": "5:31",
+      "durationSeconds": 331,
+      "audio": "Nuvu Ready.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shankar Mahadevan",
+        "Gopika Poornima"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5584710
+    },
+    {
+      "id": "05d9f1d4d211",
+      "title": "O Manmadhuda",
+      "normalizedTitle": "o manmadhuda",
+      "trackNumber": 8,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "O Manmadhuda.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Divya",
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4858297
+    },
+    {
+      "id": "54fa13db86f3",
+      "title": "Yentapani Chestiviro",
+      "normalizedTitle": "yentapani chestiviro",
+      "trackNumber": 9,
+      "duration": "5:23",
+      "durationSeconds": 323,
+      "audio": "Yentapani Chestiviro.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Priya Himesh",
+        "Vaddepalli Srinivas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5460576
+    }
+  ]
+}

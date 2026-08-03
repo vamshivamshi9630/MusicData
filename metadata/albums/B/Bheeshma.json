@@ -1,0 +1,100 @@
+{
+  "album": {
+    "id": "13cce28c1d4d",
+    "name": "Bheeshma",
+    "year": 2020,
+    "musicDirector": "Mahati Swara Sagar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bheeshma.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "6e9cfbf9263c",
+      "title": "Hey Choosa Song",
+      "normalizedTitle": "hey choosa song",
+      "trackNumber": 1,
+      "duration": "3:11",
+      "durationSeconds": 191,
+      "audio": "Hey Choosa Song.mp3",
+      "composer": "Mahathi Swara Sagar",
+      "singers": [
+        "Sanjana Kalamanje"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3114741
+    },
+    {
+      "id": "984be7ff5a3c",
+      "title": "Sara Sari Song",
+      "normalizedTitle": "sara sari song",
+      "trackNumber": 2,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Sara Sari Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4156446
+    },
+    {
+      "id": "d29ddfdebdf6",
+      "title": "Singles Anthem Song",
+      "normalizedTitle": "singles anthem song",
+      "trackNumber": 3,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Singles Anthem Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3548109
+    },
+    {
+      "id": "bd17bd1f01f3",
+      "title": "Super Cute Song",
+      "normalizedTitle": "super cute song",
+      "trackNumber": 4,
+      "duration": "3:40",
+      "durationSeconds": 220,
+      "audio": "Super Cute Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Nakash Aziz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3815296
+    },
+    {
+      "id": "f52a06938dcf",
+      "title": "Whattey Beauty Song",
+      "normalizedTitle": "whattey beauty song",
+      "trackNumber": 5,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Whattey Beauty Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Dhanunjay",
+        "Amala Chebolu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4051774
+    }
+  ]
+}

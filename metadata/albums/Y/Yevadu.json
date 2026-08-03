@@ -1,0 +1,109 @@
+{
+  "album": {
+    "id": "07ac295e2b5a",
+    "name": "Yevadu",
+    "year": 2014,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Yevadu.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "3f2300754385",
+      "title": "Ayyo Paapam",
+      "normalizedTitle": "ayyo paapam",
+      "trackNumber": 1,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Ayyo Paapam.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Sruthi Hassan",
+        "Amy Jackson"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4630879
+    },
+    {
+      "id": "523b8af95d57",
+      "title": "Freedom",
+      "normalizedTitle": "freedom",
+      "trackNumber": 2,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Freedom.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Sruthi Hassan",
+        "Amy Jackson"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4142681
+    },
+    {
+      "id": "e2eac689b2dc",
+      "title": "Nee Jathaga",
+      "normalizedTitle": "nee jathaga",
+      "trackNumber": 3,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Nee Jathaga.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Sruthi Hassan",
+        "Amy Jackson"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4519704
+    },
+    {
+      "id": "24698865d82b",
+      "title": "Oye Oye",
+      "normalizedTitle": "oye oye",
+      "trackNumber": 4,
+      "duration": "3:31",
+      "durationSeconds": 211,
+      "audio": "Oye Oye.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Sruthi Hassan",
+        "Amy Jackson"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3473954
+    },
+    {
+      "id": "376fdbb907ca",
+      "title": "Pimple Dimple",
+      "normalizedTitle": "pimple dimple",
+      "trackNumber": 5,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Pimple Dimple.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Sruthi Hassan",
+        "Amy Jackson"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4118877
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "489f719cadf9",
+    "name": "Happy",
+    "year": 2006,
+    "musicDirector": "Yuvan Shankar Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "6599963af2c3",
+      "title": "Chal Chal Re",
+      "normalizedTitle": "chal chal re",
+      "trackNumber": 1,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Chal Chal Re.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3335896
+    },
+    {
+      "id": "d6877b5deb64",
+      "title": "Happy",
+      "normalizedTitle": "happy",
+      "trackNumber": 2,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Happy.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3626782
+    },
+    {
+      "id": "cb93c86d3520",
+      "title": "I Hate U",
+      "normalizedTitle": "i hate u",
+      "trackNumber": 3,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "I Hate U.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4527938
+    },
+    {
+      "id": "4abac7febbb4",
+      "title": "Nee Kosam",
+      "normalizedTitle": "nee kosam",
+      "trackNumber": 4,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Nee Kosam.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3236436
+    },
+    {
+      "id": "c659d170eec5",
+      "title": "Ossa",
+      "normalizedTitle": "ossa",
+      "trackNumber": 5,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Ossa.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3742998
+    },
+    {
+      "id": "a2e52f0ba9f3",
+      "title": "Yegire Mabbulona",
+      "normalizedTitle": "yegire mabbulona",
+      "trackNumber": 6,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Yegire Mabbulona.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3857525
+    }
+  ]
+}

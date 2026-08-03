@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "328f3d6488fc",
+    "name": "Sashi",
+    "year": 2021,
+    "musicDirector": "Arun Chiluveru",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sashi.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "3324c39ee2e7",
+      "title": "Dheemthana Dheemthana Song",
+      "normalizedTitle": "dheemthana dheemthana song",
+      "trackNumber": 1,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Dheemthana Dheemthana Song.mp3",
+      "composer": "Arun Chiluveru",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4346312
+    },
+    {
+      "id": "875e8ad33705",
+      "title": "Okey Oka Lokam Song",
+      "normalizedTitle": "okey oka lokam song",
+      "trackNumber": 2,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Okey Oka Lokam Song.mp3",
+      "composer": "Arun Chiluveru",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3386312
+    },
+    {
+      "id": "421f42afcfc2",
+      "title": "Prema Idi Prema Song",
+      "normalizedTitle": "prema idi prema song",
+      "trackNumber": 3,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Prema Idi Prema Song.mp3",
+      "composer": "Arun Chiluveru",
+      "singers": [
+        "Ishaq Vali",
+        "Bolt"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3930440
+    },
+    {
+      "id": "eaa64db1592b",
+      "title": "Rane Radhe Song",
+      "normalizedTitle": "rane radhe song",
+      "trackNumber": 4,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Rane Radhe Song.mp3",
+      "composer": "Arun Chiluveru",
+      "singers": [
+        "Chowrasta Band",
+        "Aditi Bhavaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4282184
+    },
+    {
+      "id": "34d0643eca08",
+      "title": "Vidhine Vidiche Song",
+      "normalizedTitle": "vidhine vidiche song",
+      "trackNumber": 5,
+      "duration": "2:04",
+      "durationSeconds": 124,
+      "audio": "Vidhine Vidiche Song.mp3",
+      "composer": "Arun Chiluveru",
+      "singers": [
+        "M.M Keeravani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2058440
+    },
+    {
+      "id": "fa81af50d354",
+      "title": "Yevarikogani Song",
+      "normalizedTitle": "yevarikogani song",
+      "trackNumber": 6,
+      "duration": "2:33",
+      "durationSeconds": 153,
+      "audio": "Yevarikogani Song.mp3",
+      "composer": "Arun Chiluveru",
+      "singers": [
+        "Naresh Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2522312
+    }
+  ]
+}

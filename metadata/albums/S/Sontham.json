@@ -1,0 +1,151 @@
+{
+  "album": {
+    "id": "8865f7d603e5",
+    "name": "Sontham",
+    "year": 2002,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sontham.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "ddd673f260b9",
+      "title": "Akkado Ekkado Song",
+      "normalizedTitle": "akkado ekkado song",
+      "trackNumber": 1,
+      "duration": "5:07",
+      "durationSeconds": 307,
+      "audio": "Akkado Ekkado Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Malgudi Subha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5046773
+    },
+    {
+      "id": "82daf89cb658",
+      "title": "Enati Varaku Song",
+      "normalizedTitle": "enati varaku song",
+      "trackNumber": 2,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Enati Varaku Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shaan",
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4547308
+    },
+    {
+      "id": "299a0b5774d3",
+      "title": "Music Bit Song",
+      "normalizedTitle": "music bit song",
+      "trackNumber": 3,
+      "duration": "2:27",
+      "durationSeconds": 147,
+      "audio": "Music Bit Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2483432
+    },
+    {
+      "id": "ecbfc95d1477",
+      "title": "Naayudo Naayudo Song",
+      "normalizedTitle": "naayudo naayudo song",
+      "trackNumber": 4,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Naayudo Naayudo Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5405390
+    },
+    {
+      "id": "c59769785ade",
+      "title": "Sontham Song",
+      "normalizedTitle": "sontham song",
+      "trackNumber": 5,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Sontham Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4693168
+    },
+    {
+      "id": "70502c455c5f",
+      "title": "Telusuna Song",
+      "normalizedTitle": "telusuna song",
+      "trackNumber": 6,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Telusuna Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4539793
+    },
+    {
+      "id": "6e1494e16ba6",
+      "title": "Yeppudu (Female) Song",
+      "normalizedTitle": "yeppudu female song",
+      "trackNumber": 7,
+      "duration": "2:45",
+      "durationSeconds": 165,
+      "audio": "Yeppudu (Female) Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2768892
+    },
+    {
+      "id": "67483ca99c35",
+      "title": "Yeppudu (Male) Song",
+      "normalizedTitle": "yeppudu male song",
+      "trackNumber": 8,
+      "duration": "0:00",
+      "durationSeconds": 0,
+      "audio": "Yeppudu (Male) Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 0,
+      "sampleRate": 0,
+      "channels": 2,
+      "fileSize": 41984
+    }
+  ]
+}

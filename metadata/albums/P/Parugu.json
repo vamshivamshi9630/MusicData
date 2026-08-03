@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "f1de72fa290f",
+    "name": "Parugu",
+    "year": 2008,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Parugu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "a6b5610b68aa",
+      "title": "Chal Chal",
+      "normalizedTitle": "chal chal",
+      "trackNumber": 1,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Chal Chal.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4538170
+    },
+    {
+      "id": "421ff7972155",
+      "title": "Hrudayam",
+      "normalizedTitle": "hrudayam",
+      "trackNumber": 2,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Hrudayam.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3765788
+    },
+    {
+      "id": "53737f52d6ab",
+      "title": "Manakanna Podiche",
+      "normalizedTitle": "manakanna podiche",
+      "trackNumber": 3,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Manakanna Podiche.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4582084
+    },
+    {
+      "id": "f1089b90c731",
+      "title": "Nammavemo",
+      "normalizedTitle": "nammavemo",
+      "trackNumber": 4,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Nammavemo.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4720399
+    },
+    {
+      "id": "4e4553098440",
+      "title": "Parugulu",
+      "normalizedTitle": "parugulu",
+      "trackNumber": 5,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Parugulu.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4267749
+    },
+    {
+      "id": "7765b3c5e27f",
+      "title": "Yelageyalaga",
+      "normalizedTitle": "yelageyalaga",
+      "trackNumber": 6,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Yelageyalaga.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4301643
+    }
+  ]
+}

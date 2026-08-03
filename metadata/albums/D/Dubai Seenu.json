@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "ca9351e5f2b5",
+    "name": "Dubai Seenu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Dubai Seenu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "b631f58e0476",
+      "title": "Diwali Holi.Mp",
+      "normalizedTitle": "diwali holimp",
+      "trackNumber": 1,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Diwali Holi.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Deepu",
+        "Karunya",
+        "Kausalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4608803
+    },
+    {
+      "id": "05624fbc400d",
+      "title": "Kanya Raasi.Mp",
+      "normalizedTitle": "kanya raasimp",
+      "trackNumber": 2,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Kanya Raasi.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Vijay Yesudas",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4114463
+    },
+    {
+      "id": "132d8e1427c0",
+      "title": "Kol Kol.Mp",
+      "normalizedTitle": "kol kolmp",
+      "trackNumber": 3,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Kol Kol.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ranjith",
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4915695
+    },
+    {
+      "id": "2bb638c5cebb",
+      "title": "Once Upon.Mp",
+      "normalizedTitle": "once uponmp",
+      "trackNumber": 4,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Once Upon.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Karthik",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4933864
+    },
+    {
+      "id": "0a9a97c334ab",
+      "title": "Seenu Seenu.Mp",
+      "normalizedTitle": "seenu seenump",
+      "trackNumber": 5,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Seenu Seenu.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Naveen"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4691333
+    },
+    {
+      "id": "e739eaa7ccf4",
+      "title": "Suppanathi.Mp",
+      "normalizedTitle": "suppanathimp",
+      "trackNumber": 6,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Suppanathi.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Manikya Vinayagan",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4654274
+    }
+  ]
+}

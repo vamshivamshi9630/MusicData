@@ -1,0 +1,108 @@
+{
+  "album": {
+    "id": "85db3efb8227",
+    "name": "Endukante Premanta",
+    "year": 2012,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Endukante Premanta.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "ddda0cfe870f",
+      "title": "Chill Out Song",
+      "normalizedTitle": "chill out song",
+      "trackNumber": 1,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Chill Out Song.mp3",
+      "composer": "Music : G.V. Prakash Kumar | Lyrics : Ramajogayya Sastry [Drgm]",
+      "singers": [
+        "Vijay Prakash",
+        "Andrea",
+        "Bigg Nikk",
+        "Maya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4967996
+    },
+    {
+      "id": "a1a894a30c43",
+      "title": "Cinderella Song",
+      "normalizedTitle": "cinderella song",
+      "trackNumber": 2,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Cinderella Song.mp3",
+      "composer": "Music : G.V.Prakash Kumar | Lyrics : Srimani [Drgm]",
+      "singers": [
+        "Rahul Nambiar",
+        "Megha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4402439
+    },
+    {
+      "id": "b7ab7b7c339b",
+      "title": "Kicko Gicko Song",
+      "normalizedTitle": "kicko gicko song",
+      "trackNumber": 3,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Kicko Gicko Song.mp3",
+      "composer": "Music : G.V. Prakash Kumar | Lyrics : Ramajogayya Sastry [Drgm]",
+      "singers": [
+        "Rahul Nambiar",
+        "Krish",
+        "Ranina Reddy",
+        "Maya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4302613
+    },
+    {
+      "id": "113be1cd131c",
+      "title": "Nee Choopule Song",
+      "normalizedTitle": "nee choopule song",
+      "trackNumber": 4,
+      "duration": "6:02",
+      "durationSeconds": 362,
+      "audio": "Nee Choopule Song.mp3",
+      "composer": "Music : G.V. Prakash Kumar | Lyrics : Ramajogayya Sastry [Drgm]",
+      "singers": [
+        "Haricharan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5879531
+    },
+    {
+      "id": "65f69e999788",
+      "title": "Yegiri Pove Song",
+      "normalizedTitle": "yegiri pove song",
+      "trackNumber": 5,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Yegiri Pove Song.mp3",
+      "composer": "Music : G.V. Prakash Kumar | Lyrics : Ramajogayya Sastry [Drgm]",
+      "singers": [
+        "Hemachandra",
+        "Chinmayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4925334
+    }
+  ]
+}

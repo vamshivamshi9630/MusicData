@@ -1,0 +1,135 @@
+{
+  "album": {
+    "id": "bceb07af30ed",
+    "name": "Tholu Bommalata",
+    "year": 2019,
+    "musicDirector": "Suresh Bobbili",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Tholu Bommalata.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "b76dec172838",
+      "title": "Aakasamaa Song",
+      "normalizedTitle": "aakasamaa song",
+      "trackNumber": 1,
+      "duration": "2:41",
+      "durationSeconds": 161,
+      "audio": "Aakasamaa Song.mp3",
+      "composer": "Suresh Bobbili",
+      "singers": [
+        "Hema Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2789104
+    },
+    {
+      "id": "cd586152c336",
+      "title": "Goppadi Raa Manishi Puttuka Song",
+      "normalizedTitle": "goppadi raa manishi puttuka song",
+      "trackNumber": 2,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Goppadi Raa Manishi Puttuka Song.mp3",
+      "composer": "Suresh Bobbili",
+      "singers": [
+        "Vijay Yesudas"
+      ],
+      "bitrate": 147432,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4908048
+    },
+    {
+      "id": "848b69b05e26",
+      "title": "Manasara Manasara Song",
+      "normalizedTitle": "manasara manasara song",
+      "trackNumber": 3,
+      "duration": "16:57",
+      "durationSeconds": 1017,
+      "audio": "Manasara Manasara Song.mp3",
+      "composer": "Suresh Bobbili",
+      "singers": [
+        "Sid Sriram",
+        "Chinmayi Sripada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 16478044
+    },
+    {
+      "id": "df4ad7b791ef",
+      "title": "Manasara Mansara (Female Version) Song",
+      "normalizedTitle": "manasara mansara female version song",
+      "trackNumber": 4,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Manasara Mansara (Female Version) Song.mp3",
+      "composer": "Suresh Bobbili",
+      "singers": [
+        "Chinmayi Sripadada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3290112
+    },
+    {
+      "id": "a1404f55eef5",
+      "title": "Manasara Mansara Song",
+      "normalizedTitle": "manasara mansara song",
+      "trackNumber": 5,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Manasara Mansara Song.mp3",
+      "composer": "Suresh Bobbili",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3302048
+    },
+    {
+      "id": "acb5d33508d1",
+      "title": "Netho Poti Paduthu Song",
+      "normalizedTitle": "netho poti paduthu song",
+      "trackNumber": 6,
+      "duration": "2:56",
+      "durationSeconds": 176,
+      "audio": "Netho Poti Paduthu Song.mp3",
+      "composer": "Suresh Bobbili",
+      "singers": [
+        "Yazin Nizar",
+        "Sameera Bharadwaj"
+      ],
+      "bitrate": 148652,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3475784
+    },
+    {
+      "id": "62daad88c0ee",
+      "title": "Yennenno Anandalu Song",
+      "normalizedTitle": "yennenno anandalu song",
+      "trackNumber": 7,
+      "duration": "2:38",
+      "durationSeconds": 158,
+      "audio": "Yennenno Anandalu Song.mp3",
+      "composer": "Suresh Bobbili",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2738890
+    }
+  ]
+}

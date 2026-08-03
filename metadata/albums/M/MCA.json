@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "6e301a61c2b6",
+    "name": "MCA",
+    "year": 2017,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "MCA.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "f1f143100469",
+      "title": "Family Party Song",
+      "normalizedTitle": "family party song",
+      "trackNumber": 1,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Family Party Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Jaspreet Jasz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4063897
+    },
+    {
+      "id": "929cc8925f72",
+      "title": "Kothaga Song",
+      "normalizedTitle": "kothaga song",
+      "trackNumber": 2,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Kothaga Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar",
+        "Priya Hemesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4293799
+    },
+    {
+      "id": "daf4a180dbc0",
+      "title": "Meme Middle Class Abbailam Song",
+      "normalizedTitle": "meme middle class abbailam song",
+      "trackNumber": 3,
+      "duration": "3:17",
+      "durationSeconds": 197,
+      "audio": "Meme Middle Class Abbailam Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Nakash Aziz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3370924
+    },
+    {
+      "id": "5772028757e7",
+      "title": "Yemaindho Teliyadu Naaku Song",
+      "normalizedTitle": "yemaindho teliyadu naaku song",
+      "trackNumber": 4,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Yemaindho Teliyadu Naaku Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Karthik",
+        "Deepika V"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3936458
+    },
+    {
+      "id": "a47d8b2b3d71",
+      "title": "Yevandoi Nani Garu Song",
+      "normalizedTitle": "yevandoi nani garu song",
+      "trackNumber": 5,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Yevandoi Nani Garu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Divya Kumar",
+        "Shravana Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3481728
+    }
+  ]
+}

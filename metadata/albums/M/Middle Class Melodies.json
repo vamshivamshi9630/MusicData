@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "3a8a35b9b479",
+    "name": "Middle Class Melodies",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Middle Class Melodies.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "4be82d481e8a",
+      "title": "Keelugurram Song",
+      "normalizedTitle": "keelugurram song",
+      "trackNumber": 1,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Keelugurram Song.mp3",
+      "composer": "Sweekar Agasthi",
+      "singers": [
+        "Anurag Kulkarni",
+        "Sweekar Agasthi & Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5104035
+    },
+    {
+      "id": "1d94871f734f",
+      "title": "Manchido Cheddadho Song",
+      "normalizedTitle": "manchido cheddadho song",
+      "trackNumber": 2,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Manchido Cheddadho Song.mp3",
+      "composer": "Sweekar Agasthi",
+      "singers": [
+        "Vijay Yesudas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4871424
+    },
+    {
+      "id": "f1897481d0ec",
+      "title": "Sambasiva Song",
+      "normalizedTitle": "sambasiva song",
+      "trackNumber": 3,
+      "duration": "2:45",
+      "durationSeconds": 165,
+      "audio": "Sambasiva Song.mp3",
+      "composer": "Sweekar Agasthi",
+      "singers": [
+        "Ram Miryala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3010560
+    },
+    {
+      "id": "ce009813e602",
+      "title": "Sandhya Song",
+      "normalizedTitle": "sandhya song",
+      "trackNumber": 4,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Sandhya Song.mp3",
+      "composer": "Sweekar Agasthi",
+      "singers": [
+        "Sweekar Agasthi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4135680
+    },
+    {
+      "id": "31f146aef3d9",
+      "title": "The Guntur Song",
+      "normalizedTitle": "the guntur song",
+      "trackNumber": 5,
+      "duration": "1:12",
+      "durationSeconds": 72,
+      "audio": "The Guntur Song.mp3",
+      "composer": "Sweekar Agasthi",
+      "singers": [
+        "Anurag kulkarni"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2699904
+    },
+    {
+      "id": "6cc6f8eefedf",
+      "title": "Vechani Mattilo Song",
+      "normalizedTitle": "vechani mattilo song",
+      "trackNumber": 6,
+      "duration": "2:35",
+      "durationSeconds": 155,
+      "audio": "Vechani Mattilo Song.mp3",
+      "composer": "Sweekar Agasthi",
+      "singers": [
+        "Sweekar Agasth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2857344
+    }
+  ]
+}

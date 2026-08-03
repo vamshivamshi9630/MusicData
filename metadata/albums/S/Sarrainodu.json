@@ -1,0 +1,125 @@
+{
+  "album": {
+    "id": "f420a330a8c8",
+    "name": "Sarrainodu",
+    "year": 2016,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sarrainodu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "8710dcd36f1f",
+      "title": "Athiloka Sundari Song",
+      "normalizedTitle": "athiloka sundari song",
+      "trackNumber": 1,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Athiloka Sundari Song.mp3",
+      "composer": "SS Thaman",
+      "singers": [
+        "Vishal Dandlani",
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4350111
+    },
+    {
+      "id": "f7fe1b5c0124",
+      "title": "Blockbuster Song",
+      "normalizedTitle": "blockbuster song",
+      "trackNumber": 2,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Blockbuster Song.mp3",
+      "composer": "SS Thaman",
+      "singers": [
+        "Shreya Ghosal",
+        "Nakash Aziz",
+        "Simha",
+        "Sri Krishna",
+        "Deepu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5159750
+    },
+    {
+      "id": "2cd9d3d0f240",
+      "title": "Private Party Song",
+      "normalizedTitle": "private party song",
+      "trackNumber": 3,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Private Party Song.mp3",
+      "composer": "SS Thaman",
+      "singers": [
+        "M.C.Vickey",
+        "Manasi MM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4494717
+    },
+    {
+      "id": "0eaec4af238f",
+      "title": "Sarrainodu Song",
+      "normalizedTitle": "sarrainodu song",
+      "trackNumber": 4,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Sarrainodu Song.mp3",
+      "composer": "SS Thaman",
+      "singers": [
+        "Hard Kaur",
+        "Brijesh Shadilya",
+        "Sonu Kakkar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5000479
+    },
+    {
+      "id": "5c3535905543",
+      "title": "Telusaa Telusaa Song",
+      "normalizedTitle": "telusaa telusaa song",
+      "trackNumber": 5,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Telusaa Telusaa Song.mp3",
+      "composer": "SS Thaman",
+      "singers": [
+        "Zubin Nautiyal",
+        "Sammeera Bharadwaj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4512717
+    },
+    {
+      "id": "7697bb2491ca",
+      "title": "You Are My Mla Song",
+      "normalizedTitle": "you are my mla song",
+      "trackNumber": 6,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "You Are My Mla Song.mp3",
+      "composer": "SS Thaman",
+      "singers": [
+        "Dhanunjay"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4665220
+    }
+  ]
+}

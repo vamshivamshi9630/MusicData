@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "8759435935ab",
+    "name": "Ramayya Vasthavayya",
+    "year": 2013,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ramayya Vasthavayya.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "b1b9c68eb580",
+      "title": "Idhi Ranarangam.Mp",
+      "normalizedTitle": "idhi ranarangammp",
+      "trackNumber": 1,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Idhi Ranarangam.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ranjith",
+        "Rahul Nambiar",
+        "Naveen"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3520401
+    },
+    {
+      "id": "f83bd59d13ee",
+      "title": "Jabilli.Mp",
+      "normalizedTitle": "jabillimp",
+      "trackNumber": 2,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Jabilli.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Kay Kay"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3775712
+    },
+    {
+      "id": "7bf002184cb6",
+      "title": "Kurrayeedu.Mp",
+      "normalizedTitle": "kurrayeedump",
+      "trackNumber": 3,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Kurrayeedu.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shankar Mahadevan",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4014831
+    },
+    {
+      "id": "3641d466b6ea",
+      "title": "Neneppudaina.Mp",
+      "normalizedTitle": "neneppudainamp",
+      "trackNumber": 4,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Neneppudaina.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shankar Mahadevan",
+        "Shreya Ghosal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3802942
+    },
+    {
+      "id": "1edd235ff1e6",
+      "title": "O Lailaa.Mp",
+      "normalizedTitle": "o lailaamp",
+      "trackNumber": 5,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "O Lailaa.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Rahul Nambiar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4356272
+    },
+    {
+      "id": "5d02bdd0ec10",
+      "title": "Pandaga Chesko.Mp",
+      "normalizedTitle": "pandaga cheskomp",
+      "trackNumber": 6,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Pandaga Chesko.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4218763
+    }
+  ]
+}

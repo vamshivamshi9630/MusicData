@@ -1,0 +1,85 @@
+{
+  "album": {
+    "id": "77ed256bbbad",
+    "name": "Tharkappu",
+    "year": 2016,
+    "musicDirector": "F. S. Faizal",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Tharkappu.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "6c5adae4650f",
+      "title": "Aayiram Aayiram Song",
+      "normalizedTitle": "aayiram aayiram song",
+      "trackNumber": 1,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Aayiram Aayiram Song.mp3",
+      "composer": "F.S. Faizal",
+      "singers": [
+        "Hariharasudhan",
+        "Nincy"
+      ],
+      "bitrate": 132195,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4418575
+    },
+    {
+      "id": "d7fd77f3a4ec",
+      "title": "Hey Hey Idhu Song",
+      "normalizedTitle": "hey hey idhu song",
+      "trackNumber": 2,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Hey Hey Idhu Song.mp3",
+      "composer": "F.S. Faizal",
+      "singers": [
+        "Srinivas",
+        "Norway Sandhiya"
+      ],
+      "bitrate": 129518,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4747256
+    },
+    {
+      "id": "c8b55990ea23",
+      "title": "Ivan Peyar Song",
+      "normalizedTitle": "ivan peyar song",
+      "trackNumber": 3,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Ivan Peyar Song.mp3",
+      "composer": "F.S. Faizal",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128677,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4365209
+    },
+    {
+      "id": "dd2d2e4031ad",
+      "title": "Sayangala Song",
+      "normalizedTitle": "sayangala song",
+      "trackNumber": 4,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Sayangala Song.mp3",
+      "composer": "F.S. Faizal",
+      "singers": [
+        "Jagadish",
+        "Upasana"
+      ],
+      "bitrate": 134809,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4029830
+    }
+  ]
+}

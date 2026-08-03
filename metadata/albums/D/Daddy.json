@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "569d7dc1611b",
+    "name": "Daddy",
+    "year": 2001,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Daddy.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "bcd657f86af5",
+      "title": "Adu Aadinchu Song",
+      "normalizedTitle": "adu aadinchu song",
+      "trackNumber": 1,
+      "duration": "5:19",
+      "durationSeconds": 319,
+      "audio": "Adu Aadinchu Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5138021
+    },
+    {
+      "id": "767e54101d15",
+      "title": "Gummadi Gummadi Song",
+      "normalizedTitle": "gummadi gummadi song",
+      "trackNumber": 2,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Gummadi Gummadi Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4716290
+    },
+    {
+      "id": "eedf731a4da0",
+      "title": "Mandara Buggaloki Song",
+      "normalizedTitle": "mandara buggaloki song",
+      "trackNumber": 3,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Mandara Buggaloki Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Udit Narayan",
+        "Kavita Subrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4708813
+    },
+    {
+      "id": "19a42e9f8ad5",
+      "title": "Naa Pranama Song",
+      "normalizedTitle": "naa pranama song",
+      "trackNumber": 4,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Naa Pranama Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Udit Narayan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4751017
+    },
+    {
+      "id": "60c9cc52d506",
+      "title": "Patta Pakkinti Song",
+      "normalizedTitle": "patta pakkinti song",
+      "trackNumber": 5,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Patta Pakkinti Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "S.P. Balu",
+        "Kavita Subrahmanyam",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4960042
+    },
+    {
+      "id": "34e1719d2053",
+      "title": "Vana Vana Song",
+      "normalizedTitle": "vana vana song",
+      "trackNumber": 6,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Vana Vana Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Udit Narayan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5079089
+    }
+  ]
+}

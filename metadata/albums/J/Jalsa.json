@@ -1,0 +1,158 @@
+{
+  "album": {
+    "id": "842cb178f2a0",
+    "name": "Jalsa",
+    "year": 2008,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jalsa.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "30a25f22d812",
+      "title": "Chalore Chalore Chal.Mp",
+      "normalizedTitle": "chalore chalore chalmp",
+      "trackNumber": 1,
+      "duration": "2:47",
+      "durationSeconds": 167,
+      "audio": "Chalore Chalore Chal.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ileana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2758695
+    },
+    {
+      "id": "91bef24472ae",
+      "title": "Chalore Chalore Hindi.Mp",
+      "normalizedTitle": "chalore chalore hindimp",
+      "trackNumber": 2,
+      "duration": "3:06",
+      "durationSeconds": 186,
+      "audio": "Chalore Chalore Hindi.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ileana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3063403
+    },
+    {
+      "id": "875d5f2b6d53",
+      "title": "Gaallo Thelinattunde.Mp",
+      "normalizedTitle": "gaallo thelinattundemp",
+      "trackNumber": 3,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Gaallo Thelinattunde.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ileana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4763239
+    },
+    {
+      "id": "c908a5b446c2",
+      "title": "Jalsa.Mp",
+      "normalizedTitle": "jalsamp",
+      "trackNumber": 4,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Jalsa.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ileana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4243260
+    },
+    {
+      "id": "93cc1ee99f8c",
+      "title": "Jennifer Lopez.Mp",
+      "normalizedTitle": "jennifer lopezmp",
+      "trackNumber": 5,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Jennifer Lopez.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ileana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4250373
+    },
+    {
+      "id": "3be8bd3b049f",
+      "title": "My Heart Is Beating Mix.Mp",
+      "normalizedTitle": "my heart is beating mixmp",
+      "trackNumber": 6,
+      "duration": "3:03",
+      "durationSeconds": 183,
+      "audio": "My Heart Is Beating Mix.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ileana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3008626
+    },
+    {
+      "id": "f49bf51fe9a2",
+      "title": "My Heart Is Beating.Mp",
+      "normalizedTitle": "my heart is beatingmp",
+      "trackNumber": 7,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "My Heart Is Beating.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ileana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4883575
+    },
+    {
+      "id": "1c107d8a158f",
+      "title": "You & I.Mp",
+      "normalizedTitle": "you imp",
+      "trackNumber": 8,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "You & I.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ileana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4894022
+    }
+  ]
+}

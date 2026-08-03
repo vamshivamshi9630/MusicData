@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "dcee45667a7c",
+    "name": "Sasirekha Parinayam",
+    "year": 2009,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sasirekha Parinayam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "b7210517fa96",
+      "title": "Bejawada Song",
+      "normalizedTitle": "bejawada song",
+      "trackNumber": 1,
+      "duration": "5:23",
+      "durationSeconds": 323,
+      "audio": "Bejawada Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Naveen",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5190318
+    },
+    {
+      "id": "949ecae0452e",
+      "title": "Elaa Entha Sepu Song",
+      "normalizedTitle": "elaa entha sepu song",
+      "trackNumber": 2,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Elaa Entha Sepu Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Rahul Nambiar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4972153
+    },
+    {
+      "id": "5007ae305e30",
+      "title": "Gundello Goliso Song",
+      "normalizedTitle": "gundello goliso song",
+      "trackNumber": 3,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Gundello Goliso Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Jai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4572574
+    },
+    {
+      "id": "d9faaff0d6b2",
+      "title": "Ninne Ninne Song",
+      "normalizedTitle": "ninne ninne song",
+      "trackNumber": 4,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Ninne Ninne Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4305904
+    },
+    {
+      "id": "626197f7b238",
+      "title": "O Bujjamma Song",
+      "normalizedTitle": "o bujjamma song",
+      "trackNumber": 5,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "O Bujjamma Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4598064
+    },
+    {
+      "id": "e490fb775d35",
+      "title": "Yedho Yedho Song",
+      "normalizedTitle": "yedho yedho song",
+      "trackNumber": 6,
+      "duration": "2:56",
+      "durationSeconds": 176,
+      "audio": "Yedho Yedho Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2847233
+    }
+  ]
+}

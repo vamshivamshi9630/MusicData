@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "4d5b66094362",
+    "name": "Leader",
+    "year": 2010,
+    "musicDirector": "Mickey J. Meyer",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Leader.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "be4fd32c7ea0",
+      "title": "Aunana Kaadana Song",
+      "normalizedTitle": "aunana kaadana song",
+      "trackNumber": 1,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Aunana Kaadana Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Naresh Iyer",
+        "Shweta Pandit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5021870
+    },
+    {
+      "id": "b527fc3f5e94",
+      "title": "Leader Instrumental Song",
+      "normalizedTitle": "leader instrumental song",
+      "trackNumber": 2,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Leader Instrumental Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Mickey J. Meyer",
+        "Balesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3289015
+    },
+    {
+      "id": "23d7d0d0820a",
+      "title": "Maa Telugu Thalliki Song",
+      "normalizedTitle": "maa telugu thalliki song",
+      "trackNumber": 3,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Maa Telugu Thalliki Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Late Sri Tanguturi Surya Kumari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4761920
+    },
+    {
+      "id": "1f6120afdafe",
+      "title": "Rajasekhara Song",
+      "normalizedTitle": "rajasekhara song",
+      "trackNumber": 4,
+      "duration": "5:29",
+      "durationSeconds": 329,
+      "audio": "Rajasekhara Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Shweta Pandit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5288914
+    },
+    {
+      "id": "c48037810ed0",
+      "title": "Sreelu Pongina Song",
+      "normalizedTitle": "sreelu pongina song",
+      "trackNumber": 5,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Sreelu Pongina Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Krishna Chaitanya",
+        "Siddharth",
+        "Kranthi",
+        "Sashi Kiran",
+        "Aditya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3195453
+    },
+    {
+      "id": "518fe2bf4263",
+      "title": "Vandemataram Song",
+      "normalizedTitle": "vandemataram song",
+      "trackNumber": 6,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Vandemataram Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Nakash Aziz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3702339
+    }
+  ]
+}

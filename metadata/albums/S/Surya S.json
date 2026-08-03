@@ -1,0 +1,142 @@
+{
+  "album": {
+    "id": "e9d29ee6893e",
+    "name": "Surya S",
+    "year": 2008,
+    "musicDirector": "Harris Jayaraj",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Surya S.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "a0b9b385315b",
+      "title": "Adhey Nannu Song",
+      "normalizedTitle": "adhey nannu song",
+      "trackNumber": 1,
+      "duration": "5:23",
+      "durationSeconds": 323,
+      "audio": "Adhey Nannu Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Karthik",
+        "V. Prasanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5196165
+    },
+    {
+      "id": "18c96ab43494",
+      "title": "Monna Kanipinchavu Song",
+      "normalizedTitle": "monna kanipinchavu song",
+      "trackNumber": 2,
+      "duration": "5:34",
+      "durationSeconds": 334,
+      "audio": "Monna Kanipinchavu Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Naresh Iyer",
+        "Prashanthini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5366299
+    },
+    {
+      "id": "a188609e5a84",
+      "title": "Naalona Pongenu Song",
+      "normalizedTitle": "naalona pongenu song",
+      "trackNumber": 3,
+      "duration": "6:14",
+      "durationSeconds": 374,
+      "audio": "Naalona Pongenu Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Harish Raghavendra",
+        "Devan",
+        "V. Prasanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6015827
+    },
+    {
+      "id": "1f3759367cbc",
+      "title": "Nidhare Kala Song",
+      "normalizedTitle": "nidhare kala song",
+      "trackNumber": 4,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Nidhare Kala Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Sudha Raghunathan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5172338
+    },
+    {
+      "id": "e7f370bdfc85",
+      "title": "O Shanthi Shanthi Song",
+      "normalizedTitle": "o shanthi shanthi song",
+      "trackNumber": 5,
+      "duration": "3:04",
+      "durationSeconds": 184,
+      "audio": "O Shanthi Shanthi Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Krish",
+        "S.P.B. Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2972216
+    },
+    {
+      "id": "a5f0cdaa9829",
+      "title": "Yedhane Koiyyake Song",
+      "normalizedTitle": "yedhane koiyyake song",
+      "trackNumber": 6,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "Yedhane Koiyyake Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Krish",
+        "Benny Dayal",
+        "Bhargavi Pillai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5107598
+    },
+    {
+      "id": "17871c09e622",
+      "title": "Yegasi Yegasi Song",
+      "normalizedTitle": "yegasi yegasi song",
+      "trackNumber": 7,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Yegasi Yegasi Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Benny Dayal",
+        "Naresh Iyer",
+        "Chandran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4715962
+    }
+  ]
+}

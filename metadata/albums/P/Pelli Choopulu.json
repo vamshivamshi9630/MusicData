@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "6e3d810b4b3c",
+    "name": "Pelli Choopulu",
+    "year": 2016,
+    "musicDirector": "Vivek Sagar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Pelli Choopulu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "b56089803671",
+      "title": "Aanandamayenu",
+      "normalizedTitle": "aanandamayenu",
+      "trackNumber": 1,
+      "duration": "1:42",
+      "durationSeconds": 102,
+      "audio": "Aanandamayenu.mp3",
+      "composer": "Sagar Vivek",
+      "singers": [
+        "Ranjani Sivakumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1751008
+    },
+    {
+      "id": "fc38b226861b",
+      "title": "Chinuku Taake",
+      "normalizedTitle": "chinuku taake",
+      "trackNumber": 2,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Chinuku Taake.mp3",
+      "composer": "Sagar Vivek",
+      "singers": [
+        "Amritavarshini KC"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4774943
+    },
+    {
+      "id": "bb2d925fdb2c",
+      "title": "Ee Babu Gariki",
+      "normalizedTitle": "ee babu gariki",
+      "trackNumber": 3,
+      "duration": "3:09",
+      "durationSeconds": 189,
+      "audio": "Ee Babu Gariki.mp3",
+      "composer": "Sagar Vivek",
+      "singers": [
+        "Sooraj Santhosh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3143232
+    },
+    {
+      "id": "2288bb247d32",
+      "title": "Merise Merise",
+      "normalizedTitle": "merise merise",
+      "trackNumber": 4,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Merise Merise.mp3",
+      "composer": "Sagar Vivek",
+      "singers": [
+        "Haricharan",
+        "Pranavi Acharya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4374956
+    },
+    {
+      "id": "0b04afb970e3",
+      "title": "Raalupoola Ragamala",
+      "normalizedTitle": "raalupoola ragamala",
+      "trackNumber": 5,
+      "duration": "2:47",
+      "durationSeconds": 167,
+      "audio": "Raalupoola Ragamala.mp3",
+      "composer": "Sagar Vivek",
+      "singers": [
+        "Shri",
+        "J. Wilson Herald"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2782962
+    },
+    {
+      "id": "0fbd166420e7",
+      "title": "Spitfire Friends",
+      "normalizedTitle": "spitfire friends",
+      "trackNumber": 6,
+      "duration": "2:47",
+      "durationSeconds": 167,
+      "audio": "Spitfire Friends.mp3",
+      "composer": "Sagar Vivek",
+      "singers": [
+        "Nikhil Bharadwaj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2791315
+    }
+  ]
+}

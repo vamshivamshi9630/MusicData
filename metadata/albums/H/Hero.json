@@ -1,0 +1,67 @@
+{
+  "album": {
+    "id": "ae6c79d10f1f",
+    "name": "Hero",
+    "year": 2022,
+    "musicDirector": "Ghibran",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Hero.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "78e40dbf5b4f",
+      "title": "Accha Telugandhame Song",
+      "normalizedTitle": "accha telugandhame song",
+      "trackNumber": 1,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Accha Telugandhame Song.mp3",
+      "composer": "Ghibran",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4646272
+    },
+    {
+      "id": "c1a998024108",
+      "title": "Burra Paadavuthadhe Song",
+      "normalizedTitle": "burra paadavuthadhe song",
+      "trackNumber": 2,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Burra Paadavuthadhe Song.mp3",
+      "composer": "Ghibran",
+      "singers": [
+        "Anurag Kulkarni",
+        "Mangli"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4063360
+    },
+    {
+      "id": "f15cd409b740",
+      "title": "Donal Duggu Song",
+      "normalizedTitle": "donal duggu song",
+      "trackNumber": 3,
+      "duration": "2:50",
+      "durationSeconds": 170,
+      "audio": "Donal Duggu Song.mp3",
+      "composer": "Ghibran",
+      "singers": [
+        "Roll Rida",
+        "Gold Devaraj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3116159
+    }
+  ]
+}

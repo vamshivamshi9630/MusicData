@@ -1,0 +1,100 @@
+{
+  "album": {
+    "id": "848822cfb226",
+    "name": "Chalo",
+    "year": 2018,
+    "musicDirector": "Mahati Swara Sagar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chalo.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "8594e57a9dd3",
+      "title": "Ammaye Challo Antu Song",
+      "normalizedTitle": "ammaye challo antu song",
+      "trackNumber": 1,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Ammaye Challo Antu Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4875937
+    },
+    {
+      "id": "2758920ca4c7",
+      "title": "Chal Godava Song",
+      "normalizedTitle": "chal godava song",
+      "trackNumber": 2,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Chal Godava Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4520255
+    },
+    {
+      "id": "cad5bacc8d75",
+      "title": "Cheppave Balamani Song",
+      "normalizedTitle": "cheppave balamani song",
+      "trackNumber": 3,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Cheppave Balamani Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Sweekar Agasthi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5268396
+    },
+    {
+      "id": "f23333ca539e",
+      "title": "Choosi Chudagane Song",
+      "normalizedTitle": "choosi chudagane song",
+      "trackNumber": 4,
+      "duration": "3:22",
+      "durationSeconds": 202,
+      "audio": "Choosi Chudagane Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Anurag Kulkarni",
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4269732
+    },
+    {
+      "id": "e2c608f77952",
+      "title": "Drunk and Drive Song",
+      "normalizedTitle": "drunk and drive song",
+      "trackNumber": 5,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Drunk and Drive Song.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5071110
+    }
+  ]
+}

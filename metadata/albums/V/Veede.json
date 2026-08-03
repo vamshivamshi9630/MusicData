@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "8d6a8f4a9d0c",
+    "name": "Veede",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Veede.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "93a86bcce285",
+      "title": "Adugadugo Vastunnadu.Mp",
+      "normalizedTitle": "adugadugo vastunnadump",
+      "trackNumber": 1,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Adugadugo Vastunnadu.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Telangana Sakuntala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3126916
+    },
+    {
+      "id": "f89651082bd3",
+      "title": "Ammadi Yamma.Mp",
+      "normalizedTitle": "ammadi yammamp",
+      "trackNumber": 2,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Ammadi Yamma.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ravi Varma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3959912
+    },
+    {
+      "id": "5cb1aca22d92",
+      "title": "Andmaina Papa Peru.Mp",
+      "normalizedTitle": "andmaina papa perump",
+      "trackNumber": 3,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Andmaina Papa Peru.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shankar Mahadevan",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4858557
+    },
+    {
+      "id": "593e5f93a758",
+      "title": "Chanak Nanchal.Mp",
+      "normalizedTitle": "chanak nanchalmp",
+      "trackNumber": 4,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Chanak Nanchal.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Udit Narayan",
+        "Sunitha Upadrashta"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5030736
+    },
+    {
+      "id": "998f3dbd8b07",
+      "title": "Edurantoo Leneleni.Mp",
+      "normalizedTitle": "edurantoo lenelenimp",
+      "trackNumber": 5,
+      "duration": "5:28",
+      "durationSeconds": 328,
+      "audio": "Edurantoo Leneleni.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5295730
+    },
+    {
+      "id": "d113f84c8f96",
+      "title": "Kinnerasani Vannela.Mp",
+      "normalizedTitle": "kinnerasani vannelamp",
+      "trackNumber": 6,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Kinnerasani Vannela.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Hariharan",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5128972
+    }
+  ]
+}

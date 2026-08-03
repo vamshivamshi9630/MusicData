@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "808c375ec43c",
+    "name": "Okato Number Kurradu",
+    "year": 2002,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Okato Number Kurradu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "5f7948971b69",
+      "title": "Aggipulla Geayagaane",
+      "normalizedTitle": "aggipulla geayagaane",
+      "trackNumber": 1,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Aggipulla Geayagaane.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Kalpana",
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5494127
+    },
+    {
+      "id": "16c0cdbeca6a",
+      "title": "Enni Janmalethina",
+      "normalizedTitle": "enni janmalethina",
+      "trackNumber": 2,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Enni Janmalethina.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "K. S. Chithra",
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5527140
+    },
+    {
+      "id": "3f497062d36c",
+      "title": "Nemali Kannoda",
+      "normalizedTitle": "nemali kannoda",
+      "trackNumber": 3,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Nemali Kannoda.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Udit Narayan",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5142194
+    },
+    {
+      "id": "58d8277a0636",
+      "title": "Nuvu Choodu Chudakapo",
+      "normalizedTitle": "nuvu choodu chudakapo",
+      "trackNumber": 4,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Nuvu Choodu Chudakapo.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Ganga",
+        "M. M. Keeravani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5094560
+    },
+    {
+      "id": "dff41b79916b",
+      "title": "Orey Nuvvu Naaku",
+      "normalizedTitle": "orey nuvvu naaku",
+      "trackNumber": 5,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Orey Nuvvu Naaku.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "K. S. Chithra",
+        "S.P. Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5953874
+    },
+    {
+      "id": "a8c00f554f02",
+      "title": "Thodagotti Chebutunna",
+      "normalizedTitle": "thodagotti chebutunna",
+      "trackNumber": 6,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Thodagotti Chebutunna.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "S.P. Balasubrahmanyam",
+        "Godwin"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4607220
+    }
+  ]
+}

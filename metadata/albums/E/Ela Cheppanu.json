@@ -1,0 +1,154 @@
+{
+  "album": {
+    "id": "7aed2bd757b2",
+    "name": "Ela Cheppanu",
+    "year": 2003,
+    "musicDirector": "Koti",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ela Cheppanu.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "0648d34c08d0",
+      "title": "Aa Navvulo Emunnado",
+      "normalizedTitle": "aa navvulo emunnado",
+      "trackNumber": 1,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Aa Navvulo Emunnado.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5241595
+    },
+    {
+      "id": "9f1df6b02d35",
+      "title": "Ee Kshnam Oke Oka Korika",
+      "normalizedTitle": "ee kshnam oke oka korika",
+      "trackNumber": 2,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Ee Kshnam Oke Oka Korika.mp3",
+      "composer": "Koti",
+      "singers": [
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4725011
+    },
+    {
+      "id": "700b77e421b2",
+      "title": "Maagha Maasavela",
+      "normalizedTitle": "maagha maasavela",
+      "trackNumber": 3,
+      "duration": "6:06",
+      "durationSeconds": 366,
+      "audio": "Maagha Maasavela.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Udit Narayan",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6128270
+    },
+    {
+      "id": "d5f617aa8d03",
+      "title": "Manchu Thakina",
+      "normalizedTitle": "manchu thakina",
+      "trackNumber": 4,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Manchu Thakina.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Mallikarjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4866682
+    },
+    {
+      "id": "8dc4a22e40d5",
+      "title": "Manninchu O Prema",
+      "normalizedTitle": "manninchu o prema",
+      "trackNumber": 5,
+      "duration": "5:39",
+      "durationSeconds": 339,
+      "audio": "Manninchu O Prema.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Udit Narayan",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5704046
+    },
+    {
+      "id": "d2959f92bbe7",
+      "title": "Meghala Pallakilona",
+      "normalizedTitle": "meghala pallakilona",
+      "trackNumber": 6,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Meghala Pallakilona.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Sunitha",
+        "Sri Ram Prabhu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4643917
+    },
+    {
+      "id": "2f1a7f7e9735",
+      "title": "Prathi Nijam Pagatikalaga",
+      "normalizedTitle": "prathi nijam pagatikalaga",
+      "trackNumber": 7,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Prathi Nijam Pagatikalaga.mp3",
+      "composer": "Koti",
+      "singers": [
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4863362
+    },
+    {
+      "id": "f9b3dec80453",
+      "title": "Rangula Taraka",
+      "normalizedTitle": "rangula taraka",
+      "trackNumber": 8,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Rangula Taraka.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Karthik",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5038463
+    }
+  ]
+}

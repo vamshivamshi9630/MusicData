@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "5f4df959a115",
+    "name": "Anand",
+    "year": 2004,
+    "musicDirector": "K. M. Radha Krishnan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Anand.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "ad5cf156b93f",
+      "title": "Charumati I Love You Song",
+      "normalizedTitle": "charumati i love you song",
+      "trackNumber": 1,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Charumati I Love You Song.mp3",
+      "composer": "K. Radhakrishnan",
+      "singers": [
+        "Lucky Ali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4032878
+    },
+    {
+      "id": "83aff6541ec8",
+      "title": "Nuvvena Naa Nuvvena Song",
+      "normalizedTitle": "nuvvena naa nuvvena song",
+      "trackNumber": 2,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Nuvvena Naa Nuvvena Song.mp3",
+      "composer": "K. Radhakrishnan",
+      "singers": [
+        "Shreya Ghoshal",
+        "Radhakrishnan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4757175
+    },
+    {
+      "id": "266fc19611eb",
+      "title": "Telisi Telisi Song",
+      "normalizedTitle": "telisi telisi song",
+      "trackNumber": 3,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Telisi Telisi Song.mp3",
+      "composer": "K. Radhakrishnan",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4332123
+    },
+    {
+      "id": "67de8b70a0cc",
+      "title": "Vachhe Vachhe Song",
+      "normalizedTitle": "vachhe vachhe song",
+      "trackNumber": 4,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Vachhe Vachhe Song.mp3",
+      "composer": "K. Radhakrishnan",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4470467
+    },
+    {
+      "id": "bded6b3848c3",
+      "title": "Yamunatheeram Song",
+      "normalizedTitle": "yamunatheeram song",
+      "trackNumber": 5,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Yamunatheeram Song.mp3",
+      "composer": "K. Radhakrishnan",
+      "singers": [
+        "Hariharan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4052926
+    },
+    {
+      "id": "f965177bf5ad",
+      "title": "Yedalo Ganam Song",
+      "normalizedTitle": "yedalo ganam song",
+      "trackNumber": 6,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Yedalo Ganam Song.mp3",
+      "composer": "K. Radhakrishnan",
+      "singers": [
+        "Hariharan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4770140
+    }
+  ]
+}

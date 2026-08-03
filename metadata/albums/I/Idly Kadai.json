@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "acaa92fca54a",
+    "name": "Idly Kadai",
+    "year": 2025,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Idly Kadai.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "ac13b8b0cbd5",
+      "title": "Enjaami Thandhaane Song",
+      "normalizedTitle": "enjaami thandhaane song",
+      "trackNumber": 1,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Enjaami Thandhaane Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Dhanush",
+        "Arivu"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11923022
+    },
+    {
+      "id": "a57a3f189fc8",
+      "title": "Enna Sugam Song",
+      "normalizedTitle": "enna sugam song",
+      "trackNumber": 2,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Enna Sugam Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Dhanush",
+        "Shweta Mohan"
+      ],
+      "bitrate": 137405,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4031018
+    },
+    {
+      "id": "27bf87c36d8d",
+      "title": "Ethana Saami Song",
+      "normalizedTitle": "ethana saami song",
+      "trackNumber": 3,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Ethana Saami Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Pushpavanam Kuppusamy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4730239
+    },
+    {
+      "id": "698935505dd3",
+      "title": "Kulasamy Kaaval Kaaka Song",
+      "normalizedTitle": "kulasamy kaaval kaaka song",
+      "trackNumber": 4,
+      "duration": "2:33",
+      "durationSeconds": 153,
+      "audio": "Kulasamy Kaaval Kaaka Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "GV Prakash Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2740314
+    },
+    {
+      "id": "dd00bf64ce2a",
+      "title": "My Heartu Spinning Song",
+      "normalizedTitle": "my heartu spinning song",
+      "trackNumber": 5,
+      "duration": "2:32",
+      "durationSeconds": 152,
+      "audio": "My Heartu Spinning Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "AR Ameen",
+        "Sublahshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2732397
+    },
+    {
+      "id": "d31af050f69e",
+      "title": "Yen Paattan Saami Varum Song",
+      "normalizedTitle": "yen paattan saami varum song",
+      "trackNumber": 6,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Yen Paattan Saami Varum Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Anthony Daasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3855031
+    }
+  ]
+}

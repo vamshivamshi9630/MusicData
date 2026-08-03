@@ -1,0 +1,137 @@
+{
+  "album": {
+    "id": "7b1a278f5abe",
+    "name": "96",
+    "year": 2018,
+    "musicDirector": "Govind Vasantha",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "96.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "56778b0b5e68",
+      "title": "Anantham",
+      "normalizedTitle": "anantham",
+      "trackNumber": 1,
+      "duration": "8:11",
+      "durationSeconds": 491,
+      "audio": "Anantham.mp3",
+      "composer": "Govind Vasantha",
+      "singers": [
+        "Chinmayi Sripaada",
+        "Govind Vasantha"
+      ],
+      "bitrate": 319511,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 19746297
+    },
+    {
+      "id": "0ba9c635e30e",
+      "title": "Inthena Song",
+      "normalizedTitle": "inthena song",
+      "trackNumber": 2,
+      "duration": "5:25",
+      "durationSeconds": 325,
+      "audio": "Inthena Song.mp3",
+      "composer": "Govind Vasantha",
+      "singers": [
+        "Chinmayi Sripada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5641172
+    },
+    {
+      "id": "0c41b20588b7",
+      "title": "Komma Veedi",
+      "normalizedTitle": "komma veedi",
+      "trackNumber": 3,
+      "duration": "3:41",
+      "durationSeconds": 221,
+      "audio": "Komma Veedi.mp3",
+      "composer": "Govind Vasantha",
+      "singers": [
+        "Chinmayi Sripaada",
+        "Govind Vasantha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3632812
+    },
+    {
+      "id": "d7d47f556dad",
+      "title": "Naa Kale Kalai Song",
+      "normalizedTitle": "naa kale kalai song",
+      "trackNumber": 4,
+      "duration": "2:17",
+      "durationSeconds": 137,
+      "audio": "Naa Kale Kalai Song.mp3",
+      "composer": "Govind Vasantha",
+      "singers": [
+        "Brinda"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2621835
+    },
+    {
+      "id": "5b27c3da3584",
+      "title": "Oohale Song",
+      "normalizedTitle": "oohale song",
+      "trackNumber": 5,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Oohale Song.mp3",
+      "composer": "Govind Vasantha",
+      "singers": [
+        "Chinmayi Sripaada",
+        "Govind Vasantha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5208962
+    },
+    {
+      "id": "6d03fee23041",
+      "title": "Pranam Song",
+      "normalizedTitle": "pranam song",
+      "trackNumber": 6,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Pranam Song.mp3",
+      "composer": "Govind Vasantha",
+      "singers": [
+        "Chinmayi Sripaada",
+        "Gowtham Bharadwaj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3628843
+    },
+    {
+      "id": "cd940fe0e1a5",
+      "title": "The Life Of Ram Song",
+      "normalizedTitle": "the life of ram song",
+      "trackNumber": 7,
+      "duration": "6:04",
+      "durationSeconds": 364,
+      "audio": "The Life Of Ram Song.mp3",
+      "composer": "Govind Vasantha",
+      "singers": [
+        "Pradeep Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6260170
+    }
+  ]
+}

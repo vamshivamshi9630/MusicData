@@ -1,0 +1,67 @@
+{
+  "album": {
+    "id": "f9d248a13bfb",
+    "name": "Venkatadri Express",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Venkatadri Express.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "0a51e97080bb",
+      "title": "Melamellaga Song",
+      "normalizedTitle": "melamellaga song",
+      "trackNumber": 1,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Melamellaga Song.mp3",
+      "composer": "Music : Ramana Gogula | Lyrics : Kasarla Shyam",
+      "singers": [
+        "Swetha Mohan",
+        "Anjana Sowmya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3506201
+    },
+    {
+      "id": "9c9e6df9eaf7",
+      "title": "Nacchave Ammakachall Song",
+      "normalizedTitle": "nacchave ammakachall song",
+      "trackNumber": 2,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Nacchave Ammakachall Song.mp3",
+      "composer": "Music : Ramana Gogula | Lyrics : Bhaskarabhatla Ravikumar",
+      "singers": [
+        "Narendra",
+        "Sravana Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3879060
+    },
+    {
+      "id": "1e257cbb8345",
+      "title": "Righta Ayinaa Left A Song",
+      "normalizedTitle": "righta ayinaa left a song",
+      "trackNumber": 3,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Righta Ayinaa Left A Song.mp3",
+      "composer": "Music : Ramana Gogula | Lyrics : Sreemani",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3935005
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "album": {
+    "id": "569a10233743",
+    "name": "Adda",
+    "year": 2013,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Adda.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "93040c48514e",
+      "title": "Bhoome Gundramga Song",
+      "normalizedTitle": "bhoome gundramga song",
+      "trackNumber": 1,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Bhoome Gundramga Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Ramjogayya Sastry & Ranina Reddy (English)",
+      "singers": [
+        "Richard",
+        "Ranina Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3970572
+    },
+    {
+      "id": "bca336f584cb",
+      "title": "Chinnaga Chinnaga Song",
+      "normalizedTitle": "chinnaga chinnaga song",
+      "trackNumber": 2,
+      "duration": "1:17",
+      "durationSeconds": 77,
+      "audio": "Chinnaga Chinnaga Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Ananth Sriram",
+      "singers": [
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1323636
+    },
+    {
+      "id": "f2260fa09814",
+      "title": "Diwali Deepaanni Song",
+      "normalizedTitle": "diwali deepaanni song",
+      "trackNumber": 3,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Diwali Deepaanni Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Andrea",
+        "Kalyan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3865664
+    },
+    {
+      "id": "93baa3acce44",
+      "title": "Godava Godava Song",
+      "normalizedTitle": "godava godava song",
+      "trackNumber": 4,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Godava Godava Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Karthik",
+        "Priya Hemesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3886562
+    },
+    {
+      "id": "287a3657cb2e",
+      "title": "Hello Hello Laila Song",
+      "normalizedTitle": "hello hello laila song",
+      "trackNumber": 5,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Hello Hello Laila Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Ananth Sriram",
+      "singers": [
+        "Nikhil D'souza",
+        "Neha Bhasin"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4100975
+    },
+    {
+      "id": "6397a78b3783",
+      "title": "Telugu Bengali Song",
+      "normalizedTitle": "telugu bengali song",
+      "trackNumber": 6,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Telugu Bengali Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Ananth Sriram & Sricharan (Rap)",
+      "singers": [
+        "Neeraj Shridhar",
+        "Megha",
+        "Sricharan (Rap)"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4797713
+    },
+    {
+      "id": "b9c9fb465d29",
+      "title": "Ye Pilla Pilla Song",
+      "normalizedTitle": "ye pilla pilla song",
+      "trackNumber": 7,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Ye Pilla Pilla Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Ramjogayya Sastry & Rita (Rap)",
+      "singers": [
+        "Jaspreet Jasz",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4444119
+    }
+  ]
+}

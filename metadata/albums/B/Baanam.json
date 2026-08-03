@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "a3728923845d",
+    "name": "Baanam",
+    "year": 2009,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Baanam.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "67b7dc6678ab",
+      "title": "Baanam Theme Song",
+      "normalizedTitle": "baanam theme song",
+      "trackNumber": 1,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Baanam Theme Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Murali",
+        "Ranjith",
+        "Naveen",
+        "Hanumantha Rao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3470412
+    },
+    {
+      "id": "0db9d7ea2b1e",
+      "title": "Kadhile Paadham Song",
+      "normalizedTitle": "kadhile paadham song",
+      "trackNumber": 2,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Kadhile Paadham Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4993387
+    },
+    {
+      "id": "380020a97050",
+      "title": "Mogindhi Je Song",
+      "normalizedTitle": "mogindhi je song",
+      "trackNumber": 3,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Mogindhi Je Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4777320
+    },
+    {
+      "id": "2079386ecb87",
+      "title": "Naalo Nenena Song",
+      "normalizedTitle": "naalo nenena song",
+      "trackNumber": 4,
+      "duration": "5:50",
+      "durationSeconds": 350,
+      "audio": "Naalo Nenena Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Hemachandra",
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5634560
+    },
+    {
+      "id": "f80b49ea543f",
+      "title": "Padhara Padhara Song",
+      "normalizedTitle": "padhara padhara song",
+      "trackNumber": 5,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Padhara Padhara Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ranjith",
+        "Murali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3538487
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "album": {
+    "id": "51337b274d4f",
+    "name": "Anjaneyulu",
+    "year": 2009,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Anjaneyulu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "7d100243473c",
+      "title": "Anjali.Mp",
+      "normalizedTitle": "anjalimp",
+      "trackNumber": 1,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Anjali.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shankar Mahadevan",
+        "Rahul Nambiar",
+        "Megha",
+        "Priya",
+        "Janani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4245816
+    },
+    {
+      "id": "e6eb4e34da0b",
+      "title": "Dil Se Bolo.Mp",
+      "normalizedTitle": "dil se bolomp",
+      "trackNumber": 2,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Dil Se Bolo.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4388968
+    },
+    {
+      "id": "b2e0d91c9c53",
+      "title": "Nuvve Kantapadanant.Mp",
+      "normalizedTitle": "nuvve kantapadanantmp",
+      "trackNumber": 3,
+      "duration": "3:45",
+      "durationSeconds": 225,
+      "audio": "Nuvve Kantapadanant.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "S.P Balasubramanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3676690
+    },
+    {
+      "id": "84d8e3098091",
+      "title": "Olammy.Mp",
+      "normalizedTitle": "olammymp",
+      "trackNumber": 4,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Olammy.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Karthik",
+        "Vardhani Thaman"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4173815
+    },
+    {
+      "id": "0694785e573d",
+      "title": "Raajulakey Raraju.Mp",
+      "normalizedTitle": "raajulakey rarajump",
+      "trackNumber": 5,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Raajulakey Raraju.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ranjith",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4893960
+    },
+    {
+      "id": "bfdb5a7c8536",
+      "title": "Yem Vayaso.Mp",
+      "normalizedTitle": "yem vayasomp",
+      "trackNumber": 6,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Yem Vayaso.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Naveen",
+        "Jyotsna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4347894
+    }
+  ]
+}

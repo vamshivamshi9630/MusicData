@@ -1,0 +1,127 @@
+{
+  "album": {
+    "id": "31a390b2336f",
+    "name": "Shopping Mall",
+    "year": 2010,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Shopping Mall.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "7548c4ae2567",
+      "title": "Enugu Chevvi Song",
+      "normalizedTitle": "enugu chevvi song",
+      "trackNumber": 1,
+      "duration": "2:40",
+      "durationSeconds": 160,
+      "audio": "Enugu Chevvi Song.mp3",
+      "composer": "G.V. Prakash Kumar, Vijay Anthony",
+      "singers": [
+        "Karthik",
+        "Kailash Kher",
+        "Galli Boys",
+        "Vijay Anthony"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2780417
+    },
+    {
+      "id": "8bd773f3b3ad",
+      "title": "Kathalanu Cheppey Song",
+      "normalizedTitle": "kathalanu cheppey song",
+      "trackNumber": 2,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Kathalanu Cheppey Song.mp3",
+      "composer": "G.V. Prakash Kumar, Vijay Anthony",
+      "singers": [
+        "Rakhi",
+        "Hansika",
+        "Vijay Anthony"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5348340
+    },
+    {
+      "id": "0c4d4909275d",
+      "title": "Mande Vennela Song",
+      "normalizedTitle": "mande vennela song",
+      "trackNumber": 3,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Mande Vennela Song.mp3",
+      "composer": "G.V. Prakash Kumar, Vijay Anthony",
+      "singers": [
+        "Tippu",
+        "Vijay Anthony"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4292551
+    },
+    {
+      "id": "80b3b848dcbe",
+      "title": "Naa Pranam Song",
+      "normalizedTitle": "naa pranam song",
+      "trackNumber": 4,
+      "duration": "6:06",
+      "durationSeconds": 366,
+      "audio": "Naa Pranam Song.mp3",
+      "composer": "G.V. Prakash Kumar, Vijay Anthony",
+      "singers": [
+        "Chinmayi Sripada",
+        "Haricharan",
+        "Vijay Anthony"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6073079
+    },
+    {
+      "id": "407b1e3ad9c8",
+      "title": "Nuvvu Kanani Song",
+      "normalizedTitle": "nuvvu kanani song",
+      "trackNumber": 5,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Nuvvu Kanani Song.mp3",
+      "composer": "G.V. Prakash Kumar, Vijay Anthony",
+      "singers": [
+        "Ranjith",
+        "Vijay Anthony"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4948765
+    },
+    {
+      "id": "944bd729b68f",
+      "title": "Thana Roopam Song",
+      "normalizedTitle": "thana roopam song",
+      "trackNumber": 6,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Thana Roopam Song.mp3",
+      "composer": "G.V. Prakash Kumar, Vijay Anthony",
+      "singers": [
+        "S.P. Charan",
+        "Janiki Iyyer",
+        "Vijay Anthony"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4318921
+    }
+  ]
+}

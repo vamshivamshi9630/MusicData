@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "84ceb827246e",
+    "name": "Rangasthalam",
+    "year": 2018,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Rangasthalam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "58601d40b259",
+      "title": "Aa Gattunantava Song",
+      "normalizedTitle": "aa gattunantava song",
+      "trackNumber": 1,
+      "duration": "3:09",
+      "durationSeconds": 189,
+      "audio": "Aa Gattunantava Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shiva Naagulu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3416027
+    },
+    {
+      "id": "8ac00934bd5d",
+      "title": "Jigelu Rani Song",
+      "normalizedTitle": "jigelu rani song",
+      "trackNumber": 2,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Jigelu Rani Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Rela Kumar",
+        "Ganta Venkata Lakshmi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5270094
+    },
+    {
+      "id": "147d0bf642ca",
+      "title": "Orayyo Song",
+      "normalizedTitle": "orayyo song",
+      "trackNumber": 3,
+      "duration": "5:24",
+      "durationSeconds": 324,
+      "audio": "Orayyo Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Chandra Bose"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5582966
+    },
+    {
+      "id": "371366201233",
+      "title": "Ranga Ranga Rangasthalana Song",
+      "normalizedTitle": "ranga ranga rangasthalana song",
+      "trackNumber": 4,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Ranga Ranga Rangasthalana Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5261339
+    },
+    {
+      "id": "39d372db1a92",
+      "title": "Rangamma Mangamma Song",
+      "normalizedTitle": "rangamma mangamma song",
+      "trackNumber": 5,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Rangamma Mangamma Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "MM Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4343510
+    },
+    {
+      "id": "e3174c97b3af",
+      "title": "Yentha Sakkagunnave Song",
+      "normalizedTitle": "yentha sakkagunnave song",
+      "trackNumber": 6,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Yentha Sakkagunnave Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4617559
+    }
+  ]
+}

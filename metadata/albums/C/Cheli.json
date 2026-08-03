@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "3927ee4a1fc0",
+    "name": "Cheli",
+    "year": 2001,
+    "musicDirector": "Harris Jayaraj",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Cheli.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "205f2e8e9b36",
+      "title": "Ooh Mama Song",
+      "normalizedTitle": "ooh mama song",
+      "trackNumber": 1,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Ooh Mama Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4467632
+    }
+  ]
+}

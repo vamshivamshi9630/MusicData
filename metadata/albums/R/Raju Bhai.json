@@ -1,0 +1,170 @@
+{
+  "album": {
+    "id": "f099073d29b8",
+    "name": "Raju Bhai",
+    "year": 2007,
+    "musicDirector": "Yuvan Shankar Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Raju Bhai.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "eee5f2183488",
+      "title": "Chalthaa Chalthaa",
+      "normalizedTitle": "chalthaa chalthaa",
+      "trackNumber": 1,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Chalthaa Chalthaa.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4925480
+    },
+    {
+      "id": "4418c3c6c1d3",
+      "title": "Evare Nuvvu (Remix)",
+      "normalizedTitle": "evare nuvvu remix",
+      "trackNumber": 2,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Evare Nuvvu (Remix).mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Yuvan Shankar Raja",
+        "Rajesh",
+        "Premji Amaren"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4899591
+    },
+    {
+      "id": "1caf18c4f4dc",
+      "title": "Evvare Nuvvu",
+      "normalizedTitle": "evvare nuvvu",
+      "trackNumber": 3,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Evvare Nuvvu.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Harish Raghavendra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4323627
+    },
+    {
+      "id": "141082f6a444",
+      "title": "Gucchi Gucchi",
+      "normalizedTitle": "gucchi gucchi",
+      "trackNumber": 4,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Gucchi Gucchi.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Harish Raghavendra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5402789
+    },
+    {
+      "id": "4b50c629f3fe",
+      "title": "Kanti Papa Kasirinda",
+      "normalizedTitle": "kanti papa kasirinda",
+      "trackNumber": 5,
+      "duration": "1:37",
+      "durationSeconds": 97,
+      "audio": "Kanti Papa Kasirinda.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1868553
+    },
+    {
+      "id": "2c35981a42ad",
+      "title": "Kantipapakasirinda",
+      "normalizedTitle": "kantipapakasirinda",
+      "trackNumber": 6,
+      "duration": "1:37",
+      "durationSeconds": 97,
+      "audio": "Kantipapakasirinda.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1868553
+    },
+    {
+      "id": "2780509c51cb",
+      "title": "Korameenu",
+      "normalizedTitle": "korameenu",
+      "trackNumber": 7,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Korameenu.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Jassie Gift"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4856519
+    },
+    {
+      "id": "5c37a268e028",
+      "title": "Neekosam Pilla",
+      "normalizedTitle": "neekosam pilla",
+      "trackNumber": 8,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Neekosam Pilla.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Premji Amaran",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4409735
+    },
+    {
+      "id": "32332199d1bb",
+      "title": "Sommunu",
+      "normalizedTitle": "sommunu",
+      "trackNumber": 9,
+      "duration": "0:30",
+      "durationSeconds": 30,
+      "audio": "Sommunu.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 793954
+    }
+  ]
+}

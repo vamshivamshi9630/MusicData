@@ -1,0 +1,207 @@
+{
+  "album": {
+    "id": "3003e6805655",
+    "name": "Devadasu",
+    "year": 2006,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Devadasu.png",
+    "songCount": 11
+  },
+  "songs": [
+    {
+      "id": "7dd5c33e6229",
+      "title": "Adige Adagaleka Song",
+      "normalizedTitle": "adige adagaleka song",
+      "trackNumber": 1,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Adige Adagaleka Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Karthik",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5112095
+    },
+    {
+      "id": "89e96bf53e6a",
+      "title": "Aye Babu Song",
+      "normalizedTitle": "aye babu song",
+      "trackNumber": 2,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Aye Babu Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Anushka"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4725033
+    },
+    {
+      "id": "91ccb463285f",
+      "title": "Bangaram Song",
+      "normalizedTitle": "bangaram song",
+      "trackNumber": 3,
+      "duration": "5:19",
+      "durationSeconds": 319,
+      "audio": "Bangaram Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Chakri",
+        "Revathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5129634
+    },
+    {
+      "id": "ba5910d08174",
+      "title": "Gundelni Pindedhi Song",
+      "normalizedTitle": "gundelni pindedhi song",
+      "trackNumber": 4,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Gundelni Pindedhi Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Chakri",
+        "Vishwa"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4059674
+    },
+    {
+      "id": "4ea88f3eff0d",
+      "title": "Idigidigo Song",
+      "normalizedTitle": "idigidigo song",
+      "trackNumber": 5,
+      "duration": "2:17",
+      "durationSeconds": 137,
+      "audio": "Idigidigo Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Simha",
+        "Venu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2225647
+    },
+    {
+      "id": "e490d5ec6cab",
+      "title": "Kshaminchu Song",
+      "normalizedTitle": "kshaminchu song",
+      "trackNumber": 6,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Kshaminchu Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5117085
+    },
+    {
+      "id": "591a88c64976",
+      "title": "Kurrallu Song",
+      "normalizedTitle": "kurrallu song",
+      "trackNumber": 7,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Kurrallu Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Malathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4581673
+    },
+    {
+      "id": "3ae8bf295f62",
+      "title": "Mayadari Chinnodu Song",
+      "normalizedTitle": "mayadari chinnodu song",
+      "trackNumber": 8,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Mayadari Chinnodu Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Vijaya Lakshmi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4957023
+    },
+    {
+      "id": "6810e8117c65",
+      "title": "Nuvvante Istham Song",
+      "normalizedTitle": "nuvvante istham song",
+      "trackNumber": 9,
+      "duration": "5:54",
+      "durationSeconds": 354,
+      "audio": "Nuvvante Istham Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5699308
+    },
+    {
+      "id": "600682a36d0d",
+      "title": "Oka Nestham Song",
+      "normalizedTitle": "oka nestham song",
+      "trackNumber": 10,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Oka Nestham Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Karthik",
+        "Tina Kamal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4497275
+    },
+    {
+      "id": "d58a9faf02fd",
+      "title": "Thelusa Song",
+      "normalizedTitle": "thelusa song",
+      "trackNumber": 11,
+      "duration": "1:29",
+      "durationSeconds": 89,
+      "audio": "Thelusa Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Cherry",
+        "Revathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1457442
+    }
+  ]
+}

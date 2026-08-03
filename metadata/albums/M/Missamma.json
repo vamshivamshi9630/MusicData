@@ -1,0 +1,201 @@
+{
+  "album": {
+    "id": "e4138d3ee65c",
+    "name": "Missamma",
+    "year": 1955,
+    "musicDirector": "S. Rajeshwara Rao",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Missamma.png",
+    "songCount": 11
+  },
+  "songs": [
+    {
+      "id": "8eb6093e0afc",
+      "title": "Avunante Kaadanile Song",
+      "normalizedTitle": "avunante kaadanile song",
+      "trackNumber": 1,
+      "duration": "2:21",
+      "durationSeconds": 141,
+      "audio": "Avunante Kaadanile Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2262456
+    },
+    {
+      "id": "0c2e11e34fa6",
+      "title": "Baalanura Madanaa Song",
+      "normalizedTitle": "baalanura madanaa song",
+      "trackNumber": 2,
+      "duration": "3:17",
+      "durationSeconds": 197,
+      "audio": "Baalanura Madanaa Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3159814
+    },
+    {
+      "id": "26e29055712a",
+      "title": "Brindavanamadi Song",
+      "normalizedTitle": "brindavanamadi song",
+      "trackNumber": 3,
+      "duration": "2:56",
+      "durationSeconds": 176,
+      "audio": "Brindavanamadi Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2832970
+    },
+    {
+      "id": "361909aa70a8",
+      "title": "Dharmam Cheyi Babu Song",
+      "normalizedTitle": "dharmam cheyi babu song",
+      "trackNumber": 4,
+      "duration": "2:32",
+      "durationSeconds": 152,
+      "audio": "Dharmam Cheyi Babu Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2449702
+    },
+    {
+      "id": "74b05a2257f9",
+      "title": "Ee Navanavabhyudaya Song",
+      "normalizedTitle": "ee navanavabhyudaya song",
+      "trackNumber": 5,
+      "duration": "3:05",
+      "durationSeconds": 185,
+      "audio": "Ee Navanavabhyudaya Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2966717
+    },
+    {
+      "id": "de58585c0132",
+      "title": "Karuninchu Meri Matha Song",
+      "normalizedTitle": "karuninchu meri matha song",
+      "trackNumber": 6,
+      "duration": "2:28",
+      "durationSeconds": 148,
+      "audio": "Karuninchu Meri Matha Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2385754
+    },
+    {
+      "id": "6a177472e482",
+      "title": "Raaga Sudharasa Song",
+      "normalizedTitle": "raaga sudharasa song",
+      "trackNumber": 7,
+      "duration": "2:25",
+      "durationSeconds": 145,
+      "audio": "Raaga Sudharasa Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2338107
+    },
+    {
+      "id": "ee49595ee09f",
+      "title": "Ravoyi Chandamama Song",
+      "normalizedTitle": "ravoyi chandamama song",
+      "trackNumber": 8,
+      "duration": "2:51",
+      "durationSeconds": 171,
+      "audio": "Ravoyi Chandamama Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2747289
+    },
+    {
+      "id": "06537d678815",
+      "title": "Telusukonave Cheli Song",
+      "normalizedTitle": "telusukonave cheli song",
+      "trackNumber": 9,
+      "duration": "2:24",
+      "durationSeconds": 144,
+      "audio": "Telusukonave Cheli Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2324732
+    },
+    {
+      "id": "c2a0b143d762",
+      "title": "Telusukonave Yuvati Song",
+      "normalizedTitle": "telusukonave yuvati song",
+      "trackNumber": 10,
+      "duration": "2:50",
+      "durationSeconds": 170,
+      "audio": "Telusukonave Yuvati Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2740601
+    },
+    {
+      "id": "671034fdd0af",
+      "title": "Yemito Ee Maaya Song",
+      "normalizedTitle": "yemito ee maaya song",
+      "trackNumber": 11,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Yemito Ee Maaya Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2667876
+    }
+  ]
+}

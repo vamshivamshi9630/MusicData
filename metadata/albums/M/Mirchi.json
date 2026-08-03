@@ -1,0 +1,136 @@
+{
+  "album": {
+    "id": "b4ed07388ab8",
+    "name": "Mirchi",
+    "year": 2013,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mirchi.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "620ac30cf3d7",
+      "title": "Barbie",
+      "normalizedTitle": "barbie",
+      "trackNumber": 1,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Barbie.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Jaspreet Jasz",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4051926
+    },
+    {
+      "id": "78abf2a75c0c",
+      "title": "Darlingey",
+      "normalizedTitle": "darlingey",
+      "trackNumber": 2,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Darlingey.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3809081
+    },
+    {
+      "id": "41949e2fa22a",
+      "title": "Idhedho Bagundhe",
+      "normalizedTitle": "idhedho bagundhe",
+      "trackNumber": 3,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Idhedho Bagundhe.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Vijay Prakash",
+        "Anitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4524646
+    },
+    {
+      "id": "c83964ca67ef",
+      "title": "Mirchi",
+      "normalizedTitle": "mirchi",
+      "trackNumber": 4,
+      "duration": "1:25",
+      "durationSeconds": 85,
+      "audio": "Mirchi.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Chinna Ponnu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1468333
+    },
+    {
+      "id": "de5d8be7ec45",
+      "title": "Nee Choopula",
+      "normalizedTitle": "nee choopula",
+      "trackNumber": 5,
+      "duration": "1:00",
+      "durationSeconds": 60,
+      "audio": "Nee Choopula.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kailash Kher"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1197248
+    },
+    {
+      "id": "5a586e7cb9b3",
+      "title": "Pandagala",
+      "normalizedTitle": "pandagala",
+      "trackNumber": 6,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Pandagala.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kailash Kher"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4913318
+    },
+    {
+      "id": "27d5db0c3d66",
+      "title": "Yahoon Yahoon",
+      "normalizedTitle": "yahoon yahoon",
+      "trackNumber": 7,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Yahoon Yahoon.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mika Singh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4748646
+    }
+  ]
+}

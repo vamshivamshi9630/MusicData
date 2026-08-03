@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "d618565cb56c",
+    "name": "Raarandoi Veduka Choodham",
+    "year": 2017,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Raarandoi Veduka Choodham.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "a9af14f5c2cf",
+      "title": "Bhramaramba Ki Nachesanu",
+      "normalizedTitle": "bhramaramba ki nachesanu",
+      "trackNumber": 1,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Bhramaramba Ki Nachesanu.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9131495
+    },
+    {
+      "id": "202b8b296db1",
+      "title": "Break-Up",
+      "normalizedTitle": "breakup",
+      "trackNumber": 2,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Break-Up.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Simha",
+        "Dhanunjay"
+      ],
+      "bitrate": 319691,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8852893
+    },
+    {
+      "id": "5374fa35c9ac",
+      "title": "Nee Vente Nenunte",
+      "normalizedTitle": "nee vente nenunte",
+      "trackNumber": 3,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Nee Vente Nenunte.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kapil",
+        "Shweta Mohan"
+      ],
+      "bitrate": 319660,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9331029
+    },
+    {
+      "id": "054714ecfecd",
+      "title": "Raarandoi Veduka Choodham",
+      "normalizedTitle": "raarandoi veduka choodham",
+      "trackNumber": 4,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Raarandoi Veduka Choodham.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Ranjith",
+        "Gopika Purnima"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10967878
+    },
+    {
+      "id": "00cbff147ab0",
+      "title": "Thakita Thakajham (Rock)",
+      "normalizedTitle": "thakita thakajham rock",
+      "trackNumber": 5,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Thakita Thakajham (Rock).mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Javed Ali"
+      ],
+      "bitrate": 319688,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8283833
+    },
+    {
+      "id": "1964f6d804f2",
+      "title": "Thakita Thakajham",
+      "normalizedTitle": "thakita thakajham",
+      "trackNumber": 6,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Thakita Thakajham.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Javed Ali"
+      ],
+      "bitrate": 319693,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9414525
+    }
+  ]
+}

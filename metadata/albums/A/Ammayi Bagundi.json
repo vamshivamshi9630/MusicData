@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "a616c48d8fa3",
+    "name": "Ammayi Bagundi",
+    "year": 2004,
+    "musicDirector": "M. M. Srilekha",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ammayi Bagundi.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "ca7e85a0f810",
+      "title": "Aey Sathya Song",
+      "normalizedTitle": "aey sathya song",
+      "trackNumber": 1,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Aey Sathya Song.mp3",
+      "composer": "M. M. Srilekha",
+      "singers": [
+        "Karthik",
+        "Sabitha Reddy",
+        "Shivaji"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4673734
+    },
+    {
+      "id": "1df828ae3d7f",
+      "title": "Ammayi Bagundhi Song",
+      "normalizedTitle": "ammayi bagundhi song",
+      "trackNumber": 2,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Ammayi Bagundhi Song.mp3",
+      "composer": "M. M. Srilekha",
+      "singers": [
+        "Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4412044
+    },
+    {
+      "id": "3f74be8b74ac",
+      "title": "Kale Kannanule Song",
+      "normalizedTitle": "kale kannanule song",
+      "trackNumber": 3,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Kale Kannanule Song.mp3",
+      "composer": "M. M. Srilekha",
+      "singers": [
+        "Madhubalakrishnan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4792385
+    },
+    {
+      "id": "5f9d8c1b94d1",
+      "title": "Krishna Krishna Song",
+      "normalizedTitle": "krishna krishna song",
+      "trackNumber": 4,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Krishna Krishna Song.mp3",
+      "composer": "M. M. Srilekha",
+      "singers": [
+        "Udit Narayan & Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4544979
+    },
+    {
+      "id": "8f3a3c4b6422",
+      "title": "Patala Pallakil Song",
+      "normalizedTitle": "patala pallakil song",
+      "trackNumber": 5,
+      "duration": "5:32",
+      "durationSeconds": 332,
+      "audio": "Patala Pallakil Song.mp3",
+      "composer": "M. M. Srilekha",
+      "singers": [
+        "Chitra",
+        "Shivaji"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5347872
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "7292d5a7a9ee",
+    "name": "Chitralahari",
+    "year": 2019,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chitralahari.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "74bfccfcc9b5",
+      "title": "Glassmates Song",
+      "normalizedTitle": "glassmates song",
+      "trackNumber": 1,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Glassmates Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Rahul Sipligunj",
+        "Penchal Das"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3928593
+    },
+    {
+      "id": "90e6a7d38a2c",
+      "title": "Parugu Parugu Song",
+      "normalizedTitle": "parugu parugu song",
+      "trackNumber": 2,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Parugu Parugu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "David Simon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3821070
+    },
+    {
+      "id": "7c8f9d2b9152",
+      "title": "Prayathname Song",
+      "normalizedTitle": "prayathname song",
+      "trackNumber": 3,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Prayathname Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kailash Kher"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3067766
+    },
+    {
+      "id": "ef2c6ac8f446",
+      "title": "Prema Vennela Song",
+      "normalizedTitle": "prema vennela song",
+      "trackNumber": 4,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Prema Vennela Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sudharshan Ashok"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3896216
+    }
+  ]
+}

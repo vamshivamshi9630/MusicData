@@ -1,0 +1,267 @@
+{
+  "album": {
+    "id": "259461b5948b",
+    "name": "Om-Bheem-Bush",
+    "year": 2024,
+    "musicDirector": "Sunny M.R.",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Om-Bheem-Bush.png",
+    "songCount": 14
+  },
+  "songs": [
+    {
+      "id": "3db56e6be7de",
+      "title": "Anuvanuvuu Song",
+      "normalizedTitle": "anuvanuvuu song",
+      "trackNumber": 1,
+      "duration": "3:31",
+      "durationSeconds": 211,
+      "audio": "Anuvanuvuu Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R.",
+        "Arijit Singh - MassTamilan"
+      ],
+      "bitrate": 252651,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6785090
+    },
+    {
+      "id": "f81e79c4d813",
+      "title": "Aparichitha Song",
+      "normalizedTitle": "aparichitha song",
+      "trackNumber": 2,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Aparichitha Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R.",
+        "Sithara Krishnakumar - MassTamilan"
+      ],
+      "bitrate": 255792,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8328216
+    },
+    {
+      "id": "f825aed703b8",
+      "title": "Bang Bros Song",
+      "normalizedTitle": "bang bros song",
+      "trackNumber": 3,
+      "duration": "3:02",
+      "durationSeconds": 182,
+      "audio": "Bang Bros Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R.",
+        "Aditya Iyengar",
+        "Dinker Kalvala",
+        "Vivek Hariharan",
+        "Rutvik Talashilkar - MassTamilan"
+      ],
+      "bitrate": 261688,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6074156
+    },
+    {
+      "id": "850a112ef0de",
+      "title": "Banger Rap (Three Men) Song",
+      "normalizedTitle": "banger rap three men song",
+      "trackNumber": 4,
+      "duration": "2:11",
+      "durationSeconds": 131,
+      "audio": "Banger Rap (Three Men) Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Roll Rida",
+        "Sunny M.R. - MassTamilan"
+      ],
+      "bitrate": 267967,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4516475
+    },
+    {
+      "id": "a2c91a72db66",
+      "title": "Dil Dhadke Song",
+      "normalizedTitle": "dil dhadke song",
+      "trackNumber": 5,
+      "duration": "3:03",
+      "durationSeconds": 183,
+      "audio": "Dil Dhadke Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R.",
+        "Krishna Tejasvi - MassTamilan"
+      ],
+      "bitrate": 266529,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6225115
+    },
+    {
+      "id": "56a06b62ac59",
+      "title": "Moharaagamegham Song",
+      "normalizedTitle": "moharaagamegham song",
+      "trackNumber": 6,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Moharaagamegham Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R.",
+        "Anjana Balakrishnan - MassTamilan"
+      ],
+      "bitrate": 254016,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7607510
+    },
+    {
+      "id": "d9ffba18491b",
+      "title": "Neeli Moha Megham Song",
+      "normalizedTitle": "neeli moha megham song",
+      "trackNumber": 7,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Neeli Moha Megham Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R.",
+        "Anjana Balakrishnan - MassTamilan"
+      ],
+      "bitrate": 254067,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7623430
+    },
+    {
+      "id": "4012d2a8b1c0",
+      "title": "Oka Kalalaa Song",
+      "normalizedTitle": "oka kalalaa song",
+      "trackNumber": 8,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Oka Kalalaa Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R. - MassTamilan"
+      ],
+      "bitrate": 252428,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7759974
+    },
+    {
+      "id": "bb477d933a40",
+      "title": "Om Bheem Bush Song",
+      "normalizedTitle": "om bheem bush song",
+      "trackNumber": 9,
+      "duration": "0:46",
+      "durationSeconds": 46,
+      "audio": "Om Bheem Bush Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R. - MassTamilan"
+      ],
+      "bitrate": 266301,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1639449
+    },
+    {
+      "id": "4475185cc4ba",
+      "title": "Sammohanaa Song",
+      "normalizedTitle": "sammohanaa song",
+      "trackNumber": 10,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Sammohanaa Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R.",
+        "Sithara Krishnakumar - MassTamilan"
+      ],
+      "bitrate": 256232,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8339839
+    },
+    {
+      "id": "3984383053f4",
+      "title": "Thaalajaalane Song",
+      "normalizedTitle": "thaalajaalane song",
+      "trackNumber": 11,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Thaalajaalane Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R.",
+        "Harjot Kaur - MassTamilan"
+      ],
+      "bitrate": 260829,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7474747
+    },
+    {
+      "id": "ecf489a9313a",
+      "title": "Thaaraveedhiyil Song",
+      "normalizedTitle": "thaaraveedhiyil song",
+      "trackNumber": 12,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Thaaraveedhiyil Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R.",
+        "Harjot Kaur - MassTamilan"
+      ],
+      "bitrate": 264870,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7585890
+    },
+    {
+      "id": "22342dcab467",
+      "title": "The Wedding Song",
+      "normalizedTitle": "the wedding song",
+      "trackNumber": 13,
+      "duration": "3:22",
+      "durationSeconds": 202,
+      "audio": "The Wedding Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R.",
+        "Kapil Kapilan - MassTamilan"
+      ],
+      "bitrate": 258179,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6637574
+    },
+    {
+      "id": "d75c4c0f759b",
+      "title": "Ule Ule Song",
+      "normalizedTitle": "ule ule song",
+      "trackNumber": 14,
+      "duration": "1:47",
+      "durationSeconds": 107,
+      "audio": "Ule Ule Song.mp3",
+      "composer": "Sunny M.R. - MassTamilan",
+      "singers": [
+        "Sunny M.R.",
+        "Ram Miriyala - MassTamilan"
+      ],
+      "bitrate": 259197,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3582721
+    }
+  ]
+}

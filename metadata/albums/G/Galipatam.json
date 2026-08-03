@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "c3d1da87c406",
+    "name": "Galipatam",
+    "year": 2014,
+    "musicDirector": "Bheems Ceciroleo",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Galipatam.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "3fe9466c5ac8",
+      "title": "Dhoomapaanam Song",
+      "normalizedTitle": "dhoomapaanam song",
+      "trackNumber": 1,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "Dhoomapaanam Song.mp3",
+      "composer": "Music : Bheems Ceciroleo | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Suraj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3515165
+    },
+    {
+      "id": "077bf0a9595b",
+      "title": "Hey Paaru Song",
+      "normalizedTitle": "hey paaru song",
+      "trackNumber": 2,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Hey Paaru Song.mp3",
+      "composer": "Music : Bheems Ceciroleo | Lyrics : Sirivennela Seetharama Sastry",
+      "singers": [
+        "Adnan Sami",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4877360
+    },
+    {
+      "id": "953f698259fd",
+      "title": "Paani Puri Song",
+      "normalizedTitle": "paani puri song",
+      "trackNumber": 3,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Paani Puri Song.mp3",
+      "composer": "Music : Bheems Ceciroleo | Lyrics : Sampath Nandi",
+      "singers": [
+        "Shankar Mahadevan",
+        "Bheems Ceciroleo"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3806575
+    },
+    {
+      "id": "3acd700d1e92",
+      "title": "Tere Mere Saath Song",
+      "normalizedTitle": "tere mere saath song",
+      "trackNumber": 4,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Tere Mere Saath Song.mp3",
+      "composer": "Music : Bheems Ceciroleo | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Javed Ali",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4269628
+    },
+    {
+      "id": "51944e808db2",
+      "title": "Yeh Allah Song",
+      "normalizedTitle": "yeh allah song",
+      "trackNumber": 5,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Yeh Allah Song.mp3",
+      "composer": "Music : Bheems Ceciroleo | Lyrics : Bheems Ceciroleo",
+      "singers": [
+        "Kailash Kher"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3895520
+    }
+  ]
+}

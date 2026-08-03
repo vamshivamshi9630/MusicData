@@ -1,0 +1,125 @@
+{
+  "album": {
+    "id": "956f2aaa7e6a",
+    "name": "Raja Cheyyi Vesthe",
+    "year": 2016,
+    "musicDirector": "Sai Karthik",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Raja Cheyyi Vesthe.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "5f80d81e647f",
+      "title": "Chinnari Thalli Song",
+      "normalizedTitle": "chinnari thalli song",
+      "trackNumber": 1,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Chinnari Thalli Song.mp3",
+      "composer": "Sai Karthik",
+      "singers": [
+        "Shruthi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4629259
+    },
+    {
+      "id": "f5c6390b56c6",
+      "title": "Chudara Itu Chudara Song",
+      "normalizedTitle": "chudara itu chudara song",
+      "trackNumber": 2,
+      "duration": "3:05",
+      "durationSeconds": 185,
+      "audio": "Chudara Itu Chudara Song.mp3",
+      "composer": "Sai Karthik",
+      "singers": [
+        "Thillu",
+        "Geethu",
+        "Swetha P",
+        "Jayaram P",
+        "Saatvik G",
+        "Sriya Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3061610
+    },
+    {
+      "id": "38d60d20a072",
+      "title": "Kottu Kottu Song",
+      "normalizedTitle": "kottu kottu song",
+      "trackNumber": 3,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Kottu Kottu Song.mp3",
+      "composer": "Sai Karthik",
+      "singers": [
+        "Sai Charan",
+        "Sai Kartheek",
+        "Shashaa Tirupati"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3829347
+    },
+    {
+      "id": "1dbb231134e2",
+      "title": "Neethone Song",
+      "normalizedTitle": "neethone song",
+      "trackNumber": 4,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Neethone Song.mp3",
+      "composer": "Sai Karthik",
+      "singers": [
+        "Sai Charan",
+        "Sai Kartheek"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3772463
+    },
+    {
+      "id": "387644b7e93d",
+      "title": "Raja Cheyyi Vesthe Song",
+      "normalizedTitle": "raja cheyyi vesthe song",
+      "trackNumber": 5,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Raja Cheyyi Vesthe Song.mp3",
+      "composer": "Sai Karthik",
+      "singers": [
+        "Simha",
+        "Divija Kartheek"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3309380
+    },
+    {
+      "id": "c1d4ab4e7fa7",
+      "title": "Yevare Nee Premaku Song",
+      "normalizedTitle": "yevare nee premaku song",
+      "trackNumber": 6,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Yevare Nee Premaku Song.mp3",
+      "composer": "Sai Karthik",
+      "singers": [
+        "Dhanunjay"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4201279
+    }
+  ]
+}

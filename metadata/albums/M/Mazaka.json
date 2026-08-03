@@ -1,0 +1,84 @@
+{
+  "album": {
+    "id": "f8e047689506",
+    "name": "Mazaka",
+    "year": 2025,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mazaka.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "edc2323b59d7",
+      "title": "Baby Maa Song",
+      "normalizedTitle": "baby maa song",
+      "trackNumber": 1,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Baby Maa Song.mp3",
+      "composer": "Leon James",
+      "singers": [
+        "Leon James"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8661568
+    },
+    {
+      "id": "8d9368839398",
+      "title": "Bachelors Anthem Song",
+      "normalizedTitle": "bachelors anthem song",
+      "trackNumber": 2,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Bachelors Anthem Song.mp3",
+      "composer": "Leon James",
+      "singers": [
+        "Dhanunjay"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3329652
+    },
+    {
+      "id": "a86d75f14068",
+      "title": "Pagili Song",
+      "normalizedTitle": "pagili song",
+      "trackNumber": 3,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Pagili Song.mp3",
+      "composer": "Leon James",
+      "singers": [
+        "Mahalingam",
+        "Sahithi Chaganti",
+        "Prabha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3790180
+    },
+    {
+      "id": "c7402fb7cace",
+      "title": "Sommasilli Pothunnave Song",
+      "normalizedTitle": "sommasilli pothunnave song",
+      "trackNumber": 4,
+      "duration": "2:54",
+      "durationSeconds": 174,
+      "audio": "Sommasilli Pothunnave Song.mp3",
+      "composer": "Leon James",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7309027
+    }
+  ]
+}

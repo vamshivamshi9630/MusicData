@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "18f71c8a208b",
+    "name": "Kishkindhapuri",
+    "year": 2020,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kishkindhapuri.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "a316518b6ddd",
+      "title": "Undipove Naathone Song",
+      "normalizedTitle": "undipove naathone song",
+      "trackNumber": 1,
+      "duration": "3:06",
+      "durationSeconds": 186,
+      "audio": "Undipove Naathone Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Javed Ali"
+      ],
+      "bitrate": 135034,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3532653
+    }
+  ]
+}

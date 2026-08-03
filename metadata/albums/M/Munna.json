@@ -1,0 +1,125 @@
+{
+  "album": {
+    "id": "3947b64b4d15",
+    "name": "Munna",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Munna.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "0a084d8182c0",
+      "title": "Ayyi baboyi ammayi.Mp",
+      "normalizedTitle": "ayyi baboyi ammayimp",
+      "trackNumber": 1,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Ayyi baboyi ammayi.Mp.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Anushka Manchanda",
+        "Blaaze",
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4542212
+    },
+    {
+      "id": "ce53b5f5a32d",
+      "title": "Baga Baga.Mp",
+      "normalizedTitle": "baga bagamp",
+      "trackNumber": 2,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Baga Baga.Mp.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3959567
+    },
+    {
+      "id": "e667631628af",
+      "title": "Koncham Koncham.Mp",
+      "normalizedTitle": "koncham konchammp",
+      "trackNumber": 3,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Koncham Koncham.Mp.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Kailash Kher",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4884096
+    },
+    {
+      "id": "942d03337637",
+      "title": "Manasa.Mp",
+      "normalizedTitle": "manasamp",
+      "trackNumber": 4,
+      "duration": "5:49",
+      "durationSeconds": 349,
+      "audio": "Manasa.Mp.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Sadhana Sargam",
+        "Haricharan",
+        "Mahalakshmi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5686588
+    },
+    {
+      "id": "716119c33786",
+      "title": "Thanavu Thanuvu.Mp",
+      "normalizedTitle": "thanavu thanuvump",
+      "trackNumber": 5,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Thanavu Thanuvu.Mp.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "KK",
+        "Benny Dayal",
+        "Sriram Parthasarathy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4996945
+    },
+    {
+      "id": "cbb4a0a2e11c",
+      "title": "Vastava.Mp",
+      "normalizedTitle": "vastavamp",
+      "trackNumber": 6,
+      "duration": "5:38",
+      "durationSeconds": 338,
+      "audio": "Vastava.Mp.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "KK",
+        "Benny Dayal",
+        "Sriram Parthasarathy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5511019
+    }
+  ]
+}

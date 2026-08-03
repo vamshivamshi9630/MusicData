@@ -1,0 +1,69 @@
+{
+  "album": {
+    "id": "13f905182add",
+    "name": "Anaganaga Oka Raju",
+    "year": 2022,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Anaganaga Oka Raju.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "e4dd0e9c00b6",
+      "title": "Andhra To Telangana Song",
+      "normalizedTitle": "andhra to telangana song",
+      "trackNumber": 1,
+      "duration": "2:52",
+      "durationSeconds": 172,
+      "audio": "Andhra To Telangana Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Dhanunjay Seepana",
+        "Sameera Bharadwaj",
+        "Chandra Bose"
+      ],
+      "bitrate": 128617,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3159990
+    },
+    {
+      "id": "59fb0f276583",
+      "title": "Bhimavaram Balma Song",
+      "normalizedTitle": "bhimavaram balma song",
+      "trackNumber": 2,
+      "duration": "2:47",
+      "durationSeconds": 167,
+      "audio": "Bhimavaram Balma Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Naveen Polishetty",
+        "Nutana Mohan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7092416
+    },
+    {
+      "id": "d0d40443f5ef",
+      "title": "Raju Gaari Pelliro Song",
+      "normalizedTitle": "raju gaari pelliro song",
+      "trackNumber": 3,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Raju Gaari Pelliro Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Anurag Kulkarni",
+        "Sameera Bharadwaj"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9133820
+    }
+  ]
+}

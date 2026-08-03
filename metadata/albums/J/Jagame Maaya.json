@@ -1,0 +1,82 @@
+{
+  "album": {
+    "id": "cc10a7e8fc6a",
+    "name": "Jagame Maaya",
+    "year": 2022,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jagame Maaya.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "b974ac694848",
+      "title": "Ee Jwala Aaredi Song",
+      "normalizedTitle": "ee jwala aaredi song",
+      "trackNumber": 1,
+      "duration": "7:16",
+      "durationSeconds": 436,
+      "audio": "Ee Jwala Aaredi Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 165349,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9045070
+    },
+    {
+      "id": "a367bc0ae35c",
+      "title": "Jagama Maya Song",
+      "normalizedTitle": "jagama maya song",
+      "trackNumber": 2,
+      "duration": "3:10",
+      "durationSeconds": 190,
+      "audio": "Jagama Maya Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 228123,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5465882
+    },
+    {
+      "id": "2ab7957405b3",
+      "title": "Moogathanam Manuko Song",
+      "normalizedTitle": "moogathanam manuko song",
+      "trackNumber": 3,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Moogathanam Manuko Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 162510,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4545213
+    },
+    {
+      "id": "a77633fd9576",
+      "title": "Nee Madhilo Nene Song",
+      "normalizedTitle": "nee madhilo nene song",
+      "trackNumber": 4,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Nee Madhilo Nene Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 184784,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4545584
+    }
+  ]
+}

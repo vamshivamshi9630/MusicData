@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "0c047cd74eae",
+    "name": "Neninthe",
+    "year": 2008,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Neninthe.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "d55327c2259c",
+      "title": "Krishna Nagare",
+      "normalizedTitle": "krishna nagare",
+      "trackNumber": 1,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Krishna Nagare.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4585953
+    },
+    {
+      "id": "9d3b94f6e5b6",
+      "title": "Nuvvantene Picchi",
+      "normalizedTitle": "nuvvantene picchi",
+      "trackNumber": 2,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Nuvvantene Picchi.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chakri",
+        "Nilayini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5223357
+    },
+    {
+      "id": "9bdc98e4a4a8",
+      "title": "Oh I Miss You.Mp3",
+      "normalizedTitle": "oh i miss yoump3",
+      "trackNumber": 3,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Oh I Miss You.Mp3.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Raghu Kunche"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5232536
+    },
+    {
+      "id": "6a675ac255bd",
+      "title": "Puduthune Uyaalaa",
+      "normalizedTitle": "puduthune uyaalaa",
+      "trackNumber": 4,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "Puduthune Uyaalaa.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5160659
+    },
+    {
+      "id": "2486a0d91494",
+      "title": "Veluge Varsham",
+      "normalizedTitle": "veluge varsham",
+      "trackNumber": 5,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Veluge Varsham.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chakri",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4279181
+    }
+  ]
+}

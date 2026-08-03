@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "b17353fcb704",
+    "name": "Taxiwala",
+    "year": 2018,
+    "musicDirector": "Jakes Bejoy",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Taxiwala.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "e460bcdcbb58",
+      "title": "Crazy Car Song",
+      "normalizedTitle": "crazy car song",
+      "trackNumber": 1,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Crazy Car Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5660512
+    },
+    {
+      "id": "36c0afbc06cd",
+      "title": "Ladies And Gentlemen Song",
+      "normalizedTitle": "ladies and gentlemen song",
+      "trackNumber": 2,
+      "duration": "3:12",
+      "durationSeconds": 192,
+      "audio": "Ladies And Gentlemen Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Vedala Hemachandra",
+        "Jakes Bejoy"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4253632
+    },
+    {
+      "id": "b35e762ce416",
+      "title": "Maate Vinadhuga Song",
+      "normalizedTitle": "maate vinadhuga song",
+      "trackNumber": 3,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Maate Vinadhuga Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 124866,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4716508
+    },
+    {
+      "id": "1a88001b0f11",
+      "title": "Neeve Neeve Song",
+      "normalizedTitle": "neeve neeve song",
+      "trackNumber": 4,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Neeve Neeve Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5695552
+    }
+  ]
+}

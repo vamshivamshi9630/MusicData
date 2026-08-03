@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "8e7e8901db71",
+    "name": "Aadi",
+    "year": 2002,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aadi.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "d3f388fefa9e",
+      "title": "Ayyo Rama.Mp",
+      "normalizedTitle": "ayyo ramamp",
+      "trackNumber": 1,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Ayyo Rama.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Keerthy Chawla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4702688
+    },
+    {
+      "id": "b0d06c5a22f2",
+      "title": "Chiki Chiki.Mp",
+      "normalizedTitle": "chiki chikimp",
+      "trackNumber": 2,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Chiki Chiki.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Keerthy Chawla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3910655
+    },
+    {
+      "id": "61be8056f447",
+      "title": "Nee Navvula.Mp",
+      "normalizedTitle": "nee navvulamp",
+      "trackNumber": 3,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Nee Navvula.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Keerthy Chawla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4684298
+    },
+    {
+      "id": "133350168fa7",
+      "title": "Pattu Okato Sari.Mp",
+      "normalizedTitle": "pattu okato sarimp",
+      "trackNumber": 4,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Pattu Okato Sari.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Keerthy Chawla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5006126
+    },
+    {
+      "id": "39b83531cfb4",
+      "title": "Sunnunda.Mp",
+      "normalizedTitle": "sunnundamp",
+      "trackNumber": 5,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Sunnunda.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Keerthy Chawla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4617424
+    },
+    {
+      "id": "62cae193e8ec",
+      "title": "Toli Pilupe.Mp",
+      "normalizedTitle": "toli pilupemp",
+      "trackNumber": 6,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Toli Pilupe.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Keerthy Chawla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4227886
+    }
+  ]
+}

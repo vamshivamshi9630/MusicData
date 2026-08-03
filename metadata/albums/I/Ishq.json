@@ -1,0 +1,127 @@
+{
+  "album": {
+    "id": "e113d71f1d78",
+    "name": "Ishq",
+    "year": 2012,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ishq.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "9cf9761410bb",
+      "title": "Chinnadana Neekosam Song",
+      "normalizedTitle": "chinnadana neekosam song",
+      "trackNumber": 1,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Chinnadana Neekosam Song.mp3",
+      "composer": "Music: Anup Rubens  | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Raj Hasan",
+        "Anup",
+        "Sravani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3624588
+    },
+    {
+      "id": "14ce78ad08a9",
+      "title": "Edho Edho Song",
+      "normalizedTitle": "edho edho song",
+      "trackNumber": 2,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Edho Edho Song.mp3",
+      "composer": "Music: Aravind-Srakar  | Lyrics : Karthik",
+      "singers": [
+        "Pradeep Vijay",
+        "Kalyani Nair"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4423282
+    },
+    {
+      "id": "401132026bc6",
+      "title": "Lachhamma (Rubens Club Mix) Song",
+      "normalizedTitle": "lachhamma rubens club mix song",
+      "trackNumber": 3,
+      "duration": "3:07",
+      "durationSeconds": 187,
+      "audio": "Lachhamma (Rubens Club Mix) Song.mp3",
+      "composer": "Music: Anup Rubens",
+      "singers": [
+        "Anup",
+        "Nithin",
+        "Thagubothu Rahesh",
+        "Murali [Www.Tollymp3z.Com]"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3056191
+    },
+    {
+      "id": "a14efd6e1587",
+      "title": "Lachhamma Song",
+      "normalizedTitle": "lachhamma song",
+      "trackNumber": 4,
+      "duration": "3:45",
+      "durationSeconds": 225,
+      "audio": "Lachhamma Song.mp3",
+      "composer": "Music: Anup Rubens  | Lyrics : Nithin,Krishna Chaitanya",
+      "singers": [
+        "Anup",
+        "Nithin",
+        "Thagubothu Rahesh",
+        "Murali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3675603
+    },
+    {
+      "id": "620aa59f0f39",
+      "title": "Oh Priya Priya Song",
+      "normalizedTitle": "oh priya priya song",
+      "trackNumber": 5,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Oh Priya Priya Song.mp3",
+      "composer": "Music: Anup Rubens  | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Adnan Sami",
+        "Nithya Menon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4255698
+    },
+    {
+      "id": "cc83615f4955",
+      "title": "Sutiga Choodaku Song",
+      "normalizedTitle": "sutiga choodaku song",
+      "trackNumber": 6,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Sutiga Choodaku Song.mp3",
+      "composer": "Music: Anup Rubens  | Lyrics : Ananth Sriram",
+      "singers": [
+        "Hariharan",
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4958273
+    }
+  ]
+}

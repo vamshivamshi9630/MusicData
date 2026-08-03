@@ -1,0 +1,128 @@
+{
+  "album": {
+    "id": "f820a768bf85",
+    "name": "Teenmaar",
+    "year": 2011,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Teenmaar.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "7623a7e20e2b",
+      "title": "Aale Baale",
+      "normalizedTitle": "aale baale",
+      "trackNumber": 1,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Aale Baale.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Trisha Krishnan",
+        "Kruthi Kharbanda"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5009292
+    },
+    {
+      "id": "c7188da8a47b",
+      "title": "Barbie Bommaki",
+      "normalizedTitle": "barbie bommaki",
+      "trackNumber": 2,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Barbie Bommaki.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Trisha Krishnan",
+        "Kruthi Kharbanda"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4335965
+    },
+    {
+      "id": "1b71e2cef905",
+      "title": "Chiguru Boniya",
+      "normalizedTitle": "chiguru boniya",
+      "trackNumber": 3,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Chiguru Boniya.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Trisha Krishnan",
+        "Kruthi Kharbanda"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4303317
+    },
+    {
+      "id": "a58efb19f823",
+      "title": "Gelupu Thalupule",
+      "normalizedTitle": "gelupu thalupule",
+      "trackNumber": 4,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "Gelupu Thalupule.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Trisha Krishnan",
+        "Kruthi Kharbanda"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5152632
+    },
+    {
+      "id": "818888dc9c07",
+      "title": "Sri Ganga",
+      "normalizedTitle": "sri ganga",
+      "trackNumber": 5,
+      "duration": "6:05",
+      "durationSeconds": 365,
+      "audio": "Sri Ganga.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Trisha Krishnan",
+        "Kruthi Kharbanda"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5917087
+    },
+    {
+      "id": "6ecbf7c07a7c",
+      "title": "Vayyarala",
+      "normalizedTitle": "vayyarala",
+      "trackNumber": 6,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Vayyarala.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Trisha Krishnan",
+        "Kruthi Kharbanda"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5237029
+    }
+  ]
+}

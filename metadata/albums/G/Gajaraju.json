@@ -1,0 +1,136 @@
+{
+  "album": {
+    "id": "049a3aa27556",
+    "name": "Gajaraju",
+    "year": 2013,
+    "musicDirector": "D. Imman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gajaraju.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "1257a02c445c",
+      "title": "A Lady and the Violin Song",
+      "normalizedTitle": "a lady and the violin song",
+      "trackNumber": 1,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "A Lady and the Violin Song.mp3",
+      "composer": "Music : D.Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Swetha Mohan",
+        "Karthcik Iyer (Violin)"
+      ],
+      "bitrate": 239142,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7658589
+    },
+    {
+      "id": "d73b62e23211",
+      "title": "Ayyayyo Anandame Song",
+      "normalizedTitle": "ayyayyo anandame song",
+      "trackNumber": 2,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Ayyayyo Anandame Song.mp3",
+      "composer": "Music : D.Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 258533,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8594943
+    },
+    {
+      "id": "e83f52bda947",
+      "title": "Cheppinadhe Thana Premani Song",
+      "normalizedTitle": "cheppinadhe thana premani song",
+      "trackNumber": 3,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Cheppinadhe Thana Premani Song.mp3",
+      "composer": "Music : D.Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Kg Ranjith",
+        "Chinmayi"
+      ],
+      "bitrate": 238154,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8192443
+    },
+    {
+      "id": "93cb8057c803",
+      "title": "Kanne Sogasulu Song",
+      "normalizedTitle": "kanne sogasulu song",
+      "trackNumber": 4,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Kanne Sogasulu Song.mp3",
+      "composer": "Music : D.Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Naresh Iyer"
+      ],
+      "bitrate": 240289,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7848814
+    },
+    {
+      "id": "80cdd6305f67",
+      "title": "Nu Eppude Pilla Song",
+      "normalizedTitle": "nu eppude pilla song",
+      "trackNumber": 5,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Nu Eppude Pilla Song.mp3",
+      "composer": "Music : D.Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Alphons Joseph"
+      ],
+      "bitrate": 257096,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7786848
+    },
+    {
+      "id": "703ae6eecbf4",
+      "title": "Soi Soi Song",
+      "normalizedTitle": "soi soi song",
+      "trackNumber": 6,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Soi Soi Song.mp3",
+      "composer": "Music : D.Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Magizhini Manimaaran"
+      ],
+      "bitrate": 258713,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7233222
+    },
+    {
+      "id": "5f5e1a0559b5",
+      "title": "Yevuraina Song",
+      "normalizedTitle": "yevuraina song",
+      "trackNumber": 7,
+      "duration": "2:43",
+      "durationSeconds": 163,
+      "audio": "Yevuraina Song.mp3",
+      "composer": "Music : D.Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Haricharan",
+        "D Immam"
+      ],
+      "bitrate": 251736,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5198107
+    }
+  ]
+}

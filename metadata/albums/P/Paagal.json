@@ -1,0 +1,170 @@
+{
+  "album": {
+    "id": "433be4970cc8",
+    "name": "Paagal",
+    "year": 2021,
+    "musicDirector": "Radhan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Paagal.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "ac4720a13d28",
+      "title": "Aagave Nuvvagave Song",
+      "normalizedTitle": "aagave nuvvagave song",
+      "trackNumber": 1,
+      "duration": "6:08",
+      "durationSeconds": 368,
+      "audio": "Aagave Nuvvagave Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6412371
+    },
+    {
+      "id": "d1e34a54dfa9",
+      "title": "Amma Amma Nee Vennela Song",
+      "normalizedTitle": "amma amma nee vennela song",
+      "trackNumber": 2,
+      "duration": "5:37",
+      "durationSeconds": 337,
+      "audio": "Amma Amma Nee Vennela Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Sid Sriram",
+        "Veda",
+        "Vagdevi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6031872
+    },
+    {
+      "id": "ed85b6753921",
+      "title": "Ee Single Chinnode Song",
+      "normalizedTitle": "ee single chinnode song",
+      "trackNumber": 3,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Ee Single Chinnode Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Benny Dayal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4570368
+    },
+    {
+      "id": "d6d62a9964d7",
+      "title": "Enno Ennenno Vinnam Gaani Song",
+      "normalizedTitle": "enno ennenno vinnam gaani song",
+      "trackNumber": 4,
+      "duration": "2:39",
+      "durationSeconds": 159,
+      "audio": "Enno Ennenno Vinnam Gaani Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Anthony Daasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3191808
+    },
+    {
+      "id": "efeb0c7f2ef6",
+      "title": "Kanapadava (Female Version) Song",
+      "normalizedTitle": "kanapadava female version song",
+      "trackNumber": 5,
+      "duration": "1:26",
+      "durationSeconds": 86,
+      "audio": "Kanapadava (Female Version) Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Sameera Bharadwaj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2022144
+    },
+    {
+      "id": "16cc1dcd9749",
+      "title": "Kanapadava (Male Version) Song",
+      "normalizedTitle": "kanapadava male version song",
+      "trackNumber": 6,
+      "duration": "1:16",
+      "durationSeconds": 76,
+      "audio": "Kanapadava (Male Version) Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Anand Aravindakshan"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3078773
+    },
+    {
+      "id": "74a81a556779",
+      "title": "Paagal Title Song",
+      "normalizedTitle": "paagal title song",
+      "trackNumber": 7,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Paagal Title Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Ram Miryala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3788160
+    },
+    {
+      "id": "82ccf16136ba",
+      "title": "Saradaga Kasepaina Song",
+      "normalizedTitle": "saradaga kasepaina song",
+      "trackNumber": 8,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Saradaga Kasepaina Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Karthik",
+        "Purnima"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5192832
+    },
+    {
+      "id": "2a859dda3407",
+      "title": "You Are My Love Song",
+      "normalizedTitle": "you are my love song",
+      "trackNumber": 9,
+      "duration": "2:54",
+      "durationSeconds": 174,
+      "audio": "You Are My Love Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3430656
+    }
+  ]
+}

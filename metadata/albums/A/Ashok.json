@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "19404ce9e897",
+    "name": "Ashok",
+    "year": 2006,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ashok.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "4c0ce86bc1ab",
+      "title": "Gola Gola.Mp",
+      "normalizedTitle": "gola golamp",
+      "trackNumber": 1,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Gola Gola.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr. NTR",
+        "Sameera Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5157172
+    },
+    {
+      "id": "f22c14006225",
+      "title": "Jabiliki.Mp",
+      "normalizedTitle": "jabilikimp",
+      "trackNumber": 2,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Jabiliki.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr. NTR",
+        "Sameera Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4698249
+    },
+    {
+      "id": "e6f5398fac37",
+      "title": "Muntajmahalu.Mp",
+      "normalizedTitle": "muntajmahalump",
+      "trackNumber": 3,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Muntajmahalu.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr. NTR",
+        "Sameera Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5024679
+    },
+    {
+      "id": "31c4c2d0bc6a",
+      "title": "Nuvvasalu.Mp",
+      "normalizedTitle": "nuvvasalump",
+      "trackNumber": 4,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Nuvvasalu.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr. NTR",
+        "Sameera Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5298855
+    },
+    {
+      "id": "535e33fec4c3",
+      "title": "Okachinni.Mp",
+      "normalizedTitle": "okachinnimp",
+      "trackNumber": 5,
+      "duration": "5:13",
+      "durationSeconds": 313,
+      "audio": "Okachinni.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr. NTR",
+        "Sameera Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5168841
+    },
+    {
+      "id": "69e02f7df7f4",
+      "title": "Yekantanga.Mp",
+      "normalizedTitle": "yekantangamp",
+      "trackNumber": 6,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Yekantanga.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr. NTR",
+        "Sameera Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4329591
+    }
+  ]
+}

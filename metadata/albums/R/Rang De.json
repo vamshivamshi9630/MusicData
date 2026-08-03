@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "60a51c8bfcaa",
+    "name": "Rang De",
+    "year": 2021,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Rang De.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "56a640fb4d6a",
+      "title": "Bus Stande Bus Stande",
+      "normalizedTitle": "bus stande bus stande",
+      "trackNumber": 1,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Bus Stande Bus Stande.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3619840
+    },
+    {
+      "id": "63c707f24b4d",
+      "title": "Choosi Nerchukoku (Full Song) Song",
+      "normalizedTitle": "choosi nerchukoku full song song",
+      "trackNumber": 2,
+      "duration": "3:11",
+      "durationSeconds": 191,
+      "audio": "Choosi Nerchukoku (Full Song) Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "David Simon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3343104
+    },
+    {
+      "id": "e275bee35eb6",
+      "title": "Emito Idhi Song",
+      "normalizedTitle": "emito idhi song",
+      "trackNumber": 3,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Emito Idhi Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kapil Kapilan & Haripriya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4819859
+    },
+    {
+      "id": "7461548d72cb",
+      "title": "Naa Kanulu Yepudu Song",
+      "normalizedTitle": "naa kanulu yepudu song",
+      "trackNumber": 4,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Naa Kanulu Yepudu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4373760
+    },
+    {
+      "id": "df43d607a3f0",
+      "title": "Oorantha",
+      "normalizedTitle": "oorantha",
+      "trackNumber": 5,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Oorantha.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mangli"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4524160
+    },
+    {
+      "id": "ced025a43944",
+      "title": "Rangule Song",
+      "normalizedTitle": "rangule song",
+      "trackNumber": 6,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Rangule Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shweta Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4541440
+    }
+  ]
+}

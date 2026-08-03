@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "d5e74a3e73d8",
+    "name": "Anthapuram",
+    "year": 1998,
+    "musicDirector": "Ilaiyaraaja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Anthapuram.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "aa1e38bd6169",
+      "title": "Asalem Gurthukuraadu Song",
+      "normalizedTitle": "asalem gurthukuraadu song",
+      "trackNumber": 1,
+      "duration": "5:54",
+      "durationSeconds": 354,
+      "audio": "Asalem Gurthukuraadu Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 316605,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 14019003
+    },
+    {
+      "id": "e8ef540223a5",
+      "title": "Chamak Chamak Song",
+      "normalizedTitle": "chamak chamak song",
+      "trackNumber": 2,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Chamak Chamak Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 317032,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11843245
+    },
+    {
+      "id": "66e657c849af",
+      "title": "Kalyanam Kaanundi Song",
+      "normalizedTitle": "kalyanam kaanundi song",
+      "trackNumber": 3,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Kalyanam Kaanundi Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 315426,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 12212793
+    },
+    {
+      "id": "bb491e0b5ee6",
+      "title": "Sooridu Puvva Song",
+      "normalizedTitle": "sooridu puvva song",
+      "trackNumber": 4,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Sooridu Puvva Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 315229,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11801665
+    },
+    {
+      "id": "b3fefbe494a8",
+      "title": "Sye Chindey Song",
+      "normalizedTitle": "sye chindey song",
+      "trackNumber": 5,
+      "duration": "5:40",
+      "durationSeconds": 340,
+      "audio": "Sye Chindey Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 316370,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 13459025
+    }
+  ]
+}

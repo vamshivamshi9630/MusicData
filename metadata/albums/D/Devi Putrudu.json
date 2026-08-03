@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "eae9a6b05fee",
+    "name": "Devi Putrudu",
+    "year": 2001,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Devi Putrudu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "fa025f3d5f92",
+      "title": "Aakasham Loni Song",
+      "normalizedTitle": "aakasham loni song",
+      "trackNumber": 1,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Aakasham Loni Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5709234
+    },
+    {
+      "id": "6f1af6200716",
+      "title": "Donga Donga Song",
+      "normalizedTitle": "donga donga song",
+      "trackNumber": 2,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Donga Donga Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5330454
+    },
+    {
+      "id": "792f27e0ba1e",
+      "title": "Oh Prema Song",
+      "normalizedTitle": "oh prema song",
+      "trackNumber": 3,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Oh Prema Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6254138
+    },
+    {
+      "id": "b590cc2de998",
+      "title": "Okata Renda Song",
+      "normalizedTitle": "okata renda song",
+      "trackNumber": 4,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Okata Renda Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6127711
+    },
+    {
+      "id": "8377c4f8cf2c",
+      "title": "Rama Oh Rama Song",
+      "normalizedTitle": "rama oh rama song",
+      "trackNumber": 5,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Rama Oh Rama Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6571272
+    },
+    {
+      "id": "d498648fe6b0",
+      "title": "Tella Tellani Song",
+      "normalizedTitle": "tella tellani song",
+      "trackNumber": 6,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Tella Tellani Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5658556
+    }
+  ]
+}

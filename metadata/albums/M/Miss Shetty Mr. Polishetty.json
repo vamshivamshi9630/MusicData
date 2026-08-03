@@ -1,0 +1,65 @@
+{
+  "album": {
+    "id": "e411abc1ced6",
+    "name": "Miss Shetty Mr. Polishetty",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Miss Shetty Mr. Polishetty.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "036fdb016ed5",
+      "title": "Hathavidi Song",
+      "normalizedTitle": "hathavidi song",
+      "trackNumber": 1,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Hathavidi Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Dhanush"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4136481
+    },
+    {
+      "id": "89d634bdb394",
+      "title": "Lady Luck Song",
+      "normalizedTitle": "lady luck song",
+      "trackNumber": 2,
+      "duration": "3:11",
+      "durationSeconds": 191,
+      "audio": "Lady Luck Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3117914
+    },
+    {
+      "id": "822b2eded667",
+      "title": "No No No Song",
+      "normalizedTitle": "no no no song",
+      "trackNumber": 3,
+      "duration": "3:03",
+      "durationSeconds": 183,
+      "audio": "No No No Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "M.M.Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3003393
+    }
+  ]
+}

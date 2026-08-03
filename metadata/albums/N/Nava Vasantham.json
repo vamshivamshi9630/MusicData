@@ -1,0 +1,138 @@
+{
+  "album": {
+    "id": "9b234603feee",
+    "name": "Nava Vasantham",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nava Vasantham.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "eecfec5ef7ee",
+      "title": "Choosa Choosa",
+      "normalizedTitle": "choosa choosa",
+      "trackNumber": 1,
+      "duration": "5:14",
+      "durationSeconds": 314,
+      "audio": "Choosa Choosa.mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "Udit Narayan",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5143115
+    },
+    {
+      "id": "cea57bc64696",
+      "title": "Friendshippe Thiyyani",
+      "normalizedTitle": "friendshippe thiyyani",
+      "trackNumber": 2,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Friendshippe Thiyyani.mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "Srinivas",
+        "Gopika Poornima",
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4923284
+    },
+    {
+      "id": "5d67896182a7",
+      "title": "Katha Kadu",
+      "normalizedTitle": "katha kadu",
+      "trackNumber": 3,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Katha Kadu.mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3766769
+    },
+    {
+      "id": "b02a1d140bcd",
+      "title": "Leliley",
+      "normalizedTitle": "leliley",
+      "trackNumber": 4,
+      "duration": "5:49",
+      "durationSeconds": 349,
+      "audio": "Leliley.mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5702332
+    },
+    {
+      "id": "f8fc76537ae6",
+      "title": "Moogamanasey",
+      "normalizedTitle": "moogamanasey",
+      "trackNumber": 5,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Moogamanasey.mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "Sadhana Sargam",
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4620246
+    },
+    {
+      "id": "01247023bbe7",
+      "title": "Pataley Pranami",
+      "normalizedTitle": "pataley pranami",
+      "trackNumber": 6,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Pataley Pranami.mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4452650
+    },
+    {
+      "id": "32758202e4ff",
+      "title": "Thakathimi",
+      "normalizedTitle": "thakathimi",
+      "trackNumber": 7,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Thakathimi.mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "Rita",
+        "Rahol"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4645319
+    }
+  ]
+}

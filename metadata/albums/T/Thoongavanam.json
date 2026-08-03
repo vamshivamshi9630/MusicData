@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "9be2685c17bc",
+    "name": "Thoongavanam",
+    "year": 2015,
+    "musicDirector": "Ghibran",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Thoongavanam.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "323c3be80817",
+      "title": "Neeye Unakku Ra Song",
+      "normalizedTitle": "neeye unakku ra song",
+      "trackNumber": 1,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Neeye Unakku Ra Song.mp3",
+      "composer": "Ghibran",
+      "singers": [
+        "Dr. Kamal Haasan",
+        "Aishvarrya & Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4457412
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "7c2ecd07f155",
+    "name": "WWW",
+    "year": 2021,
+    "musicDirector": "Simon K. King",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "WWW.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "b97ae72cf2d9",
+      "title": "Nailu Nadi Song",
+      "normalizedTitle": "nailu nadi song",
+      "trackNumber": 1,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Nailu Nadi Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4250880
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "fb609bdcdece",
+    "name": "Darling",
+    "year": 2010,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Darling.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "f92df58925a2",
+      "title": "Bulle.Mp",
+      "normalizedTitle": "bullemp",
+      "trackNumber": 1,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Bulle.Mp.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Mallikarjun",
+        "Priya Hemesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4455037
+    },
+    {
+      "id": "1d4a0dd52c71",
+      "title": "Hosahore.Mp",
+      "normalizedTitle": "hosahoremp",
+      "trackNumber": 2,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Hosahore.Mp.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "K.K",
+        "Leslie"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3789592
+    },
+    {
+      "id": "29599fca07cd",
+      "title": "Inka Edo.Mp",
+      "normalizedTitle": "inka edomp",
+      "trackNumber": 3,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Inka Edo.Mp.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Suraj",
+        "Prashantini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5139646
+    },
+    {
+      "id": "efb28f1bade9",
+      "title": "Neeve.Mp",
+      "normalizedTitle": "neevemp",
+      "trackNumber": 4,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Neeve.Mp.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "G.V. Prakash Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4640176
+    },
+    {
+      "id": "0698468541ae",
+      "title": "YeYo.Mp",
+      "normalizedTitle": "yeyomp",
+      "trackNumber": 5,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "YeYo.Mp.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Benny Dayal",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3768738
+    }
+  ]
+}

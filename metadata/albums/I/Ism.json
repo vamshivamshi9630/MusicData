@@ -1,0 +1,106 @@
+{
+  "album": {
+    "id": "10cc63152f70",
+    "name": "Ism",
+    "year": 2016,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ism.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "b39f2af8bde9",
+      "title": "Ela Ela Ela.Mp",
+      "normalizedTitle": "ela ela elamp",
+      "trackNumber": 1,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Ela Ela Ela.Mp.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Shakthisree Gopalan",
+        "Krishna Lasya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4087378
+    },
+    {
+      "id": "1ed08acc729c",
+      "title": "ISM.Mp",
+      "normalizedTitle": "ismmp",
+      "trackNumber": 2,
+      "duration": "2:32",
+      "durationSeconds": 152,
+      "audio": "ISM.Mp.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Puri Jagannadh",
+        "Anuraag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2560982
+    },
+    {
+      "id": "09daa88e2b58",
+      "title": "Kanulu Navainaa.Mp",
+      "normalizedTitle": "kanulu navainaamp",
+      "trackNumber": 3,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Kanulu Navainaa.Mp.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Jubin Nautiyal",
+        "Mohana Bhogaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4396284
+    },
+    {
+      "id": "c82083b4d695",
+      "title": "Podaade Poda Poda.Mp",
+      "normalizedTitle": "podaade poda podamp",
+      "trackNumber": 4,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Podaade Poda Poda.Mp.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Spurthi",
+        "Teju Priya",
+        "Ramki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3614275
+    },
+    {
+      "id": "99af997d0776",
+      "title": "YEY YEY YEY Raa.Mp",
+      "normalizedTitle": "yey yey yey raamp",
+      "trackNumber": 5,
+      "duration": "3:19",
+      "durationSeconds": 199,
+      "audio": "YEY YEY YEY Raa.Mp.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Puri Jagannadh",
+        "Dhanunjay",
+        "Roll Rida"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3307069
+    }
+  ]
+}

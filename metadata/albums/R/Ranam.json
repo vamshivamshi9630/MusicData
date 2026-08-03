@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "05a8a0de26f3",
+    "name": "Ranam",
+    "year": 2006,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ranam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "cdee86252847",
+      "title": "Bulligownu Song",
+      "normalizedTitle": "bulligownu song",
+      "trackNumber": 1,
+      "duration": "5:35",
+      "durationSeconds": 335,
+      "audio": "Bulligownu Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Jassie Gift"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5435644
+    },
+    {
+      "id": "29fba038600b",
+      "title": "Cheli Jabili Song",
+      "normalizedTitle": "cheli jabili song",
+      "trackNumber": 2,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Cheli Jabili Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Naveen",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4465560
+    },
+    {
+      "id": "faca52d6482b",
+      "title": "Gana Gana Song",
+      "normalizedTitle": "gana gana song",
+      "trackNumber": 3,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Gana Gana Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "KK",
+        "Sangeetha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3528500
+    },
+    {
+      "id": "5ac4ce149cb3",
+      "title": "Hey Chinna Song",
+      "normalizedTitle": "hey chinna song",
+      "trackNumber": 4,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Hey Chinna Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Tippu",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3973619
+    },
+    {
+      "id": "e7ac69b74b6c",
+      "title": "Nallanimabbu Song",
+      "normalizedTitle": "nallanimabbu song",
+      "trackNumber": 5,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Nallanimabbu Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Vardhini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4509448
+    },
+    {
+      "id": "8a873384590e",
+      "title": "Varevva Song",
+      "normalizedTitle": "varevva song",
+      "trackNumber": 6,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Varevva Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Mallikarjun",
+        "Mahalakshmi Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4468894
+    }
+  ]
+}

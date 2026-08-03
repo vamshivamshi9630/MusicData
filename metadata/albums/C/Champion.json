@@ -1,0 +1,86 @@
+{
+  "album": {
+    "id": "d14a7310bdf5",
+    "name": "Champion",
+    "year": 2020,
+    "musicDirector": "Arrol Corelli",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Champion.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "1ebdc7b13ab9",
+      "title": "Gira Gira Gingiraagirey Song",
+      "normalizedTitle": "gira gira gingiraagirey song",
+      "trackNumber": 1,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Gira Gira Gingiraagirey Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 129266,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4829170
+    },
+    {
+      "id": "5965a37ed4d5",
+      "title": "I am A Champion Song",
+      "normalizedTitle": "i am a champion song",
+      "trackNumber": 2,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "I am A Champion Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "P Jayaram",
+        "Ramya Behara"
+      ],
+      "bitrate": 129896,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4207841
+    },
+    {
+      "id": "7e64c6172615",
+      "title": "Kalaga Kadhaga Song",
+      "normalizedTitle": "kalaga kadhaga song",
+      "trackNumber": 3,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Kalaga Kadhaga Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Krishna",
+        "Tejasvi",
+        "Manisha Eerabathini"
+      ],
+      "bitrate": 132320,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3843043
+    },
+    {
+      "id": "689267291d17",
+      "title": "Sallangundaale Song",
+      "normalizedTitle": "sallangundaale song",
+      "trackNumber": 4,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Sallangundaale Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Ritesh G Rao",
+        "Manisha Eerabatthini"
+      ],
+      "bitrate": 130339,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5589056
+    }
+  ]
+}

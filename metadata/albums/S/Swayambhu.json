@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "92d580f12496",
+    "name": "Swayambhu",
+    "year": 2025,
+    "musicDirector": "Ravi Basrur",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Swayambhu.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "5773c3b6d326",
+      "title": "Ra Ra Dheevara Song",
+      "normalizedTitle": "ra ra dheevara song",
+      "trackNumber": 1,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Ra Ra Dheevara Song.mp3",
+      "composer": "Ravi Basrur",
+      "singers": [
+        "Santhosh Venky"
+      ],
+      "bitrate": 129453,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4302864
+    }
+  ]
+}

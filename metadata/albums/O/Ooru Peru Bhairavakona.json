@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "fd46d8061ddf",
+    "name": "Ooru Peru Bhairavakona",
+    "year": 2024,
+    "musicDirector": "Shekar Chandra",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ooru Peru Bhairavakona.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "66925b6b1093",
+      "title": "Haromhara Song",
+      "normalizedTitle": "haromhara song",
+      "trackNumber": 1,
+      "duration": "2:28",
+      "durationSeconds": 148,
+      "audio": "Haromhara Song.mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Chaitu Satsangi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2733706
+    },
+    {
+      "id": "2db4f6293053",
+      "title": "Humma Humma Song",
+      "normalizedTitle": "humma humma song",
+      "trackNumber": 2,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Humma Humma Song.mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3786126
+    },
+    {
+      "id": "31f3347a7d38",
+      "title": "Idi Bairavakona Song",
+      "normalizedTitle": "idi bairavakona song",
+      "trackNumber": 3,
+      "duration": "1:47",
+      "durationSeconds": 107,
+      "audio": "Idi Bairavakona Song.mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Chaitu Satsangi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2079182
+    },
+    {
+      "id": "14a4ea94a97b",
+      "title": "Kill The Devil Song",
+      "normalizedTitle": "kill the devil song",
+      "trackNumber": 4,
+      "duration": "2:07",
+      "durationSeconds": 127,
+      "audio": "Kill The Devil Song.mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Shekar Chandra",
+        "Dinesh Rudra",
+        "Rithesh.G.Rao."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2396412
+    },
+    {
+      "id": "2cd2f9f4c6ee",
+      "title": "Nijame Ne Chebuthunna Song",
+      "normalizedTitle": "nijame ne chebuthunna song",
+      "trackNumber": 5,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Nijame Ne Chebuthunna Song.mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4144735
+    }
+  ]
+}

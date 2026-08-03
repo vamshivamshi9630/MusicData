@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "c064b956f16a",
+    "name": "Dhenikaina Ready",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Dhenikaina Ready.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "15b4f6a47c3e",
+      "title": "Naalaage Nenutaanu Song",
+      "normalizedTitle": "naalaage nenutaanu song",
+      "trackNumber": 1,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Naalaage Nenutaanu Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4166975
+    },
+    {
+      "id": "7ae5c452ee4a",
+      "title": "Ninnu Choodakundaa Song",
+      "normalizedTitle": "ninnu choodakundaa song",
+      "trackNumber": 2,
+      "duration": "5:31",
+      "durationSeconds": 331,
+      "audio": "Ninnu Choodakundaa Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Adnan Sami",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5380298
+    },
+    {
+      "id": "c931ee840380",
+      "title": "Panche Kattuko Song",
+      "normalizedTitle": "panche kattuko song",
+      "trackNumber": 3,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Panche Kattuko Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Tippu",
+        "Sravana Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4130168
+    },
+    {
+      "id": "3fb09d737b03",
+      "title": "Pillaa Neevalla Song",
+      "normalizedTitle": "pillaa neevalla song",
+      "trackNumber": 4,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Pillaa Neevalla Song.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Ananth Sriram",
+      "singers": [
+        "Yuvan Shankar Raja",
+        "Sraddha Pandit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4052474
+    },
+    {
+      "id": "76a7b30b03c3",
+      "title": "Pillandham Keka Keka Song",
+      "normalizedTitle": "pillandham keka keka song",
+      "trackNumber": 5,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Pillandham Keka Keka Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Chandrabos",
+      "singers": [
+        "Hemachander",
+        "Parnika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5180498
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "album": {
+    "id": "ab502b2b0424",
+    "name": "Avunanna Kadanna",
+    "year": 2005,
+    "musicDirector": "R. P. Patnaik",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Avunanna Kadanna.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "41853c6f54d3",
+      "title": "Anaganaga",
+      "normalizedTitle": "anaganaga",
+      "trackNumber": 1,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Anaganaga.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6218441
+    },
+    {
+      "id": "7fa71cff9dc2",
+      "title": "Avunanna Kaadanna",
+      "normalizedTitle": "avunanna kaadanna",
+      "trackNumber": 2,
+      "duration": "1:44",
+      "durationSeconds": 104,
+      "audio": "Avunanna Kaadanna.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2518315
+    },
+    {
+      "id": "037ed0327a14",
+      "title": "Gudigantala",
+      "normalizedTitle": "gudigantala",
+      "trackNumber": 3,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Gudigantala.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5513766
+    },
+    {
+      "id": "244acb1d8dd4",
+      "title": "Malinamkanidhi",
+      "normalizedTitle": "malinamkanidhi",
+      "trackNumber": 4,
+      "duration": "1:47",
+      "durationSeconds": 107,
+      "audio": "Malinamkanidhi.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2594118
+    },
+    {
+      "id": "fe37d4779c33",
+      "title": "Nadume Uyyala",
+      "normalizedTitle": "nadume uyyala",
+      "trackNumber": 5,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Nadume Uyyala.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6209672
+    },
+    {
+      "id": "d255387c0068",
+      "title": "Nelathalli Gundelo",
+      "normalizedTitle": "nelathalli gundelo",
+      "trackNumber": 6,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Nelathalli Gundelo.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6860394
+    },
+    {
+      "id": "d455aa81fe71",
+      "title": "Preminchanani",
+      "normalizedTitle": "preminchanani",
+      "trackNumber": 7,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Preminchanani.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6000224
+    },
+    {
+      "id": "280802025a65",
+      "title": "Suvvi Suvvi",
+      "normalizedTitle": "suvvi suvvi",
+      "trackNumber": 8,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Suvvi Suvvi.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6258569
+    }
+  ]
+}

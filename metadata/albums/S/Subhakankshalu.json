@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "bc86d9f7eda4",
+    "name": "Subhakankshalu",
+    "year": 1997,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Subhakankshalu.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "6c7e6f1da1c5",
+      "title": "Addanki Cheerakatti Song",
+      "normalizedTitle": "addanki cheerakatti song",
+      "trackNumber": 1,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Addanki Cheerakatti Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4568337
+    },
+    {
+      "id": "6a09a7396e27",
+      "title": "Ananda Ananda Maye (Female) Song",
+      "normalizedTitle": "ananda ananda maye female song",
+      "trackNumber": 2,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Ananda Ananda Maye (Female) Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4824964
+    },
+    {
+      "id": "7ab698f635a1",
+      "title": "Ananda Ananda Maye (Male) Song",
+      "normalizedTitle": "ananda ananda maye male song",
+      "trackNumber": 3,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Ananda Ananda Maye (Male) Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4880970
+    },
+    {
+      "id": "d388235b5b99",
+      "title": "Gunde Ninda Gudigantalu Song",
+      "normalizedTitle": "gunde ninda gudigantalu song",
+      "trackNumber": 4,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Gunde Ninda Gudigantalu Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4360193
+    },
+    {
+      "id": "8751e9bc9552",
+      "title": "Manasa Palakave Song",
+      "normalizedTitle": "manasa palakave song",
+      "trackNumber": 5,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Manasa Palakave Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4951605
+    },
+    {
+      "id": "a1c380674a91",
+      "title": "O Pori Paani Poori Song",
+      "normalizedTitle": "o pori paani poori song",
+      "trackNumber": 6,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "O Pori Paani Poori Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3599507
+    },
+    {
+      "id": "e868ed623526",
+      "title": "Panchavannela Chiluka Song",
+      "normalizedTitle": "panchavannela chiluka song",
+      "trackNumber": 7,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Panchavannela Chiluka Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4052157
+    }
+  ]
+}

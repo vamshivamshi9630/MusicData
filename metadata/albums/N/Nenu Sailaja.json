@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "33b8950b65b1",
+    "name": "Nenu Sailaja",
+    "year": 2016,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nenu Sailaja.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "924922357010",
+      "title": "Crazy Feeling Song",
+      "normalizedTitle": "crazy feeling song",
+      "trackNumber": 1,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Crazy Feeling Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: Sagar, Ramajogayya Saﬅry, Ananth Sriram, B㏊skara B㏊tla",
+      "singers": [
+        "Prudhⅵ C㏊ndra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3452336
+    },
+    {
+      "id": "cd5e5e213ff6",
+      "title": "Ee Premaki Song",
+      "normalizedTitle": "ee premaki song",
+      "trackNumber": 2,
+      "duration": "1:24",
+      "durationSeconds": 84,
+      "audio": "Ee Premaki Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: Sagar, Ramajogayya Saﬅry, Ananth Sriram, B㏊skara B㏊tla",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1440640
+    },
+    {
+      "id": "f04ba5d5c963",
+      "title": "Em Cheppanu Song",
+      "normalizedTitle": "em cheppanu song",
+      "trackNumber": 3,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Em Cheppanu Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: Sagar, Ramajogayya Saﬅry, Ananth Sriram, B㏊skara B㏊tla",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4679866
+    },
+    {
+      "id": "896a63107da2",
+      "title": "Masti Masti Song",
+      "normalizedTitle": "masti masti song",
+      "trackNumber": 4,
+      "duration": "3:40",
+      "durationSeconds": 220,
+      "audio": "Masti Masti Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: Sagar, Ramajogayya Saﬅry, Ananth Sriram, B㏊skara B㏊tla",
+      "singers": [
+        "Sooraj Santhosh",
+        "Shwet㏊ Mo㏊n"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3619128
+    },
+    {
+      "id": "464a6f6b6636",
+      "title": "Night is Still Young Song",
+      "normalizedTitle": "night is still young song",
+      "trackNumber": 5,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Night is Still Young Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: Sagar, Ramajogayya Saﬅry, Ananth Sriram, B㏊skara B㏊tla",
+      "singers": [
+        "Daⅵd Simon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3107110
+    },
+    {
+      "id": "630b5c55b878",
+      "title": "Sailaja Sailaja Song",
+      "normalizedTitle": "sailaja sailaja song",
+      "trackNumber": 6,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Sailaja Sailaja Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: Sagar, Ramajogayya Saﬅry, Ananth Sriram, B㏊skara B㏊tla",
+      "singers": [
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3836847
+    }
+  ]
+}

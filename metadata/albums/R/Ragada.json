@@ -1,0 +1,125 @@
+{
+  "album": {
+    "id": "0dc2f9a00e81",
+    "name": "Ragada",
+    "year": 2010,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ragada.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "887d2bc09547",
+      "title": "Bholo Ashta Lakshmi Song",
+      "normalizedTitle": "bholo ashta lakshmi song",
+      "trackNumber": 1,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Bholo Ashta Lakshmi Song.mp3",
+      "composer": "Music : Thaman S | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Karthik",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4221871
+    },
+    {
+      "id": "d2d0cacbb892",
+      "title": "Em Pillo Yappillo Song",
+      "normalizedTitle": "em pillo yappillo song",
+      "trackNumber": 2,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Em Pillo Yappillo Song.mp3",
+      "composer": "Music : Thaman S | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Karthik",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3855319
+    },
+    {
+      "id": "32053f33bebf",
+      "title": "Meesamunna Manmadhud Song",
+      "normalizedTitle": "meesamunna manmadhud song",
+      "trackNumber": 3,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Meesamunna Manmadhud Song.mp3",
+      "composer": "Music : Thaman S | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Shankar Mahadevan",
+        "Rita",
+        "Himabindu",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4791190
+    },
+    {
+      "id": "510f62bf4f23",
+      "title": "Okkadante Okkade Song",
+      "normalizedTitle": "okkadante okkade song",
+      "trackNumber": 4,
+      "duration": "3:22",
+      "durationSeconds": 202,
+      "audio": "Okkadante Okkade Song.mp3",
+      "composer": "Music : Thaman S | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Ramya N.S.",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3366297
+    },
+    {
+      "id": "135d6f6661c4",
+      "title": "Ragada Ragada Song",
+      "normalizedTitle": "ragada ragada song",
+      "trackNumber": 5,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Ragada Ragada Song.mp3",
+      "composer": "Music : Thaman S | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Baba Sehgal",
+        "Chitra",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4703770
+    },
+    {
+      "id": "77cc81a404dd",
+      "title": "Shirisha Shirisha Song",
+      "normalizedTitle": "shirisha shirisha song",
+      "trackNumber": 6,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Shirisha Shirisha Song.mp3",
+      "composer": "Music : Thaman S | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Hariharan",
+        "Sri Vardhini Thaman"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4106107
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "album": {
+    "id": "079cdc52e644",
+    "name": "MAD",
+    "year": 2023,
+    "musicDirector": "Bheems Ceciroleo",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "MAD.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "c21e1a3d4163",
+      "title": "College Papa Song",
+      "normalizedTitle": "college papa song",
+      "trackNumber": 1,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "College Papa Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo",
+        "Varam",
+        "Keerthana Sharma"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10046643
+    },
+    {
+      "id": "d19d78f1dd1e",
+      "title": "Malli Malli Raani Roju Song",
+      "normalizedTitle": "malli malli raani roju song",
+      "trackNumber": 2,
+      "duration": "2:54",
+      "durationSeconds": 174,
+      "audio": "Malli Malli Raani Roju Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Sai Charan Bhaskaruni"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7217078
+    },
+    {
+      "id": "3501794fb4fd",
+      "title": "Nuvvu Navvukuntu Song",
+      "normalizedTitle": "nuvvu navvukuntu song",
+      "trackNumber": 3,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Nuvvu Navvukuntu Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Kapil Kapilan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8422980
+    }
+  ]
+}

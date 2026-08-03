@@ -1,0 +1,152 @@
+{
+  "album": {
+    "id": "27479c50c872",
+    "name": "Maalai Nerathu Mayakkam",
+    "year": 2016,
+    "musicDirector": "Amrit",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Maalai Nerathu Mayakkam.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "c347403bb722",
+      "title": "Ennodu Song",
+      "normalizedTitle": "ennodu song",
+      "trackNumber": 1,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Ennodu Song.mp3",
+      "composer": "Amrit",
+      "singers": [
+        "Mili Nair",
+        "Amrit"
+      ],
+      "bitrate": 129942,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4272045
+    },
+    {
+      "id": "beca992e240a",
+      "title": "Maalai Nerathu Song",
+      "normalizedTitle": "maalai nerathu song",
+      "trackNumber": 2,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Maalai Nerathu Song.mp3",
+      "composer": "Amrit",
+      "singers": [
+        "Amrit"
+      ],
+      "bitrate": 132292,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4728097
+    },
+    {
+      "id": "d9494d509440",
+      "title": "Mokka Piece Song",
+      "normalizedTitle": "mokka piece song",
+      "trackNumber": 3,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Mokka Piece Song.mp3",
+      "composer": "Amrit",
+      "singers": [
+        "Benny Dayal"
+      ],
+      "bitrate": 132760,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4755363
+    },
+    {
+      "id": "1e152e277e96",
+      "title": "Mora Saiyya Song",
+      "normalizedTitle": "mora saiyya song",
+      "trackNumber": 4,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Mora Saiyya Song.mp3",
+      "composer": "Amrit",
+      "singers": [
+        "Vijay Prakash",
+        "Shakthisree Gopalan"
+      ],
+      "bitrate": 128727,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4892402
+    },
+    {
+      "id": "9c362336985b",
+      "title": "Sarakk Song",
+      "normalizedTitle": "sarakk song",
+      "trackNumber": 5,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Sarakk Song.mp3",
+      "composer": "Amrit",
+      "singers": [
+        "Amrit"
+      ],
+      "bitrate": 128881,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5075217
+    },
+    {
+      "id": "ca2b3040954c",
+      "title": "Sarakka Song",
+      "normalizedTitle": "sarakka song",
+      "trackNumber": 6,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Sarakka Song.mp3",
+      "composer": "Amrit",
+      "singers": [
+        "Amrit"
+      ],
+      "bitrate": 132055,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5172067
+    },
+    {
+      "id": "0e9d5153fd44",
+      "title": "The Return of Song",
+      "normalizedTitle": "the return of song",
+      "trackNumber": 7,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "The Return of Song.mp3",
+      "composer": "Amrit",
+      "singers": [
+        "Amrit"
+      ],
+      "bitrate": 134651,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4773700
+    },
+    {
+      "id": "31d168082033",
+      "title": "Two Opposites Song",
+      "normalizedTitle": "two opposites song",
+      "trackNumber": 8,
+      "duration": "2:40",
+      "durationSeconds": 160,
+      "audio": "Two Opposites Song.mp3",
+      "composer": "Amrit",
+      "singers": [
+        "Amrit"
+      ],
+      "bitrate": 131836,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2720641
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "album": {
+    "id": "3396c69bd237",
+    "name": "Varsham",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Varsham.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "68dcb697c262",
+      "title": "Joole Joole.Mp",
+      "normalizedTitle": "joole joolemp",
+      "trackNumber": 1,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Joole Joole.Mp.mp3",
+      "composer": "Music:Sobhan",
+      "singers": [
+        "Mallikarjun",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4939818
+    },
+    {
+      "id": "a1c27793266b",
+      "title": "Kopama Napina.Mp",
+      "normalizedTitle": "kopama napinamp",
+      "trackNumber": 2,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Kopama Napina.Mp.mp3",
+      "composer": "Music:Sobhan",
+      "singers": [
+        "Karthik",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4752582
+    },
+    {
+      "id": "5a88e59abea4",
+      "title": "Langa Voni.Mp",
+      "normalizedTitle": "langa vonimp",
+      "trackNumber": 3,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Langa Voni.Mp.mp3",
+      "composer": "Music:Sobhan",
+      "singers": [
+        "Tippu",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3821757
+    },
+    {
+      "id": "101afecc0d22",
+      "title": "Mellaga Varsham.Mp",
+      "normalizedTitle": "mellaga varshammp",
+      "trackNumber": 4,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Mellaga Varsham.Mp.mp3",
+      "composer": "Music:Sobhan",
+      "singers": [
+        "S.P. Charan",
+        "Sumangaly"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5213175
+    },
+    {
+      "id": "709e4fea5e7a",
+      "title": "Neeti Mullai.Mp",
+      "normalizedTitle": "neeti mullaimp",
+      "trackNumber": 5,
+      "duration": "1:22",
+      "durationSeconds": 82,
+      "audio": "Neeti Mullai.Mp.mp3",
+      "composer": "Music:Sobhan",
+      "singers": [
+        "Sagar",
+        "Sumangaly"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1378812
+    },
+    {
+      "id": "d9e0b1962db5",
+      "title": "Nizam Pori.Mp",
+      "normalizedTitle": "nizam porimp",
+      "trackNumber": 6,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Nizam Pori.Mp.mp3",
+      "composer": "Music:Sobhan",
+      "singers": [
+        "Adnan Sami",
+        "Sunita Rao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4127307
+    },
+    {
+      "id": "1d7f6f1c07a0",
+      "title": "Nuvvosthanante.Mp",
+      "normalizedTitle": "nuvvosthanantemp",
+      "trackNumber": 7,
+      "duration": "5:35",
+      "durationSeconds": 335,
+      "audio": "Nuvvosthanante.Mp.mp3",
+      "composer": "Music:Sobhan",
+      "singers": [
+        "Chitra",
+        "Raqeeb Alam",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5420911
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "8fdd880f097c",
+    "name": "Junior",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Junior.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "44a9694ac540",
+      "title": "Viral Vayyari Song",
+      "normalizedTitle": "viral vayyari song",
+      "trackNumber": 1,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Viral Vayyari Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Hari Priya",
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 124356,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4750599
+    }
+  ]
+}

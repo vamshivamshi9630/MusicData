@@ -1,0 +1,49 @@
+{
+  "album": {
+    "id": "f08441b96cad",
+    "name": "Love Insurance Kompany",
+    "year": 2024,
+    "musicDirector": "Anirudh Ravichander",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Love Insurance Kompany.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "453ea5293617",
+      "title": "Dheema (Vocals Only) Song",
+      "normalizedTitle": "dheema vocals only song",
+      "trackNumber": 1,
+      "duration": "1:27",
+      "durationSeconds": 87,
+      "audio": "Dheema (Vocals Only) Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1456231
+    },
+    {
+      "id": "195cec3fe4c6",
+      "title": "Pattuma Song",
+      "normalizedTitle": "pattuma song",
+      "trackNumber": 2,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Pattuma Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Ananthakrrishnan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8188992
+    }
+  ]
+}

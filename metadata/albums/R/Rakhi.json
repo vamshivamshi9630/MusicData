@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "16d882bbc2f2",
+    "name": "Rakhi",
+    "year": 2006,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Rakhi.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "a71f89b38ddb",
+      "title": "Kallalo Kalagni.Mp",
+      "normalizedTitle": "kallalo kalagnimp",
+      "trackNumber": 1,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Kallalo Kalagni.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4471244
+    },
+    {
+      "id": "590a15c0e2e4",
+      "title": "Ninnu Choosthe.Mp",
+      "normalizedTitle": "ninnu choosthemp",
+      "trackNumber": 2,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Ninnu Choosthe.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shankar Mahadevan",
+        "Gopika Poorn"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4010267
+    },
+    {
+      "id": "71615bfb1430",
+      "title": "Rakhee Rakhee.Mp",
+      "normalizedTitle": "rakhee rakheemp",
+      "trackNumber": 3,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Rakhee Rakhee.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Devisri Prasad",
+        "Mamta Mohandas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5432991
+    },
+    {
+      "id": "88cfd58dd564",
+      "title": "Rangu Rabba.Mp",
+      "normalizedTitle": "rangu rabbamp",
+      "trackNumber": 4,
+      "duration": "6:05",
+      "durationSeconds": 365,
+      "audio": "Rangu Rabba.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Amalraj",
+        "Priya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5944967
+    },
+    {
+      "id": "dc394483c964",
+      "title": "Vastava Vastava.Mp",
+      "normalizedTitle": "vastava vastavamp",
+      "trackNumber": 5,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Vastava Vastava.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jessie Gift",
+        "Srilekha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4364673
+    },
+    {
+      "id": "ad622b2dcff5",
+      "title": "Zara Zara.Mp",
+      "normalizedTitle": "zara zaramp",
+      "trackNumber": 6,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Zara Zara.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Andrea"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4522621
+    }
+  ]
+}

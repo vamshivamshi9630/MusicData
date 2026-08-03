@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "899956ef4c2f",
+    "name": "Dookudu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Dookudu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c1d1c2c3d165",
+      "title": "Adara Adara Song",
+      "normalizedTitle": "adara adara song",
+      "trackNumber": 1,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Adara Adara Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Samantha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4249540
+    },
+    {
+      "id": "c372efee657e",
+      "title": "Chulbuli Chulbuli Song",
+      "normalizedTitle": "chulbuli chulbuli song",
+      "trackNumber": 2,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Chulbuli Chulbuli Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Samantha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4332392
+    },
+    {
+      "id": "fceb642d008b",
+      "title": "Dethadi Dethadi Song",
+      "normalizedTitle": "dethadi dethadi song",
+      "trackNumber": 3,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Dethadi Dethadi Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Samantha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4088719
+    },
+    {
+      "id": "583915ab8739",
+      "title": "Guruvaram Song",
+      "normalizedTitle": "guruvaram song",
+      "trackNumber": 4,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Guruvaram Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Samantha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4311896
+    },
+    {
+      "id": "e082668be674",
+      "title": "Nee Dookudu Song",
+      "normalizedTitle": "nee dookudu song",
+      "trackNumber": 5,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Nee Dookudu Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Samantha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3736378
+    },
+    {
+      "id": "8814d78774ee",
+      "title": "Poovai Poovai Song",
+      "normalizedTitle": "poovai poovai song",
+      "trackNumber": 6,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Poovai Poovai Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Samantha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4235441
+    }
+  ]
+}

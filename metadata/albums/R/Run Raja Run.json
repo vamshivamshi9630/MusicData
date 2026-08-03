@@ -1,0 +1,151 @@
+{
+  "album": {
+    "id": "e7329073ea2e",
+    "name": "Run Raja Run",
+    "year": 2014,
+    "musicDirector": "Ghibran",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Run Raja Run.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "126ae2a082e2",
+      "title": "Bujjima (Karaoke) Song",
+      "normalizedTitle": "bujjima karaoke song",
+      "trackNumber": 1,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Bujjima (Karaoke) Song.mp3",
+      "composer": "Music : Ghibran | Lyrics : Srimani",
+      "singers": [
+        "Instrumental"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3387976
+    },
+    {
+      "id": "ce2bc51a616d",
+      "title": "Bujjima Song",
+      "normalizedTitle": "bujjima song",
+      "trackNumber": 2,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Bujjima Song.mp3",
+      "composer": "Music : Ghibran | Lyrics : Srimani",
+      "singers": [
+        "Gold Devaraj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3387956
+    },
+    {
+      "id": "438d80943615",
+      "title": "Coma Coma (Karaoke) Song",
+      "normalizedTitle": "coma coma karaoke song",
+      "trackNumber": 3,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Coma Coma (Karaoke) Song.mp3",
+      "composer": "Music : Ghibran | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Instrumental"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3519241
+    },
+    {
+      "id": "7c0f8d21f28e",
+      "title": "Coma Coma Song",
+      "normalizedTitle": "coma coma song",
+      "trackNumber": 4,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Coma Coma Song.mp3",
+      "composer": "Music : Ghibran | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Kunal Ganjawala",
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3519253
+    },
+    {
+      "id": "60120ea8dbb4",
+      "title": "I Am in Love Song",
+      "normalizedTitle": "i am in love song",
+      "trackNumber": 5,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "I Am in Love Song.mp3",
+      "composer": "Music : Ghibran | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Instrumental"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4424573
+    },
+    {
+      "id": "e577d05c95b2",
+      "title": "Rajadhi Raja Song",
+      "normalizedTitle": "rajadhi raja song",
+      "trackNumber": 6,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Rajadhi Raja Song.mp3",
+      "composer": "Music : Ghibran | Lyrics : Srimani",
+      "singers": [
+        "Instrumental"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3799258
+    },
+    {
+      "id": "0f7c1f9a7f92",
+      "title": "Shanthi Om Shanthi Song",
+      "normalizedTitle": "shanthi om shanthi song",
+      "trackNumber": 7,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Shanthi Om Shanthi Song.mp3",
+      "composer": "Music : Ghibran | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Instrumental"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4305858
+    },
+    {
+      "id": "5529daf33798",
+      "title": "Vadhantune Song",
+      "normalizedTitle": "vadhantune song",
+      "trackNumber": 8,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Vadhantune Song.mp3",
+      "composer": "Music : Ghibran | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Chinmayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4424545
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "album": {
+    "id": "c60c7556293d",
+    "name": "Nijam",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nijam.png",
+    "songCount": 11
+  },
+  "songs": [
+    {
+      "id": "7f2b917110d5",
+      "title": "Abhimanyudu Song",
+      "normalizedTitle": "abhimanyudu song",
+      "trackNumber": 1,
+      "duration": "1:52",
+      "durationSeconds": 112,
+      "audio": "Abhimanyudu Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Group Song"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1826469
+    },
+    {
+      "id": "4aedd3cdbdb4",
+      "title": "Chandamama Raave Song",
+      "normalizedTitle": "chandamama raave song",
+      "trackNumber": 2,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Chandamama Raave Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "RP",
+        "Usha",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3546389
+    },
+    {
+      "id": "5162beb5638a",
+      "title": "Chara Chara Song",
+      "normalizedTitle": "chara chara song",
+      "trackNumber": 3,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Chara Chara Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Usha",
+        "Murthy",
+        "Gopi",
+        "Raasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3938459
+    },
+    {
+      "id": "cb29e520f276",
+      "title": "Chi Chi Ante Song",
+      "normalizedTitle": "chi chi ante song",
+      "trackNumber": 4,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Chi Chi Ante Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "RP",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4084699
+    },
+    {
+      "id": "e8261f8b6dae",
+      "title": "Dhandakam Song",
+      "normalizedTitle": "dhandakam song",
+      "trackNumber": 5,
+      "duration": "1:53",
+      "durationSeconds": 113,
+      "audio": "Dhandakam Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Gangadhar Sastry",
+        "Gopi Chand"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1849487
+    },
+    {
+      "id": "04755a8eb34f",
+      "title": "Ilage Ilage Song",
+      "normalizedTitle": "ilage ilage song",
+      "trackNumber": 6,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Ilage Ilage Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "RP",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3790454
+    },
+    {
+      "id": "03ea63af3be9",
+      "title": "Kakulu Durani Song",
+      "normalizedTitle": "kakulu durani song",
+      "trackNumber": 7,
+      "duration": "1:48",
+      "durationSeconds": 108,
+      "audio": "Kakulu Durani Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "RP",
+        "Ravi Varma",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1768397
+    },
+    {
+      "id": "6c48ddd9f0c2",
+      "title": "Neelo unnadi Song",
+      "normalizedTitle": "neelo unnadi song",
+      "trackNumber": 8,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Neelo unnadi Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "RP",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3902887
+    },
+    {
+      "id": "8ff52d50768e",
+      "title": "Rangu Rangula Song",
+      "normalizedTitle": "rangu rangula song",
+      "trackNumber": 9,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Rangu Rangula Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "RP",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4001944
+    },
+    {
+      "id": "ac3e29251681",
+      "title": "Rathalu Rathalu Song",
+      "normalizedTitle": "rathalu rathalu song",
+      "trackNumber": 10,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Rathalu Rathalu Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "RP",
+        "Usha",
+        "Mahesh Babu",
+        "Teja",
+        "Manichandana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4116112
+    },
+    {
+      "id": "91ca1c2dac4e",
+      "title": "Theme Music Song",
+      "normalizedTitle": "theme music song",
+      "trackNumber": 11,
+      "duration": "2:32",
+      "durationSeconds": 152,
+      "audio": "Theme Music Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Music Bit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2471792
+    }
+  ]
+}

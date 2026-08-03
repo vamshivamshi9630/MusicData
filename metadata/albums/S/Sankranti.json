@@ -1,0 +1,142 @@
+{
+  "album": {
+    "id": "82422ce6dbe4",
+    "name": "Sankranti",
+    "year": 2005,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sankranti.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "580d72e4fe32",
+      "title": "Aasa Aasaga Song",
+      "normalizedTitle": "aasa aasaga song",
+      "trackNumber": 1,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Aasa Aasaga Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "S.P. Balu",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4927387
+    },
+    {
+      "id": "287a6679bb06",
+      "title": "Ade Pade Song",
+      "normalizedTitle": "ade pade song",
+      "trackNumber": 2,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Ade Pade Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Karthik",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4641507
+    },
+    {
+      "id": "f00db8fa3cd4",
+      "title": "Andala Srimathi Song",
+      "normalizedTitle": "andala srimathi song",
+      "trackNumber": 3,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Andala Srimathi Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Hariharan",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4504023
+    },
+    {
+      "id": "456470e5db46",
+      "title": "Chilakaa Song",
+      "normalizedTitle": "chilakaa song",
+      "trackNumber": 4,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Chilakaa Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Shankar Mahadevan",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4234869
+    },
+    {
+      "id": "912f5291b8bc",
+      "title": "Doli Doli Song",
+      "normalizedTitle": "doli doli song",
+      "trackNumber": 5,
+      "duration": "5:34",
+      "durationSeconds": 334,
+      "audio": "Doli Doli Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Shankar Mahadevan",
+        "S.A. Rajkumar",
+        "Chitra",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5381351
+    },
+    {
+      "id": "57b40d12d07b",
+      "title": "Ela Vachenamma Song",
+      "normalizedTitle": "ela vachenamma song",
+      "trackNumber": 6,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Ela Vachenamma Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Udit Narayan",
+        "Sadhana Sargam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4385740
+    },
+    {
+      "id": "30f6140e8928",
+      "title": "Pelli Pata Song",
+      "normalizedTitle": "pelli pata song",
+      "trackNumber": 7,
+      "duration": "1:27",
+      "durationSeconds": 87,
+      "audio": "Pelli Pata Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Partha Saradhi",
+        "Murali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1414043
+    }
+  ]
+}

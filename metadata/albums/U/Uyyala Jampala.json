@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "0bcbbe16a42e",
+    "name": "Uyyala Jampala",
+    "year": 2013,
+    "musicDirector": "Sunny M.R.",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Uyyala Jampala.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "905dbef51941",
+      "title": "Dher Tak Chala Song",
+      "normalizedTitle": "dher tak chala song",
+      "trackNumber": 1,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Dher Tak Chala Song.mp3",
+      "composer": "Music : Sunny M.R. | Lyrics : Vasu Valaboju, Rambabu Gosala",
+      "singers": [
+        "Arijit Singh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4518851
+    },
+    {
+      "id": "3ddc770b985a",
+      "title": "Lapak Lapak Ayipothu Song",
+      "normalizedTitle": "lapak lapak ayipothu song",
+      "trackNumber": 2,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Lapak Lapak Ayipothu Song.mp3",
+      "composer": "Music : Sunny M.R. | Lyrics : Vasu Valaboju, Rambabu Gosala",
+      "singers": [
+        "Harshika Gudi",
+        "Bindu",
+        "Deepu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5315095
+    },
+    {
+      "id": "f818f269dcb4",
+      "title": "Mana Bandham Song",
+      "normalizedTitle": "mana bandham song",
+      "trackNumber": 3,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Mana Bandham Song.mp3",
+      "composer": "Music : Sunny M.R. | Lyrics : Vasu Valaboju, Rambabu Gosala",
+      "singers": [
+        "Sunny Mr"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4518823
+    },
+    {
+      "id": "ae59be799d67",
+      "title": "Nijamga Idi Nenenaa Song",
+      "normalizedTitle": "nijamga idi nenenaa song",
+      "trackNumber": 4,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Nijamga Idi Nenenaa Song.mp3",
+      "composer": "Music : Sunny M.R. | Lyrics : Vasu Valaboju, Rambabu Gosala",
+      "singers": [
+        "Harshika Gudi",
+        "Sunny Mr"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4429842
+    },
+    {
+      "id": "4555750f534b",
+      "title": "Uyyalaina Jampalaina Song",
+      "normalizedTitle": "uyyalaina jampalaina song",
+      "trackNumber": 5,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Uyyalaina Jampalaina Song.mp3",
+      "composer": "Music : Sunny M.R. | Lyrics : Vasu Valaboju, Rambabu Gosala",
+      "singers": [
+        "Harshika Gudi",
+        "Anudeep Dev"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4282310
+    }
+  ]
+}

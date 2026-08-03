@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "42ec2d65d32e",
+    "name": "Oh! Baby",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Oh! Baby.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "0a36e4ee6b86",
+      "title": "Aakasam Lona Song",
+      "normalizedTitle": "aakasam lona song",
+      "trackNumber": 1,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Aakasam Lona Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Nutana Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3967041
+    },
+    {
+      "id": "2935d34289ed",
+      "title": "Anaganaganaga Song",
+      "normalizedTitle": "anaganaganaga song",
+      "trackNumber": 2,
+      "duration": "3:10",
+      "durationSeconds": 190,
+      "audio": "Anaganaganaga Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Sriramachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3263424
+    },
+    {
+      "id": "b808395fce35",
+      "title": "Changu Bhala Song",
+      "normalizedTitle": "changu bhala song",
+      "trackNumber": 3,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Changu Bhala Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Nutana Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4435540
+    },
+    {
+      "id": "3c2f17ca1d1b",
+      "title": "Maha Adhbhutham Song",
+      "normalizedTitle": "maha adhbhutham song",
+      "trackNumber": 4,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Maha Adhbhutham Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Nutana Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3229759
+    },
+    {
+      "id": "b70079d93679",
+      "title": "Naalo Maimarapu Song",
+      "normalizedTitle": "naalo maimarapu song",
+      "trackNumber": 5,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Naalo Maimarapu Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Mohan Bhogaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3837055
+    },
+    {
+      "id": "b02b76dcf425",
+      "title": "Oh Baby Song",
+      "normalizedTitle": "oh baby song",
+      "trackNumber": 6,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Oh Baby Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128005,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4143308
+    }
+  ]
+}

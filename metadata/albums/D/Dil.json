@@ -1,0 +1,137 @@
+{
+  "album": {
+    "id": "9d342244e938",
+    "name": "Dil",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Dil.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "6ffff129bb97",
+      "title": "Amma Aavu Song",
+      "normalizedTitle": "amma aavu song",
+      "trackNumber": 1,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Amma Aavu Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4582115
+    },
+    {
+      "id": "ba7d9f175c56",
+      "title": "CM PM Song",
+      "normalizedTitle": "cm pm song",
+      "trackNumber": 2,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "CM PM Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "K.K."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4577488
+    },
+    {
+      "id": "3dff1f4a82b0",
+      "title": "Enduko Emito Song",
+      "normalizedTitle": "enduko emito song",
+      "trackNumber": 3,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Enduko Emito Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4045454
+    },
+    {
+      "id": "4f7ed2e8e4bb",
+      "title": "Gajulu Gallumannaye Song",
+      "normalizedTitle": "gajulu gallumannaye song",
+      "trackNumber": 4,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Gajulu Gallumannaye Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4231909
+    },
+    {
+      "id": "582132f5e0ee",
+      "title": "Oka Nuvvu Oka Nenu Song",
+      "normalizedTitle": "oka nuvvu oka nenu song",
+      "trackNumber": 5,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Oka Nuvvu Oka Nenu Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "K.K."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3128455
+    },
+    {
+      "id": "872ac1bdb034",
+      "title": "Peddaloddantunna Song",
+      "normalizedTitle": "peddaloddantunna song",
+      "trackNumber": 6,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Peddaloddantunna Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sriram",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3771710
+    },
+    {
+      "id": "66fdfaee88fb",
+      "title": "Tamalapaku Song",
+      "normalizedTitle": "tamalapaku song",
+      "trackNumber": 7,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Tamalapaku Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3711112
+    }
+  ]
+}

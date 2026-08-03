@@ -1,0 +1,50 @@
+{
+  "album": {
+    "id": "53bcc18996a6",
+    "name": "Parasakthi (2026) – Telugu",
+    "year": 2026,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Parasakthi (2026) – Telugu.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "5d791510c2ae",
+      "title": "Ratnamla Song",
+      "normalizedTitle": "ratnamla song",
+      "trackNumber": 1,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Ratnamla Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "GV Prakash Kumar"
+      ],
+      "bitrate": 131453,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4940168
+    },
+    {
+      "id": "5ab7c7d25a33",
+      "title": "Singaraala Seethaakoka Song",
+      "normalizedTitle": "singaraala seethaakoka song",
+      "trackNumber": 2,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Singaraala Seethaakoka Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "L. V. Revanth",
+        "Dhee",
+        "Sean Roldan"
+      ],
+      "bitrate": 135668,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4645841
+    }
+  ]
+}

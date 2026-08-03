@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "d816bb162053",
+    "name": "Oka Laila Kosam",
+    "year": 2014,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Oka Laila Kosam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "cbcaa446df74",
+      "title": "Ee Chinni Life Song",
+      "normalizedTitle": "ee chinni life song",
+      "trackNumber": 1,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Ee Chinni Life Song.mp3",
+      "composer": "Music : Anoop Rubens | Lyrics : Vanamali",
+      "singers": [
+        "Anoop Rubens",
+        "Alphons Joseph"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4120767
+    },
+    {
+      "id": "e4f35af9c08d",
+      "title": "O Cheli Nuvve Na Song",
+      "normalizedTitle": "o cheli nuvve na song",
+      "trackNumber": 2,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "O Cheli Nuvve Na Song.mp3",
+      "composer": "Music : Anoop Rubens | Lyrics : Phani Chandra",
+      "singers": [
+        "Adnan Sami",
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3971574
+    },
+    {
+      "id": "3d82ade53a60",
+      "title": "O Meri Jane Ja Song",
+      "normalizedTitle": "o meri jane ja song",
+      "trackNumber": 3,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "O Meri Jane Ja Song.mp3",
+      "composer": "Music : Anoop Rubens | Lyrics : Srimani",
+      "singers": [
+        "Javed Ali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4023347
+    },
+    {
+      "id": "e63912501107",
+      "title": "Oka Laila Kosam Song",
+      "normalizedTitle": "oka laila kosam song",
+      "trackNumber": 4,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Oka Laila Kosam Song.mp3",
+      "composer": "Music : Anoop Rubens | Lyrics : Dasari Narayana Rao",
+      "singers": [
+        "S.P. Charan",
+        "Divya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4135400
+    },
+    {
+      "id": "30204b5729dc",
+      "title": "Rubens Club Mix Song",
+      "normalizedTitle": "rubens club mix song",
+      "trackNumber": 5,
+      "duration": "2:30",
+      "durationSeconds": 150,
+      "audio": "Rubens Club Mix Song.mp3",
+      "composer": "Music : Anoop Rubens | Lyrics : -",
+      "singers": [
+        "Anoop Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2491118
+    },
+    {
+      "id": "e09f697b9d19",
+      "title": "Teluse Nuvvu Ravani Song",
+      "normalizedTitle": "teluse nuvvu ravani song",
+      "trackNumber": 6,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Teluse Nuvvu Ravani Song.mp3",
+      "composer": "Music : Anoop Rubens | Lyrics : Anantha Sriram",
+      "singers": [
+        "Ankit Tiwari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3668525
+    }
+  ]
+}

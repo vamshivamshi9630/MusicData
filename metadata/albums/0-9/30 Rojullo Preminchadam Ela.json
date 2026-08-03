@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "92feef24b666",
+    "name": "30 Rojullo Preminchadam Ela",
+    "year": 2021,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "30 Rojullo Preminchadam Ela.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "92639963973a",
+      "title": "Amma Nannu Mallee Penchavaa Song",
+      "normalizedTitle": "amma nannu mallee penchavaa song",
+      "trackNumber": 1,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Amma Nannu Mallee Penchavaa Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Master Rishon Rubens",
+        "Anup Rubens"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9321600
+    },
+    {
+      "id": "c6d22978d2b8",
+      "title": "Idera Sneham Song-DownloadArtist - Armaan Malik Song",
+      "normalizedTitle": "idera sneham songdownloadartist armaan malik song",
+      "trackNumber": 2,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Idera Sneham Song-DownloadArtist - Armaan Malik Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4052736
+    },
+    {
+      "id": "cc1bd9bd1d4b",
+      "title": "Meeko Dhandam Song",
+      "normalizedTitle": "meeko dhandam song",
+      "trackNumber": 3,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Meeko Dhandam Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Dhananjay",
+        "Mohana Bhogaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4578494
+    },
+    {
+      "id": "874dbf148cbf",
+      "title": "Neeli Neeli Aakasam Song",
+      "normalizedTitle": "neeli neeli aakasam song",
+      "trackNumber": 4,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Neeli Neeli Aakasam Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Sid Sriram",
+        "Sunitha"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7105119
+    },
+    {
+      "id": "468f6d8b7ded",
+      "title": "Wah Wah Mere Bava Song",
+      "normalizedTitle": "wah wah mere bava song",
+      "trackNumber": 5,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Wah Wah Mere Bava Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3921361
+    }
+  ]
+}

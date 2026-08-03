@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "754de699e5cf",
+    "name": "Samajavaragamana",
+    "year": 2023,
+    "musicDirector": "Gopi Sundar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Samajavaragamana.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "92f73647a238",
+      "title": "Choti Choti Song",
+      "normalizedTitle": "choti choti song",
+      "trackNumber": 1,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Choti Choti Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "S.P Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4116249
+    },
+    {
+      "id": "3f858ba46446",
+      "title": "Hola Re Hola Song",
+      "normalizedTitle": "hola re hola song",
+      "trackNumber": 2,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Hola Re Hola Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "J.V Sudhanshu",
+        "Sony komanduri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4584314
+    },
+    {
+      "id": "e7c397ffb297",
+      "title": "Humsafar Song",
+      "normalizedTitle": "humsafar song",
+      "trackNumber": 3,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Humsafar Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Shakthi Sree Gopalan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4114021
+    },
+    {
+      "id": "a311bc70aa3a",
+      "title": "What To Do Song",
+      "normalizedTitle": "what to do song",
+      "trackNumber": 4,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "What To Do Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Jassie Gift"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4148580
+    }
+  ]
+}

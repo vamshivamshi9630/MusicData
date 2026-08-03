@@ -1,0 +1,100 @@
+{
+  "album": {
+    "id": "3137fe52d666",
+    "name": "Ashta Chamma",
+    "year": 2008,
+    "musicDirector": "Kalyani Malik",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ashta Chamma.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "2a53fdca2bdf",
+      "title": ".mp3",
+      "normalizedTitle": "mp3",
+      "trackNumber": 1,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": ".mp3.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Sriramachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4208132
+    },
+    {
+      "id": "e55b26fae7c9",
+      "title": "Aadinchi Ashta Chamma Song",
+      "normalizedTitle": "aadinchi ashta chamma song",
+      "trackNumber": 2,
+      "duration": "3:40",
+      "durationSeconds": 220,
+      "audio": "Aadinchi Ashta Chamma Song.mp3",
+      "composer": "Music : Kalyani Malik | Lyrics : Sirivennela Seetarama Sastry",
+      "singers": [
+        "Srikrishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3553227
+    },
+    {
+      "id": "1cfebe7ba145",
+      "title": "Ashta Chamma Theme Song",
+      "normalizedTitle": "ashta chamma theme song",
+      "trackNumber": 3,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Ashta Chamma Theme Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Sushma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3150259
+    },
+    {
+      "id": "72c0aad54e12",
+      "title": "Nammalo Ledo Song",
+      "normalizedTitle": "nammalo ledo song",
+      "trackNumber": 4,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Nammalo Ledo Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Sriramachandra",
+        "Manasa Veena"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4595580
+    },
+    {
+      "id": "98e67632e975",
+      "title": "Song_4",
+      "normalizedTitle": "song 4",
+      "trackNumber": 5,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Song_4.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Sriramachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4208132
+    }
+  ]
+}

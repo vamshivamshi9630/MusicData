@@ -1,0 +1,107 @@
+{
+  "album": {
+    "id": "37b0d1b8c464",
+    "name": "Double Trouble",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Double Trouble.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "6a7cd8f6cbd3",
+      "title": "Double Trouble Song",
+      "normalizedTitle": "double trouble song",
+      "trackNumber": 1,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Double Trouble Song.mp3",
+      "composer": "Music : Sandeep Addanki | Lyrics : Sri Nag, Pavan, Krishna Suresh",
+      "singers": [
+        "Anudeep",
+        "Vamsi",
+        "Sandeep",
+        "Ramki",
+        "Bhaskar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3880796
+    },
+    {
+      "id": "46ceb2b54d46",
+      "title": "Lets Go Lets Go Song",
+      "normalizedTitle": "lets go lets go song",
+      "trackNumber": 2,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Lets Go Lets Go Song.mp3",
+      "composer": "Music : Sandeep Addanki | Lyrics : Sri Nag",
+      "singers": [
+        "Sandeep",
+        "Vamsi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3744003
+    },
+    {
+      "id": "569c6beaac73",
+      "title": "Ne Nadiche Song",
+      "normalizedTitle": "ne nadiche song",
+      "trackNumber": 3,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Ne Nadiche Song.mp3",
+      "composer": "Music : Sandeep Addanki | Lyrics : Pavan Dharmavarapu",
+      "singers": [
+        "Deepu",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4400643
+    },
+    {
+      "id": "e23492e63d5a",
+      "title": "Nee Kanuchupu Song",
+      "normalizedTitle": "nee kanuchupu song",
+      "trackNumber": 4,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Nee Kanuchupu Song.mp3",
+      "composer": "Music : Sandeep Addanki | Lyrics : Pavan Dharmavarapu",
+      "singers": [
+        "Hemachandra",
+        "Sravana Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4410278
+    },
+    {
+      "id": "68c3a9830f36",
+      "title": "Rekkalu Vache Gundeki Song",
+      "normalizedTitle": "rekkalu vache gundeki song",
+      "trackNumber": 5,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Rekkalu Vache Gundeki Song.mp3",
+      "composer": "Music : Sandeep Addanki | Lyrics : Kedharnath",
+      "singers": [
+        "Dinakar",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4393536
+    }
+  ]
+}

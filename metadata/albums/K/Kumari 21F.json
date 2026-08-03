@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "52cbf25bdfba",
+    "name": "Kumari 21F",
+    "year": 2015,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kumari 21F.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "994e5abe5e3c",
+      "title": "Baby U Gonna Miss Me Song",
+      "normalizedTitle": "baby u gonna miss me song",
+      "trackNumber": 1,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Baby U Gonna Miss Me Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: C㏊ndrabose, Ramajogayya Saﬅry",
+      "singers": [
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4002736
+    },
+    {
+      "id": "f952b3425bcc",
+      "title": "Bang Bang Bangkok Song",
+      "normalizedTitle": "bang bang bangkok song",
+      "trackNumber": 2,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Bang Bang Bangkok Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: C㏊ndrabose, Ramajogayya Saﬅry",
+      "singers": [
+        "Deⅵ Sri Prasad",
+        "Ran㏌a Reddy",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3492458
+    },
+    {
+      "id": "e0a3b077800e",
+      "title": "Breakup Patchup Song",
+      "normalizedTitle": "breakup patchup song",
+      "trackNumber": 3,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Breakup Patchup Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: C㏊ndrabose, Ramajogayya Saﬅry",
+      "singers": [
+        "Mm Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4263123
+    },
+    {
+      "id": "cc71581c256d",
+      "title": "Love Cheyyaala Oddha Song",
+      "normalizedTitle": "love cheyyaala oddha song",
+      "trackNumber": 4,
+      "duration": "3:25",
+      "durationSeconds": 205,
+      "audio": "Love Cheyyaala Oddha Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: C㏊ndrabose, Ramajogayya Saﬅry",
+      "singers": [
+        "Narendra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3371208
+    },
+    {
+      "id": "e660b710ce6f",
+      "title": "Meghaalu Lekunna Song",
+      "normalizedTitle": "meghaalu lekunna song",
+      "trackNumber": 5,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Meghaalu Lekunna Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: C㏊ndrabose, Ramajogayya Saﬅry",
+      "singers": [
+        "Yaz㏌ Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4901351
+    }
+  ]
+}

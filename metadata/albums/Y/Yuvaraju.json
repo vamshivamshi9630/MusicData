@@ -1,0 +1,211 @@
+{
+  "album": {
+    "id": "584e158520a9",
+    "name": "Yuvaraju",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Yuvaraju.png",
+    "songCount": 11
+  },
+  "songs": [
+    {
+      "id": "dda718fbd228",
+      "title": "Chandamamaa.mp",
+      "normalizedTitle": "chandamamaamp",
+      "trackNumber": 1,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Chandamamaa.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sunitha",
+        "Anuradha Sriram",
+        "Ramana Gogula"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4503564
+    },
+    {
+      "id": "3069053a9d51",
+      "title": "Guitar Theme (Freak).mp",
+      "normalizedTitle": "guitar theme freakmp",
+      "trackNumber": 2,
+      "duration": "1:18",
+      "durationSeconds": 78,
+      "audio": "Guitar Theme (Freak).mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Instrumental"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1274824
+    },
+    {
+      "id": "1362d7b2d2d4",
+      "title": "Guitar Theme.mp",
+      "normalizedTitle": "guitar thememp",
+      "trackNumber": 3,
+      "duration": "1:40",
+      "durationSeconds": 100,
+      "audio": "Guitar Theme.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Instrumental"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1622968
+    },
+    {
+      "id": "52591d2e7d25",
+      "title": "Gunthalakidi.mp",
+      "normalizedTitle": "gunthalakidimp",
+      "trackNumber": 4,
+      "duration": "5:39",
+      "durationSeconds": 339,
+      "audio": "Gunthalakidi.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "SP Balu",
+        "Chitra",
+        "Ramana Gogula"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5459458
+    },
+    {
+      "id": "ecd95159dc16",
+      "title": "Haire Hai Debba.mp",
+      "normalizedTitle": "haire hai debbamp",
+      "trackNumber": 5,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Haire Hai Debba.mp.mp3",
+      "composer": "Ramana Gokula",
+      "singers": [
+        "Udith Narayan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4631532
+    },
+    {
+      "id": "dff9b3a4c76f",
+      "title": "Manasemo.mp",
+      "normalizedTitle": "manasemomp",
+      "trackNumber": 6,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Manasemo.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4686148
+    },
+    {
+      "id": "23f535458403",
+      "title": "Nookalisthe.mp",
+      "normalizedTitle": "nookalisthemp",
+      "trackNumber": 7,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Nookalisthe.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shankar Mahadevan",
+        "Nanditha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4674073
+    },
+    {
+      "id": "9d60d9143515",
+      "title": "Olammo.mp",
+      "normalizedTitle": "olammomp",
+      "trackNumber": 8,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Olammo.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Raman Gogula",
+        "Nanditha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4577085
+    },
+    {
+      "id": "bbcd36d21f28",
+      "title": "Ramachilaka.mp",
+      "normalizedTitle": "ramachilakamp",
+      "trackNumber": 9,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Ramachilaka.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Raman Gogula"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4289939
+    },
+    {
+      "id": "fb772a267abb",
+      "title": "Tholivalape.mp",
+      "normalizedTitle": "tholivalapemp",
+      "trackNumber": 10,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Tholivalape.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Hariharan",
+        "Chitra",
+        "Sunitha",
+        "Ramana Gogula"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4382360
+    },
+    {
+      "id": "f964dd6d17ea",
+      "title": "Twinkle Twinkl.mp",
+      "normalizedTitle": "twinkle twinklmp",
+      "trackNumber": 11,
+      "duration": "0:56",
+      "durationSeconds": 56,
+      "audio": "Twinkle Twinkl.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Ramana Gogula",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 918704
+    }
+  ]
+}

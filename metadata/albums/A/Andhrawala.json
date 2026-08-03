@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "2f15e237a9cd",
+    "name": "Andhrawala",
+    "year": 2004,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Andhrawala.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "032dc27a125f",
+      "title": "Gitchi Gitchi.Mp",
+      "normalizedTitle": "gitchi gitchimp",
+      "trackNumber": 1,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Gitchi Gitchi.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4619586
+    },
+    {
+      "id": "4b3cb8035457",
+      "title": "Kokkokolamissa.Mp",
+      "normalizedTitle": "kokkokolamissamp",
+      "trackNumber": 2,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Kokkokolamissa.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4418968
+    },
+    {
+      "id": "1b060912b175",
+      "title": "Malleteegaroi.Mp",
+      "normalizedTitle": "malleteegaroimp",
+      "trackNumber": 3,
+      "duration": "5:29",
+      "durationSeconds": 329,
+      "audio": "Malleteegaroi.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5336804
+    },
+    {
+      "id": "f18094ea510b",
+      "title": "Nairey Nairey.Mp",
+      "normalizedTitle": "nairey naireymp",
+      "trackNumber": 4,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Nairey Nairey.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4633797
+    },
+    {
+      "id": "eee10159147c",
+      "title": "Nipputunakai.Mp",
+      "normalizedTitle": "nipputunakaimp",
+      "trackNumber": 5,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Nipputunakai.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4477896
+    },
+    {
+      "id": "412cd2dfefdb",
+      "title": "Unga Unga.Mp",
+      "normalizedTitle": "unga ungamp",
+      "trackNumber": 6,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Unga Unga.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4549779
+    }
+  ]
+}

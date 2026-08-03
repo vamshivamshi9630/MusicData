@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "239340bf1151",
+    "name": "Vijayendra Varma",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Vijayendra Varma.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c4e30de7f468",
+      "title": "Guntadhi Guntadhi Song",
+      "normalizedTitle": "guntadhi guntadhi song",
+      "trackNumber": 1,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Guntadhi Guntadhi Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Koti",
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4266750
+    },
+    {
+      "id": "955bcd2e385d",
+      "title": "Maisamma Song",
+      "normalizedTitle": "maisamma song",
+      "trackNumber": 2,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Maisamma Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Koti",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4696812
+    },
+    {
+      "id": "480abeecd0ee",
+      "title": "Mandapetalo Song",
+      "normalizedTitle": "mandapetalo song",
+      "trackNumber": 3,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Mandapetalo Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Koti",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4593582
+    },
+    {
+      "id": "8860d1ca8b8e",
+      "title": "Ningi Kadupunu Song",
+      "normalizedTitle": "ningi kadupunu song",
+      "trackNumber": 4,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Ningi Kadupunu Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Koti"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4327766
+    },
+    {
+      "id": "f76217867519",
+      "title": "O Manmadha Song",
+      "normalizedTitle": "o manmadha song",
+      "trackNumber": 5,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "O Manmadha Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Koti",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5024496
+    },
+    {
+      "id": "21a332ca3314",
+      "title": "Siggu Paparo Song",
+      "normalizedTitle": "siggu paparo song",
+      "trackNumber": 6,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Siggu Paparo Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Koti",
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4655860
+    }
+  ]
+}

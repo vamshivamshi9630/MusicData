@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "9b6ae434c891",
+    "name": "Itlu Arjuna",
+    "year": 2025,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Itlu Arjuna.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "051a39a1c772",
+      "title": "Hai Re Song",
+      "normalizedTitle": "hai re song",
+      "trackNumber": 1,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Hai Re Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 126185,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3593644
+    }
+  ]
+}

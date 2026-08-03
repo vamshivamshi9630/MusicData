@@ -1,0 +1,193 @@
+{
+  "album": {
+    "id": "442266cd2023",
+    "name": "Aahwanam",
+    "year": 1997,
+    "musicDirector": "S. V. Krishna Reddy",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aahwanam.png",
+    "songCount": 10
+  },
+  "songs": [
+    {
+      "id": "82fa55544b1c",
+      "title": "Devatalaaraa Song",
+      "normalizedTitle": "devatalaaraa song",
+      "trackNumber": 1,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Devatalaaraa Song.mp3",
+      "composer": "S. V. Krishna Reddy",
+      "singers": [
+        "S.P.Balasubrahmanyam",
+        "Chitra & Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4915572
+    },
+    {
+      "id": "59bdfa1e24ff",
+      "title": "Hai Hai Naayakaa Song",
+      "normalizedTitle": "hai hai naayakaa song",
+      "trackNumber": 2,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Hai Hai Naayakaa Song.mp3",
+      "composer": "S. V. Krishna Reddy",
+      "singers": [
+        "Hariharan & Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4321628
+    },
+    {
+      "id": "62f18d4e952c",
+      "title": "Manasa Song",
+      "normalizedTitle": "manasa song",
+      "trackNumber": 3,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Manasa Song.mp3",
+      "composer": "S. V. Krishna Reddy",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3612319
+    },
+    {
+      "id": "01faf57e9544",
+      "title": "Minsare Minsare Song",
+      "normalizedTitle": "minsare minsare song",
+      "trackNumber": 4,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Minsare Minsare Song.mp3",
+      "composer": "S. V. Krishna Reddy",
+      "singers": [
+        "Hariharan & Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4066673
+    },
+    {
+      "id": "f36399129029",
+      "title": "Nee Mansulo Mata",
+      "normalizedTitle": "nee mansulo mata",
+      "trackNumber": 5,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Nee Mansulo Mata.mp3",
+      "composer": "S. V. Krishna Reddy",
+      "singers": [
+        "Chitra",
+        "Satyanarayana",
+        "Nirmalamma & Prasanna Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4142665
+    },
+    {
+      "id": "975f5a13f480",
+      "title": "Nee Mansulo",
+      "normalizedTitle": "nee mansulo",
+      "trackNumber": 6,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Nee Mansulo.mp3",
+      "composer": "S. V. Krishna Reddy",
+      "singers": [
+        "Chitra",
+        "Satyanarayana",
+        "Nirmalamma & Prasanna Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4142665
+    },
+    {
+      "id": "9eda78db4fef",
+      "title": "Pandiri Vesina Song",
+      "normalizedTitle": "pandiri vesina song",
+      "trackNumber": 7,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Pandiri Vesina Song.mp3",
+      "composer": "S. V. Krishna Reddy",
+      "singers": [
+        "S.P.Balasubrahmanyam",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4258118
+    },
+    {
+      "id": "ddc780c61ace",
+      "title": "Sri Rasthu Subhamastu",
+      "normalizedTitle": "sri rasthu subhamastu",
+      "trackNumber": 8,
+      "duration": "7:14",
+      "durationSeconds": 434,
+      "audio": "Sri Rasthu Subhamastu.mp3",
+      "composer": "S. V. Krishna Reddy",
+      "singers": [
+        "S.P.Balasubrahmanyam",
+        "Chitra & Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7104424
+    },
+    {
+      "id": "9c9a888471a8",
+      "title": "Sri Rasthu",
+      "normalizedTitle": "sri rasthu",
+      "trackNumber": 9,
+      "duration": "7:14",
+      "durationSeconds": 434,
+      "audio": "Sri Rasthu.mp3",
+      "composer": "S. V. Krishna Reddy",
+      "singers": [
+        "S.P.Balasubrahmanyam",
+        "Chitra & Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7104424
+    },
+    {
+      "id": "4a5eb50ab747",
+      "title": "Yelaloye Song",
+      "normalizedTitle": "yelaloye song",
+      "trackNumber": 10,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Yelaloye Song.mp3",
+      "composer": "S. V. Krishna Reddy",
+      "singers": [
+        "S.P.Balasubrahmanyam",
+        "Chitra & Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3881537
+    }
+  ]
+}

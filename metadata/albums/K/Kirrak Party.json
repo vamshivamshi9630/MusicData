@@ -1,0 +1,136 @@
+{
+  "album": {
+    "id": "c5656838d6ca",
+    "name": "Kirrak Party",
+    "year": 2018,
+    "musicDirector": "B. Ajaneesh Loknath",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kirrak Party.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "bd2a879d0a63",
+      "title": "Dum Dare Song",
+      "normalizedTitle": "dum dare song",
+      "trackNumber": 1,
+      "duration": "3:51",
+      "durationSeconds": 231,
+      "audio": "Dum Dare Song.mp3",
+      "composer": "Ajaneesh Lokanath",
+      "singers": [
+        "Hari Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4046236
+    },
+    {
+      "id": "8748bf587444",
+      "title": "Guruvaram Song",
+      "normalizedTitle": "guruvaram song",
+      "trackNumber": 2,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Guruvaram Song.mp3",
+      "composer": "Ajaneesh Lokanath",
+      "singers": [
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3799648
+    },
+    {
+      "id": "c029a64366c8",
+      "title": "Last Bench Song",
+      "normalizedTitle": "last bench song",
+      "trackNumber": 3,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Last Bench Song.mp3",
+      "composer": "Ajaneesh Lokanath",
+      "singers": [
+        "Shashank sheshagiri",
+        "Chintan Vikas",
+        "Varun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3149803
+    },
+    {
+      "id": "c7e402cd384e",
+      "title": "Neechamaina Song",
+      "normalizedTitle": "neechamaina song",
+      "trackNumber": 4,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Neechamaina Song.mp3",
+      "composer": "Ajaneesh Lokanath",
+      "singers": [
+        "Vasishta N",
+        "Simha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3646255
+    },
+    {
+      "id": "c2be504525b0",
+      "title": "Neelo Ninnu Song",
+      "normalizedTitle": "neelo ninnu song",
+      "trackNumber": 5,
+      "duration": "3:41",
+      "durationSeconds": 221,
+      "audio": "Neelo Ninnu Song.mp3",
+      "composer": "Ajaneesh Lokanath",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3882410
+    },
+    {
+      "id": "7c6a948bdf7b",
+      "title": "Pranamantha Song",
+      "normalizedTitle": "pranamantha song",
+      "trackNumber": 6,
+      "duration": "3:21",
+      "durationSeconds": 201,
+      "audio": "Pranamantha Song.mp3",
+      "composer": "Ajaneesh Lokanath",
+      "singers": [
+        "Kala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3565595
+    },
+    {
+      "id": "42e133c01815",
+      "title": "Sir Bewarse Song",
+      "normalizedTitle": "sir bewarse song",
+      "trackNumber": 7,
+      "duration": "3:03",
+      "durationSeconds": 183,
+      "audio": "Sir Bewarse Song.mp3",
+      "composer": "Ajaneesh Lokanath",
+      "singers": [
+        "Shashank Sheshagiri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3279305
+    }
+  ]
+}

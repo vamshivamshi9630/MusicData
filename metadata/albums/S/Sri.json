@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "d5e96656c6f4",
+    "name": "Sri",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sri.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "f67a2d8379a7",
+      "title": "Are Chi",
+      "normalizedTitle": "are chi",
+      "trackNumber": 1,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Are Chi.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Rajesh Krishnan",
+        "Shweta Pandit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5106235
+    },
+    {
+      "id": "0e11f869e8de",
+      "title": "Holi Holi",
+      "normalizedTitle": "holi holi",
+      "trackNumber": 2,
+      "duration": "5:50",
+      "durationSeconds": 350,
+      "audio": "Holi Holi.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Rajesh Krishnan",
+        "Neekita Nigam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5857308
+    },
+    {
+      "id": "cb0a4febf113",
+      "title": "Mari Mari",
+      "normalizedTitle": "mari mari",
+      "trackNumber": 3,
+      "duration": "1:40",
+      "durationSeconds": 100,
+      "audio": "Mari Mari.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Sowmya Rao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1857020
+    },
+    {
+      "id": "894a44ed9249",
+      "title": "Prema Prema",
+      "normalizedTitle": "prema prema",
+      "trackNumber": 4,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Prema Prema.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Rajesh Krishnan",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4588383
+    },
+    {
+      "id": "ec28463977a7",
+      "title": "Sindhoora",
+      "normalizedTitle": "sindhoora",
+      "trackNumber": 5,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Sindhoora.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Sandeep Chowta"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4362268
+    },
+    {
+      "id": "26e4e201a5da",
+      "title": "Yem Pilla",
+      "normalizedTitle": "yem pilla",
+      "trackNumber": 6,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Yem Pilla.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "Mano",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4118597
+    }
+  ]
+}

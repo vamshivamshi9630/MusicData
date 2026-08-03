@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "51d1127fb37b",
+    "name": "Cinema Choopistha Mava",
+    "year": 2015,
+    "musicDirector": "Sekhar Chandra",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Cinema Choopistha Mava.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "1e683adb5166",
+      "title": "E Velalona",
+      "normalizedTitle": "e velalona",
+      "trackNumber": 1,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "E Velalona.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Anudeep Dev",
+        "Lipsika"
+      ],
+      "bitrate": 127984,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3609888
+    },
+    {
+      "id": "4f7a7ca75195",
+      "title": "Mama O Chandamama",
+      "normalizedTitle": "mama o chandamama",
+      "trackNumber": 2,
+      "duration": "2:59",
+      "durationSeconds": 179,
+      "audio": "Mama O Chandamama.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Simha"
+      ],
+      "bitrate": 127981,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3039366
+    },
+    {
+      "id": "eb7c162aa225",
+      "title": "Pilli Kalla Papa",
+      "normalizedTitle": "pilli kalla papa",
+      "trackNumber": 3,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Pilli Kalla Papa.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Shekar Chandra"
+      ],
+      "bitrate": 127984,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3469886
+    },
+    {
+      "id": "fec6ce75eccb",
+      "title": "Tholi Tholi",
+      "normalizedTitle": "tholi tholi",
+      "trackNumber": 4,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Tholi Tholi.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Ramya Behara"
+      ],
+      "bitrate": 127985,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3718142
+    },
+    {
+      "id": "c500e6868c99",
+      "title": "Vellake",
+      "normalizedTitle": "vellake",
+      "trackNumber": 5,
+      "duration": "2:42",
+      "durationSeconds": 162,
+      "audio": "Vellake.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Lucky Raj"
+      ],
+      "bitrate": 127979,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2758500
+    },
+    {
+      "id": "9c1f8eeaeab3",
+      "title": "Ye Kshanam",
+      "normalizedTitle": "ye kshanam",
+      "trackNumber": 6,
+      "duration": "3:21",
+      "durationSeconds": 201,
+      "audio": "Ye Kshanam.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Dhinkar"
+      ],
+      "bitrate": 127983,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3387116
+    }
+  ]
+}

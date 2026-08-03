@@ -1,0 +1,153 @@
+{
+  "album": {
+    "id": "b837479fb938",
+    "name": "Uppena",
+    "year": 2021,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Uppena.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "382b5349276c",
+      "title": "Dhak Dhak Dhak Song",
+      "normalizedTitle": "dhak dhak dhak song",
+      "trackNumber": 1,
+      "duration": "1:47",
+      "durationSeconds": 107,
+      "audio": "Dhak Dhak Dhak Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sarath Santhosh",
+        "Hari Priya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2156234
+    },
+    {
+      "id": "f99a516e1f41",
+      "title": "Eswara Song",
+      "normalizedTitle": "eswara song",
+      "trackNumber": 2,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Eswara Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3684096
+    },
+    {
+      "id": "d0597fde9054",
+      "title": "Jala Jala Jalapaatham Nuvvu Song",
+      "normalizedTitle": "jala jala jalapaatham nuvvu song",
+      "trackNumber": 3,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Jala Jala Jalapaatham Nuvvu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shreya Ghoshal",
+        "Jaspreet Jasz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4395264
+    },
+    {
+      "id": "335d1a75fd43",
+      "title": "Nee Kannu Neeli Samudram Song",
+      "normalizedTitle": "nee kannu neeli samudram song",
+      "trackNumber": 4,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Nee Kannu Neeli Samudram Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Javed Ali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5399805
+    },
+    {
+      "id": "29b5369744da",
+      "title": "Ninne Naa Ninne Song",
+      "normalizedTitle": "ninne naa ninne song",
+      "trackNumber": 5,
+      "duration": "1:30",
+      "durationSeconds": 90,
+      "audio": "Ninne Naa Ninne Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sameera"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1756928
+    },
+    {
+      "id": "feefb4ca7016",
+      "title": "Ranguladdhukunna Song",
+      "normalizedTitle": "ranguladdhukunna song",
+      "trackNumber": 6,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Ranguladdhukunna Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Yazin Nizar",
+        "Haripriya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4649600
+    },
+    {
+      "id": "fe885b428683",
+      "title": "Sandram Lona Neerantha Song",
+      "normalizedTitle": "sandram lona neerantha song",
+      "trackNumber": 7,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Sandram Lona Neerantha Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sean Roldan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4154624
+    },
+    {
+      "id": "9a11954afa8d",
+      "title": "Silaka Silaka Song",
+      "normalizedTitle": "silaka silaka song",
+      "trackNumber": 8,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Silaka Silaka Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kailash Kher"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2981120
+    }
+  ]
+}

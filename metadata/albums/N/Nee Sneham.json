@@ -1,0 +1,169 @@
+{
+  "album": {
+    "id": "d006c58c77ba",
+    "name": "Nee Sneham",
+    "year": 2002,
+    "musicDirector": "R. P. Patnaik",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nee Sneham.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "7d1cd2923137",
+      "title": "Auditorium Music Bit Song",
+      "normalizedTitle": "auditorium music bit song",
+      "trackNumber": 1,
+      "duration": "2:26",
+      "durationSeconds": 146,
+      "audio": "Auditorium Music Bit Song.mp3",
+      "composer": "R.P.Patnayak",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2398728
+    },
+    {
+      "id": "a318c3534324",
+      "title": "Chinuku Thadiki Song",
+      "normalizedTitle": "chinuku thadiki song",
+      "trackNumber": 2,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Chinuku Thadiki Song.mp3",
+      "composer": "R.P.Patnayak",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4864645
+    },
+    {
+      "id": "28edb0d2af15",
+      "title": "Ila Choodu Song",
+      "normalizedTitle": "ila choodu song",
+      "trackNumber": 3,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Ila Choodu Song.mp3",
+      "composer": "R.P.Patnayak",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4727559
+    },
+    {
+      "id": "d8ddff3aac33",
+      "title": "Konthakalam Kindata Song",
+      "normalizedTitle": "konthakalam kindata song",
+      "trackNumber": 4,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Konthakalam Kindata Song.mp3",
+      "composer": "R.P.Patnayak",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4789015
+    },
+    {
+      "id": "a44aac7c9356",
+      "title": "Ooruko Hrudayama Song",
+      "normalizedTitle": "ooruko hrudayama song",
+      "trackNumber": 5,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Ooruko Hrudayama Song.mp3",
+      "composer": "R.P.Patnayak",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3470749
+    },
+    {
+      "id": "d2c45f22e1ba",
+      "title": "Veyi Kannulatho",
+      "normalizedTitle": "veyi kannulatho",
+      "trackNumber": 6,
+      "duration": "2:20",
+      "durationSeconds": 140,
+      "audio": "Veyi Kannulatho.mp3",
+      "composer": "R.P.Patnayak",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2313836
+    },
+    {
+      "id": "031a2cfb4837",
+      "title": "Yemo Aunemo (Humming) Song",
+      "normalizedTitle": "yemo aunemo humming song",
+      "trackNumber": 7,
+      "duration": "1:41",
+      "durationSeconds": 101,
+      "audio": "Yemo Aunemo (Humming) Song.mp3",
+      "composer": "R.P.Patnayak",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1682318
+    },
+    {
+      "id": "631ee8d862bf",
+      "title": "Yemo Aunemo Song",
+      "normalizedTitle": "yemo aunemo song",
+      "trackNumber": 8,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Yemo Aunemo Song.mp3",
+      "composer": "R.P.Patnayak",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4758492
+    },
+    {
+      "id": "4c9ed4c2c8cd",
+      "title": "Yeppatiki (Veyi Kannulatho)",
+      "normalizedTitle": "yeppatiki veyi kannulatho",
+      "trackNumber": 9,
+      "duration": "2:20",
+      "durationSeconds": 140,
+      "audio": "Yeppatiki (Veyi Kannulatho).mp3",
+      "composer": "R.P.Patnayak",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2313836
+    }
+  ]
+}

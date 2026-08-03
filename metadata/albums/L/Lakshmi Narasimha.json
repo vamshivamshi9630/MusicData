@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "177fe37c33b4",
+    "name": "Lakshmi Narasimha",
+    "year": 2004,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Lakshmi Narasimha.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "066845ace916",
+      "title": "Andam Lo Andhra Kosta",
+      "normalizedTitle": "andam lo andhra kosta",
+      "trackNumber": 1,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Andam Lo Andhra Kosta.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5357959
+    },
+    {
+      "id": "8e43c3e4154a",
+      "title": "Devunne Pilichavante",
+      "normalizedTitle": "devunne pilichavante",
+      "trackNumber": 2,
+      "duration": "5:43",
+      "durationSeconds": 343,
+      "audio": "Devunne Pilichavante.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5521797
+    },
+    {
+      "id": "faf76294b6f8",
+      "title": "Jada Thoti Kodithe",
+      "normalizedTitle": "jada thoti kodithe",
+      "trackNumber": 3,
+      "duration": "5:44",
+      "durationSeconds": 344,
+      "audio": "Jada Thoti Kodithe.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5528898
+    },
+    {
+      "id": "19f4a5dcee94",
+      "title": "Marumalli Jabilli",
+      "normalizedTitle": "marumalli jabilli",
+      "trackNumber": 4,
+      "duration": "5:24",
+      "durationSeconds": 324,
+      "audio": "Marumalli Jabilli.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5220860
+    },
+    {
+      "id": "9b016a34aa4b",
+      "title": "Nathoti Neeku Panund",
+      "normalizedTitle": "nathoti neeku panund",
+      "trackNumber": 5,
+      "duration": "5:44",
+      "durationSeconds": 344,
+      "audio": "Nathoti Neeku Panund.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5527232
+    },
+    {
+      "id": "4af21540588d",
+      "title": "Pappesuko Charesuko",
+      "normalizedTitle": "pappesuko charesuko",
+      "trackNumber": 6,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Pappesuko Charesuko.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4252035
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "3f3565236b43",
+    "name": "Aura 1010",
+    "year": 2017,
+    "musicDirector": "Johny Lal",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aura 1010.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "e94bc7c0b174",
+      "title": "Aura Song",
+      "normalizedTitle": "aura song",
+      "trackNumber": 1,
+      "duration": "2:08",
+      "durationSeconds": 128,
+      "audio": "Aura Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Hiphop Tamizha"
+      ],
+      "bitrate": 125370,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2213705
+    }
+  ]
+}

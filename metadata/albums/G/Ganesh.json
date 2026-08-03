@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "2415f50d4aa4",
+    "name": "Ganesh",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ganesh.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "201c6c819ed5",
+      "title": "Chalo Chalore Song",
+      "normalizedTitle": "chalo chalore song",
+      "trackNumber": 1,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Chalo Chalore Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Karthik",
+        "Kids Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4711708
+    },
+    {
+      "id": "5b235ecf2536",
+      "title": "Lalla Lai Song",
+      "normalizedTitle": "lalla lai song",
+      "trackNumber": 2,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Lalla Lai Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Krishna Chaitanya",
+        "Shweta Pandit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4529076
+    },
+    {
+      "id": "dadf23594167",
+      "title": "Raja Kumari Song",
+      "normalizedTitle": "raja kumari song",
+      "trackNumber": 3,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Raja Kumari Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Kunal Ganjawala",
+        "Srimathumitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4436289
+    },
+    {
+      "id": "9e36e855571b",
+      "title": "Raja Maharaja Song",
+      "normalizedTitle": "raja maharaja song",
+      "trackNumber": 4,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Raja Maharaja Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Ranjeeth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4677830
+    },
+    {
+      "id": "d9a2a12a9e6a",
+      "title": "Tanemando Song",
+      "normalizedTitle": "tanemando song",
+      "trackNumber": 5,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Tanemando Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Javed Ali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4096439
+    },
+    {
+      "id": "16e39606d048",
+      "title": "Yele Yele Song",
+      "normalizedTitle": "yele yele song",
+      "trackNumber": 6,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Yele Yele Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Srimathumitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4554952
+    }
+  ]
+}

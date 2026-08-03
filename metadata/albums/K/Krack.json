@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "f7c1cc0ee77f",
+    "name": "Krack",
+    "year": 2021,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Krack.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "db3d170394cd",
+      "title": "BalegaTagilaveyBangaram Song",
+      "normalizedTitle": "balegatagilaveybangaram song",
+      "trackNumber": 1,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "BalegaTagilaveyBangaram Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3952256
+    },
+    {
+      "id": "5f0ba9b200c1",
+      "title": "Bhoom Bhaddhal Song",
+      "normalizedTitle": "bhoom bhaddhal song",
+      "trackNumber": 2,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Bhoom Bhaddhal Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Mangli",
+        "Simha",
+        "S. Thaman"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4641581
+    },
+    {
+      "id": "174260e12281",
+      "title": "Korameesam Polisoda Song",
+      "normalizedTitle": "korameesam polisoda song",
+      "trackNumber": 3,
+      "duration": "3:41",
+      "durationSeconds": 221,
+      "audio": "Korameesam Polisoda Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3616026
+    },
+    {
+      "id": "aabb60c46eb7",
+      "title": "Mass Biryani Song",
+      "normalizedTitle": "mass biryani song",
+      "trackNumber": 4,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Mass Biryani Song.mp3",
+      "composer": "S. Thaman",
+      "singers": [
+        "Rahul Nambiar",
+        "Sahithi Chaganti"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3887699
+    },
+    {
+      "id": "3791f66feec7",
+      "title": "The Theme Of Katari Song",
+      "normalizedTitle": "the theme of katari song",
+      "trackNumber": 5,
+      "duration": "2:45",
+      "durationSeconds": 165,
+      "audio": "The Theme Of Katari Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sri Krishna & Sai Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3097472
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "844ea050cd81",
+    "name": "Padi Padi Leche Manasu",
+    "year": 2018,
+    "musicDirector": "Vishal Chandrashekhar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Padi Padi Leche Manasu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "9e6a7938a4a4",
+      "title": "Emai Poyave Song",
+      "normalizedTitle": "emai poyave song",
+      "trackNumber": 1,
+      "duration": "2:34",
+      "durationSeconds": 154,
+      "audio": "Emai Poyave Song.mp3",
+      "composer": "Vishal Chandrashekar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2544400
+    },
+    {
+      "id": "5b03e30758de",
+      "title": "Hrudhayam Jaripe Song",
+      "normalizedTitle": "hrudhayam jaripe song",
+      "trackNumber": 2,
+      "duration": "3:12",
+      "durationSeconds": 192,
+      "audio": "Hrudhayam Jaripe Song.mp3",
+      "composer": "Vishal Chandrashekar",
+      "singers": [
+        "Vishal Chandrashekhar",
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3147991
+    },
+    {
+      "id": "1df3c8857ca1",
+      "title": "Kallolam Song",
+      "normalizedTitle": "kallolam song",
+      "trackNumber": 3,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Kallolam Song.mp3",
+      "composer": "Vishal Chandrashekar",
+      "singers": [
+        "Vishal Chandrashekhar",
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3413388
+    },
+    {
+      "id": "f76e2277fcb6",
+      "title": "O My Lovely Lalana Song",
+      "normalizedTitle": "o my lovely lalana song",
+      "trackNumber": 4,
+      "duration": "3:19",
+      "durationSeconds": 199,
+      "audio": "O My Lovely Lalana Song.mp3",
+      "composer": "Vishal Chandrashekar",
+      "singers": [
+        "Sundhuri Vishal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3260388
+    },
+    {
+      "id": "4d33b026ef55",
+      "title": "Padi Padi Leche Manasu Song",
+      "normalizedTitle": "padi padi leche manasu song",
+      "trackNumber": 5,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Padi Padi Leche Manasu Song.mp3",
+      "composer": "Vishal Chandrashekar",
+      "singers": [
+        "Armaan Malik",
+        "Sinduri Vishal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3325608
+    },
+    {
+      "id": "083921cda941",
+      "title": "Urike Cheli Chilaka Song",
+      "normalizedTitle": "urike cheli chilaka song",
+      "trackNumber": 6,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Urike Cheli Chilaka Song.mp3",
+      "composer": "Vishal Chandrashekar",
+      "singers": [
+        "Rahul Sipligunj",
+        "M.M.Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3206918
+    }
+  ]
+}

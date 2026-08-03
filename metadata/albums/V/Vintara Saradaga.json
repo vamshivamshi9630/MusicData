@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "3e0bada7be1b",
+    "name": "Vintara Saradaga",
+    "year": 2025,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Vintara Saradaga.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "e191e41c99f4",
+      "title": "Anaga Anaga America Song",
+      "normalizedTitle": "anaga anaga america song",
+      "trackNumber": 1,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Anaga Anaga America Song.mp3",
+      "composer": "Vijai Bulganin",
+      "singers": [
+        "Sanjith Hegde"
+      ],
+      "bitrate": 123510,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4068030
+    }
+  ]
+}

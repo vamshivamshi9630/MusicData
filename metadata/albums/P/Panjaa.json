@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "3b00dc9bc21e",
+    "name": "Panjaa",
+    "year": 2011,
+    "musicDirector": "Yuvan Shankar Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Panjaa.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "66658b924f03",
+      "title": "Anukoneledhuga.Mp",
+      "normalizedTitle": "anukoneledhugamp",
+      "trackNumber": 1,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Anukoneledhuga.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Sarah Jane Dias"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4356810
+    },
+    {
+      "id": "c70351892bce",
+      "title": "Ela Ela.Mp",
+      "normalizedTitle": "ela elamp",
+      "trackNumber": 2,
+      "duration": "5:07",
+      "durationSeconds": 307,
+      "audio": "Ela Ela.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Sarah Jane Dias"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5010072
+    },
+    {
+      "id": "e17f52773a07",
+      "title": "Kshanam Kshanam.mp",
+      "normalizedTitle": "kshanam kshanammp",
+      "trackNumber": 3,
+      "duration": "1:47",
+      "durationSeconds": 107,
+      "audio": "Kshanam Kshanam.mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Sarah Jane Dias"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1805989
+    },
+    {
+      "id": "0f73c9a42a63",
+      "title": "Panja.Mp",
+      "normalizedTitle": "panjamp",
+      "trackNumber": 4,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Panja.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Sarah Jane Dias"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3550957
+    },
+    {
+      "id": "3813a29545a7",
+      "title": "Paparayudu.Mp",
+      "normalizedTitle": "paparayudump",
+      "trackNumber": 5,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Paparayudu.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Sarah Jane Dias"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5132946
+    },
+    {
+      "id": "27acc341ad66",
+      "title": "Veyira Cheyyi.Mp",
+      "normalizedTitle": "veyira cheyyimp",
+      "trackNumber": 6,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Veyira Cheyyi.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Sarah Jane Dias"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4431171
+    }
+  ]
+}

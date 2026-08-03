@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "c6f9d8637244",
+    "name": "Love Ante Different",
+    "year": 2020,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Love Ante Different.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "7f2f860aed1a",
+      "title": "Dekho Dekho Song",
+      "normalizedTitle": "dekho dekho song",
+      "trackNumber": 1,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Dekho Dekho Song.mp3",
+      "composer": "Music : Sri Koti | Lyrics : Thadagonda Chandrasekhar",
+      "singers": [
+        "Anudeep"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3955803
+    },
+    {
+      "id": "54572587b913",
+      "title": "First Time Ninuchoosi Song",
+      "normalizedTitle": "first time ninuchoosi song",
+      "trackNumber": 2,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "First Time Ninuchoosi Song.mp3",
+      "composer": "Music : Sri Koti | Lyrics : Seetharamayya",
+      "singers": [
+        "Anudeep"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3955801
+    },
+    {
+      "id": "e072a1683ff3",
+      "title": "Kalavaramai Song",
+      "normalizedTitle": "kalavaramai song",
+      "trackNumber": 3,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Kalavaramai Song.mp3",
+      "composer": "Music : Sri Koti | Lyrics : Thummati Ravi",
+      "singers": [
+        "Sisira",
+        "Dilaavar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4362056
+    },
+    {
+      "id": "c9c6b7f5da9a",
+      "title": "Manasey Korindhiley Song",
+      "normalizedTitle": "manasey korindhiley song",
+      "trackNumber": 4,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Manasey Korindhiley Song.mp3",
+      "composer": "Music : Sri Koti | Lyrics : Mittapalli Surendar",
+      "singers": [
+        "Dhanunjay",
+        "Sisira"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4301064
+    },
+    {
+      "id": "935e3a05caf5",
+      "title": "Premante Inthena Song",
+      "normalizedTitle": "premante inthena song",
+      "trackNumber": 5,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Premante Inthena Song.mp3",
+      "composer": "Music : Sri Koti | Lyrics : Seetharamayya",
+      "singers": [
+        "Hymu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4979367
+    }
+  ]
+}

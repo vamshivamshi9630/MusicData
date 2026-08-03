@@ -1,0 +1,86 @@
+{
+  "album": {
+    "id": "f8b391e7646f",
+    "name": "Subramanyam for Sale",
+    "year": 2015,
+    "musicDirector": "Mickey J. Meyer",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Subramanyam for Sale.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "6ace97fa5b68",
+      "title": "Aakasam Thassadiyya.mp",
+      "normalizedTitle": "aakasam thassadiyyamp",
+      "trackNumber": 1,
+      "duration": "3:45",
+      "durationSeconds": 225,
+      "audio": "Aakasam Thassadiyya.mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Sai Dharam Tej",
+        "Regina Cassandra-SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3726436
+    },
+    {
+      "id": "2351f069f50e",
+      "title": "Guvva Gorinkatho .mp",
+      "normalizedTitle": "guvva gorinkatho mp",
+      "trackNumber": 2,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Guvva Gorinkatho .mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Sai Dharam Tej",
+        "Regina Cassandra-SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4289009
+    },
+    {
+      "id": "ed9a1934629c",
+      "title": "Subramanyam for Sale .mp",
+      "normalizedTitle": "subramanyam for sale mp",
+      "trackNumber": 3,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Subramanyam for Sale .mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Sai Dharam Tej",
+        "Regina Cassandra-SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3914100
+    },
+    {
+      "id": "5e31bd324a2b",
+      "title": "Telugante .mp",
+      "normalizedTitle": "telugante mp",
+      "trackNumber": 4,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Telugante .mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Sai Dharam Tej",
+        "Regina Cassandra-SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4016082
+    }
+  ]
+}

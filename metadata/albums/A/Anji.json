@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "2d02cece1c01",
+    "name": "Anji",
+    "year": 2004,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Anji.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "2ff11186b092",
+      "title": "Abbo Nee Amma Song",
+      "normalizedTitle": "abbo nee amma song",
+      "trackNumber": 1,
+      "duration": "5:47",
+      "durationSeconds": 347,
+      "audio": "Abbo Nee Amma Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5575306
+    },
+    {
+      "id": "06d74c5d7169",
+      "title": "Chik Buk Pori Song",
+      "normalizedTitle": "chik buk pori song",
+      "trackNumber": 2,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Chik Buk Pori Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4959216
+    },
+    {
+      "id": "6b5bb6585811",
+      "title": "Gumma Gulabi Song",
+      "normalizedTitle": "gumma gulabi song",
+      "trackNumber": 3,
+      "duration": "5:49",
+      "durationSeconds": 349,
+      "audio": "Gumma Gulabi Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5613750
+    },
+    {
+      "id": "990132f8b595",
+      "title": "Manava Manava Song",
+      "normalizedTitle": "manava manava song",
+      "trackNumber": 4,
+      "duration": "5:39",
+      "durationSeconds": 339,
+      "audio": "Manava Manava Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5456170
+    },
+    {
+      "id": "71b24f55602c",
+      "title": "Mirapakaya Song",
+      "normalizedTitle": "mirapakaya song",
+      "trackNumber": 5,
+      "duration": "5:57",
+      "durationSeconds": 357,
+      "audio": "Mirapakaya Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5749165
+    },
+    {
+      "id": "a98266151962",
+      "title": "Om Shanthi Om Song",
+      "normalizedTitle": "om shanthi om song",
+      "trackNumber": 6,
+      "duration": "5:50",
+      "durationSeconds": 350,
+      "audio": "Om Shanthi Om Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5632147
+    }
+  ]
+}

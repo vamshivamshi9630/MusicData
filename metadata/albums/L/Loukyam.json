@@ -1,0 +1,105 @@
+{
+  "album": {
+    "id": "f3c5a79de4e0",
+    "name": "Loukyam",
+    "year": 2014,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Loukyam.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "2ff486728880",
+      "title": "Ninnu Chudagane Song",
+      "normalizedTitle": "ninnu chudagane song",
+      "trackNumber": 1,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Ninnu Chudagane Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Vijay Prakash",
+        "Mohana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4133274
+    },
+    {
+      "id": "ba4783f2a56c",
+      "title": "Pink Lips Song",
+      "normalizedTitle": "pink lips song",
+      "trackNumber": 2,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Pink Lips Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Jaspreet Jasz",
+        "Sahithi Galidevara",
+        "Sweekar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4316312
+    },
+    {
+      "id": "ab83fc17e74e",
+      "title": "Soodu Soodu Song",
+      "normalizedTitle": "soodu soodu song",
+      "trackNumber": 3,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Soodu Soodu Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Dhanunjay",
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3931396
+    },
+    {
+      "id": "5ea10f8d67a0",
+      "title": "Sur Super Song",
+      "normalizedTitle": "sur super song",
+      "trackNumber": 4,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Sur Super Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Ranina Reddy",
+        "Simha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4129497
+    },
+    {
+      "id": "056f7c68e533",
+      "title": "Tere Beautiful Anke Song",
+      "normalizedTitle": "tere beautiful anke song",
+      "trackNumber": 5,
+      "duration": "3:25",
+      "durationSeconds": 205,
+      "audio": "Tere Beautiful Anke Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Raja Hasan",
+        "Sweekar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3630037
+    }
+  ]
+}

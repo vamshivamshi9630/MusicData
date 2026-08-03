@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "926771e97b03",
+    "name": "Pallakilo Pellikoothuru",
+    "year": 2004,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Pallakilo Pellikoothuru.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "227f7fea81d4",
+      "title": "Cheeraloni Goppathanam Song",
+      "normalizedTitle": "cheeraloni goppathanam song",
+      "trackNumber": 1,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Cheeraloni Goppathanam Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "M.M.Keeravani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4563962
+    },
+    {
+      "id": "a77f1d69daaa",
+      "title": "Mudduleni Prema Song",
+      "normalizedTitle": "mudduleni prema song",
+      "trackNumber": 2,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Mudduleni Prema Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Kalyani Malik",
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4110048
+    },
+    {
+      "id": "6fd2d7b5ca43",
+      "title": "Naa Peru Cheppukondi Song",
+      "normalizedTitle": "naa peru cheppukondi song",
+      "trackNumber": 3,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Naa Peru Cheppukondi Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4138897
+    },
+    {
+      "id": "100b4258494e",
+      "title": "Nuvvu Pre Nenu Maa Song",
+      "normalizedTitle": "nuvvu pre nenu maa song",
+      "trackNumber": 4,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Nuvvu Pre Nenu Maa Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4152242
+    },
+    {
+      "id": "5978861fb94c",
+      "title": "Pallakilo Pellikuthuru Song",
+      "normalizedTitle": "pallakilo pellikuthuru song",
+      "trackNumber": 5,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Pallakilo Pellikuthuru Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "SP.Balu",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3968376
+    },
+    {
+      "id": "0e9e66980806",
+      "title": "Sa Oka Chinuku Song",
+      "normalizedTitle": "sa oka chinuku song",
+      "trackNumber": 6,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Sa Oka Chinuku Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Chakri",
+        "Ganga"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3984240
+    }
+  ]
+}

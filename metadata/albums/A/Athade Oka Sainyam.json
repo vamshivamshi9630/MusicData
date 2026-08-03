@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "91be0faefbc4",
+    "name": "Athade Oka Sainyam",
+    "year": 2004,
+    "musicDirector": "K. M. Radha Krishnan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Athade Oka Sainyam.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "11b724c8782e",
+      "title": "August Padihedu",
+      "normalizedTitle": "august padihedu",
+      "trackNumber": 1,
+      "duration": "5:28",
+      "durationSeconds": 328,
+      "audio": "August Padihedu.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 195078,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8034345
+    },
+    {
+      "id": "8c1927fac26d",
+      "title": "Maa Intiki Ninnu",
+      "normalizedTitle": "maa intiki ninnu",
+      "trackNumber": 2,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Maa Intiki Ninnu.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 196409,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7586846
+    },
+    {
+      "id": "44835a8b97f5",
+      "title": "Naa Paata",
+      "normalizedTitle": "naa paata",
+      "trackNumber": 3,
+      "duration": "5:49",
+      "durationSeconds": 349,
+      "audio": "Naa Paata.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 193280,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8471672
+    },
+    {
+      "id": "68740d5995e7",
+      "title": "Nee Bulli Nikkaru",
+      "normalizedTitle": "nee bulli nikkaru",
+      "trackNumber": 4,
+      "duration": "5:43",
+      "durationSeconds": 343,
+      "audio": "Nee Bulli Nikkaru.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 189638,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8163904
+    },
+    {
+      "id": "26e8d2d8559f",
+      "title": "Yey Apparao",
+      "normalizedTitle": "yey apparao",
+      "trackNumber": 5,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Yey Apparao.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 183309,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7179279
+    }
+  ]
+}

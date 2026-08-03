@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "58a9e5a80971",
+    "name": "Blade Babji",
+    "year": 2008,
+    "musicDirector": "Koti",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Blade Babji.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "67e87a91fe81",
+      "title": "Du Du Du Song",
+      "normalizedTitle": "du du du song",
+      "trackNumber": 1,
+      "duration": "0:00",
+      "durationSeconds": 0,
+      "audio": "Du Du Du Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Koti"
+      ],
+      "bitrate": 0,
+      "sampleRate": 0,
+      "channels": 2,
+      "fileSize": 367
+    },
+    {
+      "id": "4e7c2e91a76e",
+      "title": "Mokkajonna Song",
+      "normalizedTitle": "mokkajonna song",
+      "trackNumber": 2,
+      "duration": "0:00",
+      "durationSeconds": 0,
+      "audio": "Mokkajonna Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Koti"
+      ],
+      "bitrate": 0,
+      "sampleRate": 0,
+      "channels": 2,
+      "fileSize": 365
+    },
+    {
+      "id": "a15623ea5316",
+      "title": "Pillorepilla Song",
+      "normalizedTitle": "pillorepilla song",
+      "trackNumber": 3,
+      "duration": "0:00",
+      "durationSeconds": 0,
+      "audio": "Pillorepilla Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Koti"
+      ],
+      "bitrate": 0,
+      "sampleRate": 0,
+      "channels": 2,
+      "fileSize": 367
+    },
+    {
+      "id": "f049b66c030d",
+      "title": "Rajahmundry Raabinhuddu Song",
+      "normalizedTitle": "rajahmundry raabinhuddu song",
+      "trackNumber": 4,
+      "duration": "0:00",
+      "durationSeconds": 0,
+      "audio": "Rajahmundry Raabinhuddu Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Koti"
+      ],
+      "bitrate": 0,
+      "sampleRate": 0,
+      "channels": 2,
+      "fileSize": 380
+    },
+    {
+      "id": "66a5cf0c8642",
+      "title": "Saarejahaa Song",
+      "normalizedTitle": "saarejahaa song",
+      "trackNumber": 5,
+      "duration": "0:00",
+      "durationSeconds": 0,
+      "audio": "Saarejahaa Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Koti"
+      ],
+      "bitrate": 0,
+      "sampleRate": 0,
+      "channels": 2,
+      "fileSize": 365
+    }
+  ]
+}

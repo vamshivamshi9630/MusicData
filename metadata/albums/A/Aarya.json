@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "2582bb66ea3f",
+    "name": "Aarya",
+    "year": 2004,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aarya.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "9002fc70a2de",
+      "title": "Aa Ante Amalapuram",
+      "normalizedTitle": "aa ante amalapuram",
+      "trackNumber": 1,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Aa Ante Amalapuram.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Anuradha Mehta"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4959499
+    },
+    {
+      "id": "96d78fe0ff17",
+      "title": "Feel My Love",
+      "normalizedTitle": "feel my love",
+      "trackNumber": 2,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Feel My Love.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Anuradha Mehta"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4903039
+    },
+    {
+      "id": "d3eafe2df162",
+      "title": "Nuvvunte",
+      "normalizedTitle": "nuvvunte",
+      "trackNumber": 3,
+      "duration": "5:13",
+      "durationSeconds": 313,
+      "audio": "Nuvvunte.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Anuradha Mehta"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5096152
+    },
+    {
+      "id": "215c26bc527f",
+      "title": "O My Brotheru",
+      "normalizedTitle": "o my brotheru",
+      "trackNumber": 4,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "O My Brotheru.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Anuradha Mehta"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4978703
+    },
+    {
+      "id": "16829be38f69",
+      "title": "Thakadimithom",
+      "normalizedTitle": "thakadimithom",
+      "trackNumber": 5,
+      "duration": "5:36",
+      "durationSeconds": 336,
+      "audio": "Thakadimithom.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Anuradha Mehta"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5454331
+    },
+    {
+      "id": "0e652e316b98",
+      "title": "You Rock My World",
+      "normalizedTitle": "you rock my world",
+      "trackNumber": 6,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "You Rock My World.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Anuradha Mehta"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4940265
+    }
+  ]
+}

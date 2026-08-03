@@ -1,0 +1,137 @@
+{
+  "album": {
+    "id": "e271e2b9f850",
+    "name": "Prema Katha Chitram",
+    "year": 2013,
+    "musicDirector": "J. B.",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Prema Katha Chitram.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "061bcc86ab57",
+      "title": "Dance Bit Song",
+      "normalizedTitle": "dance bit song",
+      "trackNumber": 1,
+      "duration": "2:03",
+      "durationSeconds": 123,
+      "audio": "Dance Bit Song.mp3",
+      "composer": "Music : J.B | Lyrics : -",
+      "singers": [
+        "J.B.",
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2064100
+    },
+    {
+      "id": "3ddc25ca787d",
+      "title": "I Just Love You Baby Song",
+      "normalizedTitle": "i just love you baby song",
+      "trackNumber": 2,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "I Just Love You Baby Song.mp3",
+      "composer": "Music : J.B | Lyrics : Kasarla Shyam",
+      "singers": [
+        "Lipsika",
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3857599
+    },
+    {
+      "id": "c4aec2361b89",
+      "title": "Kothagunna Haye Nuvv Song",
+      "normalizedTitle": "kothagunna haye nuvv song",
+      "trackNumber": 3,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Kothagunna Haye Nuvv Song.mp3",
+      "composer": "Music : J.B | Lyrics : Kasarla Shyam",
+      "singers": [
+        "Deepu",
+        "Ramya Behra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4728632
+    },
+    {
+      "id": "016e0bd830a7",
+      "title": "Music Theme Song",
+      "normalizedTitle": "music theme song",
+      "trackNumber": 4,
+      "duration": "1:11",
+      "durationSeconds": 71,
+      "audio": "Music Theme Song.mp3",
+      "composer": "Music : J.B | Lyrics : -",
+      "singers": [
+        "J.B."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1235675
+    },
+    {
+      "id": "cbe6b5a20c6d",
+      "title": "Oh My Love Song",
+      "normalizedTitle": "oh my love song",
+      "trackNumber": 5,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Oh My Love Song.mp3",
+      "composer": "Music : J.B | Lyrics : Kasarla Shyam",
+      "singers": [
+        "Lipsika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4487425
+    },
+    {
+      "id": "7109be69b08d",
+      "title": "Prema Katha Chitramidi Song",
+      "normalizedTitle": "prema katha chitramidi song",
+      "trackNumber": 6,
+      "duration": "3:22",
+      "durationSeconds": 202,
+      "audio": "Prema Katha Chitramidi Song.mp3",
+      "composer": "Music : J.B | Lyrics : Karunakar Adigarla",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3316354
+    },
+    {
+      "id": "b37fd67b87d6",
+      "title": "Vennelaina Song",
+      "normalizedTitle": "vennelaina song",
+      "trackNumber": 7,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Vennelaina Song.mp3",
+      "composer": "Music : J.B | Lyrics : Late. Sri Veturi",
+      "singers": [
+        "Malavika",
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4393829
+    }
+  ]
+}

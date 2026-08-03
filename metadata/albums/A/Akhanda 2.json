@@ -1,0 +1,177 @@
+{
+  "album": {
+    "id": "72edd5cd3100",
+    "name": "Akhanda 2",
+    "year": 2025,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Akhanda 2.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "12926f2b0a37",
+      "title": "Akhanda Haindhavam Song",
+      "normalizedTitle": "akhanda haindhavam song",
+      "trackNumber": 1,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Akhanda Haindhavam Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sarvepalli Sisters"
+      ],
+      "bitrate": 128201,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3020200
+    },
+    {
+      "id": "85543aace098",
+      "title": "Akhanda Thandavam Song",
+      "normalizedTitle": "akhanda thandavam song",
+      "trackNumber": 2,
+      "duration": "2:29",
+      "durationSeconds": 149,
+      "audio": "Akhanda Thandavam Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sarvepalli Sisters"
+      ],
+      "bitrate": 136431,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2901951
+    },
+    {
+      "id": "2d9331791bac",
+      "title": "Gangadhara Shankara Song",
+      "normalizedTitle": "gangadhara shankara song",
+      "trackNumber": 3,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Gangadhara Shankara Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "S. Aishwarya",
+        "S. Soundarya & Sruthi Ranjani"
+      ],
+      "bitrate": 131519,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3926446
+    },
+    {
+      "id": "1fc833651e60",
+      "title": "Hara Hara Song",
+      "normalizedTitle": "hara hara song",
+      "trackNumber": 4,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Hara Hara Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "SP Charan",
+        "Sri Krishna"
+      ],
+      "bitrate": 133534,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4666333
+    },
+    {
+      "id": "d1e9f443d589",
+      "title": "Jajikaya Jajikaya Song",
+      "normalizedTitle": "jajikaya jajikaya song",
+      "trackNumber": 5,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Jajikaya Jajikaya Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Shreya Ghoshal",
+        "Brijesh Shandiliya"
+      ],
+      "bitrate": 126869,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3656859
+    },
+    {
+      "id": "46beb3758614",
+      "title": "Shambho Song",
+      "normalizedTitle": "shambho song",
+      "trackNumber": 6,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Shambho Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Adviteeya Vojjala",
+        "S. Aishwarya & S. Soundarya"
+      ],
+      "bitrate": 137861,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3221811
+    },
+    {
+      "id": "5a2a8bf0ecd2",
+      "title": "Shankara Shankara Song",
+      "normalizedTitle": "shankara shankara song",
+      "trackNumber": 7,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Shankara Shankara Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "V. M. Mahalingam",
+        "Divya Kumar",
+        "Deepak Blue",
+        "Arun Kaundinya"
+      ],
+      "bitrate": 126241,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3938910
+    },
+    {
+      "id": "3b7ef849c0ed",
+      "title": "Shiva Shiva Song",
+      "normalizedTitle": "shiva shiva song",
+      "trackNumber": 8,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Shiva Shiva Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Gotte Kanakavva",
+        "Sruthi Ranjani"
+      ],
+      "bitrate": 130519,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4315166
+    },
+    {
+      "id": "d6580759da76",
+      "title": "The Thaandavam Song",
+      "normalizedTitle": "the thaandavam song",
+      "trackNumber": 9,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "The Thaandavam Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Shankar Mahadevan",
+        "Kailash Kher",
+        "Deepak Blue"
+      ],
+      "bitrate": 123143,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4402373
+    }
+  ]
+}

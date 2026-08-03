@@ -1,0 +1,136 @@
+{
+  "album": {
+    "id": "2dadabdfcfc3",
+    "name": "Yogi",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Yogi.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "b63db1923181",
+      "title": "Dolu Baja.Mp",
+      "normalizedTitle": "dolu bajamp",
+      "trackNumber": 1,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Dolu Baja.Mp.mp3",
+      "composer": "Ramana Gogula",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4451353
+    },
+    {
+      "id": "797e10dc2a97",
+      "title": "Gana Gana.Mp",
+      "normalizedTitle": "gana ganamp",
+      "trackNumber": 2,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Gana Gana.Mp.mp3",
+      "composer": "Ramana Gogula",
+      "singers": [
+        "Adnan Sami"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3288182
+    },
+    {
+      "id": "377a643d480d",
+      "title": "Gilli Gichi.Mp",
+      "normalizedTitle": "gilli gichimp",
+      "trackNumber": 3,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Gilli Gichi.Mp.mp3",
+      "composer": "Ramana Gogula",
+      "singers": [
+        "Rajesh",
+        "Ganga"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4109458
+    },
+    {
+      "id": "db4e72590faa",
+      "title": "Nee Illu Bangaram.Mp",
+      "normalizedTitle": "nee illu bangarammp",
+      "trackNumber": 4,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Nee Illu Bangaram.Mp.mp3",
+      "composer": "Ramana Gogula",
+      "singers": [
+        "Sunitha Upadrashta",
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4365705
+    },
+    {
+      "id": "db3f1abe1a5d",
+      "title": "Ororo Yogi.Mp",
+      "normalizedTitle": "ororo yogimp",
+      "trackNumber": 5,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Ororo Yogi.Mp.mp3",
+      "composer": "Ramana Gogula",
+      "singers": [
+        "Karthik",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4508637
+    },
+    {
+      "id": "379f91969140",
+      "title": "Theme Music.Mp",
+      "normalizedTitle": "theme musicmp",
+      "trackNumber": 6,
+      "duration": "2:06",
+      "durationSeconds": 126,
+      "audio": "Theme Music.Mp.mp3",
+      "composer": "Ramana Gogula",
+      "singers": [
+        "Ramana Gogula"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2098682
+    },
+    {
+      "id": "596653a85ad3",
+      "title": "Ye Nomu Nochindo.Mp",
+      "normalizedTitle": "ye nomu nochindomp",
+      "trackNumber": 7,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Ye Nomu Nochindo.Mp.mp3",
+      "composer": "Ramana Gogula",
+      "singers": [
+        "Suresh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4346437
+    }
+  ]
+}

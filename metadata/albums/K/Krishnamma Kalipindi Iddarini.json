@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "e56f5f3289d3",
+    "name": "Krishnamma Kalipindi Iddarini",
+    "year": 2015,
+    "musicDirector": "Hari Gaura",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Krishnamma Kalipindi Iddarini.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c36cbe84e4d7",
+      "title": "Madana Mohana.Mp3 Song",
+      "normalizedTitle": "madana mohanamp3 song",
+      "trackNumber": 1,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Madana Mohana.Mp3 Song.mp3",
+      "composer": "Music : Hari | Lyrics : Rakendu Mouli Vennelakanti",
+      "singers": [
+        "Pranavi",
+        "Sp Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4153368
+    },
+    {
+      "id": "580680720356",
+      "title": "Naalo Premey.Mp3 Song",
+      "normalizedTitle": "naalo premeymp3 song",
+      "trackNumber": 2,
+      "duration": "6:06",
+      "durationSeconds": 366,
+      "audio": "Naalo Premey.Mp3 Song.mp3",
+      "composer": "Music : Hari | Lyrics : Radhasubrahmanyam",
+      "singers": [
+        "Hari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6163703
+    },
+    {
+      "id": "45283e9d0801",
+      "title": "Ola Ola Song",
+      "normalizedTitle": "ola ola song",
+      "trackNumber": 3,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Ola Ola Song.mp3",
+      "composer": "Music : Hari | Lyrics : Radhasubrahmanyam",
+      "singers": [
+        "Hari",
+        "Hema Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4278727
+    },
+    {
+      "id": "36dfd3f13257",
+      "title": "Radhe Radhe.Mp3 Song",
+      "normalizedTitle": "radhe radhemp3 song",
+      "trackNumber": 4,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Radhe Radhe.Mp3 Song.mp3",
+      "composer": "Music : Hari | Lyrics : Radhasubrahmanyam",
+      "singers": [
+        "Hari Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4931154
+    },
+    {
+      "id": "609b91b1ba3a",
+      "title": "Tuhi Tuhi.Mp3 Song",
+      "normalizedTitle": "tuhi tuhimp3 song",
+      "trackNumber": 5,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Tuhi Tuhi.Mp3 Song.mp3",
+      "composer": "Music : Hari | Lyrics : Rakendu Mouli Vennelakanti",
+      "singers": [
+        "Hari Charan",
+        "Sunil",
+        "Kashyap & Lipsika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4252872
+    },
+    {
+      "id": "521bbaf8db4d",
+      "title": "Veelunte Song",
+      "normalizedTitle": "veelunte song",
+      "trackNumber": 6,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Veelunte Song.mp3",
+      "composer": "Music : Hari | Lyrics : Radhasubrahmanyam",
+      "singers": [
+        "Nakul Abhyankar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3105510
+    }
+  ]
+}

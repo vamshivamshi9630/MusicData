@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "404268e59a31",
+    "name": "Comrade Kalyan",
+    "year": 2025,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Comrade Kalyan.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "853564c471fb",
+      "title": "Oriya Pilla Song",
+      "normalizedTitle": "oriya pilla song",
+      "trackNumber": 1,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Oriya Pilla Song.mp3",
+      "composer": "Vijai Bulganin",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4478058
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "album": {
+    "id": "5a8e9e4b0e83",
+    "name": "Mayajalam",
+    "year": 2006,
+    "musicDirector": "Koti",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mayajalam.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "7163ac73caeb",
+      "title": "Abbai Song",
+      "normalizedTitle": "abbai song",
+      "trackNumber": 1,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Abbai Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Kushi Muralidhar",
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5079527
+    },
+    {
+      "id": "2318a88c8a0f",
+      "title": "If You Want Song",
+      "normalizedTitle": "if you want song",
+      "trackNumber": 2,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "If You Want Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Ganga",
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4782358
+    },
+    {
+      "id": "95beabfbf54d",
+      "title": "Ringingakka Song",
+      "normalizedTitle": "ringingakka song",
+      "trackNumber": 3,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Ringingakka Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "S.P. Balu",
+        "Eshwar",
+        "Tina Kamal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4528684
+    },
+    {
+      "id": "c90e740b72a7",
+      "title": "Teeyaga Song",
+      "normalizedTitle": "teeyaga song",
+      "trackNumber": 4,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Teeyaga Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Kaundinya",
+        "Sankirthi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4613504
+    }
+  ]
+}

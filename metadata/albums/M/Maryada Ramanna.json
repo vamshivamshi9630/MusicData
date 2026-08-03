@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "c92f38d99316",
+    "name": "Maryada Ramanna",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Maryada Ramanna.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "ea9165d5f3ac",
+      "title": "Ammayi Kitiki Pakkan Song",
+      "normalizedTitle": "ammayi kitiki pakkan song",
+      "trackNumber": 1,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Ammayi Kitiki Pakkan Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Anantha Sriram",
+      "singers": [
+        "Karunya",
+        "Chaitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3524180
+    },
+    {
+      "id": "8a9174296fc5",
+      "title": "Parugulu Thiyy Song",
+      "normalizedTitle": "parugulu thiyy song",
+      "trackNumber": 2,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Parugulu Thiyy Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Sirivennela",
+      "singers": [
+        "S.P. Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4045341
+    },
+    {
+      "id": "b6af02515c24",
+      "title": "Raaye Raaye",
+      "normalizedTitle": "raaye raaye",
+      "trackNumber": 3,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Raaye Raaye.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Chaitanya Prasad",
+      "singers": [
+        "Raghu Kunche",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4218836
+    },
+    {
+      "id": "1ab21dc36c2a",
+      "title": "Telugammayi Song",
+      "normalizedTitle": "telugammayi song",
+      "trackNumber": 4,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Telugammayi Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Anantha Sriram",
+      "singers": [
+        "M.M. Keeravani",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3968896
+    },
+    {
+      "id": "10d7420ef670",
+      "title": "Udyogam Oodipoyindi",
+      "normalizedTitle": "udyogam oodipoyindi",
+      "trackNumber": 5,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Udyogam Oodipoyindi.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Vennelakanti",
+      "singers": [
+        "Hemachandra",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4350042
+    }
+  ]
+}

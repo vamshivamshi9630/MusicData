@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "95e2ed4aeff5",
+    "name": "Mr. Medhavi",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mr. Medhavi.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "08fb435c1dff",
+      "title": "Kallu Kallatho Song",
+      "normalizedTitle": "kallu kallatho song",
+      "trackNumber": 1,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Kallu Kallatho Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4458771
+    }
+  ]
+}

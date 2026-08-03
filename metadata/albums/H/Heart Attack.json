@@ -1,0 +1,136 @@
+{
+  "album": {
+    "id": "2c200509feda",
+    "name": "Heart Attack",
+    "year": 2014,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Heart Attack.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "92ff3f6d6b6f",
+      "title": "Chupinchandey",
+      "normalizedTitle": "chupinchandey",
+      "trackNumber": 1,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Chupinchandey.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Rahul Nambiar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4598080
+    },
+    {
+      "id": "a87835d6aaee",
+      "title": "Endhukila Nannu Vedhisthunavey",
+      "normalizedTitle": "endhukila nannu vedhisthunavey",
+      "trackNumber": 2,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Endhukila Nannu Vedhisthunavey.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Kunal Ganjawala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4262505
+    },
+    {
+      "id": "7b216c56fa2b",
+      "title": "Nuvvante Naaku",
+      "normalizedTitle": "nuvvante naaku",
+      "trackNumber": 3,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Nuvvante Naaku.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4027231
+    },
+    {
+      "id": "8839544e1fd3",
+      "title": "Ra Ra Vasthava",
+      "normalizedTitle": "ra ra vasthava",
+      "trackNumber": 4,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Ra Ra Vasthava.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Santosh",
+        "Chaitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3979938
+    },
+    {
+      "id": "27fd788778fb",
+      "title": "Selavanuko",
+      "normalizedTitle": "selavanuko",
+      "trackNumber": 5,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Selavanuko.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Chaitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4021290
+    },
+    {
+      "id": "d50c932e7121",
+      "title": "Thats All Right Mama",
+      "normalizedTitle": "thats all right mama",
+      "trackNumber": 6,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Thats All Right Mama.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens",
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4404621
+    },
+    {
+      "id": "8fb74dcec312",
+      "title": "Thuhi Hai Thuhi Song",
+      "normalizedTitle": "thuhi hai thuhi song",
+      "trackNumber": 7,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Thuhi Hai Thuhi Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens",
+        "Smitha Belluri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4171108
+    }
+  ]
+}

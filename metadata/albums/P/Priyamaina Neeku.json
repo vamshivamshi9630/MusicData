@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "33f6c8949cc3",
+    "name": "Priyamaina Neeku",
+    "year": 2001,
+    "musicDirector": "Shiva Shankar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "e89e1cfb4602",
+      "title": "Manasuna Unnadi",
+      "normalizedTitle": "manasuna unnadi",
+      "trackNumber": 1,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Manasuna Unnadi.mp3",
+      "composer": "S A Rajkumar",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5349385
+    },
+    {
+      "id": "b7ce18f3ac0c",
+      "title": "Mastu Mastu",
+      "normalizedTitle": "mastu mastu",
+      "trackNumber": 2,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Mastu Mastu.mp3",
+      "composer": "S A Rajkumar",
+      "singers": [
+        "Sukhwinder Singh",
+        "Swarnalatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5356100
+    },
+    {
+      "id": "293d50ca02f2",
+      "title": "Nachanura",
+      "normalizedTitle": "nachanura",
+      "trackNumber": 3,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Nachanura.mp3",
+      "composer": "S A Rajkumar",
+      "singers": [
+        "Shankar Mahadevan",
+        "Krishnaraj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5135034
+    },
+    {
+      "id": "316ec689fa5f",
+      "title": "Nelanadiga",
+      "normalizedTitle": "nelanadiga",
+      "trackNumber": 4,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Nelanadiga.mp3",
+      "composer": "S A Rajkumar",
+      "singers": [
+        "S.P. Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5241130
+    },
+    {
+      "id": "1a4478d32c2e",
+      "title": "Veyi Janmalu",
+      "normalizedTitle": "veyi janmalu",
+      "trackNumber": 5,
+      "duration": "6:12",
+      "durationSeconds": 372,
+      "audio": "Veyi Janmalu.mp3",
+      "composer": "S A Rajkumar",
+      "singers": [
+        "S.P. Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6456559
+    }
+  ]
+}

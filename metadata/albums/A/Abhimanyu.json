@@ -1,0 +1,255 @@
+{
+  "album": {
+    "id": "0318ec699484",
+    "name": "Abhimanyu",
+    "year": 2003,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Abhimanyu.png",
+    "songCount": 14
+  },
+  "songs": [
+    {
+      "id": "f520f3f9ad89",
+      "title": "Adigo Navalokam Song",
+      "normalizedTitle": "adigo navalokam song",
+      "trackNumber": 1,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Adigo Navalokam Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ghantasala",
+        "P.Susheela"
+      ],
+      "bitrate": 194887,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6071797
+    },
+    {
+      "id": "af4b4e385cd6",
+      "title": "Challani Swaamini Song",
+      "normalizedTitle": "challani swaamini song",
+      "trackNumber": 2,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Challani Swaamini Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 196537,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7227439
+    },
+    {
+      "id": "b03c6c38a043",
+      "title": "Choochi Valachi Song",
+      "normalizedTitle": "choochi valachi song",
+      "trackNumber": 3,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Choochi Valachi Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ghantasala",
+        "P.Susheela"
+      ],
+      "bitrate": 192869,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6517058
+    },
+    {
+      "id": "8b9d7af54a3c",
+      "title": "Kalla Kapatam Song",
+      "normalizedTitle": "kalla kapatam song",
+      "trackNumber": 4,
+      "duration": "5:51",
+      "durationSeconds": 351,
+      "audio": "Kalla Kapatam Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "S.Janaki"
+      ],
+      "bitrate": 194278,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8720302
+    },
+    {
+      "id": "00551ec5dfec",
+      "title": "Padyam Abhimanyu Song",
+      "normalizedTitle": "padyam abhimanyu song",
+      "trackNumber": 5,
+      "duration": "0:30",
+      "durationSeconds": 30,
+      "audio": "Padyam Abhimanyu Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 183340,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 875625
+    },
+    {
+      "id": "e86778e469ed",
+      "title": "Padyam Arjuna Song",
+      "normalizedTitle": "padyam arjuna song",
+      "trackNumber": 6,
+      "duration": "0:27",
+      "durationSeconds": 27,
+      "audio": "Padyam Arjuna Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 215503,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 913457
+    },
+    {
+      "id": "69ec48dcc9c3",
+      "title": "Padyam Draupadi Song",
+      "normalizedTitle": "padyam draupadi song",
+      "trackNumber": 7,
+      "duration": "1:04",
+      "durationSeconds": 64,
+      "audio": "Padyam Draupadi Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 205423,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1826695
+    },
+    {
+      "id": "b08b9c5c1c3f",
+      "title": "Padyam Duryodha Song",
+      "normalizedTitle": "padyam duryodha song",
+      "trackNumber": 8,
+      "duration": "0:37",
+      "durationSeconds": 37,
+      "audio": "Padyam Duryodha Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 195482,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1084831
+    },
+    {
+      "id": "3698c1886388",
+      "title": "Padyam Duryodha.Song Song",
+      "normalizedTitle": "padyam duryodhasong song",
+      "trackNumber": 9,
+      "duration": "0:42",
+      "durationSeconds": 42,
+      "audio": "Padyam Duryodha.Song Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 201568,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1251387
+    },
+    {
+      "id": "53ba41d1d36a",
+      "title": "Padyam Krishna Song",
+      "normalizedTitle": "padyam krishna song",
+      "trackNumber": 10,
+      "duration": "0:30",
+      "durationSeconds": 30,
+      "audio": "Padyam Krishna Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 212613,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 978539
+    },
+    {
+      "id": "b28611fffc57",
+      "title": "Paritranaya Saa Song",
+      "normalizedTitle": "paritranaya saa song",
+      "trackNumber": 11,
+      "duration": "0:35",
+      "durationSeconds": 35,
+      "audio": "Paritranaya Saa Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 177790,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 954249
+    },
+    {
+      "id": "25133edaebad",
+      "title": "Rambha Urvashi Song",
+      "normalizedTitle": "rambha urvashi song",
+      "trackNumber": 12,
+      "duration": "3:17",
+      "durationSeconds": 197,
+      "audio": "Rambha Urvashi Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ghantasala",
+        "P.Susheela"
+      ],
+      "bitrate": 219945,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5593336
+    },
+    {
+      "id": "200435b8cb98",
+      "title": "Taakina Chota Song",
+      "normalizedTitle": "taakina chota song",
+      "trackNumber": 13,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Taakina Chota Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "P.Susheela"
+      ],
+      "bitrate": 202210,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7734086
+    },
+    {
+      "id": "1b64f7aff613",
+      "title": "Yada Yada Hi Song",
+      "normalizedTitle": "yada yada hi song",
+      "trackNumber": 14,
+      "duration": "0:41",
+      "durationSeconds": 41,
+      "audio": "Yada Yada Hi Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 204940,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1226548
+    }
+  ]
+}

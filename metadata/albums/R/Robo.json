@@ -1,0 +1,147 @@
+{
+  "album": {
+    "id": "2038b3b77348",
+    "name": "Robo",
+    "year": 2010,
+    "musicDirector": "A. R. Rahman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Robo.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "9e5a2511984a",
+      "title": "Boom Boom Robo Ra Song",
+      "normalizedTitle": "boom boom robo ra song",
+      "trackNumber": 1,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Boom Boom Robo Ra Song.mp3",
+      "composer": "Music : A. R. Rahman | Lyrics : Bhuvanachandra",
+      "singers": [
+        "Yogi B",
+        "Kirthi Sagathia",
+        "Swetha Mohan",
+        "Tanvi Shah"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4330144
+    },
+    {
+      "id": "2bf819ac4042",
+      "title": "Chitti Dance Showcase Song",
+      "normalizedTitle": "chitti dance showcase song",
+      "trackNumber": 2,
+      "duration": "2:44",
+      "durationSeconds": 164,
+      "audio": "Chitti Dance Showcase Song.mp3",
+      "composer": "Music : A. R. Rahman | Additional Arrangements & Programming : Pravin Mani",
+      "singers": [
+        "Pradeep Vijay",
+        "Pravin Mani",
+        "Yogi B"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2707242
+    },
+    {
+      "id": "b19a71419459",
+      "title": "Harima Harima Song",
+      "normalizedTitle": "harima harima song",
+      "trackNumber": 3,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Harima Harima Song.mp3",
+      "composer": "Music : A. R. Rahman | Lyrics : Vanamali",
+      "singers": [
+        "Hariharan",
+        "Sadhana Sargam",
+        "Benny Dayal",
+        "Naresh Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5193631
+    },
+    {
+      "id": "4537d124c62f",
+      "title": "Inumulo O Hridayam Song",
+      "normalizedTitle": "inumulo o hridayam song",
+      "trackNumber": 4,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Inumulo O Hridayam Song.mp3",
+      "composer": "Music : A. R. Rahman | Lyrics : Suddhala Ashok Teja | English Lyrics : Kash 'n' Krissy",
+      "singers": [
+        "A. R. Rahman",
+        "Suzanne",
+        "Kash 'n' Krissy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5119311
+    },
+    {
+      "id": "d67b8d3876b2",
+      "title": "Kilimanjaro Song",
+      "normalizedTitle": "kilimanjaro song",
+      "trackNumber": 5,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Kilimanjaro Song.mp3",
+      "composer": "Music : A. R. Rahman | Lyrics : Bhuvanachandra | Additonal Vocal Arrangements : Clinton Cerejo",
+      "singers": [
+        "Javed Ali",
+        "Chinmayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5352496
+    },
+    {
+      "id": "70eaf5cd7f71",
+      "title": "Neelo Valapu Song",
+      "normalizedTitle": "neelo valapu song",
+      "trackNumber": 6,
+      "duration": "5:45",
+      "durationSeconds": 345,
+      "audio": "Neelo Valapu Song.mp3",
+      "composer": "Music : A. R. Rahman | Lyrics : Vanamali",
+      "singers": [
+        "Vijay Prakash",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5596080
+    },
+    {
+      "id": "eaf5dc43eea0",
+      "title": "O Maramanishi Song",
+      "normalizedTitle": "o maramanishi song",
+      "trackNumber": 7,
+      "duration": "6:10",
+      "durationSeconds": 370,
+      "audio": "O Maramanishi Song.mp3",
+      "composer": "Music : A. R. Rahman | Lyrics : Suddhala Ashok Teja",
+      "singers": [
+        "S. P. Balu",
+        "Srinivas D",
+        "Khatija Rahman"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6004886
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "album": {
+    "id": "397615716927",
+    "name": "Gulebakavali Katha",
+    "year": 1962,
+    "musicDirector": "Joseph",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gulebakavali Katha.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "0838dc30b060",
+      "title": "Amba Jagadamba Song",
+      "normalizedTitle": "amba jagadamba song",
+      "trackNumber": 1,
+      "duration": "3:04",
+      "durationSeconds": 184,
+      "audio": "Amba Jagadamba Song.mp3",
+      "composer": "Joseph",
+      "singers": [
+        "Ghantasala"
+      ],
+      "bitrate": 215539,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4998749
+    },
+    {
+      "id": "835e62b71a90",
+      "title": "Kalala Alalapai Song",
+      "normalizedTitle": "kalala alalapai song",
+      "trackNumber": 2,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Kalala Alalapai Song.mp3",
+      "composer": "Joseph",
+      "singers": [
+        "Ghantasala",
+        "S.Janaki"
+      ],
+      "bitrate": 207213,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6154347
+    },
+    {
+      "id": "c89e8729aacd",
+      "title": "Kali Gajja Song",
+      "normalizedTitle": "kali gajja song",
+      "trackNumber": 3,
+      "duration": "5:55",
+      "durationSeconds": 355,
+      "audio": "Kali Gajja Song.mp3",
+      "composer": "Joseph",
+      "singers": [
+        "S.Janaki"
+      ],
+      "bitrate": 212225,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9451542
+    },
+    {
+      "id": "8d109ac4d92d",
+      "title": "Madana Sundara Song",
+      "normalizedTitle": "madana sundara song",
+      "trackNumber": 4,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Madana Sundara Song.mp3",
+      "composer": "Joseph",
+      "singers": [
+        "P.Susheela"
+      ],
+      "bitrate": 215774,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5364231
+    },
+    {
+      "id": "9a25725c5991",
+      "title": "Nannu Dhochukonduvate Song",
+      "normalizedTitle": "nannu dhochukonduvate song",
+      "trackNumber": 5,
+      "duration": "3:12",
+      "durationSeconds": 192,
+      "audio": "Nannu Dhochukonduvate Song.mp3",
+      "composer": "Joseph",
+      "singers": [
+        "Ghantasala",
+        "S.Janaki"
+      ],
+      "bitrate": 203842,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4915749
+    },
+    {
+      "id": "7b994b65ba01",
+      "title": "Ontarinai Poyanu Song",
+      "normalizedTitle": "ontarinai poyanu song",
+      "trackNumber": 6,
+      "duration": "3:17",
+      "durationSeconds": 197,
+      "audio": "Ontarinai Poyanu Song.mp3",
+      "composer": "Joseph",
+      "singers": [
+        "Ghantasala"
+      ],
+      "bitrate": 207592,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5150810
+    },
+    {
+      "id": "586323489c82",
+      "title": "Salamalekum Song",
+      "normalizedTitle": "salamalekum song",
+      "trackNumber": 7,
+      "duration": "2:59",
+      "durationSeconds": 179,
+      "audio": "Salamalekum Song.mp3",
+      "composer": "Joseph",
+      "singers": [
+        "Ghantasala",
+        "S.Janaki"
+      ],
+      "bitrate": 207906,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4680632
+    },
+    {
+      "id": "9fa639543273",
+      "title": "Unnadhi Cheputa Song",
+      "normalizedTitle": "unnadhi cheputa song",
+      "trackNumber": 8,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Unnadhi Cheputa Song.mp3",
+      "composer": "Joseph",
+      "singers": [
+        "Pitapuram"
+      ],
+      "bitrate": 212185,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5345342
+    },
+    {
+      "id": "9e405e55475e",
+      "title": "Virisindi Song",
+      "normalizedTitle": "virisindi song",
+      "trackNumber": 9,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Virisindi Song.mp3",
+      "composer": "Joseph",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 204468,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4844615
+    }
+  ]
+}

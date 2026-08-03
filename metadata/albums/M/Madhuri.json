@@ -1,0 +1,146 @@
+{
+  "album": {
+    "id": "ffcb4495352d",
+    "name": "Madhuri",
+    "year": 2020,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Madhuri.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "0678bd1e6d28",
+      "title": "Adigora Choodu.Mp",
+      "normalizedTitle": "adigora choodump",
+      "trackNumber": 1,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Adigora Choodu.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ravi Teja",
+        "Karthik",
+        "Rahul Nambiar",
+        "Allap Raju",
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4125384
+    },
+    {
+      "id": "40a8974e7cd1",
+      "title": "Chirugaley.Mp",
+      "normalizedTitle": "chirugaleymp",
+      "trackNumber": 2,
+      "duration": "2:22",
+      "durationSeconds": 142,
+      "audio": "Chirugaley.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Rita",
+        "Megha",
+        "Janani",
+        "Vardhini",
+        "Ranjith",
+        "Naveen Madhav"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2368283
+    },
+    {
+      "id": "3d6fa7b33aeb",
+      "title": "Dhinaku Dhin.Mp",
+      "normalizedTitle": "dhinaku dhinmp",
+      "trackNumber": 3,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Dhinaku Dhin.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shankar Mahadevan",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4671656
+    },
+    {
+      "id": "c539760e375f",
+      "title": "Gadi Thalupula.Mp",
+      "normalizedTitle": "gadi thalupulamp",
+      "trackNumber": 4,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Gadi Thalupula.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Karthik",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4690882
+    },
+    {
+      "id": "36b7eeb62591",
+      "title": "Mirapakay.Mp",
+      "normalizedTitle": "mirapakaymp",
+      "trackNumber": 5,
+      "duration": "1:16",
+      "durationSeconds": 76,
+      "audio": "Mirapakay.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ranjith",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1300398
+    },
+    {
+      "id": "c250ca29be9e",
+      "title": "Silakaa.Mp",
+      "normalizedTitle": "silakaamp",
+      "trackNumber": 6,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Silakaa.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Rahul Nambiar",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4552538
+    },
+    {
+      "id": "868271b0e7c0",
+      "title": "Vaishali Vaishali.Mp",
+      "normalizedTitle": "vaishali vaishalimp",
+      "trackNumber": 7,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Vaishali Vaishali.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Thaman S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4275431
+    }
+  ]
+}

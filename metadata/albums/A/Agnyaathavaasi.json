@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "f7ff56c13c92",
+    "name": "Agnyaathavaasi",
+    "year": 2018,
+    "musicDirector": "Anirudh Ravichander",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Agnyaathavaasi.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "4e025c94a915",
+      "title": "AB Yevaro Nee Baby Song",
+      "normalizedTitle": "ab yevaro nee baby song",
+      "trackNumber": 1,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "AB Yevaro Nee Baby Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Nakash Aziz",
+        "Arjun Chandy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3562969
+    },
+    {
+      "id": "61ed0c0e2a66",
+      "title": "Baitikochi Chuste Song",
+      "normalizedTitle": "baitikochi chuste song",
+      "trackNumber": 2,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Baitikochi Chuste Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3520984
+    },
+    {
+      "id": "8c521a38c069",
+      "title": "Dhaga Dhagamaney Song",
+      "normalizedTitle": "dhaga dhagamaney song",
+      "trackNumber": 3,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Dhaga Dhagamaney Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4306102
+    },
+    {
+      "id": "70ccae857f47",
+      "title": "Gaali Vaaluga Song",
+      "normalizedTitle": "gaali vaaluga song",
+      "trackNumber": 4,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Gaali Vaaluga Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4348118
+    },
+    {
+      "id": "5a9662544bb5",
+      "title": "Kodaka Koteswara Song",
+      "normalizedTitle": "kodaka koteswara song",
+      "trackNumber": 5,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Kodaka Koteswara Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Pawan Kalyan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3975495
+    },
+    {
+      "id": "5fad9bb887d5",
+      "title": "Swagatham Krishna Song",
+      "normalizedTitle": "swagatham krishna song",
+      "trackNumber": 6,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Swagatham Krishna Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Niranjana Ramanan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3475198
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "3eb874ba0149",
+    "name": "Jeans",
+    "year": 1998,
+    "musicDirector": "A.R. Rahman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jeans.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "75a31f4548bb",
+      "title": "Columbus Columbus Song",
+      "normalizedTitle": "columbus columbus song",
+      "trackNumber": 1,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Columbus Columbus Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4753075
+    },
+    {
+      "id": "aa7f57daff6d",
+      "title": "Hayirabba Hayirabba Song",
+      "normalizedTitle": "hayirabba hayirabba song",
+      "trackNumber": 2,
+      "duration": "7:14",
+      "durationSeconds": 434,
+      "audio": "Hayirabba Hayirabba Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6962825
+    },
+    {
+      "id": "a2c3a0f50e59",
+      "title": "Kannulatho Choseve Song",
+      "normalizedTitle": "kannulatho choseve song",
+      "trackNumber": 3,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Kannulatho Choseve Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5001761
+    },
+    {
+      "id": "2b2db8f1ee3b",
+      "title": "Poovullo Daagunna Song",
+      "normalizedTitle": "poovullo daagunna song",
+      "trackNumber": 4,
+      "duration": "6:56",
+      "durationSeconds": 416,
+      "audio": "Poovullo Daagunna Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6673179
+    },
+    {
+      "id": "be3f963cfd7a",
+      "title": "Priya Priya Champodde Song",
+      "normalizedTitle": "priya priya champodde song",
+      "trackNumber": 5,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Priya Priya Champodde Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5335292
+    },
+    {
+      "id": "cb9304b8c592",
+      "title": "Raave Naa Chaliyaa Song",
+      "normalizedTitle": "raave naa chaliyaa song",
+      "trackNumber": 6,
+      "duration": "5:51",
+      "durationSeconds": 351,
+      "audio": "Raave Naa Chaliyaa Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5627027
+    }
+  ]
+}

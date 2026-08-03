@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "0e3331d65bd4",
+    "name": "Magadheera",
+    "year": 2009,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Magadheera.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "48ed84e9896d",
+      "title": "Bangaru Kodi Petta Remix.Mp",
+      "normalizedTitle": "bangaru kodi petta remixmp",
+      "trackNumber": 1,
+      "duration": "6:04",
+      "durationSeconds": 364,
+      "audio": "Bangaru Kodi Petta Remix.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan Tej",
+        "Kajal Agarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5953352
+    },
+    {
+      "id": "3424a34d8594",
+      "title": "Dheera Dheera.Mp",
+      "normalizedTitle": "dheera dheeramp",
+      "trackNumber": 2,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Dheera Dheera.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan Tej",
+        "Kajal Agarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4762198
+    },
+    {
+      "id": "79f368a5c33d",
+      "title": "Jorsey.Mp",
+      "normalizedTitle": "jorseymp",
+      "trackNumber": 3,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Jorsey.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan Tej",
+        "Kajal Agarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4600422
+    },
+    {
+      "id": "f4447288f95e",
+      "title": "Naakosam Nuvvu.Mp",
+      "normalizedTitle": "naakosam nuvvump",
+      "trackNumber": 4,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Naakosam Nuvvu.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan Tej",
+        "Kajal Agarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3870243
+    },
+    {
+      "id": "90559a1e661a",
+      "title": "Panchadhaara Bomma.Mp",
+      "normalizedTitle": "panchadhaara bommamp",
+      "trackNumber": 5,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Panchadhaara Bomma.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan Tej",
+        "Kajal Agarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4728742
+    },
+    {
+      "id": "ca16e59152a5",
+      "title": "Title Music.Mp",
+      "normalizedTitle": "title musicmp",
+      "trackNumber": 6,
+      "duration": "2:59",
+      "durationSeconds": 179,
+      "audio": "Title Music.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan Tej",
+        "Kajal Agarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3001300
+    }
+  ]
+}

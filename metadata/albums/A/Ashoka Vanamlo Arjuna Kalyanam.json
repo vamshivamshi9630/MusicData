@@ -1,0 +1,84 @@
+{
+  "album": {
+    "id": "a4725b8513e7",
+    "name": "Ashoka Vanamlo Arjuna Kalyanam",
+    "year": 2022,
+    "musicDirector": "Jay Krish",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ashoka Vanamlo Arjuna Kalyanam.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "e5e97a88c5f1",
+      "title": "Ee Veduka Song",
+      "normalizedTitle": "ee veduka song",
+      "trackNumber": 1,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Ee Veduka Song.mp3",
+      "composer": "Jai Krish",
+      "singers": [
+        "Haripriya",
+        "Jai Krish"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4582611
+    },
+    {
+      "id": "af19b45c7a23",
+      "title": "Oo Aadapilla Song",
+      "normalizedTitle": "oo aadapilla song",
+      "trackNumber": 2,
+      "duration": "5:07",
+      "durationSeconds": 307,
+      "audio": "Oo Aadapilla Song.mp3",
+      "composer": "Jai Krish",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5287424
+    },
+    {
+      "id": "5562fde4b5ae",
+      "title": "Ramsilaka Song",
+      "normalizedTitle": "ramsilaka song",
+      "trackNumber": 3,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Ramsilaka Song.mp3",
+      "composer": "Jai Krish",
+      "singers": [
+        "Ravi Kiran Kola"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4630400
+    },
+    {
+      "id": "4dc89ea3d7bf",
+      "title": "Sinnavaada Song",
+      "normalizedTitle": "sinnavaada song",
+      "trackNumber": 4,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Sinnavaada Song.mp3",
+      "composer": "Jai Krish",
+      "singers": [
+        "Ananya Bhat",
+        "Gowtham Bharadwaj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4173056
+    }
+  ]
+}

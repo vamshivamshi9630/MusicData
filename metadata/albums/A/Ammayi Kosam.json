@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "41d485ed849e",
+    "name": "Ammayi Kosam",
+    "year": 2001,
+    "musicDirector": "Vandemataram Srinivas",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ammayi Kosam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c4fdcacdd687",
+      "title": "Anjali.Mp",
+      "normalizedTitle": "anjalimp",
+      "trackNumber": 1,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Anjali.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3930269
+    },
+    {
+      "id": "e6d86becf5c0",
+      "title": "B.A. Lu Chadivina.Mp",
+      "normalizedTitle": "ba lu chadivinamp",
+      "trackNumber": 2,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "B.A. Lu Chadivina.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "SP Balu",
+        "Chitra",
+        "Vandematharam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4349504
+    },
+    {
+      "id": "184b9c1b98e3",
+      "title": "Chandini.Mp",
+      "normalizedTitle": "chandinimp",
+      "trackNumber": 3,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Chandini.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Udit Narayan",
+        "Swarnalatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4349486
+    },
+    {
+      "id": "7b8f4c9a8ffa",
+      "title": "Ding Dong.Mp",
+      "normalizedTitle": "ding dongmp",
+      "trackNumber": 4,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Ding Dong.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Sonu Nigam",
+        "Timy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5010699
+    },
+    {
+      "id": "afd59a4b7a74",
+      "title": "Oho Hatsoff.Mp",
+      "normalizedTitle": "oho hatsoffmp",
+      "trackNumber": 5,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Oho Hatsoff.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Unni Krishnan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4010527
+    },
+    {
+      "id": "00a077d095e9",
+      "title": "Vedana Vedana.Mp",
+      "normalizedTitle": "vedana vedanamp",
+      "trackNumber": 6,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Vedana Vedana.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "SP Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4774560
+    }
+  ]
+}

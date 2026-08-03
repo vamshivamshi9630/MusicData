@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "bbd06a850994",
+    "name": "Athidhi",
+    "year": 2007,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Athidhi.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "87cb5290ad01",
+      "title": "Gona Gona.Mp Song",
+      "normalizedTitle": "gona gonamp song",
+      "trackNumber": 1,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Gona Gona.Mp Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Naveen",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4354800
+    },
+    {
+      "id": "5932238d1176",
+      "title": "Khabaddharani.Mp Song",
+      "normalizedTitle": "khabaddharanimp song",
+      "trackNumber": 2,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Khabaddharani.Mp Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Naveen",
+        "Rahul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4302993
+    },
+    {
+      "id": "298824f0e856",
+      "title": "Khiladi Koona.Mp Song",
+      "normalizedTitle": "khiladi koonamp song",
+      "trackNumber": 3,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Khiladi Koona.Mp Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Karthik",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4131607
+    },
+    {
+      "id": "27c1442ffb01",
+      "title": "Rathraina.Mp Song",
+      "normalizedTitle": "rathrainamp song",
+      "trackNumber": 4,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Rathraina.Mp Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ranjit",
+        "Anushka"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4650311
+    },
+    {
+      "id": "cb8a1e412190",
+      "title": "Satyam Emito.Mp Song",
+      "normalizedTitle": "satyam emitomp song",
+      "trackNumber": 5,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Satyam Emito.Mp Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Deepu",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4660760
+    },
+    {
+      "id": "a4ac82f9742e",
+      "title": "Valla Valla.Mp Song",
+      "normalizedTitle": "valla vallamp song",
+      "trackNumber": 6,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Valla Valla.Mp Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Rahul Nambiar",
+        "Dharmna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4175111
+    }
+  ]
+}

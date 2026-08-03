@@ -1,0 +1,124 @@
+{
+  "album": {
+    "id": "18935258d15c",
+    "name": "Allari",
+    "year": 2002,
+    "musicDirector": "Paul J",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Allari.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "3d5360ab4645",
+      "title": "Athaiyo Mavayyo Song",
+      "normalizedTitle": "athaiyo mavayyo song",
+      "trackNumber": 1,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Athaiyo Mavayyo Song.mp3",
+      "composer": "Paul J",
+      "singers": [
+        "Mano",
+        "Grace"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3338693
+    },
+    {
+      "id": "14dbc72f94c7",
+      "title": "Kingini Kingini Song",
+      "normalizedTitle": "kingini kingini song",
+      "trackNumber": 2,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Kingini Kingini Song.mp3",
+      "composer": "Paul J",
+      "singers": [
+        "Suresh Peters",
+        "Chinmai",
+        "Aparna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3438623
+    },
+    {
+      "id": "68450a5082b4",
+      "title": "Kingini Mingini Song",
+      "normalizedTitle": "kingini mingini song",
+      "trackNumber": 3,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Kingini Mingini Song.mp3",
+      "composer": "Paul J",
+      "singers": [
+        "Suresh Peters",
+        "Chinmai",
+        "Aparna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3435265
+    },
+    {
+      "id": "1a3f9394b11c",
+      "title": "Naranaram Song",
+      "normalizedTitle": "naranaram song",
+      "trackNumber": 4,
+      "duration": "3:45",
+      "durationSeconds": 225,
+      "audio": "Naranaram Song.mp3",
+      "composer": "Paul J",
+      "singers": [
+        "Srinivas",
+        "Aparna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3625411
+    },
+    {
+      "id": "e81a745ce682",
+      "title": "O Muddistava Song",
+      "normalizedTitle": "o muddistava song",
+      "trackNumber": 5,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "O Muddistava Song.mp3",
+      "composer": "Paul J",
+      "singers": [
+        "Ravi Varma",
+        "Lavanya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3577775
+    },
+    {
+      "id": "b4423d9c3a98",
+      "title": "Raa Podam Song",
+      "normalizedTitle": "raa podam song",
+      "trackNumber": 6,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Raa Podam Song.mp3",
+      "composer": "Paul J",
+      "singers": [
+        "Aparna",
+        "Devan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4106462
+    }
+  ]
+}

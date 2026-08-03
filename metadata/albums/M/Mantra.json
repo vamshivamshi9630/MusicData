@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "cd99760aa9d3",
+    "name": "Mantra",
+    "year": 2007,
+    "musicDirector": "Anand",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mantra.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "59968e48a682",
+      "title": "Dole Dil Dole Song",
+      "normalizedTitle": "dole dil dole song",
+      "trackNumber": 1,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Dole Dil Dole Song.mp3",
+      "composer": "Anand",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 220153,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8245889
+    },
+    {
+      "id": "72f40c8a6206",
+      "title": "Maha Maha Song",
+      "normalizedTitle": "maha maha song",
+      "trackNumber": 2,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Maha Maha Song.mp3",
+      "composer": "Anand",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 218980,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6410869
+    },
+    {
+      "id": "33e77b615b82",
+      "title": "Manthra Beat Song",
+      "normalizedTitle": "manthra beat song",
+      "trackNumber": 3,
+      "duration": "3:19",
+      "durationSeconds": 199,
+      "audio": "Manthra Beat Song.mp3",
+      "composer": "Anand",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 218005,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5449934
+    },
+    {
+      "id": "c119306aad19",
+      "title": "Manthra Theme Song",
+      "normalizedTitle": "manthra theme song",
+      "trackNumber": 4,
+      "duration": "0:46",
+      "durationSeconds": 46,
+      "audio": "Manthra Theme Song.mp3",
+      "composer": "Anand",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 208679,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1243789
+    },
+    {
+      "id": "dd77a83dda27",
+      "title": "Remix Maha Song",
+      "normalizedTitle": "remix maha song",
+      "trackNumber": 5,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Remix Maha Song.mp3",
+      "composer": "Anand",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 224067,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6011297
+    },
+    {
+      "id": "4f3f87007e54",
+      "title": "Rena Rena Song",
+      "normalizedTitle": "rena rena song",
+      "trackNumber": 6,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Rena Rena Song.mp3",
+      "composer": "Anand",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 220411,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6150352
+    },
+    {
+      "id": "79348afd6808",
+      "title": "Vuhallona Song",
+      "normalizedTitle": "vuhallona song",
+      "trackNumber": 7,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Vuhallona Song.mp3",
+      "composer": "Anand",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 220111,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8456311
+    }
+  ]
+}

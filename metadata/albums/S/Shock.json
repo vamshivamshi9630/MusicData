@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "74cac794aefe",
+    "name": "Shock",
+    "year": 2006,
+    "musicDirector": "Ajay-Atul",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Shock.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "597cea419b26",
+      "title": "Cycle Ekki.Mp",
+      "normalizedTitle": "cycle ekkimp",
+      "trackNumber": 1,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Cycle Ekki.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shweta Pandit",
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4796659
+    },
+    {
+      "id": "ebfbd2668e34",
+      "title": "Kummese Dammunte.Mp",
+      "normalizedTitle": "kummese dammuntemp",
+      "trackNumber": 2,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Kummese Dammunte.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ajay",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5309911
+    },
+    {
+      "id": "54def839b458",
+      "title": "Madhuram Madhuram.Mp",
+      "normalizedTitle": "madhuram madhurammp",
+      "trackNumber": 3,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Madhuram Madhuram.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "S. P. Balasubrahmanyam",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4605235
+    },
+    {
+      "id": "d9f645fc84ff",
+      "title": "Nee Vente Nene.Mp",
+      "normalizedTitle": "nee vente nenemp",
+      "trackNumber": 4,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Nee Vente Nene.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "S. P. B. Charan",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4571801
+    },
+    {
+      "id": "799cdaa7d888",
+      "title": "Premantene.Mp",
+      "normalizedTitle": "premantenemp",
+      "trackNumber": 5,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Premantene.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shweta Pandit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4363221
+    },
+    {
+      "id": "9d07d0935e32",
+      "title": "Shock Theme.Mp",
+      "normalizedTitle": "shock thememp",
+      "trackNumber": 6,
+      "duration": "2:29",
+      "durationSeconds": 149,
+      "audio": "Shock Theme.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "My3Songs.In"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2462336
+    }
+  ]
+}

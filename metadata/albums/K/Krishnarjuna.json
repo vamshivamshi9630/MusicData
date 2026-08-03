@@ -1,0 +1,158 @@
+{
+  "album": {
+    "id": "8e42bc5a8169",
+    "name": "Krishnarjuna",
+    "year": 2008,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Krishnarjuna.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "8e76aa7cb2da",
+      "title": "Aa Aa Aaa Ee Eee Song",
+      "normalizedTitle": "aa aa aaa ee eee song",
+      "trackNumber": 1,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Aa Aa Aaa Ee Eee Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4697968
+    },
+    {
+      "id": "169ca792551f",
+      "title": "Aaja Mehabooba Song",
+      "normalizedTitle": "aaja mehabooba song",
+      "trackNumber": 2,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Aaja Mehabooba Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Achu",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4493998
+    },
+    {
+      "id": "382f043edf77",
+      "title": "Buggalerrabadda Song",
+      "normalizedTitle": "buggalerrabadda song",
+      "trackNumber": 3,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Buggalerrabadda Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "MM Keeravani",
+        "Mamta Mohan Das"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5048650
+    },
+    {
+      "id": "44fd2e902b8d",
+      "title": "Pedda_Marrikemo Song",
+      "normalizedTitle": "pedda marrikemo song",
+      "trackNumber": 4,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Pedda_Marrikemo Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Nagur Babu",
+        "Madhubala Krishnan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4839672
+    },
+    {
+      "id": "397b3b1785ad",
+      "title": "Thruvata Baba Song",
+      "normalizedTitle": "thruvata baba song",
+      "trackNumber": 5,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Thruvata Baba Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4608907
+    },
+    {
+      "id": "0287a12baa1a",
+      "title": "We R Coming Song",
+      "normalizedTitle": "we r coming song",
+      "trackNumber": 6,
+      "duration": "3:11",
+      "durationSeconds": 191,
+      "audio": "We R Coming Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Achu",
+        "Noel Sean",
+        "Pranavi",
+        "Bhargavi Pillai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3544426
+    },
+    {
+      "id": "6aa114d40893",
+      "title": "Yamaranju Meeda Song",
+      "normalizedTitle": "yamaranju meeda song",
+      "trackNumber": 7,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Yamaranju Meeda Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Manchu Manoj Kumar",
+        "Tippu",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4517850
+    },
+    {
+      "id": "2222036d505d",
+      "title": "Yedi Manchi Yed Song",
+      "normalizedTitle": "yedi manchi yed song",
+      "trackNumber": 8,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Yedi Manchi Yed Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Madhubala Krishnan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4807481
+    }
+  ]
+}

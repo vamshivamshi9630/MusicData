@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "5d82a997f66d",
+    "name": "Raghavendra",
+    "year": 2003,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Raghavendra.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "a539aa73f532",
+      "title": "Adugu Lonu Adugu.Mp",
+      "normalizedTitle": "adugu lonu adugump",
+      "trackNumber": 1,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Adugu Lonu Adugu.Mp.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Mallikarjun Rao",
+        "Gopika Poorni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4688165
+    },
+    {
+      "id": "336d76ff21fe",
+      "title": "Boothulu Thittaku.Mp",
+      "normalizedTitle": "boothulu thittakump",
+      "trackNumber": 2,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Boothulu Thittaku.Mp.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Mano"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4301879
+    },
+    {
+      "id": "ffa3717eb02f",
+      "title": "Kalkatta Pan Esina.Mp",
+      "normalizedTitle": "kalkatta pan esinamp",
+      "trackNumber": 3,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Kalkatta Pan Esina.Mp.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Shankar Mahadevan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4779278
+    },
+    {
+      "id": "9faad1d661b7",
+      "title": "Nammina Na madhi.Mp",
+      "normalizedTitle": "nammina na madhimp",
+      "trackNumber": 4,
+      "duration": "5:32",
+      "durationSeconds": 332,
+      "audio": "Nammina Na madhi.Mp.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Shreya Ghoshal",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5418304
+    },
+    {
+      "id": "850a2d4c2007",
+      "title": "Nee Staile .Mp",
+      "normalizedTitle": "nee staile mp",
+      "trackNumber": 5,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Nee Staile .Mp.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Harish Raghavendra",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5055979
+    },
+    {
+      "id": "35f6f15cfc5b",
+      "title": "Sa Ri Ga Ma Pa Da.Mp",
+      "normalizedTitle": "sa ri ga ma pa damp",
+      "trackNumber": 6,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Sa Ri Ga Ma Pa Da.Mp.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Karthik",
+        "Kalpana",
+        "Premgi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4720330
+    }
+  ]
+}

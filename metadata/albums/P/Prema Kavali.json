@@ -1,0 +1,136 @@
+{
+  "album": {
+    "id": "c294612a6a7d",
+    "name": "Prema Kavali",
+    "year": 2011,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Prema Kavali.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "4d9692901d25",
+      "title": "Chirunavve (Remix) Song",
+      "normalizedTitle": "chirunavve remix song",
+      "trackNumber": 1,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Chirunavve (Remix) Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Ananth Sriram",
+      "singers": [
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3850963
+    },
+    {
+      "id": "b95053638b9a",
+      "title": "Chirunavve Song",
+      "normalizedTitle": "chirunavve song",
+      "trackNumber": 2,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Chirunavve Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Ananth Sriram",
+      "singers": [
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4008100
+    },
+    {
+      "id": "668a8890c0ce",
+      "title": "Dum Dum Dum Song",
+      "normalizedTitle": "dum dum dum song",
+      "trackNumber": 3,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Dum Dum Dum Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Ananth Sriram",
+      "singers": [
+        "Benny Dayal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5051324
+    },
+    {
+      "id": "d0e9f56de6e1",
+      "title": "Listen to My Hea Song",
+      "normalizedTitle": "listen to my hea song",
+      "trackNumber": 4,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Listen to My Hea Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Bhuvanachandra",
+      "singers": [
+        "Anuj",
+        "Anjana Sowmya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4148564
+    },
+    {
+      "id": "57e2a7e0ed2a",
+      "title": "Manasantha Song",
+      "normalizedTitle": "manasantha song",
+      "trackNumber": 5,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Manasantha Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Ananth Sriram",
+      "singers": [
+        "K.K."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4158547
+    },
+    {
+      "id": "7fcd3fe09a34",
+      "title": "Nuvve Nuvve Song",
+      "normalizedTitle": "nuvve nuvve song",
+      "trackNumber": 6,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Nuvve Nuvve Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Chitra",
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4304043
+    },
+    {
+      "id": "77f136f8095a",
+      "title": "Tholakari Chinukai Song",
+      "normalizedTitle": "tholakari chinukai song",
+      "trackNumber": 7,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Tholakari Chinukai Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Sahithi",
+      "singers": [
+        "Ranjith",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4717401
+    }
+  ]
+}

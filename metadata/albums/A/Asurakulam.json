@@ -1,0 +1,135 @@
+{
+  "album": {
+    "id": "cdadb96cb961",
+    "name": "Asurakulam",
+    "year": 2015,
+    "musicDirector": "C. Sathya",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Asurakulam.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "5a96e685362b",
+      "title": "Anbane Anbane Song",
+      "normalizedTitle": "anbane anbane song",
+      "trackNumber": 1,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Anbane Anbane Song.mp3",
+      "composer": "Sathya",
+      "singers": [
+        "Gowri Lakshmi",
+        "Yazin Nazir & Arjun Adapalli"
+      ],
+      "bitrate": 129868,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4250369
+    },
+    {
+      "id": "36c6b137e64f",
+      "title": "Anjezhuthilum Song",
+      "normalizedTitle": "anjezhuthilum song",
+      "trackNumber": 2,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Anjezhuthilum Song.mp3",
+      "composer": "Sathya",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 134013,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5490426
+    },
+    {
+      "id": "ca7765746454",
+      "title": "Asurakulam Song",
+      "normalizedTitle": "asurakulam song",
+      "trackNumber": 3,
+      "duration": "2:14",
+      "durationSeconds": 134,
+      "audio": "Asurakulam Song.mp3",
+      "composer": "Sathya",
+      "singers": [
+        "Rajeevan Sathiyaseelan"
+      ],
+      "bitrate": 133701,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2339364
+    },
+    {
+      "id": "f3b982c133c5",
+      "title": "Mayako Song",
+      "normalizedTitle": "mayako song",
+      "trackNumber": 4,
+      "duration": "2:41",
+      "durationSeconds": 161,
+      "audio": "Mayako Song.mp3",
+      "composer": "Sathya",
+      "singers": [
+        "Alphons Joseph"
+      ],
+      "bitrate": 130329,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2728381
+    },
+    {
+      "id": "7382189df304",
+      "title": "Oru Vedhe Song",
+      "normalizedTitle": "oru vedhe song",
+      "trackNumber": 5,
+      "duration": "1:18",
+      "durationSeconds": 78,
+      "audio": "Oru Vedhe Song.mp3",
+      "composer": "Sathya",
+      "singers": [
+        "C. Sathya"
+      ],
+      "bitrate": 129312,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1364817
+    },
+    {
+      "id": "e42ccb82cffc",
+      "title": "Polladhava Song",
+      "normalizedTitle": "polladhava song",
+      "trackNumber": 6,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Polladhava Song.mp3",
+      "composer": "Sathya",
+      "singers": [
+        "Thambi Ramaiah"
+      ],
+      "bitrate": 132419,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3726554
+    },
+    {
+      "id": "d51c817fc07d",
+      "title": "Yedharkku Penne Song",
+      "normalizedTitle": "yedharkku penne song",
+      "trackNumber": 7,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Yedharkku Penne Song.mp3",
+      "composer": "Sathya",
+      "singers": [
+        "Santy Jude",
+        "Chinmayi Sripada & N.S Kamatchi"
+      ],
+      "bitrate": 133413,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4465707
+    }
+  ]
+}

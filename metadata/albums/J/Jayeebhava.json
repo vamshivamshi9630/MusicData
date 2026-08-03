@@ -1,0 +1,106 @@
+{
+  "album": {
+    "id": "4d724339b7cc",
+    "name": "Jayeebhava",
+    "year": 2009,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jayeebhava.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "dafd9726becb",
+      "title": "Gundelona Song",
+      "normalizedTitle": "gundelona song",
+      "trackNumber": 1,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Gundelona Song.mp3",
+      "composer": "S. Thaman",
+      "singers": [
+        "Mamatha Mohandas",
+        "Megha",
+        "Priya",
+        "Janani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4025871
+    },
+    {
+      "id": "e0687c36fbc5",
+      "title": "Kanti Chooputho Song",
+      "normalizedTitle": "kanti chooputho song",
+      "trackNumber": 2,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Kanti Chooputho Song.mp3",
+      "composer": "S. Thaman",
+      "singers": [
+        "Ranjith",
+        "Naveen"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3292319
+    },
+    {
+      "id": "374ac2c60504",
+      "title": "Okkasari Song",
+      "normalizedTitle": "okkasari song",
+      "trackNumber": 3,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Okkasari Song.mp3",
+      "composer": "S. Thaman",
+      "singers": [
+        "Karthik",
+        "Shreya Goshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4318397
+    },
+    {
+      "id": "a93cce282c9a",
+      "title": "Telupu Rang Song",
+      "normalizedTitle": "telupu rang song",
+      "trackNumber": 4,
+      "duration": "3:41",
+      "durationSeconds": 221,
+      "audio": "Telupu Rang Song.mp3",
+      "composer": "S. Thaman",
+      "singers": [
+        "Karthik",
+        "Priyadarshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3569432
+    },
+    {
+      "id": "b20cff2b8a6c",
+      "title": "Zindagi Song",
+      "normalizedTitle": "zindagi song",
+      "trackNumber": 5,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Zindagi Song.mp3",
+      "composer": "S. Thaman",
+      "singers": [
+        "Adnan Sami",
+        "Andrea"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3698983
+    }
+  ]
+}

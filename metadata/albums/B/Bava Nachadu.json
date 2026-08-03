@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "9123001990e9",
+    "name": "Bava Nachadu",
+    "year": 2001,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bava Nachadu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "77f33bd35777",
+      "title": "Akka_!_Bava_Nachada Song",
+      "normalizedTitle": "akka bava nachada song",
+      "trackNumber": 1,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Akka_!_Bava_Nachada Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Harini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4619117
+    },
+    {
+      "id": "7232e4a2c361",
+      "title": "Anuragam Song",
+      "normalizedTitle": "anuragam song",
+      "trackNumber": 2,
+      "duration": "5:23",
+      "durationSeconds": 323,
+      "audio": "Anuragam Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Hariharan",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5397413
+    },
+    {
+      "id": "0730945bdee1",
+      "title": "Bang_Bang Song",
+      "normalizedTitle": "bang bang song",
+      "trackNumber": 3,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Bang_Bang Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Shankar Mahadevan",
+        "Suneetha Rao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5183880
+    },
+    {
+      "id": "e4704deeedbf",
+      "title": "Chandamama Song",
+      "normalizedTitle": "chandamama song",
+      "trackNumber": 4,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Chandamama Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Udit Narayan",
+        "Harini",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4855780
+    },
+    {
+      "id": "ea0c512db16b",
+      "title": "Maatotundhi Song",
+      "normalizedTitle": "maatotundhi song",
+      "trackNumber": 5,
+      "duration": "5:32",
+      "durationSeconds": 332,
+      "audio": "Maatotundhi Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Shankar Mahadevan",
+        "Anuradha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5537891
+    },
+    {
+      "id": "60b38692dcd5",
+      "title": "Very_Sexy Song",
+      "normalizedTitle": "very sexy song",
+      "trackNumber": 6,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Very_Sexy Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5190497
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "album": {
+    "id": "433453e9984c",
+    "name": "Brothers",
+    "year": 2012,
+    "musicDirector": "Harris Jayaraj",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Brothers.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "861790ef8527",
+      "title": "Evvaro Evvaro Song",
+      "normalizedTitle": "evvaro evvaro song",
+      "trackNumber": 1,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Evvaro Evvaro Song.mp3",
+      "composer": "Music : Harris Jayaraj | Lyrics : Chandrabose",
+      "singers": [
+        "Karthik",
+        "Priya Hemesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5420959
+    },
+    {
+      "id": "50b835b4979b",
+      "title": "Kommalanni Poovai Song",
+      "normalizedTitle": "kommalanni poovai song",
+      "trackNumber": 2,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Kommalanni Poovai Song.mp3",
+      "composer": "Music : Harris Jayaraj | Lyrics : Vanamali",
+      "singers": [
+        "Javed Ali",
+        "Mahalakshmi Iyer",
+        "Nincy Vincent"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5329469
+    },
+    {
+      "id": "af8ab7c3fd53",
+      "title": "Neeve Neeve Song",
+      "normalizedTitle": "neeve neeve song",
+      "trackNumber": 3,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Neeve Neeve Song.mp3",
+      "composer": "Music : Harris Jayaraj | Lyrics : Vanamali",
+      "singers": [
+        "Franco",
+        "Aalaap Raju",
+        "Charulatha Mani",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5249217
+    },
+    {
+      "id": "a19ec757d200",
+      "title": "Rani Nanne Song",
+      "normalizedTitle": "rani nanne song",
+      "trackNumber": 4,
+      "duration": "5:26",
+      "durationSeconds": 326,
+      "audio": "Rani Nanne Song.mp3",
+      "composer": "Music : Harris Jayaraj | Lyrics : Vanamali",
+      "singers": [
+        "Vijay Prakash",
+        "Karthik",
+        "Harini",
+        "Shekhinah Shawn Jazeel"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5313597
+    },
+    {
+      "id": "f3b3bf4dae3c",
+      "title": "Rendai Thiruge Song",
+      "normalizedTitle": "rendai thiruge song",
+      "trackNumber": 5,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Rendai Thiruge Song.mp3",
+      "composer": "Music : Harris Jayaraj | Lyrics : Chandrabose",
+      "singers": [
+        "Krish",
+        "M.K. Balaji",
+        "Mili"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4715869
+    }
+  ]
+}

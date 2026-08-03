@@ -1,0 +1,50 @@
+{
+  "album": {
+    "id": "6be4d643a0e5",
+    "name": "Dacoit",
+    "year": 2024,
+    "musicDirector": "Amit Trivedi",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Dacoit.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "cd6c891d5560",
+      "title": "Chichu Buddi Song",
+      "normalizedTitle": "chichu buddi song",
+      "trackNumber": 1,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Chichu Buddi Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Ram Miriyala",
+        "Jonita Gandhi"
+      ],
+      "bitrate": 129208,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3335573
+    },
+    {
+      "id": "0df1c54a0e08",
+      "title": "Rubaroo Song",
+      "normalizedTitle": "rubaroo song",
+      "trackNumber": 2,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Rubaroo Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo",
+        "Chinmayi Sripada"
+      ],
+      "bitrate": 121500,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3091528
+    }
+  ]
+}

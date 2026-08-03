@@ -1,0 +1,66 @@
+{
+  "album": {
+    "id": "e410e1109784",
+    "name": "Mirai",
+    "year": 2025,
+    "musicDirector": "Gowra Hari",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mirai.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "e8278df8e8ce",
+      "title": "Jaitreya Song",
+      "normalizedTitle": "jaitreya song",
+      "trackNumber": 1,
+      "duration": "3:07",
+      "durationSeconds": 187,
+      "audio": "Jaitreya Song.mp3",
+      "composer": "Gowra Hari",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 121935,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3154517
+    },
+    {
+      "id": "f32fa7808500",
+      "title": "The Mother Song",
+      "normalizedTitle": "the mother song",
+      "trackNumber": 2,
+      "duration": "2:15",
+      "durationSeconds": 135,
+      "audio": "The Mother Song.mp3",
+      "composer": "Gowra Hari",
+      "singers": [
+        "Harini Ivaturi",
+        "Saicharan Bhaaskaruni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2467015
+    },
+    {
+      "id": "d961c66adb45",
+      "title": "Vibe Undi Song",
+      "normalizedTitle": "vibe undi song",
+      "trackNumber": 3,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Vibe Undi Song.mp3",
+      "composer": "Gowra Hari",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 139293,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4090185
+    }
+  ]
+}

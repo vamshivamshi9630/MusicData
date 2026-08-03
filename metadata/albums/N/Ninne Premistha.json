@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "df8b80f5b208",
+    "name": "Ninne Premistha",
+    "year": 2000,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ninne Premistha.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "8a9c8ce7db34",
+      "title": "Gudi Gantalu",
+      "normalizedTitle": "gudi gantalu",
+      "trackNumber": 1,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Gudi Gantalu.mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "K. S. Chithra",
+        "Rajesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4848002
+    },
+    {
+      "id": "f3d88c52ed64",
+      "title": "Koila Paata",
+      "normalizedTitle": "koila paata",
+      "trackNumber": 2,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Koila Paata.mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "K. S. Chithra",
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4278741
+    },
+    {
+      "id": "c1a3e834a386",
+      "title": "Oka Devata (Female)",
+      "normalizedTitle": "oka devata female",
+      "trackNumber": 3,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Oka Devata (Female).mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4878517
+    },
+    {
+      "id": "9acf7c48819d",
+      "title": "Oka Devata (Male)",
+      "normalizedTitle": "oka devata male",
+      "trackNumber": 4,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Oka Devata (Male).mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4286683
+    },
+    {
+      "id": "98eb23bd34cd",
+      "title": "Prema Endukani",
+      "normalizedTitle": "prema endukani",
+      "trackNumber": 5,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Prema Endukani.mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "K. S. Chithra",
+        "Rajesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4691271
+    },
+    {
+      "id": "776ecd9d11e6",
+      "title": "Premalekha Rasenu",
+      "normalizedTitle": "premalekha rasenu",
+      "trackNumber": 6,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Premalekha Rasenu.mp3",
+      "composer": "S.A. Raj Kumar",
+      "singers": [
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4566767
+    }
+  ]
+}

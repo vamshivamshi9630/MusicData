@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "fb8fce145986",
+    "name": "Racha",
+    "year": 2012,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Racha.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "8af0d92c9e33",
+      "title": "Dillaku Dillaku.Mp",
+      "normalizedTitle": "dillaku dillakump",
+      "trackNumber": 1,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Dillaku Dillaku.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4524334
+    },
+    {
+      "id": "01943d397c22",
+      "title": "Oka Paadham.Mp",
+      "normalizedTitle": "oka paadhammp",
+      "trackNumber": 2,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Oka Paadham.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4490052
+    },
+    {
+      "id": "65eb0a3f8292",
+      "title": "Racha.Mp",
+      "normalizedTitle": "rachamp",
+      "trackNumber": 3,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Racha.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4805167
+    },
+    {
+      "id": "72b7c1ffbc6b",
+      "title": "Singarenundhi.Mp",
+      "normalizedTitle": "singarenundhimp",
+      "trackNumber": 4,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Singarenundhi.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4047865
+    },
+    {
+      "id": "0aad9837a42a",
+      "title": "Vana Vana Remix.Mp",
+      "normalizedTitle": "vana vana remixmp",
+      "trackNumber": 5,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Vana Vana Remix.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Tamanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3919140
+    }
+  ]
+}

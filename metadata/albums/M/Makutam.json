@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "ae8e96cd93b6",
+    "name": "Makutam",
+    "year": 2025,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Makutam.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "df09beb00c81",
+      "title": "Nachchaake Vachera Song",
+      "normalizedTitle": "nachchaake vachera song",
+      "trackNumber": 1,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Nachchaake Vachera Song.mp3",
+      "composer": "G V Prakash Kumar",
+      "singers": [
+        "Prabha Bangarigalla"
+      ],
+      "bitrate": 136505,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4143488
+    }
+  ]
+}

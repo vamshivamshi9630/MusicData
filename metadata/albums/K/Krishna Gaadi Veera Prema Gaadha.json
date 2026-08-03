@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "aaf599313756",
+    "name": "Krishna Gaadi Veera Prema Gaadha",
+    "year": 2016,
+    "musicDirector": "Vishal Chandrasekhar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Krishna Gaadi Veera Prema Gaadha.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "f4aac1812127",
+      "title": "Aa Seetha Devainaa Song",
+      "normalizedTitle": "aa seetha devainaa song",
+      "trackNumber": 1,
+      "duration": "2:11",
+      "durationSeconds": 131,
+      "audio": "Aa Seetha Devainaa Song.mp3",
+      "composer": "Vishal Chandrasekhar",
+      "singers": [
+        "Shriya",
+        "Sumedha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2223760
+    },
+    {
+      "id": "bfd1448bb751",
+      "title": "Krishnagadi Veera Prema Song",
+      "normalizedTitle": "krishnagadi veera prema song",
+      "trackNumber": 2,
+      "duration": "3:06",
+      "durationSeconds": 186,
+      "audio": "Krishnagadi Veera Prema Song.mp3",
+      "composer": "Vishal Chandrasekhar",
+      "singers": [
+        "K.G. Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3103164
+    },
+    {
+      "id": "e76227504749",
+      "title": "Nuvvante Na Navvu Song",
+      "normalizedTitle": "nuvvante na navvu song",
+      "trackNumber": 3,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Nuvvante Na Navvu Song.mp3",
+      "composer": "Vishal Chandrasekhar",
+      "singers": [
+        "Haricharan Seshadri",
+        "Sinduri Vishal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4502094
+    },
+    {
+      "id": "a7cb26bc480a",
+      "title": "Rara Ravera Song",
+      "normalizedTitle": "rara ravera song",
+      "trackNumber": 4,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Rara Ravera Song.mp3",
+      "composer": "Vishal Chandrasekhar",
+      "singers": [
+        "Vedala Hemachandra",
+        "Anthony Daasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3939089
+    },
+    {
+      "id": "dfeca0ecca6e",
+      "title": "Ulikipadaku Ulikipadaku Song",
+      "normalizedTitle": "ulikipadaku ulikipadaku song",
+      "trackNumber": 5,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Ulikipadaku Ulikipadaku Song.mp3",
+      "composer": "Vishal Chandrasekhar",
+      "singers": [
+        "Rahul Nambiar",
+        "Sinduri Vishal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3129934
+    }
+  ]
+}

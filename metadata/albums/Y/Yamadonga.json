@@ -1,0 +1,177 @@
+{
+  "album": {
+    "id": "4353497c398b",
+    "name": "Yamadonga",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Yamadonga.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "374669e93006",
+      "title": "Bambarala Chumbanala.Mp",
+      "normalizedTitle": "bambarala chumbanalamp",
+      "trackNumber": 1,
+      "duration": "1:00",
+      "durationSeconds": 60,
+      "audio": "Bambarala Chumbanala.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Bambarala Chumbanala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1072343
+    },
+    {
+      "id": "1a82cee5d59a",
+      "title": "Chala Challa Gaali.Mp",
+      "normalizedTitle": "chala challa gaalimp",
+      "trackNumber": 2,
+      "duration": "1:56",
+      "durationSeconds": 116,
+      "audio": "Chala Challa Gaali.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "MM Keeravani",
+        "Sangeetha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1972223
+    },
+    {
+      "id": "bd0757699950",
+      "title": "Naachore.Mp",
+      "normalizedTitle": "naachoremp",
+      "trackNumber": 3,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Naachore.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Deepu(Pradeep)",
+        "Ganga"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4795476
+    },
+    {
+      "id": "7754f36732cb",
+      "title": "Nunugu Meesaaloda.Mp",
+      "normalizedTitle": "nunugu meesaalodamp",
+      "trackNumber": 4,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Nunugu Meesaaloda.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "MM Keeravani",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4947631
+    },
+    {
+      "id": "4aa81973a135",
+      "title": "Nuvvu Muttukunte.Mp",
+      "normalizedTitle": "nuvvu muttukuntemp",
+      "trackNumber": 5,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Nuvvu Muttukunte.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "K.J.Ranjith",
+        "Pranavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3819592
+    },
+    {
+      "id": "dbcb8f7e6438",
+      "title": "O Lammi Thikkaregind.Mp",
+      "normalizedTitle": "o lammi thikkaregindmp",
+      "trackNumber": 6,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "O Lammi Thikkaregind.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "NTR",
+        "Mamatha Mohandas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4118027
+    },
+    {
+      "id": "1ae915e76fb6",
+      "title": "Rabbaru Gaajulu.Mp",
+      "normalizedTitle": "rabbaru gaajulump",
+      "trackNumber": 7,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Rabbaru Gaajulu.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "DalerMehendi",
+        "Pranavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5194678
+    },
+    {
+      "id": "76771da0e234",
+      "title": "Sri Karaakarunda.Mp",
+      "normalizedTitle": "sri karaakarundamp",
+      "trackNumber": 8,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Sri Karaakarunda.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "DalerMehendi",
+        "Pranavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5194678
+    },
+    {
+      "id": "23ddc7b6df0c",
+      "title": "Young Yama.Mp",
+      "normalizedTitle": "young yamamp",
+      "trackNumber": 9,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Young Yama.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "MMK",
+        "Mano",
+        "ShankarMaha",
+        "Pranavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4798041
+    }
+  ]
+}

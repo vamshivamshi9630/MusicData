@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "f2cb3d2836d8",
+    "name": "Ontari",
+    "year": 2008,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "78a84eaef085",
+      "title": "Ararey Yemaindi Song",
+      "normalizedTitle": "ararey yemaindi song",
+      "trackNumber": 1,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Ararey Yemaindi Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Hemachandra",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4737226
+    },
+    {
+      "id": "cac5a129d968",
+      "title": "Chepaalanundhi Song",
+      "normalizedTitle": "chepaalanundhi song",
+      "trackNumber": 2,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Chepaalanundhi Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "S.P. Charan",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4687903
+    },
+    {
+      "id": "ccd5c4b1c4f9",
+      "title": "Lakshmi Ksheera Song",
+      "normalizedTitle": "lakshmi ksheera song",
+      "trackNumber": 3,
+      "duration": "1:18",
+      "durationSeconds": 78,
+      "audio": "Lakshmi Ksheera Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1279416
+    },
+    {
+      "id": "f4a8e1e8a201",
+      "title": "Nee Jimmada Song",
+      "normalizedTitle": "nee jimmada song",
+      "trackNumber": 4,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Nee Jimmada Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Rahul Nambiar",
+        "Anitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4561249
+    },
+    {
+      "id": "75e587c2d0ce",
+      "title": "O Maare O Maare Song",
+      "normalizedTitle": "o maare o maare song",
+      "trackNumber": 5,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "O Maare O Maare Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ranjit",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4527414
+    },
+    {
+      "id": "8678a27d1fed",
+      "title": "Warre Waree Song",
+      "normalizedTitle": "warre waree song",
+      "trackNumber": 6,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Warre Waree Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Naveen"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4690357
+    }
+  ]
+}

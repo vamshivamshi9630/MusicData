@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "fd58d37e34c4",
+    "name": "Tuck Jagadish",
+    "year": 2021,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Tuck Jagadish.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "d715462106a2",
+      "title": "Inkosaari Inkosaari Song",
+      "normalizedTitle": "inkosaari inkosaari song",
+      "trackNumber": 1,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Inkosaari Inkosaari Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Shreya Ghoshal",
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3756800
+    },
+    {
+      "id": "632281a94512",
+      "title": "Kolo Kolanna Kolo Song",
+      "normalizedTitle": "kolo kolanna kolo song",
+      "trackNumber": 2,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Kolo Kolanna Kolo Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Armaan Malik Harini Ivvaturi  Sri krishna & thaman S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5222144
+    },
+    {
+      "id": "9ba6816e996b",
+      "title": "Needhi Nadhantu Song",
+      "normalizedTitle": "needhi nadhantu song",
+      "trackNumber": 3,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Needhi Nadhantu Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sri krishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4459957
+    },
+    {
+      "id": "788952510580",
+      "title": "Neeti Neeti Sukka Song",
+      "normalizedTitle": "neeti neeti sukka song",
+      "trackNumber": 4,
+      "duration": "1:34",
+      "durationSeconds": 94,
+      "audio": "Neeti Neeti Sukka Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Mohana Bhogaraju"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4105280
+    },
+    {
+      "id": "010a892e0393",
+      "title": "Tuck Song",
+      "normalizedTitle": "tuck song",
+      "trackNumber": 5,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Tuck Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Shiva Nirvana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3552128
+    },
+    {
+      "id": "0fff8ec21a46",
+      "title": "Yetikokka Poota Song",
+      "normalizedTitle": "yetikokka poota song",
+      "trackNumber": 6,
+      "duration": "1:35",
+      "durationSeconds": 95,
+      "audio": "Yetikokka Poota Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Mohana Bhogaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1867189
+    }
+  ]
+}

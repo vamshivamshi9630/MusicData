@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "dca7c8b52c97",
+    "name": "Godavari",
+    "year": 2006,
+    "musicDirector": "K. M. Radha Krishnan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Godavari.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "4c365b19cb35",
+      "title": "Andamgaalena Song",
+      "normalizedTitle": "andamgaalena song",
+      "trackNumber": 1,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Andamgaalena Song.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "Sunitha",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4213921
+    },
+    {
+      "id": "f038caa82d91",
+      "title": "Manasa Gelupu Song",
+      "normalizedTitle": "manasa gelupu song",
+      "trackNumber": 2,
+      "duration": "6:01",
+      "durationSeconds": 361,
+      "audio": "Manasa Gelupu Song.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "Shankar Mahadevan",
+        "Chitra",
+        "K.M. Radhakrishnan",
+        "Gayathri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5798068
+    },
+    {
+      "id": "b74829e20f20",
+      "title": "Manasavacha Song",
+      "normalizedTitle": "manasavacha song",
+      "trackNumber": 3,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Manasavacha Song.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "Unni Krishnan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4655714
+    },
+    {
+      "id": "95a3dbcff0a4",
+      "title": "Ramachakani Sita Song",
+      "normalizedTitle": "ramachakani sita song",
+      "trackNumber": 4,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Ramachakani Sita Song.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "Gayathri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3734098
+    },
+    {
+      "id": "69535c7251d9",
+      "title": "Tippulu Tappulu Song",
+      "normalizedTitle": "tippulu tappulu song",
+      "trackNumber": 5,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Tippulu Tappulu Song.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4246108
+    },
+    {
+      "id": "9e49f38b6045",
+      "title": "Uppongele Godavari Song",
+      "normalizedTitle": "uppongele godavari song",
+      "trackNumber": 6,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Uppongele Godavari Song.mp3",
+      "composer": "K. M. Radha Krishnan",
+      "singers": [
+        "S.P. Balu",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4758120
+    }
+  ]
+}

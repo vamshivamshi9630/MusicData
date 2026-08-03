@@ -1,0 +1,134 @@
+{
+  "album": {
+    "id": "8eb630308352",
+    "name": "Taj Mahal",
+    "year": 2010,
+    "musicDirector": "Abhimann Roy",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Taj Mahal.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "9050cf9236c4",
+      "title": "Challani Premaku",
+      "normalizedTitle": "challani premaku",
+      "trackNumber": 1,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Challani Premaku.mp3",
+      "composer": "Abhiman Roy",
+      "singers": [
+        "Vijay Yesudas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4347345
+    },
+    {
+      "id": "023bbf6de868",
+      "title": "Emantha Neram",
+      "normalizedTitle": "emantha neram",
+      "trackNumber": 2,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Emantha Neram.mp3",
+      "composer": "Abhiman Roy",
+      "singers": [
+        "Hariharan",
+        "Pranavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4981811
+    },
+    {
+      "id": "bb3c0f890483",
+      "title": "Etu Choosina",
+      "normalizedTitle": "etu choosina",
+      "trackNumber": 3,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Etu Choosina.mp3",
+      "composer": "Abhiman Roy",
+      "singers": [
+        "Kunal Ganjawala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4654113
+    },
+    {
+      "id": "e685fac1d953",
+      "title": "Manasu Nippula",
+      "normalizedTitle": "manasu nippula",
+      "trackNumber": 4,
+      "duration": "2:45",
+      "durationSeconds": 165,
+      "audio": "Manasu Nippula.mp3",
+      "composer": "Abhiman Roy",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2927945
+    },
+    {
+      "id": "e7d731a066d1",
+      "title": "Nee Meedey",
+      "normalizedTitle": "nee meedey",
+      "trackNumber": 5,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Nee Meedey.mp3",
+      "composer": "Abhiman Roy",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5415196
+    },
+    {
+      "id": "43229c8b39e0",
+      "title": "Nuvante Istamani",
+      "normalizedTitle": "nuvante istamani",
+      "trackNumber": 6,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Nuvante Istamani.mp3",
+      "composer": "Abhiman Roy",
+      "singers": [
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4781996
+    },
+    {
+      "id": "2f6ab1a599f5",
+      "title": "Prema Ee Vinta",
+      "normalizedTitle": "prema ee vinta",
+      "trackNumber": 7,
+      "duration": "1:29",
+      "durationSeconds": 89,
+      "audio": "Prema Ee Vinta.mp3",
+      "composer": "Abhiman Roy",
+      "singers": [
+        "Venugopal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1707904
+    }
+  ]
+}

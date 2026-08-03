@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "a5f13af42f86",
+    "name": "Murari",
+    "year": 2001,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Murari.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "d66f5354798e",
+      "title": "Alanaati",
+      "normalizedTitle": "alanaati",
+      "trackNumber": 1,
+      "duration": "5:23",
+      "durationSeconds": 323,
+      "audio": "Alanaati.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Sonali Bindre"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5242352
+    },
+    {
+      "id": "ea7e94778949",
+      "title": "Andaanike",
+      "normalizedTitle": "andaanike",
+      "trackNumber": 2,
+      "duration": "5:25",
+      "durationSeconds": 325,
+      "audio": "Andaanike.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Sonali Bindre"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5271591
+    },
+    {
+      "id": "b781dcd5239d",
+      "title": "Bangaru Kalla",
+      "normalizedTitle": "bangaru kalla",
+      "trackNumber": 3,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Bangaru Kalla.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Sonali Bindre"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4905857
+    },
+    {
+      "id": "97f410f364b4",
+      "title": "Cheppamma Cheppamma",
+      "normalizedTitle": "cheppamma cheppamma",
+      "trackNumber": 4,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Cheppamma Cheppamma.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Sonali Bindre"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4709416
+    },
+    {
+      "id": "b3abe55eb14d",
+      "title": "Dum Dum Dum",
+      "normalizedTitle": "dum dum dum",
+      "trackNumber": 5,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Dum Dum Dum.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Sonali Bindre"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4567316
+    },
+    {
+      "id": "385331d4af25",
+      "title": "Ekkada Ekkada",
+      "normalizedTitle": "ekkada ekkada",
+      "trackNumber": 6,
+      "duration": "6:13",
+      "durationSeconds": 373,
+      "audio": "Ekkada Ekkada.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Sonali Bindre"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6038955
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "album": {
+    "id": "a12aa38a123a",
+    "name": "Dear Comrade",
+    "year": 2019,
+    "musicDirector": "Justin Prabhakaran",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Dear Comrade.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "417a553c77b0",
+      "title": "Comrade Anthem Song",
+      "normalizedTitle": "comrade anthem song",
+      "trackNumber": 1,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Comrade Anthem Song.mp3",
+      "composer": "Justin Prabhakaran",
+      "singers": [
+        "Vijay Deverakonda",
+        "Stony Psyko",
+        "Mc Vickey"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3734808
+    },
+    {
+      "id": "2395a5e81e93",
+      "title": "Gira Gira Song",
+      "normalizedTitle": "gira gira song",
+      "trackNumber": 2,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Gira Gira Song.mp3",
+      "composer": "Justin Prabhakaran",
+      "singers": [
+        "Gowtham Bharadwaj",
+        "Yamini Ghantasala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4919404
+    },
+    {
+      "id": "236545cc1f46",
+      "title": "Kadalalle Song",
+      "normalizedTitle": "kadalalle song",
+      "trackNumber": 3,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Kadalalle Song.mp3",
+      "composer": "Justin Prabhakaran",
+      "singers": [
+        "Justin Prabhakaran",
+        "Aishwarya Ravichandran",
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4569850
+    },
+    {
+      "id": "62d85b44acd4",
+      "title": "Maama Choodaro Song",
+      "normalizedTitle": "maama choodaro song",
+      "trackNumber": 4,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Maama Choodaro Song.mp3",
+      "composer": "Justin Prabhakaran",
+      "singers": [
+        "Naresh Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4721540
+    },
+    {
+      "id": "d0efcd51b359",
+      "title": "Nee Neeli Kannullona Song",
+      "normalizedTitle": "nee neeli kannullona song",
+      "trackNumber": 5,
+      "duration": "2:27",
+      "durationSeconds": 147,
+      "audio": "Nee Neeli Kannullona Song.mp3",
+      "composer": "Justin Prabhakaran",
+      "singers": [
+        "Gowtham bharadwaj V"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2753498
+    },
+    {
+      "id": "f3ce6d2d1b9f",
+      "title": "O Kalala Kathala Song",
+      "normalizedTitle": "o kalala kathala song",
+      "trackNumber": 6,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "O Kalala Kathala Song.mp3",
+      "composer": "Justin Prabhakaran",
+      "singers": [
+        "Sathya Prakash",
+        "Chinmayi Sripaada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5233540
+    },
+    {
+      "id": "e2377ae8bff8",
+      "title": "The Canteen Song",
+      "normalizedTitle": "the canteen song",
+      "trackNumber": 7,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "The Canteen Song.mp3",
+      "composer": "Justin Prabhakaran",
+      "singers": [
+        "Justin Prabhakaran",
+        "Karthik Rodriguez"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3194370
+    },
+    {
+      "id": "789235160973",
+      "title": "Yetu Pone Song",
+      "normalizedTitle": "yetu pone song",
+      "trackNumber": 8,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Yetu Pone Song.mp3",
+      "composer": "Justin Prabhakaran",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4356662
+    }
+  ]
+}

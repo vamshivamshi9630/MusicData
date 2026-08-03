@@ -1,0 +1,105 @@
+{
+  "album": {
+    "id": "1f0018326152",
+    "name": "Yuva",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Yuva.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "7ff929806436",
+      "title": "Deham Thiri Song",
+      "normalizedTitle": "deham thiri song",
+      "trackNumber": 1,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Deham Thiri Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "A.R. Rahman",
+        "Sunitha Sarathy",
+        "Tanvi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4421237
+    },
+    {
+      "id": "4ff055b5f9fb",
+      "title": "Dol Dol Song",
+      "normalizedTitle": "dol dol song",
+      "trackNumber": 2,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Dol Dol Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shahin Badar",
+        "Blazee (Rap)"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3847771
+    },
+    {
+      "id": "78c8276ad1f7",
+      "title": "Jana Gana Mana",
+      "normalizedTitle": "jana gana mana",
+      "trackNumber": 3,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Jana Gana Mana.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "A.R. Rahman",
+        "Madhushree"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4770219
+    },
+    {
+      "id": "d553388a7e35",
+      "title": "Sankurathri Kodi",
+      "normalizedTitle": "sankurathri kodi",
+      "trackNumber": 4,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Sankurathri Kodi.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "A.R. Rahman",
+        "Madhushree"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4770219
+    },
+    {
+      "id": "d0b856ec563f",
+      "title": "Vachinda Megham Song",
+      "normalizedTitle": "vachinda megham song",
+      "trackNumber": 5,
+      "duration": "5:24",
+      "durationSeconds": 324,
+      "audio": "Vachinda Megham Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Adnan Sami",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5219515
+    }
+  ]
+}

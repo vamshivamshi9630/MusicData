@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "52a39733bfab",
+    "name": "Rebel",
+    "year": 2012,
+    "musicDirector": "Raghava Lawrence",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Rebel.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "fc6211eca9d0",
+      "title": "Deepali.Mp",
+      "normalizedTitle": "deepalimp",
+      "trackNumber": 1,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Deepali.Mp.mp3",
+      "composer": "Raghavendra  Lawrence",
+      "singers": [
+        "Karthik",
+        "Priya Hemesh",
+        "Divya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4443829
+    },
+    {
+      "id": "f5238efb4df7",
+      "title": "Excellent Ne Figure.Mp",
+      "normalizedTitle": "excellent ne figuremp",
+      "trackNumber": 2,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Excellent Ne Figure.Mp.mp3",
+      "composer": "Raghavendra  Lawrence",
+      "singers": [
+        "Nakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3294899
+    },
+    {
+      "id": "830c96742922",
+      "title": "Google.Mp",
+      "normalizedTitle": "googlemp",
+      "trackNumber": 3,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Google.Mp.mp3",
+      "composer": "Raghavendra  Lawrence",
+      "singers": [
+        "Andrea",
+        "Shravana Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4539435
+    },
+    {
+      "id": "d16b96ca99af",
+      "title": "Keka.Mp",
+      "normalizedTitle": "kekamp",
+      "trackNumber": 4,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Keka.Mp.mp3",
+      "composer": "Raghavendra  Lawrence",
+      "singers": [
+        "Llyod Paul",
+        "Satyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4043675
+    },
+    {
+      "id": "cf15218049c4",
+      "title": "Orinayano.Mp",
+      "normalizedTitle": "orinayanomp",
+      "trackNumber": 5,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Orinayano.Mp.mp3",
+      "composer": "Raghavendra  Lawrence",
+      "singers": [
+        "Malathi",
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5003693
+    }
+  ]
+}

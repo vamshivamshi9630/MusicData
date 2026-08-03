@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "3ea90c1ba9d7",
+    "name": "Govindudu Andarivadele",
+    "year": 2014,
+    "musicDirector": "Yuvan Shankar Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Govindudu Andarivadele.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "d350eb9546c3",
+      "title": "Bavagari Choope.Mp",
+      "normalizedTitle": "bavagari choopemp",
+      "trackNumber": 1,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Bavagari Choope.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Kajal Agarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4075344
+    },
+    {
+      "id": "05839c956641",
+      "title": "Gulabi Kallu Rendu.Mp",
+      "normalizedTitle": "gulabi kallu rendump",
+      "trackNumber": 2,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Gulabi Kallu Rendu.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Kajal Agarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4320216
+    },
+    {
+      "id": "ed0f94bed0ff",
+      "title": "Kokkodi.Mp",
+      "normalizedTitle": "kokkodimp",
+      "trackNumber": 3,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Kokkodi.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Kajal Agarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4239988
+    },
+    {
+      "id": "2a694fa8325d",
+      "title": "Neeli Rangu.Mp",
+      "normalizedTitle": "neeli rangump",
+      "trackNumber": 4,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Neeli Rangu.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Kajal Agarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4672136
+    },
+    {
+      "id": "19702d71aec9",
+      "title": "Pratho Chota Nake Swagatham.Mp",
+      "normalizedTitle": "pratho chota nake swagathammp",
+      "trackNumber": 5,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Pratho Chota Nake Swagatham.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Kajal Agarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3488059
+    },
+    {
+      "id": "598e5ef6f334",
+      "title": "Ra Raakumara.Mp",
+      "normalizedTitle": "ra raakumaramp",
+      "trackNumber": 6,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Ra Raakumara.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Ram Charan",
+        "Kajal Agarwal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3648112
+    }
+  ]
+}

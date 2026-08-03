@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "298bab1136dc",
+    "name": "Guru",
+    "year": 2017,
+    "musicDirector": "Santhosh Narayanan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Guru.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "a25f828a9f58",
+      "title": "Ey Pataakey",
+      "normalizedTitle": "ey pataakey",
+      "trackNumber": 1,
+      "duration": "3:02",
+      "durationSeconds": 182,
+      "audio": "Ey Pataakey.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Ananthu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3018658
+    },
+    {
+      "id": "8555ef575371",
+      "title": "Gunde Lothulalo",
+      "normalizedTitle": "gunde lothulalo",
+      "trackNumber": 2,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Gunde Lothulalo.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Dhee"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3116458
+    },
+    {
+      "id": "0d5a47a6d410",
+      "title": "Jingidi",
+      "normalizedTitle": "jingidi",
+      "trackNumber": 3,
+      "duration": "2:56",
+      "durationSeconds": 176,
+      "audio": "Jingidi.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Venkatesh Daggubati"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2922119
+    },
+    {
+      "id": "6909dcafd523",
+      "title": "Ne Zara",
+      "normalizedTitle": "ne zara",
+      "trackNumber": 4,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Ne Zara.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Siddharth Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4162208
+    },
+    {
+      "id": "8d460d6f1d61",
+      "title": "O Sakkanoda",
+      "normalizedTitle": "o sakkanoda",
+      "trackNumber": 5,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "O Sakkanoda.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Dhee"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4112031
+    },
+    {
+      "id": "7da480cd5527",
+      "title": "Ukku Naram",
+      "normalizedTitle": "ukku naram",
+      "trackNumber": 6,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Ukku Naram.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Siddharth Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4234103
+    }
+  ]
+}

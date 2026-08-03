@@ -1,0 +1,91 @@
+{
+  "album": {
+    "id": "9023fa9f6192",
+    "name": "Amar Akbar Anthony",
+    "year": 2018,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Amar Akbar Anthony.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "198651aca920",
+      "title": "Don Bosco Song",
+      "normalizedTitle": "don bosco song",
+      "trackNumber": 1,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Don Bosco Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Sri Krishna",
+        "Jaspreet Jasz",
+        "Hariteja",
+        "Manisha Errabathini",
+        "Ramya Behra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4986115
+    },
+    {
+      "id": "d0dac13222cd",
+      "title": "Guppeta Dhatina Song",
+      "normalizedTitle": "guppeta dhatina song",
+      "trackNumber": 2,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Guppeta Dhatina Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Ranjith KG",
+        "Kaala Bhairava",
+        "Sri Krishna",
+        "Saketh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4549736
+    },
+    {
+      "id": "9cfcd5f2cd79",
+      "title": "Kalala Kadhala Song",
+      "normalizedTitle": "kalala kadhala song",
+      "trackNumber": 3,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Kalala Kadhala Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Harini Ivvaturi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4957138
+    },
+    {
+      "id": "7cd14d7c2a60",
+      "title": "Khullam Khulla Chilla Song",
+      "normalizedTitle": "khullam khulla chilla song",
+      "trackNumber": 4,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Khullam Khulla Chilla Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Nakash Aziz",
+        "Mohana",
+        "Ramya Behra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3927379
+    }
+  ]
+}

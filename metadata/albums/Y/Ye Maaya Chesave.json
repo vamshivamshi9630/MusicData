@@ -1,0 +1,138 @@
+{
+  "album": {
+    "id": "c5fa7b2a8284",
+    "name": "Ye Maaya Chesave",
+    "year": 2010,
+    "musicDirector": "A.R. Rahman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ye Maaya Chesave.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "5720d97995bd",
+      "title": "Aakaasam",
+      "normalizedTitle": "aakaasam",
+      "trackNumber": 1,
+      "duration": "5:45",
+      "durationSeconds": 345,
+      "audio": "Aakaasam.mp3",
+      "composer": "Music : A.R. Rahman | Lyrics : Anantha Sriram | Malayalam Lyrics : Kaithapram",
+      "singers": [
+        "Alphonse"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5580742
+    },
+    {
+      "id": "6211890e8c00",
+      "title": "Aaromale",
+      "normalizedTitle": "aaromale",
+      "trackNumber": 2,
+      "duration": "5:45",
+      "durationSeconds": 345,
+      "audio": "Aaromale.mp3",
+      "composer": "Music : A.R. Rahman | Lyrics : Anantha Sriram | Malayalam Lyrics : Kaithapram",
+      "singers": [
+        "Alphonse"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5580742
+    },
+    {
+      "id": "f0f592d5a6b1",
+      "title": "Ee Hridayam Song",
+      "normalizedTitle": "ee hridayam song",
+      "trackNumber": 3,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Ee Hridayam Song.mp3",
+      "composer": "Music : A.R. Rahman | Lyrics : Anantha Sriram | Rap Lyrics : Blaaze",
+      "singers": [
+        "Vijayprakash",
+        "Suzanne",
+        "Blaaze"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5331248
+    },
+    {
+      "id": "a7f44206f9fb",
+      "title": "Kundanapu Bomma Song",
+      "normalizedTitle": "kundanapu bomma song",
+      "trackNumber": 4,
+      "duration": "5:32",
+      "durationSeconds": 332,
+      "audio": "Kundanapu Bomma Song.mp3",
+      "composer": "Music : A.R. Rahman | Lyrics : Anantha Sriram | Malayalam Lyrics : Kalyani Menon",
+      "singers": [
+        "Benny Dayal",
+        "Kalyani Menon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5371818
+    },
+    {
+      "id": "1a4679c5c0bb",
+      "title": "Manasaa Song",
+      "normalizedTitle": "manasaa song",
+      "trackNumber": 5,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Manasaa Song.mp3",
+      "composer": "Music : A.R. Rahman | Lyrics : Anantha Sriram",
+      "singers": [
+        "Devan Ekambaram",
+        "Chinmayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4086506
+    },
+    {
+      "id": "a45f60846ec6",
+      "title": "Swaasye Song",
+      "normalizedTitle": "swaasye song",
+      "trackNumber": 6,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Swaasye Song.mp3",
+      "composer": "Music : A.R. Rahman | Lyrics : Anantha Sriram",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3138538
+    },
+    {
+      "id": "5d09f01cbb58",
+      "title": "Vintunnavaa Song",
+      "normalizedTitle": "vintunnavaa song",
+      "trackNumber": 7,
+      "duration": "6:58",
+      "durationSeconds": 418,
+      "audio": "Vintunnavaa Song.mp3",
+      "composer": "Music : A.R. Rahman | Lyrics : Anantha Sriram",
+      "singers": [
+        "Karthik",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6735117
+    }
+  ]
+}

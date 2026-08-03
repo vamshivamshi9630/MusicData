@@ -1,0 +1,66 @@
+{
+  "album": {
+    "id": "79588e9a76a9",
+    "name": "Virupaksha",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Virupaksha.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "5412d1c9c009",
+      "title": "Kalallo Song",
+      "normalizedTitle": "kalallo song",
+      "trackNumber": 1,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Kalallo Song.mp3",
+      "composer": "B.Ajaneesh Loknath",
+      "singers": [
+        "Anurag Kulkarni",
+        "Madhushree"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3893604
+    },
+    {
+      "id": "7592d3edbd89",
+      "title": "Nachavule Nachavule Song",
+      "normalizedTitle": "nachavule nachavule song",
+      "trackNumber": 2,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Nachavule Nachavule Song.mp3",
+      "composer": "B.Ajaneesh Loknath",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3884827
+    },
+    {
+      "id": "0c59765f4134",
+      "title": "Ragile Jwaale Song",
+      "normalizedTitle": "ragile jwaale song",
+      "trackNumber": 3,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Ragile Jwaale Song.mp3",
+      "composer": "B.Ajaneesh Loknath",
+      "singers": [
+        "B.Ajaneesh Loknath"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7136576
+    }
+  ]
+}

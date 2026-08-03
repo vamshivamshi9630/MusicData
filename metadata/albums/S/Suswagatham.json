@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "15c7304c81d4",
+    "name": "Suswagatham",
+    "year": 1998,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Suswagatham.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "d48111a0d103",
+      "title": "Aalayana Harathilo.Mp3",
+      "normalizedTitle": "aalayana harathilomp3",
+      "trackNumber": 1,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Aalayana Harathilo.Mp3.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Devayani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4323412
+    },
+    {
+      "id": "620348eaa573",
+      "title": "Come Come Welcome",
+      "normalizedTitle": "come come welcome",
+      "trackNumber": 2,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Come Come Welcome.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Devayani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4778201
+    },
+    {
+      "id": "34ff0f4c63d1",
+      "title": "Figaru Maata Pakkane",
+      "normalizedTitle": "figaru maata pakkane",
+      "trackNumber": 3,
+      "duration": "5:07",
+      "durationSeconds": 307,
+      "audio": "Figaru Maata Pakkane.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Devayani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4987593
+    },
+    {
+      "id": "627b3e318d3d",
+      "title": "Happy Happy Birthday",
+      "normalizedTitle": "happy happy birthday",
+      "trackNumber": 4,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Happy Happy Birthday.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Devayani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4732238
+    },
+    {
+      "id": "c0e471642f95",
+      "title": "Suswagatham Navaraga",
+      "normalizedTitle": "suswagatham navaraga",
+      "trackNumber": 5,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Suswagatham Navaraga.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Devayani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4181330
+    },
+    {
+      "id": "a5a5e84a54e2",
+      "title": "Ye Swapna Lokala Sou",
+      "normalizedTitle": "ye swapna lokala sou",
+      "trackNumber": 6,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Ye Swapna Lokala Sou.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Devayani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4662819
+    }
+  ]
+}

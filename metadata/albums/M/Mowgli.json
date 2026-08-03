@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "cc803cdef497",
+    "name": "Mowgli",
+    "year": 2018,
+    "musicDirector": "Amit Trivedi",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mowgli.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "21c57e849fa0",
+      "title": "Sayyare Song",
+      "normalizedTitle": "sayyare song",
+      "trackNumber": 1,
+      "duration": "5:59",
+      "durationSeconds": 359,
+      "audio": "Sayyare Song.mp3",
+      "composer": "Kaala Bhairava",
+      "singers": [
+        "Kaala Bhairava",
+        "Aishwarya Daruri"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8809243
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "album": {
+    "id": "f8e0095506b9",
+    "name": "Hit2",
+    "year": 2022,
+    "musicDirector": "M. M. Sreelekha",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Hit2.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "4a7d22e1a5c4",
+      "title": "Poratame 2 Song",
+      "normalizedTitle": "poratame 2 song",
+      "trackNumber": 1,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Poratame 2 Song.mp3",
+      "composer": "M M Sreelekha, Suresh Bobbili",
+      "singers": [
+        "Dr.Sailesh Kolanu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3786544
+    },
+    {
+      "id": "6393339b37c7",
+      "title": "Urike Urike Song",
+      "normalizedTitle": "urike urike song",
+      "trackNumber": 2,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Urike Urike Song.mp3",
+      "composer": "M M Sreelekha, Suresh Bobbili",
+      "singers": [
+        "Sid Sriram",
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3712983
+    }
+  ]
+}

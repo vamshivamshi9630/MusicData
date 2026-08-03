@@ -1,0 +1,137 @@
+{
+  "album": {
+    "id": "1f51a0591774",
+    "name": "Maine Pyar Kiya",
+    "year": 2014,
+    "musicDirector": "Pradeep Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Maine Pyar Kiya.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "d3524eff06bc",
+      "title": "Adiginde Song",
+      "normalizedTitle": "adiginde song",
+      "trackNumber": 1,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Adiginde Song.mp3",
+      "composer": "Music: V. Pradeep Kumar | Lyrics: Wasistha Sharma",
+      "singers": [
+        "Abhay Jodhpurkar",
+        "Kalyani Nair"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4718563
+    },
+    {
+      "id": "e4e82376360e",
+      "title": "Ee Prema Manakoddhu Song",
+      "normalizedTitle": "ee prema manakoddhu song",
+      "trackNumber": 2,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Ee Prema Manakoddhu Song.mp3",
+      "composer": "Music: V. Pradeep Kumar | Lyrics: Wasistha Sharma",
+      "singers": [
+        "Sean Roldan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4186067
+    },
+    {
+      "id": "dd2ca43493b2",
+      "title": "Kadalakunda Song",
+      "normalizedTitle": "kadalakunda song",
+      "trackNumber": 3,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Kadalakunda Song.mp3",
+      "composer": "Music: V. Pradeep Kumar | Lyrics: Wasistha Sharma",
+      "singers": [
+        "Pradeep Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4735671
+    },
+    {
+      "id": "070e009868f5",
+      "title": "Ningilona Song",
+      "normalizedTitle": "ningilona song",
+      "trackNumber": 4,
+      "duration": "2:40",
+      "durationSeconds": 160,
+      "audio": "Ningilona Song.mp3",
+      "composer": "Music: V. Pradeep Kumar | Lyrics: Wasistha Sharma",
+      "singers": [
+        "Pradeep Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2646289
+    },
+    {
+      "id": "f53c833cd0c8",
+      "title": "Ningilona Version 2 Song",
+      "normalizedTitle": "ningilona version 2 song",
+      "trackNumber": 5,
+      "duration": "3:05",
+      "durationSeconds": 185,
+      "audio": "Ningilona Version 2 Song.mp3",
+      "composer": "Music: V. Pradeep Kumar | Lyrics: Wasistha Sharma",
+      "singers": [
+        "Kalyani Nair"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3059255
+    },
+    {
+      "id": "952154c1308a",
+      "title": "Pandu (Theme) Song",
+      "normalizedTitle": "pandu theme song",
+      "trackNumber": 6,
+      "duration": "1:59",
+      "durationSeconds": 119,
+      "audio": "Pandu (Theme) Song.mp3",
+      "composer": "Music: V. Pradeep Kumar | Lyrics: Wasistha Sharma",
+      "singers": [
+        "Posani",
+        "Ganesh Kumar",
+        "Chinna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2004342
+    },
+    {
+      "id": "98ab59ff32bf",
+      "title": "Shwaase Nuvve Song",
+      "normalizedTitle": "shwaase nuvve song",
+      "trackNumber": 7,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Shwaase Nuvve Song.mp3",
+      "composer": "Music: V. Pradeep Kumar | Lyrics: Wasistha Sharma",
+      "singers": [
+        "Shakthishree Gopalan",
+        "Pradeep Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3978795
+    }
+  ]
+}

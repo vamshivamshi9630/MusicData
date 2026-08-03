@@ -1,0 +1,137 @@
+{
+  "album": {
+    "id": "66212ecd5036",
+    "name": "Bhartha Mahasayulaku Wignyapthi",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bhartha Mahasayulaku Wignyapthi.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "f54f18355d09",
+      "title": "Addham Mundhu Song",
+      "normalizedTitle": "addham mundhu song",
+      "trackNumber": 1,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Addham Mundhu Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Kapil Kapilan",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9617702
+    },
+    {
+      "id": "766714042182",
+      "title": "Bella Bella Song",
+      "normalizedTitle": "bella bella song",
+      "trackNumber": 2,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Bella Bella Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Nakash Aziz",
+        "Rohini Sorrat"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8905081
+    },
+    {
+      "id": "d855ace96e2e",
+      "title": "Bhartha Mahasayulaku Wignyapthi Title Song",
+      "normalizedTitle": "bhartha mahasayulaku wignyapthi title song",
+      "trackNumber": 3,
+      "duration": "2:18",
+      "durationSeconds": 138,
+      "audio": "Bhartha Mahasayulaku Wignyapthi Title Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Raghuram"
+      ],
+      "bitrate": 133595,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2714927
+    },
+    {
+      "id": "720ab51e6611",
+      "title": "Karthika Deepam Remix Song",
+      "normalizedTitle": "karthika deepam remix song",
+      "trackNumber": 4,
+      "duration": "2:54",
+      "durationSeconds": 174,
+      "audio": "Karthika Deepam Remix Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "P. Susheela",
+        "S .Janaki",
+        "Nithyasree"
+      ],
+      "bitrate": 131552,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3255049
+    },
+    {
+      "id": "82c086440dad",
+      "title": "Sogasu Keelijada Daana Song (Padhyam)",
+      "normalizedTitle": "sogasu keelijada daana song padhyam",
+      "trackNumber": 5,
+      "duration": "0:59",
+      "durationSeconds": 59,
+      "audio": "Sogasu Keelijada Daana Song (Padhyam).mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Raghuram"
+      ],
+      "bitrate": 130221,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1354310
+    },
+    {
+      "id": "92bfb407e5ff",
+      "title": "Sogasu Keelijada Daana",
+      "normalizedTitle": "sogasu keelijada daana",
+      "trackNumber": 6,
+      "duration": "0:59",
+      "durationSeconds": 59,
+      "audio": "Sogasu Keelijada Daana.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Raghuram"
+      ],
+      "bitrate": 130221,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1354310
+    },
+    {
+      "id": "4cb70c248d79",
+      "title": "Vaammo Vaayyo Song",
+      "normalizedTitle": "vaammo vaayyo song",
+      "trackNumber": 7,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Vaammo Vaayyo Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "UK Swathi Reddy"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7404224
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "album": {
+    "id": "210ca7ec8e20",
+    "name": "PSV Garuda Vega",
+    "year": 2017,
+    "musicDirector": "Sricharan Pakala",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "PSV Garuda Vega.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "19379982e6c7",
+      "title": "Deo Deo Song",
+      "normalizedTitle": "deo deo song",
+      "trackNumber": 1,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Deo Deo Song.mp3",
+      "composer": "Sricharan Pakala, Bheems Cecireleo",
+      "singers": [
+        "Geetha Madhuri",
+        "Raghu Ram",
+        "Bheems Cecirolio"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4459475
+    },
+    {
+      "id": "bed1ca5a8177",
+      "title": "Premale Song",
+      "normalizedTitle": "premale song",
+      "trackNumber": 2,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Premale Song.mp3",
+      "composer": "Sricharan Pakala, Bheems Cecireleo",
+      "singers": [
+        "Shakthisree Gopalan",
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3884280
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "4a2326c64ab2",
+    "name": "Don",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Don.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "cf91bbce0009",
+      "title": "Dhada_Puttistha Song",
+      "normalizedTitle": "dhada puttistha song",
+      "trackNumber": 1,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Dhada_Puttistha Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5090110
+    },
+    {
+      "id": "cb0bcbefc0e4",
+      "title": "Intha_Andanga Song",
+      "normalizedTitle": "intha andanga song",
+      "trackNumber": 2,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Intha_Andanga Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Harish Raghavendra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4036867
+    },
+    {
+      "id": "a8ccf055e4a9",
+      "title": "Mudde_Pettu Song",
+      "normalizedTitle": "mudde pettu song",
+      "trackNumber": 3,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Mudde_Pettu Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Harish Raghavendra",
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3927805
+    },
+    {
+      "id": "656aa5b9dd0b",
+      "title": "Neekai Nenu Song",
+      "normalizedTitle": "neekai nenu song",
+      "trackNumber": 4,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Neekai Nenu Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Hariharan",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4423449
+    },
+    {
+      "id": "c5b5b70ae201",
+      "title": "Su_Su_Suriyana Song",
+      "normalizedTitle": "su su suriyana song",
+      "trackNumber": 5,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Su_Su_Suriyana Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4349484
+    },
+    {
+      "id": "63fcfc2388cc",
+      "title": "Yedho_Undile Song",
+      "normalizedTitle": "yedho undile song",
+      "trackNumber": 6,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Yedho_Undile Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Suchitra",
+        "Vishwa"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4173933
+    }
+  ]
+}

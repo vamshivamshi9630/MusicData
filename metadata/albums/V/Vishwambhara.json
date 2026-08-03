@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "59fe79964ca7",
+    "name": "Vishwambhara",
+    "year": 2025,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Vishwambhara.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "0eaafe114365",
+      "title": "Rama Raama Song",
+      "normalizedTitle": "rama raama song",
+      "trackNumber": 1,
+      "duration": "5:13",
+      "durationSeconds": 313,
+      "audio": "Rama Raama Song.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "Shankar Mahadevan",
+        "Lipsika"
+      ],
+      "bitrate": 130892,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5476456
+    }
+  ]
+}

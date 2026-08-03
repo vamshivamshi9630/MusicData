@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "ab080737bac5",
+    "name": "Stalin",
+    "year": 2006,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Stalin.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "9c446c3bcb4d",
+      "title": "Go Go Goa",
+      "normalizedTitle": "go go goa",
+      "trackNumber": 1,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Go Go Goa.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ranjith",
+        "Maha Lakshmi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5125741
+    },
+    {
+      "id": "eef59961fe8c",
+      "title": "I Want A",
+      "normalizedTitle": "i want a",
+      "trackNumber": 2,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "I Want A.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Naveen",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5246941
+    },
+    {
+      "id": "6d45072a5c96",
+      "title": "Parare Parare",
+      "normalizedTitle": "parare parare",
+      "trackNumber": 3,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Parare Parare.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5344334
+    },
+    {
+      "id": "44cfafbb1ee4",
+      "title": "Siggu Thochi",
+      "normalizedTitle": "siggu thochi",
+      "trackNumber": 4,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Siggu Thochi.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Sadhana Sargam",
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5106119
+    },
+    {
+      "id": "8e125097a700",
+      "title": "Sooryudinye",
+      "normalizedTitle": "sooryudinye",
+      "trackNumber": 5,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Sooryudinye.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5285817
+    },
+    {
+      "id": "0a6cc37e2bc6",
+      "title": "Tauba Tauba",
+      "normalizedTitle": "tauba tauba",
+      "trackNumber": 6,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Tauba Tauba.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "S.P. Balasubrahmanyam",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5097322
+    }
+  ]
+}

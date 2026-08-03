@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "2b218af9757c",
+    "name": "Pilla Zamindar",
+    "year": 2011,
+    "musicDirector": "Selvaganesh",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Pilla Zamindar.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "5e153d7c6a85",
+      "title": "Chuttu Chuttu Song",
+      "normalizedTitle": "chuttu chuttu song",
+      "trackNumber": 1,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Chuttu Chuttu Song.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "V.V. Prasanna",
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4208920
+    },
+    {
+      "id": "2efc16b747f1",
+      "title": "Haiyayo Song",
+      "normalizedTitle": "haiyayo song",
+      "trackNumber": 2,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Haiyayo Song.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Sri Mani",
+      "singers": [
+        "Solar Sai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3601565
+    },
+    {
+      "id": "5dceeb7f2025",
+      "title": "Oopiri Song",
+      "normalizedTitle": "oopiri song",
+      "trackNumber": 3,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Oopiri Song.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Karthik",
+        "Chinmayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4595922
+    },
+    {
+      "id": "fab493a59d9b",
+      "title": "PJ Club Mix Song",
+      "normalizedTitle": "pj club mix song",
+      "trackNumber": 4,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "PJ Club Mix Song.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Ranjith",
+        "Priya Hemesh",
+        "Big Nikk (Rap)"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4498169
+    },
+    {
+      "id": "de3228f4844f",
+      "title": "Rangu Rangu Song",
+      "normalizedTitle": "rangu rangu song",
+      "trackNumber": 5,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Rangu Rangu Song.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Mukesh",
+        "Priya Hemesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4575458
+    },
+    {
+      "id": "9da66aac9771",
+      "title": "Thalabadi Song",
+      "normalizedTitle": "thalabadi song",
+      "trackNumber": 6,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Thalabadi Song.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4850465
+    }
+  ]
+}

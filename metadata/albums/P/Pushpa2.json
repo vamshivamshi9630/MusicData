@@ -1,0 +1,100 @@
+{
+  "album": {
+    "id": "817dacb00a8c",
+    "name": "Pushpa2",
+    "year": 2024,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Pushpa2.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "3f6f597c9fcb",
+      "title": "Dammunte Pattukora Song",
+      "normalizedTitle": "dammunte pattukora song",
+      "trackNumber": 1,
+      "duration": "1:33",
+      "durationSeconds": 93,
+      "audio": "Dammunte Pattukora Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Allu Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1850048
+    },
+    {
+      "id": "6eb26da481d4",
+      "title": "Gango Renuka Thalli",
+      "normalizedTitle": "gango renuka thalli",
+      "trackNumber": 2,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Gango Renuka Thalli.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mahalingam"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8504531
+    },
+    {
+      "id": "3e2f91d0425d",
+      "title": "Kissik Song",
+      "normalizedTitle": "kissik song",
+      "trackNumber": 3,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Kissik Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sublahshini"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10057061
+    },
+    {
+      "id": "3c074e9be0f4",
+      "title": "Peelings",
+      "normalizedTitle": "peelings",
+      "trackNumber": 4,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Peelings.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shankarr Babu Kandukoori",
+        "Laxmi Dasa"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10410424
+    },
+    {
+      "id": "42d568846b1c",
+      "title": "Pushpa Pushpa Song",
+      "normalizedTitle": "pushpa pushpa song",
+      "trackNumber": 5,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Pushpa Pushpa Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Nakash Aziz"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10811498
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "album": {
+    "id": "9b1bc2c2431a",
+    "name": "Vil Ambu",
+    "year": 2016,
+    "musicDirector": "Navin",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Vil Ambu.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "47479f15148c",
+      "title": "Aala Sachuputta Song",
+      "normalizedTitle": "aala sachuputta song",
+      "trackNumber": 1,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Aala Sachuputta Song.mp3",
+      "composer": "Navin",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 132531,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4543218
+    },
+    {
+      "id": "844994d83d9e",
+      "title": "Kurum Padame Song",
+      "normalizedTitle": "kurum padame song",
+      "trackNumber": 2,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Kurum Padame Song.mp3",
+      "composer": "Navin",
+      "singers": [
+        "G.V.Prakash Kumar",
+        "Vandhana Srinivasan"
+      ],
+      "bitrate": 130529,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4527075
+    },
+    {
+      "id": "991dbfe0614a",
+      "title": "Neeyum Adi Naanum Song",
+      "normalizedTitle": "neeyum adi naanum song",
+      "trackNumber": 3,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Neeyum Adi Naanum Song.mp3",
+      "composer": "Navin",
+      "singers": [
+        "D.Imman",
+        "A.V.Pooja"
+      ],
+      "bitrate": 133340,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4195812
+    }
+  ]
+}

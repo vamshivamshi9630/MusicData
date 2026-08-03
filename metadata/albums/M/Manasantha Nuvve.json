@@ -1,0 +1,154 @@
+{
+  "album": {
+    "id": "5efeae661daa",
+    "name": "Manasantha Nuvve",
+    "year": 2001,
+    "musicDirector": "R. P. Patnaik",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Manasantha Nuvve.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "3657f5540685",
+      "title": "Akashana Song",
+      "normalizedTitle": "akashana song",
+      "trackNumber": 1,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Akashana Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "K.K.",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3939340
+    },
+    {
+      "id": "6f0ad4d2becf",
+      "title": "Cheppave Prema Song",
+      "normalizedTitle": "cheppave prema song",
+      "trackNumber": 2,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Cheppave Prema Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5125530
+    },
+    {
+      "id": "a7ec42e32f31",
+      "title": "Dhin Dhin Dinak Song",
+      "normalizedTitle": "dhin dhin dinak song",
+      "trackNumber": 3,
+      "duration": "3:25",
+      "durationSeconds": 205,
+      "audio": "Dhin Dhin Dinak Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "Mahalakshmi Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3315347
+    },
+    {
+      "id": "b18b5b822cfe",
+      "title": "Evvarineppudu Song",
+      "normalizedTitle": "evvarineppudu song",
+      "trackNumber": 4,
+      "duration": "1:29",
+      "durationSeconds": 89,
+      "audio": "Evvarineppudu Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "K.K."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1450803
+    },
+    {
+      "id": "c7e1cb9df2c2",
+      "title": "Kita Kita Talupula Song",
+      "normalizedTitle": "kita kita talupula song",
+      "trackNumber": 5,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Kita Kita Talupula Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4696688
+    },
+    {
+      "id": "62ded64ee497",
+      "title": "Manasantha Nuvve Song",
+      "normalizedTitle": "manasantha nuvve song",
+      "trackNumber": 6,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Manasantha Nuvve Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "S.P. Charan",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4533290
+    },
+    {
+      "id": "7647d9b1be41",
+      "title": "Nee Sneham Song",
+      "normalizedTitle": "nee sneham song",
+      "trackNumber": 7,
+      "duration": "2:58",
+      "durationSeconds": 178,
+      "audio": "Nee Sneham Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2881905
+    },
+    {
+      "id": "193293d5bac8",
+      "title": "Tuneega Song",
+      "normalizedTitle": "tuneega song",
+      "trackNumber": 8,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Tuneega Song.mp3",
+      "composer": "R. P. Patnaik",
+      "singers": [
+        "Sanjeevini",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4253649
+    }
+  ]
+}

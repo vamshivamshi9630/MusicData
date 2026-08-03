@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "5c61589af5b8",
+    "name": "Aambala",
+    "year": 2015,
+    "musicDirector": "Hiphop Tamizha",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aambala.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "b0d1db5c5c89",
+      "title": "Aye Aye Ay Song",
+      "normalizedTitle": "aye aye ay song",
+      "trackNumber": 1,
+      "duration": "3:21",
+      "durationSeconds": 201,
+      "audio": "Aye Aye Ay Song.mp3",
+      "composer": "Hip Hop Thamizha",
+      "singers": [
+        "Hip Hop Thamizha"
+      ],
+      "bitrate": 139883,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3596352
+    },
+    {
+      "id": "489c1d740fe4",
+      "title": "Inbum Pongum Song",
+      "normalizedTitle": "inbum pongum song",
+      "trackNumber": 2,
+      "duration": "3:31",
+      "durationSeconds": 211,
+      "audio": "Inbum Pongum Song.mp3",
+      "composer": "Hip Hop Thamizha",
+      "singers": [
+        "Hip Hop Thamizha"
+      ],
+      "bitrate": 120216,
+      "sampleRate": 22050,
+      "channels": 1,
+      "fileSize": 3253591
+    },
+    {
+      "id": "9d810e5d51f7",
+      "title": "Madras To Madurai Song",
+      "normalizedTitle": "madras to madurai song",
+      "trackNumber": 3,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Madras To Madurai Song.mp3",
+      "composer": "Hip Hop Thamizha",
+      "singers": [
+        "Kailash Kher",
+        "Vishnu Priya",
+        "Maria Roe Vincent"
+      ],
+      "bitrate": 135165,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4506232
+    },
+    {
+      "id": "23014c00f8c6",
+      "title": "Pazhagikalam Song",
+      "normalizedTitle": "pazhagikalam song",
+      "trackNumber": 4,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Pazhagikalam Song.mp3",
+      "composer": "Hip Hop Thamizha",
+      "singers": [
+        "Hip Hop Thamizha"
+      ],
+      "bitrate": 135656,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4080211
+    },
+    {
+      "id": "154e2c8baeea",
+      "title": "Va Va Va Vannil Song",
+      "normalizedTitle": "va va va vannil song",
+      "trackNumber": 5,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Va Va Va Vannil Song.mp3",
+      "composer": "Hip Hop Thamizha",
+      "singers": [
+        "Mohit Chauhan",
+        "Amrita Sekar"
+      ],
+      "bitrate": 134056,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4116970
+    },
+    {
+      "id": "0d1c75f514e5",
+      "title": "Yaarenna Sonnalum Song",
+      "normalizedTitle": "yaarenna sonnalum song",
+      "trackNumber": 6,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Yaarenna Sonnalum Song.mp3",
+      "composer": "Hip Hop Thamizha",
+      "singers": [
+        "Kutle Khan",
+        "Anthony Dasan",
+        "Varun"
+      ],
+      "bitrate": 135460,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4981659
+    }
+  ]
+}

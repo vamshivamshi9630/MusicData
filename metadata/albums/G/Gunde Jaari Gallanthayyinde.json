@@ -1,0 +1,124 @@
+{
+  "album": {
+    "id": "3832b67e48a1",
+    "name": "Gunde Jaari Gallanthayyinde",
+    "year": 2013,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gunde Jaari Gallanthayyinde.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "6c635bbedfc3",
+      "title": "Ding Ding Ding Song",
+      "normalizedTitle": "ding ding ding song",
+      "trackNumber": 1,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Ding Ding Ding Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Nitin",
+        "Chaitra",
+        "Ranjith",
+        "Anup Rubens",
+        "Thagubothu Ramesh",
+        "Dhananjai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4493380
+    },
+    {
+      "id": "9f05f67cdef0",
+      "title": "Gunde Jaari Gallanthayyinde (Club Mix) Song",
+      "normalizedTitle": "gunde jaari gallanthayyinde club mix song",
+      "trackNumber": 2,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Gunde Jaari Gallanthayyinde (Club Mix) Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Anup Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4267622
+    },
+    {
+      "id": "0de72a8d07d1",
+      "title": "Gunde Jaari Gallanthayyinde Song",
+      "normalizedTitle": "gunde jaari gallanthayyinde song",
+      "trackNumber": 3,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Gunde Jaari Gallanthayyinde Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Anup Rubens",
+        "Sravani",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4059908
+    },
+    {
+      "id": "85ce5900aae7",
+      "title": "Neve Neeve Song",
+      "normalizedTitle": "neve neeve song",
+      "trackNumber": 4,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Neve Neeve Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Adnan Sami"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4194003
+    },
+    {
+      "id": "56d3fed5ba70",
+      "title": "Thu He Rey Song",
+      "normalizedTitle": "thu he rey song",
+      "trackNumber": 5,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Thu He Rey Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Nikhil D'souza",
+        "Nitya Menon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4051931
+    },
+    {
+      "id": "85f6e77d25b2",
+      "title": "Yemaindho Yemo Ee Vela Song",
+      "normalizedTitle": "yemaindho yemo ee vela song",
+      "trackNumber": 6,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Yemaindho Yemo Ee Vela Song.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Ramki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4461511
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "8841eea25a1a",
+    "name": "Chakram",
+    "year": 2005,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chakram.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "456a784afa78",
+      "title": "Jagamanta Kutumbam",
+      "normalizedTitle": "jagamanta kutumbam",
+      "trackNumber": 1,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Jagamanta Kutumbam.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Sri Kommineni"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5225383
+    },
+    {
+      "id": "681f4fcbdd41",
+      "title": "Koncham Karamga",
+      "normalizedTitle": "koncham karamga",
+      "trackNumber": 2,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Koncham Karamga.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Kousalya"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5429133
+    },
+    {
+      "id": "d729e93c5966",
+      "title": "Naa Peru Chakram",
+      "normalizedTitle": "naa peru chakram",
+      "trackNumber": 3,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Naa Peru Chakram.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Sri Kommineni"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6253037
+    },
+    {
+      "id": "56b11b03e824",
+      "title": "Oke Oka Mata.Mp3",
+      "normalizedTitle": "oke oka matamp3",
+      "trackNumber": 4,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Oke Oka Mata.Mp3.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6684049
+    },
+    {
+      "id": "8c53e467aee2",
+      "title": "Rangeli Holi",
+      "normalizedTitle": "rangeli holi",
+      "trackNumber": 5,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Rangeli Holi.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5829845
+    },
+    {
+      "id": "eaa5a5207938",
+      "title": "Sony Cellphone",
+      "normalizedTitle": "sony cellphone",
+      "trackNumber": 6,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Sony Cellphone.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Chakri",
+        "Kousalya"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5998079
+    }
+  ]
+}

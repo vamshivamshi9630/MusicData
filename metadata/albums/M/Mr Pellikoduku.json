@@ -1,0 +1,124 @@
+{
+  "album": {
+    "id": "2391d8453be8",
+    "name": "Mr Pellikoduku",
+    "year": 2013,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mr Pellikoduku.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "19c6a1121ba3",
+      "title": "Masthu Masthu Song",
+      "normalizedTitle": "masthu masthu song",
+      "trackNumber": 1,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Masthu Masthu Song.mp3",
+      "composer": "Music : S.A. Rajkumar | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Haricharan",
+        "Geetha Madhuri",
+        "Murali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4115488
+    },
+    {
+      "id": "0f0a4670a3ec",
+      "title": "Matalu Rani Song",
+      "normalizedTitle": "matalu rani song",
+      "trackNumber": 2,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Matalu Rani Song.mp3",
+      "composer": "Music : S.A. Rajkumar | Lyrics : Suddhala Ashok Teja",
+      "singers": [
+        "Jagadeesh",
+        "Ranina Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4792566
+    },
+    {
+      "id": "011186e5e4aa",
+      "title": "Musthabai Song",
+      "normalizedTitle": "musthabai song",
+      "trackNumber": 3,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Musthabai Song.mp3",
+      "composer": "Music : S.A. Rajkumar | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Ranjith",
+        "Shravya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4329864
+    },
+    {
+      "id": "7c7aa43ced57",
+      "title": "Nuvvu Natho Song",
+      "normalizedTitle": "nuvvu natho song",
+      "trackNumber": 4,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Nuvvu Natho Song.mp3",
+      "composer": "Music : S.A. Rajkumar | Lyrics : Vanamali",
+      "singers": [
+        "Udit Narayan",
+        "Prem"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4622425
+    },
+    {
+      "id": "90fa92ff4154",
+      "title": "O Meri Siri Siri Song",
+      "normalizedTitle": "o meri siri siri song",
+      "trackNumber": 5,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "O Meri Siri Siri Song.mp3",
+      "composer": "Music : S.A. Rajkumar | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Karthik",
+        "Rita",
+        "S.A. Rajkumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4433973
+    },
+    {
+      "id": "cab3e21bd382",
+      "title": "Osini Ne Oni Song",
+      "normalizedTitle": "osini ne oni song",
+      "trackNumber": 6,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Osini Ne Oni Song.mp3",
+      "composer": "Music : S.A. Rajkumar | Lyrics : Suddhala Ashok Teja",
+      "singers": [
+        "Udit Narayan",
+        "Shravya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3965423
+    }
+  ]
+}

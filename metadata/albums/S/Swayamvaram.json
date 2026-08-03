@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "ee2cb022cb7e",
+    "name": "Swayamvaram",
+    "year": 1999,
+    "musicDirector": "Vandemataram Srinivas",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "7340d3f93590",
+      "title": "Keeravani Ragamlo Song",
+      "normalizedTitle": "keeravani ragamlo song",
+      "trackNumber": 1,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Keeravani Ragamlo Song.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4735938
+    },
+    {
+      "id": "56aa1db3649f",
+      "title": "Marala Telupuna Song",
+      "normalizedTitle": "marala telupuna song",
+      "trackNumber": 2,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Marala Telupuna Song.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4323831
+    },
+    {
+      "id": "46092b3dfc72",
+      "title": "Pellichesukora Nayana Song",
+      "normalizedTitle": "pellichesukora nayana song",
+      "trackNumber": 3,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Pellichesukora Nayana Song.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4084340
+    },
+    {
+      "id": "3044e447b4cf",
+      "title": "Pikaso Chitrama Song",
+      "normalizedTitle": "pikaso chitrama song",
+      "trackNumber": 4,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Pikaso Chitrama Song.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4656526
+    },
+    {
+      "id": "10dde716373f",
+      "title": "Vinave Cheli Song",
+      "normalizedTitle": "vinave cheli song",
+      "trackNumber": 5,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Vinave Cheli Song.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4391540
+    },
+    {
+      "id": "531cf3f27b5f",
+      "title": "Yara Ra Roi Song",
+      "normalizedTitle": "yara ra roi song",
+      "trackNumber": 6,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Yara Ra Roi Song.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4287886
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "album": {
+    "id": "b4134bf22ec8",
+    "name": "Chirutha",
+    "year": 2007,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chirutha.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "378b06564fbf",
+      "title": "Chamka Chamka",
+      "normalizedTitle": "chamka chamka",
+      "trackNumber": 1,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Chamka Chamka.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ranjith",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5031580
+    },
+    {
+      "id": "bfc60dfa8519",
+      "title": "Endhuko Pichi Pichi",
+      "normalizedTitle": "endhuko pichi pichi",
+      "trackNumber": 2,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Endhuko Pichi Pichi.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "N.C. Karunya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4463949
+    },
+    {
+      "id": "8841c49ffb18",
+      "title": "Innallu (Bit)",
+      "normalizedTitle": "innallu bit",
+      "trackNumber": 3,
+      "duration": "1:49",
+      "durationSeconds": 109,
+      "audio": "Innallu (Bit).mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1829985
+    },
+    {
+      "id": "c6d72e753e90",
+      "title": "Ivala",
+      "normalizedTitle": "ivala",
+      "trackNumber": 4,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Ivala.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "KK",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4415476
+    },
+    {
+      "id": "bd39d49df1b3",
+      "title": "Kannethi (Bit)",
+      "normalizedTitle": "kannethi bit",
+      "trackNumber": 5,
+      "duration": "1:49",
+      "durationSeconds": 109,
+      "audio": "Kannethi (Bit).mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Mallikarjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1838780
+    },
+    {
+      "id": "539864b10d3e",
+      "title": "Love U Raa",
+      "normalizedTitle": "love u raa",
+      "trackNumber": 6,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Love U Raa.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Rita",
+        "Deepu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4767402
+    },
+    {
+      "id": "2f11e65b3ad1",
+      "title": "Maro Maro",
+      "normalizedTitle": "maro maro",
+      "trackNumber": 7,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Maro Maro.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Suchitra",
+        "Rahul Nambiar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4609857
+    },
+    {
+      "id": "152c568ee17d",
+      "title": "Yamaho Yama",
+      "normalizedTitle": "yamaho yama",
+      "trackNumber": 8,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Yamaho Yama.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4873136
+    }
+  ]
+}

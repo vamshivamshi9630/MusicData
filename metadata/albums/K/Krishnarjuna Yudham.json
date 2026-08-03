@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "2d67453c0acc",
+    "name": "Krishnarjuna Yudham",
+    "year": 2018,
+    "musicDirector": "Hiphop Tamizha",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Krishnarjuna Yudham.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "34e82a9f7b4b",
+      "title": "Dhaari Choodu Song",
+      "normalizedTitle": "dhaari choodu song",
+      "trackNumber": 1,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Dhaari Choodu Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Penchal Das"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3314808
+    },
+    {
+      "id": "1d8c3ab3de4d",
+      "title": "Ela Ela Song",
+      "normalizedTitle": "ela ela song",
+      "trackNumber": 2,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Ela Ela Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3926993
+    },
+    {
+      "id": "8a1f1964238e",
+      "title": "I Wanna Fly Song",
+      "normalizedTitle": "i wanna fly song",
+      "trackNumber": 3,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "I Wanna Fly Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "LV Revanth",
+        "Sanjith Hegde"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4113019
+    },
+    {
+      "id": "f27d8734beb0",
+      "title": "Thaaney Vachhindhanaa Song",
+      "normalizedTitle": "thaaney vachhindhanaa song",
+      "trackNumber": 4,
+      "duration": "3:25",
+      "durationSeconds": 205,
+      "audio": "Thaaney Vachhindhanaa Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Kaala Bhairava",
+        "Padmalatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3588446
+    },
+    {
+      "id": "7bbf46c993b0",
+      "title": "Turn This Party Up Song",
+      "normalizedTitle": "turn this party up song",
+      "trackNumber": 5,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Turn This Party Up Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Hiphop Tamizha",
+        "Brodha V"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3616867
+    },
+    {
+      "id": "445a292619f3",
+      "title": "Urime Manese Song",
+      "normalizedTitle": "urime manese song",
+      "trackNumber": 6,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Urime Manese Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Raghu Dixit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4742237
+    }
+  ]
+}

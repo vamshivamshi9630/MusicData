@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "c5b839ac711f",
+    "name": "Chukkallo Chandrudu",
+    "year": 2006,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chukkallo Chandrudu.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "17be09967a0f",
+      "title": "Dholna Dholna Song",
+      "normalizedTitle": "dholna dholna song",
+      "trackNumber": 1,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Dholna Dholna Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7728829
+    },
+    {
+      "id": "629abaf79124",
+      "title": "Everybody Song",
+      "normalizedTitle": "everybody song",
+      "trackNumber": 2,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Everybody Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7348896
+    },
+    {
+      "id": "8cb8964822ee",
+      "title": "Kalanayana Song",
+      "normalizedTitle": "kalanayana song",
+      "trackNumber": 3,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Kalanayana Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6942015
+    },
+    {
+      "id": "b2def93ae8b6",
+      "title": "Nuvvuthu Ring To Song",
+      "normalizedTitle": "nuvvuthu ring to song",
+      "trackNumber": 4,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Nuvvuthu Ring To Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6014161
+    },
+    {
+      "id": "251dac56ab06",
+      "title": "Picchi Prema Song",
+      "normalizedTitle": "picchi prema song",
+      "trackNumber": 5,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Picchi Prema Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6073708
+    },
+    {
+      "id": "0399ca200db1",
+      "title": "Prema Paravasam Song",
+      "normalizedTitle": "prema paravasam song",
+      "trackNumber": 6,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Prema Paravasam Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6170890
+    },
+    {
+      "id": "2db83fa7a94e",
+      "title": "Yedhalo Appudo Song",
+      "normalizedTitle": "yedhalo appudo song",
+      "trackNumber": 7,
+      "duration": "5:13",
+      "durationSeconds": 313,
+      "audio": "Yedhalo Appudo Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7556423
+    }
+  ]
+}

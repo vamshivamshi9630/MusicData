@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "9b42e3fee773",
+    "name": "Korean Kanakaraju",
+    "year": 2025,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Korean Kanakaraju.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "a0edba736af1",
+      "title": "Kamsahamnida Song",
+      "normalizedTitle": "kamsahamnida song",
+      "trackNumber": 1,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Kamsahamnida Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 131542,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3777031
+    }
+  ]
+}

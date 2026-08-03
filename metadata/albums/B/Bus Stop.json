@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "6168d576bc09",
+    "name": "Bus Stop",
+    "year": 2012,
+    "musicDirector": "J.B.",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bus Stop.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "8ce096eeac04",
+      "title": "Bus Stop Song",
+      "normalizedTitle": "bus stop song",
+      "trackNumber": 1,
+      "duration": "3:45",
+      "durationSeconds": 225,
+      "audio": "Bus Stop Song.mp3",
+      "composer": "Music : J.B. | Lyrics : Maruthi, Prudvi",
+      "singers": [
+        "Revanth",
+        "Sudha Jeevan",
+        "Prudvi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3733019
+    },
+    {
+      "id": "47c976fabfcc",
+      "title": "I Love You Song",
+      "normalizedTitle": "i love you song",
+      "trackNumber": 2,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "I Love You Song.mp3",
+      "composer": "Music : J.B., G. Anil | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Rahul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4148416
+    },
+    {
+      "id": "ec1284c4df56",
+      "title": "Kalalake Kanulochina Song",
+      "normalizedTitle": "kalalake kanulochina song",
+      "trackNumber": 3,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Kalalake Kanulochina Song.mp3",
+      "composer": "Music : J.B. | Lyrics : Kasarla Shyam",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4039751
+    },
+    {
+      "id": "94346616aac2",
+      "title": "Pattuko Pattuko Song",
+      "normalizedTitle": "pattuko pattuko song",
+      "trackNumber": 4,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Pattuko Pattuko Song.mp3",
+      "composer": "Music : J.B., G. Anil | Lyrics : Veturi Sundararama Murthy",
+      "singers": [
+        "Chinna Ponnu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3340965
+    },
+    {
+      "id": "557e7cda65b4",
+      "title": "Rekkalochina Prema Song",
+      "normalizedTitle": "rekkalochina prema song",
+      "trackNumber": 5,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Rekkalochina Prema Song.mp3",
+      "composer": "Music : J.B., G. Anil | Lyrics : Veturi Sundararama Murthy",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4571015
+    },
+    {
+      "id": "f1a981dae916",
+      "title": "Theme Music Song",
+      "normalizedTitle": "theme music song",
+      "trackNumber": 6,
+      "duration": "1:15",
+      "durationSeconds": 75,
+      "audio": "Theme Music Song.mp3",
+      "composer": "Music : J.B. | Lyrics : -",
+      "singers": [
+        "Instrumental"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1329671
+    }
+  ]
+}

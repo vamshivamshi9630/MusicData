@@ -1,0 +1,157 @@
+{
+  "album": {
+    "id": "c2c4da25c04d",
+    "name": "Konchem Ishtam Konchem Kashtam",
+    "year": 2009,
+    "musicDirector": "Shankar-Ehsaan-Loy",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Konchem Ishtam Konchem Kashtam.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "5afea1083eb1",
+      "title": "Aanandama Song",
+      "normalizedTitle": "aanandama song",
+      "trackNumber": 1,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Aanandama Song.mp3",
+      "composer": "Shankar-Ehsaan-Loy",
+      "singers": [
+        "Shankar Mahadevan",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4662111
+    },
+    {
+      "id": "7505b04f9456",
+      "title": "Abacha Song",
+      "normalizedTitle": "abacha song",
+      "trackNumber": 2,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Abacha Song.mp3",
+      "composer": "Shankar-Ehsaan-Loy",
+      "singers": [
+        "Mahalakshmi Iyer",
+        "Shilpa Rao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4478601
+    },
+    {
+      "id": "624e80cea4bf",
+      "title": "Antha Siddanga Song",
+      "normalizedTitle": "antha siddanga song",
+      "trackNumber": 3,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Antha Siddanga Song.mp3",
+      "composer": "Shankar-Ehsaan-Loy",
+      "singers": [
+        "Shreya Ghoshal",
+        "Sonu Nigam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4555946
+    },
+    {
+      "id": "bb1f50e8fcc0",
+      "title": "Egire Egire Song",
+      "normalizedTitle": "egire egire song",
+      "trackNumber": 4,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Egire Egire Song.mp3",
+      "composer": "Shankar-Ehsaan-Loy",
+      "singers": [
+        "Clinton Cerejo",
+        "Hemachandra",
+        "Raman Mahadevan",
+        "Shilpa Rao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3991327
+    },
+    {
+      "id": "30483dd932c8",
+      "title": "Enduku Chentaki Song",
+      "normalizedTitle": "enduku chentaki song",
+      "trackNumber": 5,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Enduku Chentaki Song.mp3",
+      "composer": "Shankar-Ehsaan-Loy",
+      "singers": [
+        "Unni Krishnan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4882348
+    },
+    {
+      "id": "0aedff9a165f",
+      "title": "Evade Subramanyam Song",
+      "normalizedTitle": "evade subramanyam song",
+      "trackNumber": 6,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Evade Subramanyam Song.mp3",
+      "composer": "Shankar-Ehsaan-Loy",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5318285
+    },
+    {
+      "id": "02c81bdce401",
+      "title": "Kochem Ishtam Song",
+      "normalizedTitle": "kochem ishtam song",
+      "trackNumber": 7,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Kochem Ishtam Song.mp3",
+      "composer": "Shankar-Ehsaan-Loy",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5179939
+    },
+    {
+      "id": "b226c9befa33",
+      "title": "Panchirey Song",
+      "normalizedTitle": "panchirey song",
+      "trackNumber": 8,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Panchirey Song.mp3",
+      "composer": "Shankar-Ehsaan-Loy",
+      "singers": [
+        "Kirti Sagathia",
+        "Sadhna Sargam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4736086
+    }
+  ]
+}

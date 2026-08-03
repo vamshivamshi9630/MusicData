@@ -1,0 +1,153 @@
+{
+  "album": {
+    "id": "07d046d5fac1",
+    "name": "David",
+    "year": 2013,
+    "musicDirector": "Anirudh Ravichander",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "David.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "b9a961534988",
+      "title": "Kaka Song",
+      "normalizedTitle": "kaka song",
+      "trackNumber": 1,
+      "duration": "2:43",
+      "durationSeconds": 163,
+      "audio": "Kaka Song.mp3",
+      "composer": "Music : Modern Mafia | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Sanjeev Thomas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2687960
+    },
+    {
+      "id": "b033a4399fce",
+      "title": "Kanule Kanele Song",
+      "normalizedTitle": "kanule kanele song",
+      "trackNumber": 2,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Kanule Kanele Song.mp3",
+      "composer": "Music : Anirudh | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Anirudh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4656124
+    },
+    {
+      "id": "9701240afb75",
+      "title": "Light House Symphony Song",
+      "normalizedTitle": "light house symphony song",
+      "trackNumber": 3,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Light House Symphony Song.mp3",
+      "composer": "Music : Remo Fernandes | Lyrics : -",
+      "singers": [
+        "Remo Fernandes"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4443392
+    },
+    {
+      "id": "db6819c5da3e",
+      "title": "Maria Pitache Song",
+      "normalizedTitle": "maria pitache song",
+      "trackNumber": 4,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Maria Pitache Song.mp3",
+      "composer": "Music : Remo Fernandes | Lyrics : Remo Fernandes, Hanumanth Rao",
+      "singers": [
+        "Remo Fernandes",
+        "Suchith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3723309
+    },
+    {
+      "id": "10fec7dbebf4",
+      "title": "Naa Darilo Song",
+      "normalizedTitle": "naa darilo song",
+      "trackNumber": 5,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Naa Darilo Song.mp3",
+      "composer": "Music : Bramfatura | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Siddharth Basrur"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3933936
+    },
+    {
+      "id": "459076815683",
+      "title": "Ne Kanule Merise Teerey Song",
+      "normalizedTitle": "ne kanule merise teerey song",
+      "trackNumber": 6,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Ne Kanule Merise Teerey Song.mp3",
+      "composer": "Music : Maati Baani | Lyrics : Krishna Chaitanya, Joyshanti",
+      "singers": [
+        "Nirali Kartik",
+        "Joyshanti"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4027597
+    },
+    {
+      "id": "08f5a829c24b",
+      "title": "Nee Naa Premaki Song",
+      "normalizedTitle": "nee naa premaki song",
+      "trackNumber": 7,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Nee Naa Premaki Song.mp3",
+      "composer": "Music : Prashant Pillai | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Naresh Iyer",
+        "Shweta Pandit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3510974
+    },
+    {
+      "id": "1e664d9870dd",
+      "title": "Sivam Song",
+      "normalizedTitle": "sivam song",
+      "trackNumber": 8,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Sivam Song.mp3",
+      "composer": "Music : Prashant Pillai feat. Tao Issaro | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3210437
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "6ccc2e3436db",
+    "name": "Jayam Manadera",
+    "year": 2000,
+    "musicDirector": "Vandemataram Srinivas",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jayam Manadera.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "90035184968f",
+      "title": "Chinni Chinni",
+      "normalizedTitle": "chinni chinni",
+      "trackNumber": 1,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Chinni Chinni.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "Vandemataram",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4583095
+    },
+    {
+      "id": "41231dce506f",
+      "title": "Happy Ga Jolly Ga",
+      "normalizedTitle": "happy ga jolly ga",
+      "trackNumber": 2,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Happy Ga Jolly Ga.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "Sonu Nigam",
+        "Gopika Poornima"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4418307
+    },
+    {
+      "id": "c782736ba38f",
+      "title": "Hindustan Lo",
+      "normalizedTitle": "hindustan lo",
+      "trackNumber": 3,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Hindustan Lo.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "Udit Narayan",
+        "Jaspinder Narula"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4849635
+    },
+    {
+      "id": "7b225b0d5555",
+      "title": "Meriseti Jaabili",
+      "normalizedTitle": "meriseti jaabili",
+      "trackNumber": 4,
+      "duration": "5:32",
+      "durationSeconds": 332,
+      "audio": "Meriseti Jaabili.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "Kumar Sanu",
+        "Swarnalatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5387122
+    },
+    {
+      "id": "ca80dd2ce317",
+      "title": "O Chupuke",
+      "normalizedTitle": "o chupuke",
+      "trackNumber": 5,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "O Chupuke.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "Balu",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4828721
+    },
+    {
+      "id": "b51359e01bc8",
+      "title": "Pelliki Baja",
+      "normalizedTitle": "pelliki baja",
+      "trackNumber": 6,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Pelliki Baja.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "Balu",
+        "Kavita Krishnamurthy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4609312
+    }
+  ]
+}

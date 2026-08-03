@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "ec5c584a2f76",
+    "name": "Vamsi",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Vamsi.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c5285c5de8b4",
+      "title": "Abc Daatindho Ledo.mp",
+      "normalizedTitle": "abc daatindho ledomp",
+      "trackNumber": 1,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "Abc Daatindho Ledo.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5110491
+    },
+    {
+      "id": "c5a290e313e5",
+      "title": "Koyilamma Paaduthunnadi.mp",
+      "normalizedTitle": "koyilamma paaduthunnadimp",
+      "trackNumber": 2,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Koyilamma Paaduthunnadi.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Udit Narayan",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4457642
+    },
+    {
+      "id": "104289b81201",
+      "title": "Oho Soniya Sophiya.mp",
+      "normalizedTitle": "oho soniya sophiyamp",
+      "trackNumber": 3,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Oho Soniya Sophiya.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4347719
+    },
+    {
+      "id": "d6fad1986921",
+      "title": "Sa Ri Ga Ma Pa Da .mp",
+      "normalizedTitle": "sa ri ga ma pa da mp",
+      "trackNumber": 4,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Sa Ri Ga Ma Pa Da .mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "SP Balasubrahmanyam",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4964224
+    },
+    {
+      "id": "b99bc556a353",
+      "title": "Vecha Vechega Undi.mp",
+      "normalizedTitle": "vecha vechega undimp",
+      "trackNumber": 5,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Vecha Vechega Undi.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4728058
+    },
+    {
+      "id": "94491ab09868",
+      "title": "Veyinchukunte.mp",
+      "normalizedTitle": "veyinchukuntemp",
+      "trackNumber": 6,
+      "duration": "5:28",
+      "durationSeconds": 328,
+      "audio": "Veyinchukunte.mp.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sukhvinder Singh",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5271835
+    }
+  ]
+}

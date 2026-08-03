@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "5c56c2012c24",
+    "name": "Fidaa",
+    "year": 2017,
+    "musicDirector": "Shakthikanth Karthick",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Fidaa.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "3d2d66b88d6b",
+      "title": "Edo Jarugutondi Song",
+      "normalizedTitle": "edo jarugutondi song",
+      "trackNumber": 1,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Edo Jarugutondi Song.mp3",
+      "composer": "Shakthikanth Karthick",
+      "singers": [
+        "Aravind Srinivas",
+        "Renuka"
+      ],
+      "bitrate": 319700,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 12456141
+    },
+    {
+      "id": "7c6218f61d9f",
+      "title": "Fidaa Song",
+      "normalizedTitle": "fidaa song",
+      "trackNumber": 2,
+      "duration": "5:23",
+      "durationSeconds": 323,
+      "audio": "Fidaa Song.mp3",
+      "composer": "Shakthikanth Karthick",
+      "singers": [
+        "Hemachandra",
+        "Malavika"
+      ],
+      "bitrate": 319725,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 13312117
+    },
+    {
+      "id": "1dd55f817e40",
+      "title": "Hey Mister Song",
+      "normalizedTitle": "hey mister song",
+      "trackNumber": 3,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Hey Mister Song.mp3",
+      "composer": "Shakthikanth Karthick",
+      "singers": [
+        "Deepak"
+      ],
+      "bitrate": 319725,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8935669
+    },
+    {
+      "id": "d3c80e18f61f",
+      "title": "Hey Pillagaada Song",
+      "normalizedTitle": "hey pillagaada song",
+      "trackNumber": 4,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Hey Pillagaada Song.mp3",
+      "composer": "Shakthikanth Karthick",
+      "singers": [
+        "Sindhuri",
+        "Sinov Raj"
+      ],
+      "bitrate": 319725,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10406665
+    },
+    {
+      "id": "8535dc354c4a",
+      "title": "Oosupodu Song",
+      "normalizedTitle": "oosupodu song",
+      "trackNumber": 5,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Oosupodu Song.mp3",
+      "composer": "Shakthikanth Karthick",
+      "singers": [
+        "Hemachandra"
+      ],
+      "bitrate": 319698,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11387085
+    },
+    {
+      "id": "f910966d5158",
+      "title": "Vachinde Song",
+      "normalizedTitle": "vachinde song",
+      "trackNumber": 6,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Vachinde Song.mp3",
+      "composer": "Shakthikanth Karthick",
+      "singers": [
+        "Madhu Priya",
+        "Ramki"
+      ],
+      "bitrate": 319702,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 13315837
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "ab8e67b2dbc0",
+    "name": "Pushpaka Vimanam",
+    "year": 2021,
+    "musicDirector": "Ram Miriyala",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Pushpaka Vimanam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "cb4298502445",
+      "title": "Aaha Song",
+      "normalizedTitle": "aaha song",
+      "trackNumber": 1,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Aaha Song.mp3",
+      "composer": "Ram Miriyala",
+      "singers": [
+        "Kailash Kher"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3482181
+    },
+    {
+      "id": "bd90034d3033",
+      "title": "Chori Chori Dekho Rey Song",
+      "normalizedTitle": "chori chori dekho rey song",
+      "trackNumber": 2,
+      "duration": "1:50",
+      "durationSeconds": 110,
+      "audio": "Chori Chori Dekho Rey Song.mp3",
+      "composer": "Ram Miriyala",
+      "singers": [
+        "Damini Bhatla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1955970
+    },
+    {
+      "id": "2d0a819cb4fa",
+      "title": "Kalyanam Song",
+      "normalizedTitle": "kalyanam song",
+      "trackNumber": 3,
+      "duration": "3:02",
+      "durationSeconds": 182,
+      "audio": "Kalyanam Song.mp3",
+      "composer": "Ram Miriyala",
+      "singers": [
+        "Sid Sriram",
+        "Mangli",
+        "Mohana Bhogaraju",
+        "Divya Malik",
+        "Hari Priya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2976384
+    },
+    {
+      "id": "c2380ef19727",
+      "title": "Malli Rava Song",
+      "normalizedTitle": "malli rava song",
+      "trackNumber": 4,
+      "duration": "2:40",
+      "durationSeconds": 160,
+      "audio": "Malli Rava Song.mp3",
+      "composer": "Ram Miriyala",
+      "singers": [
+        "Hari Haran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2755376
+    },
+    {
+      "id": "00916c1609d6",
+      "title": "Silakaa Song",
+      "normalizedTitle": "silakaa song",
+      "trackNumber": 5,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Silakaa Song.mp3",
+      "composer": "Ram Miriyala",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4040832
+    },
+    {
+      "id": "9a740e9ebda5",
+      "title": "Swamy Ra Ra (Krishna Shabdam) Song",
+      "normalizedTitle": "swamy ra ra krishna shabdam song",
+      "trackNumber": 6,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Swamy Ra Ra (Krishna Shabdam) Song.mp3",
+      "composer": "Ram Miriyala",
+      "singers": [
+        "Chinmayi Sripada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3315441
+    }
+  ]
+}

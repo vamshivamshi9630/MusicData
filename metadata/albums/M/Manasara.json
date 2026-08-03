@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "412a1615dd08",
+    "name": "Manasara",
+    "year": 2010,
+    "musicDirector": "Sekhar Chandra",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Manasara.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "4a1acda32ba1",
+      "title": "Aakasam Thalavanchal Song",
+      "normalizedTitle": "aakasam thalavanchal song",
+      "trackNumber": 1,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Aakasam Thalavanchal Song.mp3",
+      "composer": "Music : Shekar Chandra | Lyrics : Bhaskarabhatla, Ananth Sriram",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4066696
+    },
+    {
+      "id": "39c9a2010394",
+      "title": "Mella Mellaga Song",
+      "normalizedTitle": "mella mellaga song",
+      "trackNumber": 2,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Mella Mellaga Song.mp3",
+      "composer": "Music : Shekar Chandra | Lyrics : Bhaskarabhatla, Ananth Sriram",
+      "singers": [
+        "Krishna Chaitanya",
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4358886
+    },
+    {
+      "id": "572427c0ab08",
+      "title": "Nuvvila Song",
+      "normalizedTitle": "nuvvila song",
+      "trackNumber": 3,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Nuvvila Song.mp3",
+      "composer": "Music : Shekar Chandra | Lyrics : Bhaskarabhatla, Ananth Sriram",
+      "singers": [
+        "Krishna Chaitanya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3914133
+    },
+    {
+      "id": "ed7497042408",
+      "title": "O Picchi Prema Song",
+      "normalizedTitle": "o picchi prema song",
+      "trackNumber": 4,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "O Picchi Prema Song.mp3",
+      "composer": "Music : Shekar Chandra | Lyrics : Bhaskarabhatla, Ananth Sriram",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4401050
+    },
+    {
+      "id": "e9040cb0cc5d",
+      "title": "Paravaledhu Song",
+      "normalizedTitle": "paravaledhu song",
+      "trackNumber": 5,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Paravaledhu Song.mp3",
+      "composer": "Music : Shekar Chandra | Lyrics : Bhaskarabhatla, Ananth Sriram",
+      "singers": [
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4331677
+    },
+    {
+      "id": "68ac2942057c",
+      "title": "The Ballad of Krishna Song",
+      "normalizedTitle": "the ballad of krishna song",
+      "trackNumber": 6,
+      "duration": "5:37",
+      "durationSeconds": 337,
+      "audio": "The Ballad of Krishna Song.mp3",
+      "composer": "Music : Shekar Chandra | Lyrics : Bhaskarabhatla, Ananth Sriram",
+      "singers": [
+        "Mano",
+        "Pranavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5441390
+    }
+  ]
+}

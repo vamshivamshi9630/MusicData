@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "f66a7158ada8",
+    "name": "10 Endrathukulla",
+    "year": 2015,
+    "musicDirector": "D. Imman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "10 Endrathukulla.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "e4649b17d4fe",
+      "title": "Aanaalum Indha Mayakkam Song",
+      "normalizedTitle": "aanaalum indha mayakkam song",
+      "trackNumber": 1,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Aanaalum Indha Mayakkam Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Vikram",
+        "Samantha"
+      ],
+      "bitrate": 130942,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5005080
+    },
+    {
+      "id": "653a966ed0c0",
+      "title": "Gaana Gaana Song",
+      "normalizedTitle": "gaana gaana song",
+      "trackNumber": 2,
+      "duration": "6:23",
+      "durationSeconds": 383,
+      "audio": "Gaana Gaana Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Vikram",
+        "Samantha"
+      ],
+      "bitrate": 131467,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6389950
+    },
+    {
+      "id": "88352314b3c9",
+      "title": "Mysterious Travel Song",
+      "normalizedTitle": "mysterious travel song",
+      "trackNumber": 3,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Mysterious Travel Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Vikram",
+        "Samantha"
+      ],
+      "bitrate": 129270,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3480218
+    },
+    {
+      "id": "b97ad45487da",
+      "title": "Pathu Endrathukulla (Female Version) Song",
+      "normalizedTitle": "pathu endrathukulla female version song",
+      "trackNumber": 4,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Pathu Endrathukulla (Female Version) Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Vikram",
+        "Samantha"
+      ],
+      "bitrate": 129940,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3505012
+    },
+    {
+      "id": "86bf55400e8b",
+      "title": "Pathu Endrathukulla (Male Version) Song",
+      "normalizedTitle": "pathu endrathukulla male version song",
+      "trackNumber": 5,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Pathu Endrathukulla (Male Version) Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Vikram",
+        "Samantha"
+      ],
+      "bitrate": 131581,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4226521
+    },
+    {
+      "id": "a1c5e2ea03a3",
+      "title": "Vroom Vromm Song",
+      "normalizedTitle": "vroom vromm song",
+      "trackNumber": 6,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Vroom Vromm Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Vikram",
+        "Samantha"
+      ],
+      "bitrate": 132438,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4758493
+    }
+  ]
+}

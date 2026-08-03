@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "92d82af54a35",
+    "name": "Meesaya Murukku 2",
+    "year": 2025,
+    "musicDirector": "Hiphop Tamizha",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Meesaya Murukku 2.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "0fb1fb3a6280",
+      "title": "Aura Song",
+      "normalizedTitle": "aura song",
+      "trackNumber": 1,
+      "duration": "2:08",
+      "durationSeconds": 128,
+      "audio": "Aura Song.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Hiphop Tamizha"
+      ],
+      "bitrate": 125370,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2213705
+    }
+  ]
+}

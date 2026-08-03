@@ -1,0 +1,48 @@
+{
+  "album": {
+    "id": "1ed464eee950",
+    "name": "Ardhashathabdam",
+    "year": 2021,
+    "musicDirector": "Nawfal Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ardhashathabdam.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "2d2f2060995e",
+      "title": "Merisaley Song",
+      "normalizedTitle": "merisaley song",
+      "trackNumber": 1,
+      "duration": "5:19",
+      "durationSeconds": 319,
+      "audio": "Merisaley Song.mp3",
+      "composer": "Nawfal raja AIS",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5166464
+    },
+    {
+      "id": "a97a5255af8f",
+      "title": "Ye Kannulu Chudani Chitrame Song",
+      "normalizedTitle": "ye kannulu chudani chitrame song",
+      "trackNumber": 2,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Ye Kannulu Chudani Chitrame Song.mp3",
+      "composer": "Nawfal raja AIS",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9350272
+    }
+  ]
+}

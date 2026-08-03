@@ -1,0 +1,105 @@
+{
+  "album": {
+    "id": "617c062d7b88",
+    "name": "Gentleman",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gentleman.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "7212c0c3651b",
+      "title": "Chikubuku Raile Song",
+      "normalizedTitle": "chikubuku raile song",
+      "trackNumber": 1,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Chikubuku Raile Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Suresh Peters",
+        "G.V. Prakash Kumar"
+      ],
+      "bitrate": 289607,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11690793
+    },
+    {
+      "id": "f1a1ab9b9065",
+      "title": "Kontegadni Song",
+      "normalizedTitle": "kontegadni song",
+      "trackNumber": 2,
+      "duration": "5:13",
+      "durationSeconds": 313,
+      "audio": "Kontegadni Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu",
+        "S. Janaki"
+      ],
+      "bitrate": 281708,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11069999
+    },
+    {
+      "id": "6824bcc1fd03",
+      "title": "Maavele Maavele Song",
+      "normalizedTitle": "maavele maavele song",
+      "trackNumber": 3,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Maavele Maavele Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Minmini",
+        "Chorus"
+      ],
+      "bitrate": 279151,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9348189
+    },
+    {
+      "id": "cd9d01066b0a",
+      "title": "Mudinepalli Song",
+      "normalizedTitle": "mudinepalli song",
+      "trackNumber": 4,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Mudinepalli Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sahul Hameed",
+        "Swarnalatha",
+        "Malgudi Shubha"
+      ],
+      "bitrate": 275242,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9675159
+    },
+    {
+      "id": "408400557b8a",
+      "title": "Naa Inti Mundunna Song",
+      "normalizedTitle": "naa inti mundunna song",
+      "trackNumber": 5,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Naa Inti Mundunna Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu",
+        "Sujatha"
+      ],
+      "bitrate": 292333,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8932121
+    }
+  ]
+}

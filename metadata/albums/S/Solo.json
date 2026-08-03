@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "5364f2f2fc4f",
+    "name": "Solo",
+    "year": 2011,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Solo.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "6a808c230cba",
+      "title": "Almost Atom Bomb La Song",
+      "normalizedTitle": "almost atom bomb la song",
+      "trackNumber": 1,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Almost Atom Bomb La Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4579379
+    },
+    {
+      "id": "b857d5c3c96c",
+      "title": "Ammamamammo Song",
+      "normalizedTitle": "ammamamammo song",
+      "trackNumber": 2,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Ammamamammo Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Sri Ram Chandra",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4853999
+    },
+    {
+      "id": "4333967d66fc",
+      "title": "Marumallela Vaana Song",
+      "normalizedTitle": "marumallela vaana song",
+      "trackNumber": 3,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Marumallela Vaana Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Hema Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4087447
+    },
+    {
+      "id": "b85a2cf43d88",
+      "title": "Na Prema Kathaku Song",
+      "normalizedTitle": "na prema kathaku song",
+      "trackNumber": 4,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Na Prema Kathaku Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4097055
+    },
+    {
+      "id": "7cce59cfff0f",
+      "title": "Puduthune Sol Song",
+      "normalizedTitle": "puduthune sol song",
+      "trackNumber": 5,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Puduthune Sol Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Karunya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3247751
+    },
+    {
+      "id": "19ca7fad5537",
+      "title": "Singapore Song",
+      "normalizedTitle": "singapore song",
+      "trackNumber": 6,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Singapore Song.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Shravana Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4474054
+    }
+  ]
+}

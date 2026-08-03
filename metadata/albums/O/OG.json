@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "e2dc13ee2937",
+    "name": "OG",
+    "year": 2024,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "OG.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "6ef962c6f704",
+      "title": "Fire Storm Song",
+      "normalizedTitle": "fire storm song",
+      "trackNumber": 1,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Fire Storm Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Simbu",
+        "SS Thaman",
+        "Deepak Blue"
+      ],
+      "bitrate": 132327,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4318572
+    },
+    {
+      "id": "12b060e74c87",
+      "title": "Guns And Roses Song",
+      "normalizedTitle": "guns and roses song",
+      "trackNumber": 2,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Guns And Roses Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S"
+      ],
+      "bitrate": 131396,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4555403
+    },
+    {
+      "id": "c434cc6551a4",
+      "title": "Hungry Cheetah Song",
+      "normalizedTitle": "hungry cheetah song",
+      "trackNumber": 3,
+      "duration": "0:39",
+      "durationSeconds": 39,
+      "audio": "Hungry Cheetah Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 680940
+    },
+    {
+      "id": "70dc24f5843d",
+      "title": "Suvvi Suvvi Song",
+      "normalizedTitle": "suvvi suvvi song",
+      "trackNumber": 4,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Suvvi Suvvi Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11588925
+    },
+    {
+      "id": "b80c2d807b1d",
+      "title": "Trance of OMI Song",
+      "normalizedTitle": "trance of omi song",
+      "trackNumber": 5,
+      "duration": "2:53",
+      "durationSeconds": 173,
+      "audio": "Trance of OMI Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sruthi Ranjani"
+      ],
+      "bitrate": 130052,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3135739
+    },
+    {
+      "id": "adca27675cff",
+      "title": "Washi O Washi Song",
+      "normalizedTitle": "washi o washi song",
+      "trackNumber": 6,
+      "duration": "1:52",
+      "durationSeconds": 112,
+      "audio": "Washi O Washi Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Pawan Kalyan"
+      ],
+      "bitrate": 120877,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2017031
+    }
+  ]
+}

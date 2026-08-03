@@ -1,0 +1,167 @@
+{
+  "album": {
+    "id": "647b29ed4174",
+    "name": "Nari Nari Naduma Murari",
+    "year": 1990,
+    "musicDirector": "K. V. Mahadevan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nari Nari Naduma Murari.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "10c510eaac0a",
+      "title": "Aa Nari Ee Nari Song",
+      "normalizedTitle": "aa nari ee nari song",
+      "trackNumber": 1,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Aa Nari Ee Nari Song.mp3",
+      "composer": "Vishal Chandra Shekar",
+      "singers": [
+        "Arvind Annest"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3529269
+    },
+    {
+      "id": "d89371b55900",
+      "title": "Bhalle Bhalle Song",
+      "normalizedTitle": "bhalle bhalle song",
+      "trackNumber": 2,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Bhalle Bhalle Song.mp3",
+      "composer": "Vishal Chandra Shekar",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4481831
+    },
+    {
+      "id": "061ba3b300a1",
+      "title": "Darsanamey Song",
+      "normalizedTitle": "darsanamey song",
+      "trackNumber": 3,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Darsanamey Song.mp3",
+      "composer": "Vishal Chandra Shekar",
+      "singers": [
+        "Yazin Nizar"
+      ],
+      "bitrate": 133431,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4182866
+    },
+    {
+      "id": "652f806e1ae0",
+      "title": "Duttala Uunave Rattammatta",
+      "normalizedTitle": "duttala uunave rattammatta",
+      "trackNumber": 4,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Duttala Uunave Rattammatta.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3941817
+    },
+    {
+      "id": "0cf147eab1fc",
+      "title": "Dwaparamanta Savathula Santa",
+      "normalizedTitle": "dwaparamanta savathula santa",
+      "trackNumber": 5,
+      "duration": "5:32",
+      "durationSeconds": 332,
+      "audio": "Dwaparamanta Savathula Santa.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5331950
+    },
+    {
+      "id": "2ee08053e993",
+      "title": "Em Maayoo Tadumutunadi",
+      "normalizedTitle": "em maayoo tadumutunadi",
+      "trackNumber": 6,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Em Maayoo Tadumutunadi.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4248600
+    },
+    {
+      "id": "d54ec4544a3f",
+      "title": "Manasu Loni Marmamulu Telusuko",
+      "normalizedTitle": "manasu loni marmamulu telusuko",
+      "trackNumber": 7,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Manasu Loni Marmamulu Telusuko.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4014124
+    },
+    {
+      "id": "92f1a3f96926",
+      "title": "Pellantune Vedikkinde Gaali",
+      "normalizedTitle": "pellantune vedikkinde gaali",
+      "trackNumber": 8,
+      "duration": "5:23",
+      "durationSeconds": 323,
+      "audio": "Pellantune Vedikkinde Gaali.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5177723
+    },
+    {
+      "id": "fd95cbfdce9c",
+      "title": "Vayasu Sogasu Kalisina Vela",
+      "normalizedTitle": "vayasu sogasu kalisina vela",
+      "trackNumber": 9,
+      "duration": "5:23",
+      "durationSeconds": 323,
+      "audio": "Vayasu Sogasu Kalisina Vela.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5183574
+    }
+  ]
+}

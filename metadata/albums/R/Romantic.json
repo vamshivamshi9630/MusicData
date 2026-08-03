@@ -1,0 +1,135 @@
+{
+  "album": {
+    "id": "525cfa64347a",
+    "name": "Romantic",
+    "year": 2021,
+    "musicDirector": "Sunil Kashyap",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Romantic.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "b20f2c77c254",
+      "title": "Darling Song",
+      "normalizedTitle": "darling song",
+      "trackNumber": 1,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Darling Song.mp3",
+      "composer": "Sunil Kashywap",
+      "singers": [
+        "Magi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2864128
+    },
+    {
+      "id": "d679924aab76",
+      "title": "Mera Naam Vasco De Gama Song",
+      "normalizedTitle": "mera naam vasco de gama song",
+      "trackNumber": 2,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Mera Naam Vasco De Gama Song.mp3",
+      "composer": "Sunil Kashywap",
+      "singers": [
+        "Aakash Puri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3606144
+    },
+    {
+      "id": "1b3710e992ca",
+      "title": "Naa Valla Kadhe Song",
+      "normalizedTitle": "naa valla kadhe song",
+      "trackNumber": 3,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Naa Valla Kadhe Song.mp3",
+      "composer": "Sunil Kashywap",
+      "singers": [
+        "Sunil Kashyap"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3981624
+    },
+    {
+      "id": "54e0b97d4ef4",
+      "title": "Nuvvu Nenu E kshanam Song",
+      "normalizedTitle": "nuvvu nenu e kshanam song",
+      "trackNumber": 4,
+      "duration": "2:34",
+      "durationSeconds": 154,
+      "audio": "Nuvvu Nenu E kshanam Song.mp3",
+      "composer": "Sunil Kashywap",
+      "singers": [
+        "Chinmayi Sripada",
+        "Puri Jagannadh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2777472
+    },
+    {
+      "id": "c3f0cdf5bf57",
+      "title": "Peene Ke Baad Kick Ass Version Song",
+      "normalizedTitle": "peene ke baad kick ass version song",
+      "trackNumber": 5,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Peene Ke Baad Kick Ass Version Song.mp3",
+      "composer": "Sunil Kashywap",
+      "singers": [
+        "Sunil Kashyap"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3250048
+    },
+    {
+      "id": "5169d2ce459d",
+      "title": "Peene Ke Baad Song",
+      "normalizedTitle": "peene ke baad song",
+      "trackNumber": 6,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Peene Ke Baad Song.mp3",
+      "composer": "Sunil Kashywap",
+      "singers": [
+        "Sunil Kashyap"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4001221
+    },
+    {
+      "id": "a61e65d8a0ad",
+      "title": "What Do You Want Song",
+      "normalizedTitle": "what do you want song",
+      "trackNumber": 7,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "What Do You Want Song.mp3",
+      "composer": "Sunil Kasyap",
+      "singers": [
+        "Mangli",
+        "Krishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3298048
+    }
+  ]
+}

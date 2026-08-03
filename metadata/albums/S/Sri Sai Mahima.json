@@ -1,0 +1,167 @@
+{
+  "album": {
+    "id": "226c791b479c",
+    "name": "Sri Sai Mahima",
+    "year": 2000,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sri Sai Mahima.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "48cf0e94f0b3",
+      "title": "Ententa Daya Needi Song",
+      "normalizedTitle": "ententa daya needi song",
+      "trackNumber": 1,
+      "duration": "6:28",
+      "durationSeconds": 388,
+      "audio": "Ententa Daya Needi Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6245687
+    },
+    {
+      "id": "cd8f24ee0512",
+      "title": "Kadilindi Sri Sai Pallaki Song",
+      "normalizedTitle": "kadilindi sri sai pallaki song",
+      "trackNumber": 2,
+      "duration": "7:29",
+      "durationSeconds": 449,
+      "audio": "Kadilindi Sri Sai Pallaki Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7221217
+    },
+    {
+      "id": "1b19f8151c9b",
+      "title": "Ninnu Ganee Saranamaanee Song",
+      "normalizedTitle": "ninnu ganee saranamaanee song",
+      "trackNumber": 3,
+      "duration": "7:14",
+      "durationSeconds": 434,
+      "audio": "Ninnu Ganee Saranamaanee Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 24000,
+      "channels": 2,
+      "fileSize": 6979178
+    },
+    {
+      "id": "80d25601734b",
+      "title": "O Sai Kanumoosinaava Song",
+      "normalizedTitle": "o sai kanumoosinaava song",
+      "trackNumber": 4,
+      "duration": "5:59",
+      "durationSeconds": 359,
+      "audio": "O Sai Kanumoosinaava Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5775069
+    },
+    {
+      "id": "dd81fea0836f",
+      "title": "Sai Deva Song",
+      "normalizedTitle": "sai deva song",
+      "trackNumber": 5,
+      "duration": "6:00",
+      "durationSeconds": 360,
+      "audio": "Sai Deva Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5786747
+    },
+    {
+      "id": "2ada0f773e27",
+      "title": "Sai Dhuni Song",
+      "normalizedTitle": "sai dhuni song",
+      "trackNumber": 6,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Sai Dhuni Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 24000,
+      "channels": 2,
+      "fileSize": 3531598
+    },
+    {
+      "id": "e2b46cd9ebf6",
+      "title": "Sai Divya Roopam Song",
+      "normalizedTitle": "sai divya roopam song",
+      "trackNumber": 7,
+      "duration": "5:55",
+      "durationSeconds": 355,
+      "audio": "Sai Divya Roopam Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5709441
+    },
+    {
+      "id": "26a631c6ab04",
+      "title": "Shiridi Lopali Deivamnene Song",
+      "normalizedTitle": "shiridi lopali deivamnene song",
+      "trackNumber": 8,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Shiridi Lopali Deivamnene Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 24000,
+      "channels": 2,
+      "fileSize": 5067246
+    },
+    {
+      "id": "c19096c93258",
+      "title": "Shiridiyae Maa Pandaripuramu Song",
+      "normalizedTitle": "shiridiyae maa pandaripuramu song",
+      "trackNumber": 9,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Shiridiyae Maa Pandaripuramu Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4787447
+    }
+  ]
+}

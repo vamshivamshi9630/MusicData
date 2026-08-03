@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "f72fd6e2ae3b",
+    "name": "Aadarsha Kutumbam",
+    "year": 1969,
+    "musicDirector": "S. Rajeshwara Rao",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aadarsha Kutumbam.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "e08a54212a16",
+      "title": "Bidiyamela O Cheli Song",
+      "normalizedTitle": "bidiyamela o cheli song",
+      "trackNumber": 1,
+      "duration": "3:02",
+      "durationSeconds": 182,
+      "audio": "Bidiyamela O Cheli Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3045391
+    },
+    {
+      "id": "7bf47e6a3445",
+      "title": "Cheyi Cheyi Song",
+      "normalizedTitle": "cheyi cheyi song",
+      "trackNumber": 2,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Cheyi Cheyi Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3865427
+    },
+    {
+      "id": "051dbf9a7dc1",
+      "title": "Edukondala Song",
+      "normalizedTitle": "edukondala song",
+      "trackNumber": 3,
+      "duration": "3:21",
+      "durationSeconds": 201,
+      "audio": "Edukondala Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3343814
+    },
+    {
+      "id": "ee1c12ceff64",
+      "title": "Hallo Saru Song",
+      "normalizedTitle": "hallo saru song",
+      "trackNumber": 4,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Hallo Saru Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3578707
+    },
+    {
+      "id": "b57c0b3ab515",
+      "title": "Kaligajja Kankalamma Song",
+      "normalizedTitle": "kaligajja kankalamma song",
+      "trackNumber": 5,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Kaligajja Kankalamma Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3693228
+    },
+    {
+      "id": "f709d02e8951",
+      "title": "Surya Vamsamuna Song",
+      "normalizedTitle": "surya vamsamuna song",
+      "trackNumber": 6,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Surya Vamsamuna Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4714302
+    },
+    {
+      "id": "3932197d4fcb",
+      "title": "Yei Yeira Song",
+      "normalizedTitle": "yei yeira song",
+      "trackNumber": 7,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Yei Yeira Song.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3853725
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "album": {
+    "id": "2435c3b2380c",
+    "name": "Yeto Vellipoyindi Manasu",
+    "year": 2012,
+    "musicDirector": "Ilaiyaraaja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Yeto Vellipoyindi Manasu.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "ea08b068468d",
+      "title": "Ardhamayyindhinte In Song",
+      "normalizedTitle": "ardhamayyindhinte in song",
+      "trackNumber": 1,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Ardhamayyindhinte In Song.mp3",
+      "composer": "Music : Ilayaraja | Lyrics : -",
+      "singers": [
+        "Yuvan Shankar Raja"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4011132
+    },
+    {
+      "id": "46060894efd5",
+      "title": "Atu Itu Song",
+      "normalizedTitle": "atu itu song",
+      "trackNumber": 2,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Atu Itu Song.mp3",
+      "composer": "Music : Ilayaraja | Lyrics : -",
+      "singers": [
+        "Sunidhi Chauhan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3843488
+    },
+    {
+      "id": "c558cb01cbb3",
+      "title": "Inthakaalam Song",
+      "normalizedTitle": "inthakaalam song",
+      "trackNumber": 3,
+      "duration": "5:57",
+      "durationSeconds": 357,
+      "audio": "Inthakaalam Song.mp3",
+      "composer": "Music : Ilayaraja | Lyrics : -",
+      "singers": [
+        "Ramya Nsk"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5789502
+    },
+    {
+      "id": "ea8fe039ce30",
+      "title": "Koti Koti Song",
+      "normalizedTitle": "koti koti song",
+      "trackNumber": 4,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Koti Koti Song.mp3",
+      "composer": "Music : Ilayaraja | Lyrics : -",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5402464
+    },
+    {
+      "id": "978f1743ad4e",
+      "title": "Laayi Laayi Song",
+      "normalizedTitle": "laayi laayi song",
+      "trackNumber": 5,
+      "duration": "6:02",
+      "durationSeconds": 362,
+      "audio": "Laayi Laayi Song.mp3",
+      "composer": "Music : Ilayaraja | Lyrics : -",
+      "singers": [
+        "Ilayaraja",
+        "Bela Shinde"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5873538
+    },
+    {
+      "id": "cbc553eb3e8a",
+      "title": "Nachaledhu Maava Song",
+      "normalizedTitle": "nachaledhu maava song",
+      "trackNumber": 6,
+      "duration": "6:00",
+      "durationSeconds": 360,
+      "audio": "Nachaledhu Maava Song.mp3",
+      "composer": "Music : Ilayaraja | Lyrics : -",
+      "singers": [
+        "Suraj Jagan",
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5838435
+    },
+    {
+      "id": "542c2b29417e",
+      "title": "Yedhi Yedhi Song",
+      "normalizedTitle": "yedhi yedhi song",
+      "trackNumber": 7,
+      "duration": "6:06",
+      "durationSeconds": 366,
+      "audio": "Yedhi Yedhi Song.mp3",
+      "composer": "Music : Ilayaraja | Lyrics : -",
+      "singers": [
+        "Shaan",
+        "Ramya Nsk"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5936220
+    },
+    {
+      "id": "0236745e8b8b",
+      "title": "Yenthentha Dhooram Song",
+      "normalizedTitle": "yenthentha dhooram song",
+      "trackNumber": 8,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Yenthentha Dhooram Song.mp3",
+      "composer": "Music : Ilayaraja | Lyrics : -",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4225091
+    }
+  ]
+}

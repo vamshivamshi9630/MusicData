@@ -1,0 +1,144 @@
+{
+  "album": {
+    "id": "ab91a82d14cf",
+    "name": "Animal",
+    "year": 2023,
+    "musicDirector": "Harshavardhan Rameshwar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Animal.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "df9f8abb71e5",
+      "title": "Ammayi",
+      "normalizedTitle": "ammayi",
+      "trackNumber": 1,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Ammayi.mp3",
+      "composer": "JAM8, Shreyas Puranik, Harshavardhan Rameshwar, Vishal Mishra, Manan Bhardwaj, Jaani - MassTamilan",
+      "singers": [
+        "Raghav Chaitanya",
+        "Anantha Sriram",
+        "Pritam - MassTamilan"
+      ],
+      "bitrate": 266791,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9276820
+    },
+    {
+      "id": "02f1bb9d740e",
+      "title": "Evarevaro Song",
+      "normalizedTitle": "evarevaro song",
+      "trackNumber": 2,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Evarevaro Song.mp3",
+      "composer": "JAM8, Shreyas Puranik, Harshavardhan Rameshwar, Vishal Mishra, Manan Bhardwaj, Jaani - MassTamilan",
+      "singers": [
+        "Vishal Mishra",
+        "Anantha Sriram - MassTamilan"
+      ],
+      "bitrate": 244862,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7752627
+    },
+    {
+      "id": "feb236ef5822",
+      "title": "Kashmeeru Song",
+      "normalizedTitle": "kashmeeru song",
+      "trackNumber": 3,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Kashmeeru Song.mp3",
+      "composer": "JAM8, Shreyas Puranik, Harshavardhan Rameshwar, Vishal Mishra, Manan Bhardwaj, Jaani - MassTamilan",
+      "singers": [
+        "Manan Bhardwaj",
+        "Shreya Ghoshal",
+        "Yazin Nizar - MassTamilan"
+      ],
+      "bitrate": 225035,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6196247
+    },
+    {
+      "id": "d32260da2705",
+      "title": "Nanna Nuv Naa Pranam Song",
+      "normalizedTitle": "nanna nuv naa pranam song",
+      "trackNumber": 4,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Nanna Nuv Naa Pranam Song.mp3",
+      "composer": "JAM8, Shreyas Puranik, Harshavardhan Rameshwar, Vishal Mishra, Manan Bhardwaj, Jaani - MassTamilan",
+      "singers": [
+        "Sonu Nigam",
+        "Harshavardhan Rameshwar",
+        "Anantha Sriram - MassTamilan"
+      ],
+      "bitrate": 242997,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9861490
+    },
+    {
+      "id": "f2546bd76fe3",
+      "title": "Nayaaldhi",
+      "normalizedTitle": "nayaaldhi",
+      "trackNumber": 5,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Nayaaldhi.mp3",
+      "composer": "B. Ajneesh Loknath",
+      "singers": [
+        "B. Ajneesh Loknath"
+      ],
+      "bitrate": 117296,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3503443
+    },
+    {
+      "id": "078c1f1ffdff",
+      "title": "Ney Veyrey Song",
+      "normalizedTitle": "ney veyrey song",
+      "trackNumber": 6,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Ney Veyrey Song.mp3",
+      "composer": "JAM8, Shreyas Puranik, Harshavardhan Rameshwar, Vishal Mishra, Manan Bhardwaj, Jaani - MassTamilan",
+      "singers": [
+        "Karthik",
+        "Shreyas Puranik",
+        "Anantha Sriram - MassTamilan"
+      ],
+      "bitrate": 264111,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9048543
+    },
+    {
+      "id": "d2a4788ba8e2",
+      "title": "Yaalo Yaalaa Song",
+      "normalizedTitle": "yaalo yaalaa song",
+      "trackNumber": 7,
+      "duration": "3:02",
+      "durationSeconds": 182,
+      "audio": "Yaalo Yaalaa Song.mp3",
+      "composer": "JAM8, Shreyas Puranik, Harshavardhan Rameshwar, Vishal Mishra, Manan Bhardwaj, Jaani - MassTamilan",
+      "singers": [
+        "Jaani",
+        "Anurag Kulkarni",
+        "Anantha Sriram - MassTamilan"
+      ],
+      "bitrate": 249729,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5784842
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "album": {
+    "id": "13eabdd34afd",
+    "name": "Sakhi",
+    "year": 2000,
+    "musicDirector": "A.R. Rahman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sakhi.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "8a2546f26b28",
+      "title": "Alaipongeraa Song",
+      "normalizedTitle": "alaipongeraa song",
+      "trackNumber": 1,
+      "duration": "3:41",
+      "durationSeconds": 221,
+      "audio": "Alaipongeraa Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "Kalyani Menon",
+        "Harini",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3570268
+    },
+    {
+      "id": "a1bfc748d6ea",
+      "title": "Kailove Chedugudu Song",
+      "normalizedTitle": "kailove chedugudu song",
+      "trackNumber": 2,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Kailove Chedugudu Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "S.P.B. Charan",
+        "Naveen"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4434182
+    },
+    {
+      "id": "60fa4ef09c2f",
+      "title": "Kalai Poyenu Song",
+      "normalizedTitle": "kalai poyenu song",
+      "trackNumber": 3,
+      "duration": "5:48",
+      "durationSeconds": 348,
+      "audio": "Kalai Poyenu Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "Swarnalatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5604855
+    },
+    {
+      "id": "63c1fc1969d2",
+      "title": "Pachchadanamey Song",
+      "normalizedTitle": "pachchadanamey song",
+      "trackNumber": 4,
+      "duration": "5:58",
+      "durationSeconds": 358,
+      "audio": "Pachchadanamey Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "Hariharan",
+        "Clinton"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5761608
+    },
+    {
+      "id": "1695059fa4f4",
+      "title": "Septembar Maasam Song",
+      "normalizedTitle": "septembar maasam song",
+      "trackNumber": 5,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Septembar Maasam Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "S. Janaki",
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4958314
+    },
+    {
+      "id": "daa02610d2fa",
+      "title": "Snehithudaa Song",
+      "normalizedTitle": "snehithudaa song",
+      "trackNumber": 6,
+      "duration": "6:06",
+      "durationSeconds": 366,
+      "audio": "Snehithudaa Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "Sadhana Sargam",
+        "Srinivas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5884494
+    },
+    {
+      "id": "5622bb04d471",
+      "title": "Yede Yedeydey Song",
+      "normalizedTitle": "yede yedeydey song",
+      "trackNumber": 7,
+      "duration": "5:46",
+      "durationSeconds": 346,
+      "audio": "Yede Yedeydey Song.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "Sujatha",
+        "Vaishali",
+        "Subha",
+        "Richa Sarma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5559770
+    }
+  ]
+}

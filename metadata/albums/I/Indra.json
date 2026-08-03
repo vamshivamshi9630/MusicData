@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "93d730ab08cd",
+    "name": "Indra",
+    "year": 2002,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Indra.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "b77278da21cc",
+      "title": "Ammadu Appachi Song",
+      "normalizedTitle": "ammadu appachi song",
+      "trackNumber": 1,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Ammadu Appachi Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Balu",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4587133
+    },
+    {
+      "id": "81aead1dd6f2",
+      "title": "Ayyo Ayyo Song",
+      "normalizedTitle": "ayyo ayyo song",
+      "trackNumber": 2,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Ayyo Ayyo Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Karthik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4796544
+    },
+    {
+      "id": "e01a9c3fa3dc",
+      "title": "Bham Bham Bole Song",
+      "normalizedTitle": "bham bham bole song",
+      "trackNumber": 3,
+      "duration": "6:09",
+      "durationSeconds": 369,
+      "audio": "Bham Bham Bole Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Hariharan",
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5938017
+    },
+    {
+      "id": "7724b699be80",
+      "title": "Dayi Dayi Damma Song",
+      "normalizedTitle": "dayi dayi damma song",
+      "trackNumber": 4,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Dayi Dayi Damma Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "K.K.",
+        "Mahalakshmi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5161011
+    },
+    {
+      "id": "33ae7943a312",
+      "title": "Ghallu Ghallu Song",
+      "normalizedTitle": "ghallu ghallu song",
+      "trackNumber": 5,
+      "duration": "5:53",
+      "durationSeconds": 353,
+      "audio": "Ghallu Ghallu Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Balu",
+        "Mallikarjuna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5676352
+    },
+    {
+      "id": "0fc8b7f13975",
+      "title": "Radhe Govinda Song",
+      "normalizedTitle": "radhe govinda song",
+      "trackNumber": 6,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Radhe Govinda Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Udit Narayan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4674932
+    }
+  ]
+}

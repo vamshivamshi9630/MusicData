@@ -1,0 +1,66 @@
+{
+  "album": {
+    "id": "6038ac4d7893",
+    "name": "Kingdom",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kingdom.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "5db6f8662a9b",
+      "title": "Anna Antene Song",
+      "normalizedTitle": "anna antene song",
+      "trackNumber": 1,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Anna Antene Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6944811
+    },
+    {
+      "id": "c31c2ca81210",
+      "title": "Hridayam Lopala Song",
+      "normalizedTitle": "hridayam lopala song",
+      "trackNumber": 2,
+      "duration": "2:14",
+      "durationSeconds": 134,
+      "audio": "Hridayam Lopala Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Anumita Nadesan"
+      ],
+      "bitrate": 134593,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2526632
+    },
+    {
+      "id": "2232146716b3",
+      "title": "Ragile Ragile Song",
+      "normalizedTitle": "ragile ragile song",
+      "trackNumber": 3,
+      "duration": "5:29",
+      "durationSeconds": 329,
+      "audio": "Ragile Ragile Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5630270
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "b24d6d33736e",
+    "name": "Ready",
+    "year": 2008,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ready.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "1a62fb210d7c",
+      "title": "Ayyo Ayyo Dhanayya Song",
+      "normalizedTitle": "ayyo ayyo dhanayya song",
+      "trackNumber": 1,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Ayyo Ayyo Dhanayya Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Priya",
+        "Franco & Benny (Rap)"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4415025
+    },
+    {
+      "id": "397e86a5f84b",
+      "title": "Get Ready Song",
+      "normalizedTitle": "get ready song",
+      "trackNumber": 2,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Get Ready Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5003834
+    },
+    {
+      "id": "650ddfaba5d6",
+      "title": "Naa Pedavulu Song",
+      "normalizedTitle": "naa pedavulu song",
+      "trackNumber": 3,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Naa Pedavulu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar",
+        "Poornima"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3935134
+    },
+    {
+      "id": "69638860cd50",
+      "title": "Ninne Pelladukoni Song",
+      "normalizedTitle": "ninne pelladukoni song",
+      "trackNumber": 4,
+      "duration": "5:28",
+      "durationSeconds": 328,
+      "audio": "Ninne Pelladukoni Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Ranjith",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5278479
+    },
+    {
+      "id": "8e614a32c450",
+      "title": "Om Namaste Bolo Song",
+      "normalizedTitle": "om namaste bolo song",
+      "trackNumber": 5,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Om Namaste Bolo Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Neeraj Sridhar",
+        "Divya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4227736
+    },
+    {
+      "id": "85af22739b78",
+      "title": "Tu Tu Tu Song",
+      "normalizedTitle": "tu tu tu song",
+      "trackNumber": 6,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Tu Tu Tu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kunal Ganjawala",
+        "Shreya Ghoshal",
+        "Raqeeb Alam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4222752
+    }
+  ]
+}

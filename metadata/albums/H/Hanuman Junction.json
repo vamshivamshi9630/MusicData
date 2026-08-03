@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "ba0ddbe830be",
+    "name": "Hanuman Junction",
+    "year": 2001,
+    "musicDirector": "Suresh Peters",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Hanuman Junction.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "6fff8f124d5d",
+      "title": "Golmalu Raja Song",
+      "normalizedTitle": "golmalu raja song",
+      "trackNumber": 1,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Golmalu Raja Song.mp3",
+      "composer": "Suresh Peters",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4700513
+    },
+    {
+      "id": "4fec7ccf701a",
+      "title": "Kushi Kushi Song",
+      "normalizedTitle": "kushi kushi song",
+      "trackNumber": 2,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Kushi Kushi Song.mp3",
+      "composer": "Suresh Peters",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4208975
+    },
+    {
+      "id": "169a7b462e32",
+      "title": "O Prema Prema Song",
+      "normalizedTitle": "o prema prema song",
+      "trackNumber": 3,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "O Prema Prema Song.mp3",
+      "composer": "Suresh Peters",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5011460
+    },
+    {
+      "id": "362ef66f06d9",
+      "title": "Oka Chinni Ladi Song",
+      "normalizedTitle": "oka chinni ladi song",
+      "trackNumber": 4,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Oka Chinni Ladi Song.mp3",
+      "composer": "Suresh Peters",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4229055
+    },
+    {
+      "id": "bd02574e31a0",
+      "title": "Sita Koka Cheluka Song",
+      "normalizedTitle": "sita koka cheluka song",
+      "trackNumber": 5,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Sita Koka Cheluka Song.mp3",
+      "composer": "Suresh Peters",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4906147
+    },
+    {
+      "id": "6c5187a8a489",
+      "title": "Sita Koka Chiluka Song",
+      "normalizedTitle": "sita koka chiluka song",
+      "trackNumber": 6,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Sita Koka Chiluka Song.mp3",
+      "composer": "Suresh Peters",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4926209
+    }
+  ]
+}

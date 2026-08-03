@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "778b34cc1ea4",
+    "name": "MAD Square",
+    "year": 2024,
+    "musicDirector": "Bheems Ceciroleo",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "MAD Square.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "99a402b611f1",
+      "title": "Balu Gani Intilona Song",
+      "normalizedTitle": "balu gani intilona song",
+      "trackNumber": 1,
+      "duration": "2:27",
+      "durationSeconds": 147,
+      "audio": "Balu Gani Intilona Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Raghu Kunche"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3599445
+    },
+    {
+      "id": "38f76e4e1094",
+      "title": "Konte Konte Song",
+      "normalizedTitle": "konte konte song",
+      "trackNumber": 2,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Konte Konte Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Rohini Sorrat"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4053349
+    },
+    {
+      "id": "debca5c52524",
+      "title": "Laddu Gaani Pelli Song",
+      "normalizedTitle": "laddu gaani pelli song",
+      "trackNumber": 3,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Laddu Gaani Pelli Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo",
+        "Mangli"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4047079
+    },
+    {
+      "id": "e4246e7ffcfa",
+      "title": "Swathi Reddy  Song",
+      "normalizedTitle": "swathi reddy song",
+      "trackNumber": 4,
+      "duration": "3:51",
+      "durationSeconds": 231,
+      "audio": "Swathi Reddy  Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo",
+        "Swathi Reddy UK"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3769136
+    },
+    {
+      "id": "fe17030c6a44",
+      "title": "Vaccharroi Song",
+      "normalizedTitle": "vaccharroi song",
+      "trackNumber": 5,
+      "duration": "3:02",
+      "durationSeconds": 182,
+      "audio": "Vaccharroi Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo"
+      ],
+      "bitrate": 123168,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3113913
+    }
+  ]
+}

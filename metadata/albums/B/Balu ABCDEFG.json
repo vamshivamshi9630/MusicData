@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "b74a7b729c74",
+    "name": "Balu ABCDEFG",
+    "year": 2005,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Balu ABCDEFG.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "80933a6b1c4a",
+      "title": "Athi Methani",
+      "normalizedTitle": "athi methani",
+      "trackNumber": 1,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Athi Methani.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Shriya Saran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5175487
+    },
+    {
+      "id": "27d7869c07aa",
+      "title": "Hut Hutja",
+      "normalizedTitle": "hut hutja",
+      "trackNumber": 2,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Hut Hutja.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Shriya Saran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4003076
+    },
+    {
+      "id": "c4406717b968",
+      "title": "Inthe Inthinthe",
+      "normalizedTitle": "inthe inthinthe",
+      "trackNumber": 3,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Inthe Inthinthe.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Shriya Saran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5173372
+    },
+    {
+      "id": "01e754b505f1",
+      "title": "Kannu Kottina",
+      "normalizedTitle": "kannu kottina",
+      "trackNumber": 4,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Kannu Kottina.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Shriya Saran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4523057
+    },
+    {
+      "id": "32fb02079e07",
+      "title": "Lokale Gelavaga",
+      "normalizedTitle": "lokale gelavaga",
+      "trackNumber": 5,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Lokale Gelavaga.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Shriya Saran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4456174
+    },
+    {
+      "id": "67bd1246343a",
+      "title": "Neelo Jarige",
+      "normalizedTitle": "neelo jarige",
+      "trackNumber": 6,
+      "duration": "5:59",
+      "durationSeconds": 359,
+      "audio": "Neelo Jarige.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Shriya Saran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5791569
+    }
+  ]
+}

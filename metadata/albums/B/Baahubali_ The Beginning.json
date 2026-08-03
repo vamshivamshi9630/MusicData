@@ -1,0 +1,155 @@
+{
+  "album": {
+    "id": "1f7fe88a8abc",
+    "name": "Baahubali_ The Beginning",
+    "year": 2015,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Baahubali_ The Beginning.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "49a31e0a35ce",
+      "title": "Dheevara (English Version) Song",
+      "normalizedTitle": "dheevara english version song",
+      "trackNumber": 1,
+      "duration": "3:09",
+      "durationSeconds": 189,
+      "audio": "Dheevara (English Version) Song.mp3",
+      "composer": "M.M.Keeravani",
+      "singers": [
+        "Ramya Behara",
+        "Adithya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3209571
+    },
+    {
+      "id": "0fe04b7a1981",
+      "title": "Dhivara Song",
+      "normalizedTitle": "dhivara song",
+      "trackNumber": 2,
+      "duration": "5:25",
+      "durationSeconds": 325,
+      "audio": "Dhivara Song.mp3",
+      "composer": "M.M.Keeravani",
+      "singers": [
+        "Ramya Behara",
+        "Deepu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5395501
+    },
+    {
+      "id": "f99f8f62da13",
+      "title": "Jeva Nadhi Song",
+      "normalizedTitle": "jeva nadhi song",
+      "trackNumber": 3,
+      "duration": "1:37",
+      "durationSeconds": 97,
+      "audio": "Jeva Nadhi Song.mp3",
+      "composer": "M.M.Keeravani",
+      "singers": [
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1748752
+    },
+    {
+      "id": "a420b40ab1ee",
+      "title": "Mamatala Talli Song",
+      "normalizedTitle": "mamatala talli song",
+      "trackNumber": 4,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Mamatala Talli Song.mp3",
+      "composer": "M.M.Keeravani",
+      "singers": [
+        "Yamini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3803875
+    },
+    {
+      "id": "4b42942ca258",
+      "title": "Manohari Song",
+      "normalizedTitle": "manohari song",
+      "trackNumber": 5,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "Manohari Song.mp3",
+      "composer": "M.M.Keeravani",
+      "singers": [
+        "Mohana Bhogaraju",
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3612034
+    },
+    {
+      "id": "fa045d4080fd",
+      "title": "Nippulaa Swasa Ga Song",
+      "normalizedTitle": "nippulaa swasa ga song",
+      "trackNumber": 6,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Nippulaa Swasa Ga Song.mp3",
+      "composer": "M.M.Keeravani",
+      "singers": [
+        "M.M. Keeravaani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3203729
+    },
+    {
+      "id": "a4fbe63737a1",
+      "title": "Pacha Bottasi Song",
+      "normalizedTitle": "pacha bottasi song",
+      "trackNumber": 7,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Pacha Bottasi Song.mp3",
+      "composer": "M.M.Keeravani",
+      "singers": [
+        "Karthik",
+        "Damini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4289115
+    },
+    {
+      "id": "342afcd294da",
+      "title": "Sivuni Aana Song",
+      "normalizedTitle": "sivuni aana song",
+      "trackNumber": 8,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Sivuni Aana Song.mp3",
+      "composer": "M.M.Keeravani",
+      "singers": [
+        "M.M. Keeravaani",
+        "Mounima"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3291041
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "album": {
+    "id": "b04b77268471",
+    "name": "Shakti",
+    "year": 2011,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Shakti.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "aa44b97e1ef9",
+      "title": "Maha Rudra Shakti.Mp",
+      "normalizedTitle": "maha rudra shaktimp",
+      "trackNumber": 1,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Maha Rudra Shakti.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ranjith",
+        "Muralidhar",
+        "Rita",
+        "Var"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3579760
+    },
+    {
+      "id": "a55fc252e440",
+      "title": "Mahishasura Mardhini.Mp",
+      "normalizedTitle": "mahishasura mardhinimp",
+      "trackNumber": 2,
+      "duration": "5:52",
+      "durationSeconds": 352,
+      "audio": "Mahishasura Mardhini.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Srivardhini",
+        "Aalap - Sharath"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5854132
+    },
+    {
+      "id": "1619690fcffc",
+      "title": "Mathileka Pichiga.Mp",
+      "normalizedTitle": "mathileka pichigamp",
+      "trackNumber": 3,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Mathileka Pichiga.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "anjith",
+        "Chinmayee"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4059855
+    },
+    {
+      "id": "e39d0203b327",
+      "title": "Prema Desham.Mp",
+      "normalizedTitle": "prema deshammp",
+      "trackNumber": 4,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Prema Desham.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Hemachandra",
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4632053
+    },
+    {
+      "id": "b1bc81186776",
+      "title": "Surro Surra.Mp",
+      "normalizedTitle": "surro surramp",
+      "trackNumber": 5,
+      "duration": "5:26",
+      "durationSeconds": 326,
+      "audio": "Surro Surra.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Javed Ali",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5443763
+    },
+    {
+      "id": "4ba316db1c89",
+      "title": "Thaliya Thaliya.Mp",
+      "normalizedTitle": "thaliya thaliyamp",
+      "trackNumber": 6,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Thaliya Thaliya.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5263983
+    },
+    {
+      "id": "20a3c033c44b",
+      "title": "Yamaga Unde.Mp",
+      "normalizedTitle": "yamaga undemp",
+      "trackNumber": 7,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Yamaga Unde.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Karunya",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4407597
+    }
+  ]
+}

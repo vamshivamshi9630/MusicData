@@ -1,0 +1,193 @@
+{
+  "album": {
+    "id": "ad412adb493d",
+    "name": "Coolie",
+    "year": 2025,
+    "musicDirector": "Anirudh Ravichander",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Coolie.png",
+    "songCount": 10
+  },
+  "songs": [
+    {
+      "id": "56b82fdb499b",
+      "title": "Chikitu Song",
+      "normalizedTitle": "chikitu song",
+      "trackNumber": 1,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Chikitu Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "T Rajhendherr",
+        "Arivu",
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6221658
+    },
+    {
+      "id": "80f7785df65b",
+      "title": "Chiku Vibe Song",
+      "normalizedTitle": "chiku vibe song",
+      "trackNumber": 2,
+      "duration": "0:56",
+      "durationSeconds": 56,
+      "audio": "Chiku Vibe Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "T Rajendar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 977794
+    },
+    {
+      "id": "2ca3b4152621",
+      "title": "Coolie Disco Song",
+      "normalizedTitle": "coolie disco song",
+      "trackNumber": 3,
+      "duration": "2:09",
+      "durationSeconds": 129,
+      "audio": "Coolie Disco Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2127680
+    },
+    {
+      "id": "17951ccf0681",
+      "title": "I Am The Danger Song",
+      "normalizedTitle": "i am the danger song",
+      "trackNumber": 4,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "I Am The Danger Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Siddarth Basrur"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3513900
+    },
+    {
+      "id": "3df45359bf22",
+      "title": "Kokki Song",
+      "normalizedTitle": "kokki song",
+      "trackNumber": 5,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Kokki Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Sooraj Santhosh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3790977
+    },
+    {
+      "id": "65d4409db0ae",
+      "title": "Mobsta Song",
+      "normalizedTitle": "mobsta song",
+      "trackNumber": 6,
+      "duration": "1:54",
+      "durationSeconds": 114,
+      "audio": "Mobsta Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1906402
+    },
+    {
+      "id": "de1871c805ff",
+      "title": "Monica Song",
+      "normalizedTitle": "monica song",
+      "trackNumber": 7,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "Monica Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Sublahshini",
+        "Anirudh Ravichander",
+        "Rap by Asal Kolaar"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8673316
+    },
+    {
+      "id": "c62aa10019b6",
+      "title": "Power House Song",
+      "normalizedTitle": "power house song",
+      "trackNumber": 8,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Power House Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Arivu",
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8219008
+    },
+    {
+      "id": "029a0a8ed0e3",
+      "title": "Power House Vibe Song",
+      "normalizedTitle": "power house vibe song",
+      "trackNumber": 9,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Power House Vibe Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Arivu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3383476
+    },
+    {
+      "id": "93c9e73a0353",
+      "title": "Uyirnaadi Nanbane Song",
+      "normalizedTitle": "uyirnaadi nanbane song",
+      "trackNumber": 10,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Uyirnaadi Nanbane Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Sai Smriti"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3747538
+    }
+  ]
+}

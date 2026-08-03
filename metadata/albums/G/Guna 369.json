@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "7fd1fe3c1735",
+    "name": "Guna 369",
+    "year": 2019,
+    "musicDirector": "Chaitan Bharadwaj",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Guna 369.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "34fe593845b7",
+      "title": "Bujji Bangaram Song",
+      "normalizedTitle": "bujji bangaram song",
+      "trackNumber": 1,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Bujji Bangaram Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Nakash Aziz",
+        "Deepthi Parthasarathy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3635372
+    },
+    {
+      "id": "5afe31a8846a",
+      "title": "Dhamaruka Song",
+      "normalizedTitle": "dhamaruka song",
+      "trackNumber": 2,
+      "duration": "2:14",
+      "durationSeconds": 134,
+      "audio": "Dhamaruka Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Kala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2451832
+    },
+    {
+      "id": "2f5b563629dc",
+      "title": "Dheveri Song",
+      "normalizedTitle": "dheveri song",
+      "trackNumber": 3,
+      "duration": "2:53",
+      "durationSeconds": 173,
+      "audio": "Dheveri Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Gowtham Bharadwaj",
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3075862
+    },
+    {
+      "id": "f22918c081e8",
+      "title": "Manasukidi Garalam Song",
+      "normalizedTitle": "manasukidi garalam song",
+      "trackNumber": 4,
+      "duration": "3:02",
+      "durationSeconds": 182,
+      "audio": "Manasukidi Garalam Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Swetha Mohan & Vijay Yesudas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3219496
+    },
+    {
+      "id": "0ceb565a01ea",
+      "title": "Tholi Parichayama Idhi Song",
+      "normalizedTitle": "tholi parichayama idhi song",
+      "trackNumber": 5,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Tholi Parichayama Idhi Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4035468
+    },
+    {
+      "id": "0095f0467101",
+      "title": "Usuremo Song",
+      "normalizedTitle": "usuremo song",
+      "trackNumber": 6,
+      "duration": "2:11",
+      "durationSeconds": 131,
+      "audio": "Usuremo Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Mohana Bhogaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2403450
+    }
+  ]
+}

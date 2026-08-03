@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "6bd262b46dd7",
+    "name": "Vai Raja Vai",
+    "year": 2015,
+    "musicDirector": "Yuvan Shankar Raja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Vai Raja Vai.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "e5dbd2ae7092",
+      "title": "Move Your Body Song",
+      "normalizedTitle": "move your body song",
+      "trackNumber": 1,
+      "duration": "3:17",
+      "durationSeconds": 197,
+      "audio": "Move Your Body Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Gautham Karthik",
+        "Priya Anand"
+      ],
+      "bitrate": 143227,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3590718
+    },
+    {
+      "id": "5e38cd0a6984",
+      "title": "Naam Vaazhndhidum Song",
+      "normalizedTitle": "naam vaazhndhidum song",
+      "trackNumber": 2,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Naam Vaazhndhidum Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Gautham Karthik",
+        "Priya Anand"
+      ],
+      "bitrate": 133172,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4709698
+    },
+    {
+      "id": "c71c53dfd5a4",
+      "title": "Pachchai Vanna Song",
+      "normalizedTitle": "pachchai vanna song",
+      "trackNumber": 3,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Pachchai Vanna Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Gautham Karthik",
+        "Priya Anand"
+      ],
+      "bitrate": 139742,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4224003
+    },
+    {
+      "id": "ac3fe114b3f0",
+      "title": "Pookkamazh Song",
+      "normalizedTitle": "pookkamazh song",
+      "trackNumber": 4,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Pookkamazh Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Gautham Karthik",
+        "Priya Anand"
+      ],
+      "bitrate": 130898,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3535182
+    },
+    {
+      "id": "53f945478d6a",
+      "title": "Vandha Kadha Song",
+      "normalizedTitle": "vandha kadha song",
+      "trackNumber": 5,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Vandha Kadha Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Gautham Karthik",
+        "Priya Anand"
+      ],
+      "bitrate": 130898,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3535182
+    }
+  ]
+}

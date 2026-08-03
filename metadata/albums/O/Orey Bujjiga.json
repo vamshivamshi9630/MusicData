@@ -1,0 +1,100 @@
+{
+  "album": {
+    "id": "984c30660222",
+    "name": "Orey Bujjiga",
+    "year": 2020,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Orey Bujjiga.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "07a4c36db909",
+      "title": "Ee Maya Peremito Song",
+      "normalizedTitle": "ee maya peremito song",
+      "trackNumber": 1,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Ee Maya Peremito Song.mp3",
+      "composer": "Anup Rubense",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4125865
+    },
+    {
+      "id": "58dd86b6338a",
+      "title": "Kalalu Chusina Kannuley Song",
+      "normalizedTitle": "kalalu chusina kannuley song",
+      "trackNumber": 2,
+      "duration": "2:49",
+      "durationSeconds": 169,
+      "audio": "Kalalu Chusina Kannuley Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2915018
+    },
+    {
+      "id": "06b1bc27b2d0",
+      "title": "Krishnaveni Song",
+      "normalizedTitle": "krishnaveni song",
+      "trackNumber": 3,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Krishnaveni Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3775104
+    },
+    {
+      "id": "98bd22a8d9f5",
+      "title": "Kurisena Kurisena Song",
+      "normalizedTitle": "kurisena kurisena song",
+      "trackNumber": 4,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Kurisena Kurisena Song.mp3",
+      "composer": "Anup Rubense",
+      "singers": [
+        "Armaan Malik",
+        "P Meghana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4650624
+    },
+    {
+      "id": "4cd6e4471779",
+      "title": "Sarigama Song",
+      "normalizedTitle": "sarigama song",
+      "trackNumber": 5,
+      "duration": "2:58",
+      "durationSeconds": 178,
+      "audio": "Sarigama Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3059402
+    }
+  ]
+}

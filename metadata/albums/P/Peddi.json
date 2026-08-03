@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "ce290c9eaeb0",
+    "name": "Peddi",
+    "year": 2025,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Peddi.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "79604418c0fe",
+      "title": "Chikiri Chikiri (Full Song )",
+      "normalizedTitle": "chikiri chikiri full song",
+      "trackNumber": 1,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Chikiri Chikiri (Full Song ).mp3",
+      "composer": "AR Rahman",
+      "singers": [
+        "Mohit Chauhan"
+      ],
+      "bitrate": 134035,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4974620
+    },
+    {
+      "id": "a1395a1a57c3",
+      "title": "Chikiri Chikiri",
+      "normalizedTitle": "chikiri chikiri",
+      "trackNumber": 2,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Chikiri Chikiri.mp3",
+      "composer": "AR Rahman",
+      "singers": [
+        "Mohit Chauhan"
+      ],
+      "bitrate": 134035,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4919324
+    },
+    {
+      "id": "2e8cfe1915e9",
+      "title": "Hellallallo Song",
+      "normalizedTitle": "hellallallo song",
+      "trackNumber": 3,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Hellallallo Song.mp3",
+      "composer": "AR Rahman",
+      "singers": [
+        "Rakshita Suresh"
+      ],
+      "bitrate": 139255,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4381266
+    },
+    {
+      "id": "60bd3d2fbd6a",
+      "title": "Massa Massa Song",
+      "normalizedTitle": "massa massa song",
+      "trackNumber": 4,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Massa Massa Song.mp3",
+      "composer": "AR Rahman",
+      "singers": [
+        "Vishal Mishra"
+      ],
+      "bitrate": 133427,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4073711
+    },
+    {
+      "id": "25286e840361",
+      "title": "Rai Rai Raa Raa Song",
+      "normalizedTitle": "rai rai raa raa song",
+      "trackNumber": 5,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Rai Rai Raa Raa Song.mp3",
+      "composer": "AR Rahman",
+      "singers": [
+        "AR Rahman"
+      ],
+      "bitrate": 141848,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5093012
+    },
+    {
+      "id": "39020c33594d",
+      "title": "Village Rocker Song",
+      "normalizedTitle": "village rocker song",
+      "trackNumber": 6,
+      "duration": "3:40",
+      "durationSeconds": 220,
+      "audio": "Village Rocker Song.mp3",
+      "composer": "AR Rahman",
+      "singers": [
+        "Nitesh Aher",
+        "AR Rahman"
+      ],
+      "bitrate": 130714,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4014691
+    }
+  ]
+}

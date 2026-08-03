@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "da9d9bd6cb4b",
+    "name": "Bhaje Vaayu Vegam",
+    "year": 2024,
+    "musicDirector": "Kapil Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bhaje Vaayu Vegam.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "83f2a1c969e5",
+      "title": "Set Ayyindhe Song",
+      "normalizedTitle": "set ayyindhe song",
+      "trackNumber": 1,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Set Ayyindhe Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Ranjith Govind"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4176312
+    }
+  ]
+}

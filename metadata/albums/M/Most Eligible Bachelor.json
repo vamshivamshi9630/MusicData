@@ -1,0 +1,100 @@
+{
+  "album": {
+    "id": "e6b2a0b5c1b4",
+    "name": "Most Eligible Bachelor",
+    "year": 2021,
+    "musicDirector": "Gopi Sundar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Most Eligible Bachelor.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "acc168a03f2c",
+      "title": "Chitti Adugu Song",
+      "normalizedTitle": "chitti adugu song",
+      "trackNumber": 1,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Chitti Adugu Song.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Ziya ul Haq"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4560640
+    },
+    {
+      "id": "b2a393866dfe",
+      "title": "Guche Gulabi Song",
+      "normalizedTitle": "guche gulabi song",
+      "trackNumber": 2,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Guche Gulabi Song.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4915456
+    },
+    {
+      "id": "9ac2ac4da6c5",
+      "title": "Leharaayi Song",
+      "normalizedTitle": "leharaayi song",
+      "trackNumber": 3,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Leharaayi Song.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4406656
+    },
+    {
+      "id": "9cc081ac04e2",
+      "title": "Manasa Manasa Song",
+      "normalizedTitle": "manasa manasa song",
+      "trackNumber": 4,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Manasa Manasa Song.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4468480
+    },
+    {
+      "id": "39ee2c9316b6",
+      "title": "Ye Zindagi Song",
+      "normalizedTitle": "ye zindagi song",
+      "trackNumber": 5,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Ye Zindagi Song.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Haniya Nafisa",
+        "Gopi Sunder"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4351360
+    }
+  ]
+}

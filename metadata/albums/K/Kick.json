@@ -1,0 +1,125 @@
+{
+  "album": {
+    "id": "0db10f2c2f33",
+    "name": "Kick",
+    "year": 2009,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kick.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "7f0022ee979f",
+      "title": "Boss Memory Loss.Mp",
+      "normalizedTitle": "boss memory lossmp",
+      "trackNumber": 1,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Boss Memory Loss.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Raviteja",
+        "Ali",
+        "Ranjith",
+        "Rahul Nambiar",
+        "Navin Madhav Download Link"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4901555
+    },
+    {
+      "id": "0ee1dd61c8d6",
+      "title": "Dhim Thana.Mp",
+      "normalizedTitle": "dhim thanamp",
+      "trackNumber": 2,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Dhim Thana.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chitra",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4918605
+    },
+    {
+      "id": "fbf0cd302c60",
+      "title": "Dil Kalaase.Mp",
+      "normalizedTitle": "dil kalaasemp",
+      "trackNumber": 3,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Dil Kalaase.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Anoushka",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3732443
+    },
+    {
+      "id": "4f67d6ee106e",
+      "title": "Gore Gore.Mp",
+      "normalizedTitle": "gore goremp",
+      "trackNumber": 4,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Gore Gore.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Karthik",
+        "Jyotsna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5008886
+    },
+    {
+      "id": "46824059bde1",
+      "title": "I Dont Want Love.Mp",
+      "normalizedTitle": "i dont want lovemp",
+      "trackNumber": 5,
+      "duration": "5:19",
+      "durationSeconds": 319,
+      "audio": "I Dont Want Love.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Karthik",
+        "Chorus",
+        "Kids"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5177348
+    },
+    {
+      "id": "43512174cd5d",
+      "title": "Manase Thadisela.Mp",
+      "normalizedTitle": "manase thadiselamp",
+      "trackNumber": 6,
+      "duration": "2:19",
+      "durationSeconds": 139,
+      "audio": "Manase Thadisela.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Vardhani Thaman"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2296343
+    }
+  ]
+}

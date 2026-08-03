@@ -1,0 +1,128 @@
+{
+  "album": {
+    "id": "c21b9a1acc50",
+    "name": "Badri",
+    "year": 2000,
+    "musicDirector": "Ramana Gogula",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Badri.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "a247a9ed1619",
+      "title": "Am Indian.Mp",
+      "normalizedTitle": "am indianmp",
+      "trackNumber": 1,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Am Indian.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ameesha Patel",
+        "Renu Desai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5012428
+    },
+    {
+      "id": "7394b487571f",
+      "title": "Bangala Kathamlo.Mp",
+      "normalizedTitle": "bangala kathamlomp",
+      "trackNumber": 2,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Bangala Kathamlo.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ameesha Patel",
+        "Renu Desai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4436086
+    },
+    {
+      "id": "d9262c8a508c",
+      "title": "Chali pidugullo.Mp",
+      "normalizedTitle": "chali pidugullomp",
+      "trackNumber": 3,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Chali pidugullo.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ameesha Patel",
+        "Renu Desai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4300665
+    },
+    {
+      "id": "6de1f8543d06",
+      "title": "Varamanti Manase.Mp",
+      "normalizedTitle": "varamanti manasemp",
+      "trackNumber": 4,
+      "duration": "5:07",
+      "durationSeconds": 307,
+      "audio": "Varamanti Manase.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ameesha Patel",
+        "Renu Desai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4951828
+    },
+    {
+      "id": "a96fdfb8669e",
+      "title": "Vevela Mainala.Mp",
+      "normalizedTitle": "vevela mainalamp",
+      "trackNumber": 5,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Vevela Mainala.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ameesha Patel",
+        "Renu Desai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4180291
+    },
+    {
+      "id": "53b66fa74432",
+      "title": "Yey Chikitha.Mp",
+      "normalizedTitle": "yey chikithamp",
+      "trackNumber": 6,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Yey Chikitha.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Ameesha Patel",
+        "Renu Desai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4281433
+    }
+  ]
+}

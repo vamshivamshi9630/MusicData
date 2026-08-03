@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "5d72436256ad",
+    "name": "Gemini",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gemini.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "7e70cec00c71",
+      "title": "Bandhame Mullu Song",
+      "normalizedTitle": "bandhame mullu song",
+      "trackNumber": 1,
+      "duration": "2:35",
+      "durationSeconds": 155,
+      "audio": "Bandhame Mullu Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2507372
+    },
+    {
+      "id": "5774cb71a53d",
+      "title": "Brahma Oh Brahma Song",
+      "normalizedTitle": "brahma oh brahma song",
+      "trackNumber": 2,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Brahma Oh Brahma Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4078486
+    },
+    {
+      "id": "276ea9cdea9a",
+      "title": "Cheli Chedugudu Song",
+      "normalizedTitle": "cheli chedugudu song",
+      "trackNumber": 3,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Cheli Chedugudu Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3930159
+    },
+    {
+      "id": "8939726831d0",
+      "title": "Chukkallo Kekki Song",
+      "normalizedTitle": "chukkallo kekki song",
+      "trackNumber": 4,
+      "duration": "2:58",
+      "durationSeconds": 178,
+      "audio": "Chukkallo Kekki Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Vandemataram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2870170
+    },
+    {
+      "id": "25bb7827b7a1",
+      "title": "Nadaka Chuste Song",
+      "normalizedTitle": "nadaka chuste song",
+      "trackNumber": 5,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Nadaka Chuste Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shankar Mahadevan",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4066815
+    },
+    {
+      "id": "46f2dd98f527",
+      "title": "Pulalo Tene Song",
+      "normalizedTitle": "pulalo tene song",
+      "trackNumber": 6,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Pulalo Tene Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Rajesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4130719
+    }
+  ]
+}

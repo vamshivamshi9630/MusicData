@@ -1,0 +1,85 @@
+{
+  "album": {
+    "id": "7ead58fc1e96",
+    "name": "Nishabdham",
+    "year": 2020,
+    "musicDirector": "Gopi Sundar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nishabdham.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "5f6d425bf96e",
+      "title": "Ee Premante Inthey",
+      "normalizedTitle": "ee premante inthey",
+      "trackNumber": 1,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Ee Premante Inthey.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Vijay Yesudas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3684491
+    },
+    {
+      "id": "49aea69348e5",
+      "title": "Madhuramithe Song",
+      "normalizedTitle": "madhuramithe song",
+      "trackNumber": 2,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Madhuramithe Song.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Najim Arshad",
+        "Harini",
+        "Gopi Sundar",
+        "Sreejo"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4694742
+    },
+    {
+      "id": "bcc3796945ac",
+      "title": "Naa Kanupaapa",
+      "normalizedTitle": "naa kanupaapa",
+      "trackNumber": 3,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Naa Kanupaapa.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Bhadra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4420493
+    },
+    {
+      "id": "bbe2ef193a4a",
+      "title": "Ninne Ninne Song",
+      "normalizedTitle": "ninne ninne song",
+      "trackNumber": 4,
+      "duration": "5:32",
+      "durationSeconds": 332,
+      "audio": "Ninne Ninne Song.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5700614
+    }
+  ]
+}

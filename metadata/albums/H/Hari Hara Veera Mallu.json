@@ -1,0 +1,142 @@
+{
+  "album": {
+    "id": "b065e73e0264",
+    "name": "Hari Hara Veera Mallu",
+    "year": 2024,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Hari Hara Veera Mallu.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "fa97df0ea19c",
+      "title": "Asura Hananam Song",
+      "normalizedTitle": "asura hananam song",
+      "trackNumber": 1,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Asura Hananam Song.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "Airaa Udupi",
+        "Kaala Bhairava",
+        "Sai charan Bhaskaruni",
+        "Lokeshwar Edara",
+        "Hymath Mohammed  Oud: S.M. Subhani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4340988
+    },
+    {
+      "id": "0df682905fdd",
+      "title": "Evaradi Evaradi Song",
+      "normalizedTitle": "evaradi evaradi song",
+      "trackNumber": 2,
+      "duration": "1:35",
+      "durationSeconds": 95,
+      "audio": "Evaradi Evaradi Song.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "Sai Charan Bhaskaruni",
+        "Hymath Mohammed"
+      ],
+      "bitrate": 126364,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1874865
+    },
+    {
+      "id": "27417edef440",
+      "title": "Hari Hara Veera Mallu BGM",
+      "normalizedTitle": "hari hara veera mallu bgm",
+      "trackNumber": 3,
+      "duration": "2:36",
+      "durationSeconds": 156,
+      "audio": "Hari Hara Veera Mallu BGM.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "SenSongsMp3.Co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6663566
+    },
+    {
+      "id": "15e294533a2b",
+      "title": "Maata Vinaali Song",
+      "normalizedTitle": "maata vinaali song",
+      "trackNumber": 4,
+      "duration": "2:36",
+      "durationSeconds": 156,
+      "audio": "Maata Vinaali Song.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "SenSongsMp3.Co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6663566
+    },
+    {
+      "id": "a413f6a279ba",
+      "title": "Puli Meka Song",
+      "normalizedTitle": "puli meka song",
+      "trackNumber": 5,
+      "duration": "2:54",
+      "durationSeconds": 174,
+      "audio": "Puli Meka Song.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "Harika Narayan"
+      ],
+      "bitrate": 135906,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3319842
+    },
+    {
+      "id": "0aaccc64be35",
+      "title": "Salasala Marige Song",
+      "normalizedTitle": "salasala marige song",
+      "trackNumber": 6,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Salasala Marige Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Sai Charan Bhaskaruni",
+        "Hymath Mohammed",
+        "Harika Narayan",
+        "PVNS Rohit"
+      ],
+      "bitrate": 130053,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5233028
+    },
+    {
+      "id": "2d714696fec5",
+      "title": "Taara Taara Song",
+      "normalizedTitle": "taara taara song",
+      "trackNumber": 7,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Taara Taara Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Lipsika Bhashyam",
+        "Aditya Iyengar"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10225445
+    }
+  ]
+}

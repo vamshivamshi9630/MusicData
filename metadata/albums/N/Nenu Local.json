@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "39fd291428fa",
+    "name": "Nenu Local",
+    "year": 2017,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nenu Local.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "57b17bdb0a75",
+      "title": "Arere Yekkada",
+      "normalizedTitle": "arere yekkada",
+      "trackNumber": 1,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Arere Yekkada.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Naresh Iyer",
+        "Manisha Eerabhathini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4144802
+    },
+    {
+      "id": "ebdbe3535459",
+      "title": "Champesaave Nannu",
+      "normalizedTitle": "champesaave nannu",
+      "trackNumber": 2,
+      "duration": "3:22",
+      "durationSeconds": 202,
+      "audio": "Champesaave Nannu.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kapil",
+        "Sameera Bharadwaj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3566754
+    },
+    {
+      "id": "2ab2f18151aa",
+      "title": "Disturb Chestha Ninnu",
+      "normalizedTitle": "disturb chestha ninnu",
+      "trackNumber": 3,
+      "duration": "3:06",
+      "durationSeconds": 186,
+      "audio": "Disturb Chestha Ninnu.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Prudhvi Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3305104
+    },
+    {
+      "id": "a5c3a7d1644c",
+      "title": "Next Enti",
+      "normalizedTitle": "next enti",
+      "trackNumber": 4,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Next Enti.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar",
+        "Ranina Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3965881
+    },
+    {
+      "id": "b1ba406bd19b",
+      "title": "Side Please",
+      "normalizedTitle": "side please",
+      "trackNumber": 5,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Side Please.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Javed Ali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3432539
+    }
+  ]
+}

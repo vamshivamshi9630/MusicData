@@ -1,0 +1,157 @@
+{
+  "album": {
+    "id": "a5e7c0024437",
+    "name": "Boss",
+    "year": 2006,
+    "musicDirector": "Kalyani Malik",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Boss.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "97ff99799657",
+      "title": "Anaganaganaga Song",
+      "normalizedTitle": "anaganaganaga song",
+      "trackNumber": 1,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Anaganaganaga Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "K.K",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4440391
+    },
+    {
+      "id": "52f28689f219",
+      "title": "Andagadu Muttuk Song",
+      "normalizedTitle": "andagadu muttuk song",
+      "trackNumber": 2,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Andagadu Muttuk Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Tippu",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4862550
+    },
+    {
+      "id": "80dbc2cd5aaa",
+      "title": "Boss I Love You Song",
+      "normalizedTitle": "boss i love you song",
+      "trackNumber": 3,
+      "duration": "2:34",
+      "durationSeconds": 154,
+      "audio": "Boss I Love You Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Title Theme"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2580051
+    },
+    {
+      "id": "da05d949e6fd",
+      "title": "Edo Tamashaga Song",
+      "normalizedTitle": "edo tamashaga song",
+      "trackNumber": 4,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Edo Tamashaga Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Nihal",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4298711
+    },
+    {
+      "id": "b2e6e4c0c3b6",
+      "title": "Hello Baasu Song",
+      "normalizedTitle": "hello baasu song",
+      "trackNumber": 5,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Hello Baasu Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Tippu",
+        "Gayathri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3990675
+    },
+    {
+      "id": "3cbf720016c1",
+      "title": "Naa Kallu Vaale Song",
+      "normalizedTitle": "naa kallu vaale song",
+      "trackNumber": 6,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Naa Kallu Vaale Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Tippu",
+        "Smitha",
+        "Sumangaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4289142
+    },
+    {
+      "id": "0877eab21a48",
+      "title": "Nachinde Chesey Song",
+      "normalizedTitle": "nachinde chesey song",
+      "trackNumber": 7,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Nachinde Chesey Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4555744
+    },
+    {
+      "id": "c9faf2115bbe",
+      "title": "Velutunnaa Song",
+      "normalizedTitle": "velutunnaa song",
+      "trackNumber": 8,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Velutunnaa Song.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "K.K",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4565355
+    }
+  ]
+}

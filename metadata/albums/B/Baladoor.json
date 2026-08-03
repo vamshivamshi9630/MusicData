@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "1377b8a1eb25",
+    "name": "Baladoor",
+    "year": 2008,
+    "musicDirector": "K. M. Radha Krishnan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Baladoor.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "f64fa694da54",
+      "title": "Andhamaina Kalala.Mp",
+      "normalizedTitle": "andhamaina kalalamp",
+      "trackNumber": 1,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Andhamaina Kalala.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "N. C. Karunya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4006915
+    },
+    {
+      "id": "75a01c66f06d",
+      "title": "Gundelo Illundhi.Mp",
+      "normalizedTitle": "gundelo illundhimp",
+      "trackNumber": 2,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Gundelo Illundhi.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "K. S. Chithra",
+        "N. C. Karunya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4011944
+    },
+    {
+      "id": "791ffee68eda",
+      "title": "Nuvvu Konchem Theda.Mp",
+      "normalizedTitle": "nuvvu konchem thedamp",
+      "trackNumber": 3,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Nuvvu Konchem Theda.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Saindhavi",
+        "Rahul Nambiar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4057092
+    },
+    {
+      "id": "10d8c3c42408",
+      "title": "Rangu Rangu Vaana.Mp",
+      "normalizedTitle": "rangu rangu vaanamp",
+      "trackNumber": 4,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Rangu Rangu Vaana.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Sujatha",
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4056666
+    },
+    {
+      "id": "3e599e6a2ff4",
+      "title": "Thella Cheera Ok.Mp",
+      "normalizedTitle": "thella cheera okmp",
+      "trackNumber": 5,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Thella Cheera Ok.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Sukhwinder Singh",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4011146
+    },
+    {
+      "id": "55e0e1c60547",
+      "title": "Yetu Podam Cheppamma.Mp",
+      "normalizedTitle": "yetu podam cheppammamp",
+      "trackNumber": 6,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Yetu Podam Cheppamma.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Naveen",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4467520
+    }
+  ]
+}

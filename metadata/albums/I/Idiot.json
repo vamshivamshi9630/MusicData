@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "48fab7a56479",
+    "name": "Idiot",
+    "year": 2002,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Idiot.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "85265be03ea9",
+      "title": "Cheliya Cheliya.Mp3",
+      "normalizedTitle": "cheliya cheliyamp3",
+      "trackNumber": 1,
+      "duration": "5:23",
+      "durationSeconds": 323,
+      "audio": "Cheliya Cheliya.Mp3.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ravi Varma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5203752
+    },
+    {
+      "id": "f200ac469d4b",
+      "title": "Choopultho",
+      "normalizedTitle": "choopultho",
+      "trackNumber": 2,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Choopultho.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4404200
+    },
+    {
+      "id": "bf79bc113030",
+      "title": "Ee Roje Thelisindhi",
+      "normalizedTitle": "ee roje thelisindhi",
+      "trackNumber": 3,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Ee Roje Thelisindhi.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Kausalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4771586
+    },
+    {
+      "id": "35af8c49c51c",
+      "title": "Jai Veeranjaneya",
+      "normalizedTitle": "jai veeranjaneya",
+      "trackNumber": 4,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Jai Veeranjaneya.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Raghu Kunche"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4301384
+    },
+    {
+      "id": "5eb33b6c0c85",
+      "title": "Le Leta Navvula",
+      "normalizedTitle": "le leta navvula",
+      "trackNumber": 5,
+      "duration": "5:12",
+      "durationSeconds": 312,
+      "audio": "Le Leta Navvula.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Udit Narayan",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5024623
+    },
+    {
+      "id": "1aea81c49f2d",
+      "title": "Sye Sara Sara",
+      "normalizedTitle": "sye sara sara",
+      "trackNumber": 6,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Sye Sara Sara.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4749008
+    }
+  ]
+}

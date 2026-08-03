@@ -1,0 +1,168 @@
+{
+  "album": {
+    "id": "a21b795fcd23",
+    "name": "Hushaaru",
+    "year": 2018,
+    "musicDirector": "Radhan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Hushaaru.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "d8928ffb6098",
+      "title": "Friendship Song",
+      "normalizedTitle": "friendship song",
+      "trackNumber": 1,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Friendship Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Tushar Joshi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3710603
+    },
+    {
+      "id": "3b8357e177ac",
+      "title": "Na Na Na Song",
+      "normalizedTitle": "na na na song",
+      "trackNumber": 2,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Na Na Na Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Bobo Shashi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4102091
+    },
+    {
+      "id": "5d3e0332c96b",
+      "title": "Naatu Naatu",
+      "normalizedTitle": "naatu naatu",
+      "trackNumber": 3,
+      "duration": "1:40",
+      "durationSeconds": 100,
+      "audio": "Naatu Naatu.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Rahul Sipligunj",
+        "Priya Himesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1976074
+    },
+    {
+      "id": "b525cccafe67",
+      "title": "Nuvve Nuvve",
+      "normalizedTitle": "nuvve nuvve",
+      "trackNumber": 4,
+      "duration": "3:05",
+      "durationSeconds": 185,
+      "audio": "Nuvve Nuvve.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Arijit Singh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3347391
+    },
+    {
+      "id": "a8c82691775d",
+      "title": "O Pilla Kabooma Song",
+      "normalizedTitle": "o pilla kabooma song",
+      "trackNumber": 5,
+      "duration": "1:25",
+      "durationSeconds": 85,
+      "audio": "O Pilla Kabooma Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Rahul Ramakrishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1742458
+    },
+    {
+      "id": "3e8fff2cd536",
+      "title": "Pichaak Song",
+      "normalizedTitle": "pichaak song",
+      "trackNumber": 6,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Pichaak Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Varikuppala Yadagiri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4350210
+    },
+    {
+      "id": "e8092774c822",
+      "title": "Undiporaadhey (Female Version) Song",
+      "normalizedTitle": "undiporaadhey female version song",
+      "trackNumber": 7,
+      "duration": "2:13",
+      "durationSeconds": 133,
+      "audio": "Undiporaadhey (Female Version) Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Spoorthi Jithender"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2350504
+    },
+    {
+      "id": "8816fb461d9f",
+      "title": "Undiporaadhey Sad Version Song",
+      "normalizedTitle": "undiporaadhey sad version song",
+      "trackNumber": 8,
+      "duration": "2:23",
+      "durationSeconds": 143,
+      "audio": "Undiporaadhey Sad Version Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2985963
+    },
+    {
+      "id": "83065a20073d",
+      "title": "Undiporaadhey Song",
+      "normalizedTitle": "undiporaadhey song",
+      "trackNumber": 9,
+      "duration": "2:53",
+      "durationSeconds": 173,
+      "audio": "Undiporaadhey Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3156669
+    }
+  ]
+}

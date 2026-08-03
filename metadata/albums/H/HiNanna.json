@@ -1,0 +1,172 @@
+{
+  "album": {
+    "id": "a0c8da3ae96c",
+    "name": "HiNanna",
+    "year": 2023,
+    "musicDirector": "Hesham Abdul Wahab",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "HiNanna.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "ac8e47aa6aae",
+      "title": "Adigaa Song",
+      "normalizedTitle": "adigaa song",
+      "trackNumber": 1,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Adigaa Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3575559
+    },
+    {
+      "id": "c2d9546facac",
+      "title": "Ammaadi Song",
+      "normalizedTitle": "ammaadi song",
+      "trackNumber": 2,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Ammaadi Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Kaala Bhairava",
+        "Shakthisree Gopalan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8776643
+    },
+    {
+      "id": "a962b82b542d",
+      "title": "Asalelaa Song",
+      "normalizedTitle": "asalelaa song",
+      "trackNumber": 3,
+      "duration": "1:05",
+      "durationSeconds": 65,
+      "audio": "Asalelaa Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Chinmayi Sripada",
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1279709
+    },
+    {
+      "id": "ff6135b21e61",
+      "title": "Chedhu Nijam Song",
+      "normalizedTitle": "chedhu nijam song",
+      "trackNumber": 4,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Chedhu Nijam Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4317854
+    },
+    {
+      "id": "7dec33e41f05",
+      "title": "Enno Enno Song",
+      "normalizedTitle": "enno enno song",
+      "trackNumber": 5,
+      "duration": "1:03",
+      "durationSeconds": 63,
+      "audio": "Enno Enno Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Bhavana Isvi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1256721
+    },
+    {
+      "id": "c3b77b6e76d2",
+      "title": "Idhe Idhe Song",
+      "normalizedTitle": "idhe idhe song",
+      "trackNumber": 6,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Idhe Idhe Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Hesham Abdul Wahab"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8639761
+    },
+    {
+      "id": "14a2a1dd6d78",
+      "title": "Needhe Needhe Song",
+      "normalizedTitle": "needhe needhe song",
+      "trackNumber": 7,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Needhe Needhe Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Aavani Malhar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3343591
+    },
+    {
+      "id": "55f875be98bc",
+      "title": "Odiyamma Song",
+      "normalizedTitle": "odiyamma song",
+      "trackNumber": 8,
+      "duration": "3:17",
+      "durationSeconds": 197,
+      "audio": "Odiyamma Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Dhruv Vikram",
+        "Shruti Haasan",
+        "Chinmayi Sripaada"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8120447
+    },
+    {
+      "id": "4cf5ec111a09",
+      "title": "Samayama Song",
+      "normalizedTitle": "samayama song",
+      "trackNumber": 9,
+      "duration": "3:22",
+      "durationSeconds": 202,
+      "audio": "Samayama Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Anurag Kulkarni",
+        "Sithara Krishnakumar"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8320022
+    }
+  ]
+}

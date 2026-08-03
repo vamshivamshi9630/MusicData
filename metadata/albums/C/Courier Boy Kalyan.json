@@ -1,0 +1,86 @@
+{
+  "album": {
+    "id": "4527fed68d03",
+    "name": "Courier Boy Kalyan",
+    "year": 2015,
+    "musicDirector": "Karthik",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Courier Boy Kalyan.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "16ee098a2fb3",
+      "title": "Bangaramma Song",
+      "normalizedTitle": "bangaramma song",
+      "trackNumber": 1,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Bangaramma Song.mp3",
+      "composer": "Music: Anup Rube㎱ | Lyrics: B㏊skara B㏊tla, Anant㏊ Sriram",
+      "singers": [
+        "Karthik",
+        "Meg㏊",
+        "Sric㏊ran Kaﬅurirangan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3832750
+    },
+    {
+      "id": "521a0b2908b2",
+      "title": "Mandu Mandu Song",
+      "normalizedTitle": "mandu mandu song",
+      "trackNumber": 2,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Mandu Mandu Song.mp3",
+      "composer": "Music: Anup Rube㎱ | Lyrics: B㏊skara B㏊tla, Anant㏊ Sriram",
+      "singers": [
+        "Karthik",
+        "Baba Seh㏿"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3153114
+    },
+    {
+      "id": "db987a202142",
+      "title": "Maya O Maya Song",
+      "normalizedTitle": "maya o maya song",
+      "trackNumber": 3,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Maya O Maya Song.mp3",
+      "composer": "Music: Anup Rube㎱ | Lyrics: B㏊skara B㏊tla, Anant㏊ Sriram",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4176674
+    },
+    {
+      "id": "006e92952c6b",
+      "title": "Vaalu Kalla Pilla Song",
+      "normalizedTitle": "vaalu kalla pilla song",
+      "trackNumber": 4,
+      "duration": "3:31",
+      "durationSeconds": 211,
+      "audio": "Vaalu Kalla Pilla Song.mp3",
+      "composer": "Music: Anup Rube㎱ | Lyrics: B㏊skara B㏊tla, Anant㏊ Sriram",
+      "singers": [
+        "Anup Rube㎱",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3424804
+    }
+  ]
+}

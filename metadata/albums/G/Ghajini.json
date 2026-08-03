@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "d66fca78d887",
+    "name": "Ghajini",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ghajini.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "afa5cd9bbc58",
+      "title": "Hrudayam Ekkadunnadi Song",
+      "normalizedTitle": "hrudayam ekkadunnadi song",
+      "trackNumber": 1,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "Hrudayam Ekkadunnadi Song.mp3",
+      "composer": "慈牲獩䨠祡牡橡뜠",
+      "singers": [
+        "Harish Raghavendra",
+        "Bombay Jayashri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5355506
+    },
+    {
+      "id": "a337d808d416",
+      "title": "Oka Maru Kalisina Andam Song",
+      "normalizedTitle": "oka maru kalisina andam song",
+      "trackNumber": 2,
+      "duration": "5:54",
+      "durationSeconds": 354,
+      "audio": "Oka Maru Kalisina Andam Song.mp3",
+      "composer": "慈牲獩䨠祡牡橡뜠",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5946852
+    },
+    {
+      "id": "5bd6ee9b323f",
+      "title": "Rahtulla Rahtulla Song",
+      "normalizedTitle": "rahtulla rahtulla song",
+      "trackNumber": 3,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Rahtulla Rahtulla Song.mp3",
+      "composer": "慈牲獩䨠祡牡橡뜠",
+      "singers": [
+        "Annupamaa"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4498207
+    },
+    {
+      "id": "d3d55c793b76",
+      "title": "Rangola Ola Song",
+      "normalizedTitle": "rangola ola song",
+      "trackNumber": 4,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Rangola Ola Song.mp3",
+      "composer": "慈牲獩䨠祡牡橡뜠",
+      "singers": [
+        "Tippu",
+        "Sujatha Mohan",
+        "Ranjith",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4886923
+    },
+    {
+      "id": "fac8ac13c345",
+      "title": "X Pichi Y Pichi Song",
+      "normalizedTitle": "x pichi y pichi song",
+      "trackNumber": 5,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "X Pichi Y Pichi Song.mp3",
+      "composer": "慈牲獩䨠祡牡橡뜠",
+      "singers": [
+        "Mathangi Jagdish",
+        "Nakul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4290494
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "0b5b79270d58",
+    "name": "Cameraman Ganga Tho Rambabu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Cameraman Ganga Tho Rambabu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "69a6d44a00d6",
+      "title": "Extra Ordinary.Mp",
+      "normalizedTitle": "extra ordinarymp",
+      "trackNumber": 1,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Extra Ordinary.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Tamannah"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4340418
+    },
+    {
+      "id": "eb732702a2b8",
+      "title": "Joramochindi.Mp",
+      "normalizedTitle": "joramochindimp",
+      "trackNumber": 2,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Joramochindi.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Tamannah"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3631598
+    },
+    {
+      "id": "88bc2a97ef93",
+      "title": "Melikalu Thiruguthunte.Mp",
+      "normalizedTitle": "melikalu thiruguthuntemp",
+      "trackNumber": 3,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Melikalu Thiruguthunte.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Tamannah"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4278156
+    },
+    {
+      "id": "5d187f486de4",
+      "title": "Pillani Choosthe.Mp",
+      "normalizedTitle": "pillani choosthemp",
+      "trackNumber": 4,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Pillani Choosthe.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Tamannah"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4019440
+    },
+    {
+      "id": "f75dc32c18ec",
+      "title": "Taladinchuku.Mp",
+      "normalizedTitle": "taladinchukump",
+      "trackNumber": 5,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Taladinchuku.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Tamannah"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3196104
+    },
+    {
+      "id": "49db235e180b",
+      "title": "Theme.Mp",
+      "normalizedTitle": "thememp",
+      "trackNumber": 6,
+      "duration": "1:55",
+      "durationSeconds": 115,
+      "audio": "Theme.Mp.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Tamannah"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1927570
+    }
+  ]
+}

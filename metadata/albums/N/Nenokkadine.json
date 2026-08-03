@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "1865e368bf5b",
+    "name": "Nenokkadine",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nenokkadine.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "a4ec60991cec",
+      "title": "Aww Tuzo Mogh.mp",
+      "normalizedTitle": "aww tuzo moghmp",
+      "trackNumber": 1,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Aww Tuzo Mogh.mp.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Kriti Sanon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4301005
+    },
+    {
+      "id": "94c629956a41",
+      "title": "London Babu.mp",
+      "normalizedTitle": "london babump",
+      "trackNumber": 2,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "London Babu.mp.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Kriti Sanon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5144457
+    },
+    {
+      "id": "d0d5d9faf9f9",
+      "title": "O Sayonara Sayonara.mp",
+      "normalizedTitle": "o sayonara sayonaramp",
+      "trackNumber": 3,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "O Sayonara Sayonara.mp.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Kriti Sanon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4633709
+    },
+    {
+      "id": "a510ccb24bb3",
+      "title": "Who Are You.mp",
+      "normalizedTitle": "who are yoump",
+      "trackNumber": 4,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Who Are You.mp.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Kriti Sanon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4777889
+    },
+    {
+      "id": "7964a1056e14",
+      "title": "You Are My Love.mp",
+      "normalizedTitle": "you are my lovemp",
+      "trackNumber": 5,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "You Are My Love.mp.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Kriti Sanon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4469025
+    }
+  ]
+}

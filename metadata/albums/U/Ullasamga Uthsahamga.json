@@ -1,0 +1,138 @@
+{
+  "album": {
+    "id": "d15af9864d8f",
+    "name": "Ullasamga Uthsahamga",
+    "year": 2008,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ullasamga Uthsahamga.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "34b55bfc1297",
+      "title": "Chakori",
+      "normalizedTitle": "chakori",
+      "trackNumber": 1,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Chakori.mp3",
+      "composer": "G.V.Prakash Kumar",
+      "singers": [
+        "Vasundaradas",
+        "Benny"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4846799
+    },
+    {
+      "id": "7d7086e23ba1",
+      "title": "Dhannale Thalli",
+      "normalizedTitle": "dhannale thalli",
+      "trackNumber": 2,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Dhannale Thalli.mp3",
+      "composer": "G.V.Prakash Kumar",
+      "singers": [
+        "Rahul Nambiar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4998940
+    },
+    {
+      "id": "ba1cdb16c070",
+      "title": "Lalipata",
+      "normalizedTitle": "lalipata",
+      "trackNumber": 3,
+      "duration": "3:09",
+      "durationSeconds": 189,
+      "audio": "Lalipata.mp3",
+      "composer": "G.V.Prakash Kumar",
+      "singers": [
+        "V.V. Prasanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3312879
+    },
+    {
+      "id": "6baeda3aaa58",
+      "title": "Mata Matiki",
+      "normalizedTitle": "mata matiki",
+      "trackNumber": 4,
+      "duration": "5:31",
+      "durationSeconds": 331,
+      "audio": "Mata Matiki.mp3",
+      "composer": "G.V.Prakash Kumar",
+      "singers": [
+        "Synora",
+        "Rahul Nambiar",
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5585363
+    },
+    {
+      "id": "bb15282c284b",
+      "title": "Naa Prema",
+      "normalizedTitle": "naa prema",
+      "trackNumber": 5,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Naa Prema.mp3",
+      "composer": "G.V.Prakash Kumar",
+      "singers": [
+        "Karthik",
+        "Harini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4522041
+    },
+    {
+      "id": "33c3af9dbd2b",
+      "title": "Priyatama",
+      "normalizedTitle": "priyatama",
+      "trackNumber": 6,
+      "duration": "6:01",
+      "durationSeconds": 361,
+      "audio": "Priyatama.mp3",
+      "composer": "G.V.Prakash Kumar",
+      "singers": [
+        "Sonu Nigam",
+        "Rahul Nambiar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6050119
+    },
+    {
+      "id": "c0c15b33baaf",
+      "title": "Ullasamga",
+      "normalizedTitle": "ullasamga",
+      "trackNumber": 7,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Ullasamga.mp3",
+      "composer": "G.V.Prakash Kumar",
+      "singers": [
+        "Krish"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4594328
+    }
+  ]
+}

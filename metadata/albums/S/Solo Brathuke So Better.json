@@ -1,0 +1,65 @@
+{
+  "album": {
+    "id": "27f965e61736",
+    "name": "Solo Brathuke So Better",
+    "year": 2020,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Solo Brathuke So Better.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "e6bf5b6e754f",
+      "title": "Amrutha Song",
+      "normalizedTitle": "amrutha song",
+      "trackNumber": 1,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Amrutha Song.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Nakash Aziz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3711232
+    },
+    {
+      "id": "72582ce563f5",
+      "title": "No Pelli Song",
+      "normalizedTitle": "no pelli song",
+      "trackNumber": 2,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "No Pelli Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3228660
+    },
+    {
+      "id": "3afc3d30eda2",
+      "title": "Solo Brathuke So Better Title Song",
+      "normalizedTitle": "solo brathuke so better title song",
+      "trackNumber": 3,
+      "duration": "3:01",
+      "durationSeconds": 181,
+      "audio": "Solo Brathuke So Better Title Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Vishal Dadlani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3251584
+    }
+  ]
+}

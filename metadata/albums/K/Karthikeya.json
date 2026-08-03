@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "688069a26958",
+    "name": "Karthikeya",
+    "year": 2014,
+    "musicDirector": "Sekhar Chandra",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Karthikeya.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "5780ebf01f94",
+      "title": "Inthalo Ennenni Song",
+      "normalizedTitle": "inthalo ennenni song",
+      "trackNumber": 1,
+      "duration": "2:31",
+      "durationSeconds": 151,
+      "audio": "Inthalo Ennenni Song.mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Chinmaye"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2513195
+    },
+    {
+      "id": "d8c582c405f8",
+      "title": "Prasnante Song",
+      "normalizedTitle": "prasnante song",
+      "trackNumber": 2,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Prasnante Song.mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3778311
+    },
+    {
+      "id": "f1643b71e609",
+      "title": "Punnami Vennelake Song",
+      "normalizedTitle": "punnami vennelake song",
+      "trackNumber": 3,
+      "duration": "2:44",
+      "durationSeconds": 164,
+      "audio": "Punnami Vennelake Song.mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2722986
+    },
+    {
+      "id": "2cafc81106d5",
+      "title": "Rise of Karthikeya Song",
+      "normalizedTitle": "rise of karthikeya song",
+      "trackNumber": 4,
+      "duration": "1:21",
+      "durationSeconds": 81,
+      "audio": "Rise of Karthikeya Song.mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Shekar Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1386363
+    },
+    {
+      "id": "395518a83574",
+      "title": "Saripovu Song",
+      "normalizedTitle": "saripovu song",
+      "trackNumber": 5,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Saripovu Song.mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3998998
+    }
+  ]
+}

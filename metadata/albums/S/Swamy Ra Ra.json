@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "849bcf9067df",
+    "name": "Swamy Ra Ra",
+    "year": 2013,
+    "musicDirector": "Sunny M.R.",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Swamy Ra Ra.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "5e3f399222a8",
+      "title": "Hangover Song",
+      "normalizedTitle": "hangover song",
+      "trackNumber": 1,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Hangover Song.mp3",
+      "composer": "Music : Sunny M.R. | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Swathi",
+        "Nikhil",
+        "Sunny M.R."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3381834
+    },
+    {
+      "id": "45a4cd710e8a",
+      "title": "Krishnudi Varasulantha Song",
+      "normalizedTitle": "krishnudi varasulantha song",
+      "trackNumber": 2,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Krishnudi Varasulantha Song.mp3",
+      "composer": "Music : Sunny M.R. | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Arijit Singh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3411509
+    },
+    {
+      "id": "33e64f91a5fa",
+      "title": "Life Antene Song",
+      "normalizedTitle": "life antene song",
+      "trackNumber": 3,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Life Antene Song.mp3",
+      "composer": "Music : Sunny M.R. | Lyrics : Krishna Chaitanya, Sri Mani",
+      "singers": [
+        "Shefali Alvares"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3965727
+    },
+    {
+      "id": "c5446f0dc6b9",
+      "title": "Neela Yevaru Song",
+      "normalizedTitle": "neela yevaru song",
+      "trackNumber": 4,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Neela Yevaru Song.mp3",
+      "composer": "Music : Sunny M.R. | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Arijit Singh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4653664
+    },
+    {
+      "id": "69d43199fd01",
+      "title": "Swamy Ra Ra (Reload) Song",
+      "normalizedTitle": "swamy ra ra reload song",
+      "trackNumber": 5,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Swamy Ra Ra (Reload) Song.mp3",
+      "composer": "Music : Sunny M.R. | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Sunny M.R."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2736497
+    },
+    {
+      "id": "676c5122e0e7",
+      "title": "Swamy Ra Ra Song",
+      "normalizedTitle": "swamy ra ra song",
+      "trackNumber": 6,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Swamy Ra Ra Song.mp3",
+      "composer": "Music : Sunny M.R. | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Arijit Singh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4172173
+    }
+  ]
+}

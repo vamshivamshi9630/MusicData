@@ -1,0 +1,172 @@
+{
+  "album": {
+    "id": "933cbc5879a4",
+    "name": "Mr Perfect",
+    "year": 2011,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mr Perfect.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "1f68a9e69132",
+      "title": "Aakasam Baddalaina",
+      "normalizedTitle": "aakasam baddalaina",
+      "trackNumber": 1,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Aakasam Baddalaina.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar",
+        "Megha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4103399
+    },
+    {
+      "id": "bf145bd3a4e7",
+      "title": "Aggipulla Lanti",
+      "normalizedTitle": "aggipulla lanti",
+      "trackNumber": 2,
+      "duration": "1:55",
+      "durationSeconds": 115,
+      "audio": "Aggipulla Lanti.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Gopika Poornima"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1933785
+    },
+    {
+      "id": "79b97766cb20",
+      "title": "Badulu Thochani",
+      "normalizedTitle": "badulu thochani",
+      "trackNumber": 3,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Badulu Thochani.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Karthik",
+        "Mallikarjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4149835
+    },
+    {
+      "id": "1924ebd36357",
+      "title": "Chali Chaliga.Mp3",
+      "normalizedTitle": "chali chaligamp3",
+      "trackNumber": 4,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Chali Chaliga.Mp3.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4878707
+    },
+    {
+      "id": "5e0cd4fac89a",
+      "title": "Dol Dol Dol",
+      "normalizedTitle": "dol dol dol",
+      "trackNumber": 5,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Dol Dol Dol.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "M.L.R. Karthikeyan",
+        "Anitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4484156
+    },
+    {
+      "id": "af40234190e3",
+      "title": "Light Theesko",
+      "normalizedTitle": "light theesko",
+      "trackNumber": 6,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Light Theesko.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Baba Sehgal",
+        "Murali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4334128
+    },
+    {
+      "id": "c7a0ee159565",
+      "title": "Mora Vinara",
+      "normalizedTitle": "mora vinara",
+      "trackNumber": 7,
+      "duration": "1:32",
+      "durationSeconds": 92,
+      "audio": "Mora Vinara.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Priyadarshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1574318
+    },
+    {
+      "id": "0cbc65f0cc03",
+      "title": "Ningi Jaaripadda",
+      "normalizedTitle": "ningi jaaripadda",
+      "trackNumber": 8,
+      "duration": "1:48",
+      "durationSeconds": 108,
+      "audio": "Ningi Jaaripadda.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mallikarjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1829289
+    },
+    {
+      "id": "f7c8bade6cd5",
+      "title": "Rao Gari Abbayi",
+      "normalizedTitle": "rao gari abbayi",
+      "trackNumber": 9,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Rao Gari Abbayi.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Tippu",
+        "Megha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4673907
+    }
+  ]
+}

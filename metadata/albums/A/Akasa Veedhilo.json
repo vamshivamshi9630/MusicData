@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "6185b188cf36",
+    "name": "Akasa Veedhilo",
+    "year": 2001,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Akasa Veedhilo.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "226eb1171bd8",
+      "title": "Babre_Babre Song",
+      "normalizedTitle": "babre babre song",
+      "trackNumber": 1,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Babre_Babre Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Sasipritam",
+        "Ganga"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4483454
+    },
+    {
+      "id": "ce43b03b4a41",
+      "title": "Hottara_Bera Song",
+      "normalizedTitle": "hottara bera song",
+      "trackNumber": 2,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Hottara_Bera Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Suresh Peeter"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4926494
+    },
+    {
+      "id": "882976821192",
+      "title": "Mallechinukula Song",
+      "normalizedTitle": "mallechinukula song",
+      "trackNumber": 3,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Mallechinukula Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Sasipritam",
+        "Ganga"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4217236
+    },
+    {
+      "id": "0bfc96d5dce2",
+      "title": "Vennello_Aadapi Song",
+      "normalizedTitle": "vennello aadapi song",
+      "trackNumber": 4,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Vennello_Aadapi Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Devi Sri Prasad",
+        "Ganga"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4738869
+    },
+    {
+      "id": "9a63cd5bf5dc",
+      "title": "Yeam_Strokichav Song",
+      "normalizedTitle": "yeam strokichav song",
+      "trackNumber": 5,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Yeam_Strokichav Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "S.P.Balu",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4721290
+    }
+  ]
+}

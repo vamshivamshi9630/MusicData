@@ -1,0 +1,103 @@
+{
+  "album": {
+    "id": "9e0b8e1823eb",
+    "name": "Kausalya Supraja Rama",
+    "year": 2023,
+    "musicDirector": "Arun Muraleedharan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kausalya Supraja Rama.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "d9392a7ac35e",
+      "title": "Chamaku Chamaku Song",
+      "normalizedTitle": "chamaku chamaku song",
+      "trackNumber": 1,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Chamaku Chamaku Song.mp3",
+      "composer": "Arun Muraleedharan",
+      "singers": [
+        "Geeta Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3810310
+    },
+    {
+      "id": "bc79ac08ac62",
+      "title": "Diwana Diwana Song",
+      "normalizedTitle": "diwana diwana song",
+      "trackNumber": 2,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Diwana Diwana Song.mp3",
+      "composer": "Arun Muraleedharan",
+      "singers": [
+        "Nitya Santoshini",
+        "Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3999663
+    },
+    {
+      "id": "5888c9ceebc5",
+      "title": "Kommalo Oka Koila Song",
+      "normalizedTitle": "kommalo oka koila song",
+      "trackNumber": 3,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Kommalo Oka Koila Song.mp3",
+      "composer": "Arun Muraleedharan",
+      "singers": [
+        "Sunitha",
+        "Madhu Balakrishnan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4249001
+    },
+    {
+      "id": "670ac4004042",
+      "title": "Kousalya Nacchave Song",
+      "normalizedTitle": "kousalya nacchave song",
+      "trackNumber": 4,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Kousalya Nacchave Song.mp3",
+      "composer": "Arun Muraleedharan",
+      "singers": [
+        "Srilekha",
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4061923
+    },
+    {
+      "id": "8e3037966533",
+      "title": "Manasuke Puttina Song",
+      "normalizedTitle": "manasuke puttina song",
+      "trackNumber": 5,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Manasuke Puttina Song.mp3",
+      "composer": "Arun Muraleedharan",
+      "singers": [
+        "Srilekha",
+        "Karunya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3534875
+    }
+  ]
+}

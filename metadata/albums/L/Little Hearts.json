@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "ecf337e2f03c",
+    "name": "Little Hearts",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Little Hearts.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "e3dac84a814b",
+      "title": "Chaduvu_Ledu_Little_Hearts Song",
+      "normalizedTitle": "chaduvu ledu little hearts song",
+      "trackNumber": 1,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Chaduvu_Ledu_Little_Hearts Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "Various Artists"
+      ],
+      "bitrate": 225090,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6374885
+    },
+    {
+      "id": "c31eb906a7b5",
+      "title": "Ee_Dhooramey_Little_Hearts Song",
+      "normalizedTitle": "ee dhooramey little hearts song",
+      "trackNumber": 2,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Ee_Dhooramey_Little_Hearts Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "Various Artists"
+      ],
+      "bitrate": 211515,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5300486
+    },
+    {
+      "id": "ce41c4790c0d",
+      "title": "Hello_Ani_Little_Hearts Song",
+      "normalizedTitle": "hello ani little hearts song",
+      "trackNumber": 3,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Hello_Ani_Little_Hearts Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "Various Artists"
+      ],
+      "bitrate": 236738,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7517221
+    },
+    {
+      "id": "5ce5e6a1d58d",
+      "title": "Katyayani_Little_Hearts Song",
+      "normalizedTitle": "katyayani little hearts song",
+      "trackNumber": 4,
+      "duration": "1:45",
+      "durationSeconds": 105,
+      "audio": "Katyayani_Little_Hearts Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "Various Artists"
+      ],
+      "bitrate": 147482,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1945419
+    },
+    {
+      "id": "f1db2a8b94a9",
+      "title": "Little_Hearts_Trailer Song",
+      "normalizedTitle": "little hearts trailer song",
+      "trackNumber": 5,
+      "duration": "2:33",
+      "durationSeconds": 153,
+      "audio": "Little_Hearts_Trailer Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "Various Artists"
+      ],
+      "bitrate": 210183,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4032427
+    },
+    {
+      "id": "ed0739c0f9fa",
+      "title": "Rajagadiki_Little_Hearts Song",
+      "normalizedTitle": "rajagadiki little hearts song",
+      "trackNumber": 6,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Rajagadiki_Little_Hearts Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "Various Artists"
+      ],
+      "bitrate": 216210,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6150944
+    }
+  ]
+}

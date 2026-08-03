@@ -1,0 +1,135 @@
+{
+  "album": {
+    "id": "852f692d7eed",
+    "name": "Veera",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Veera.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "b24668fc2fa0",
+      "title": "Chinnari Montage.Mp",
+      "normalizedTitle": "chinnari montagemp",
+      "trackNumber": 1,
+      "duration": "2:35",
+      "durationSeconds": 155,
+      "audio": "Chinnari Montage.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2577119
+    },
+    {
+      "id": "dde2154eba86",
+      "title": "Chitti Chitti.Mp",
+      "normalizedTitle": "chitti chittimp",
+      "trackNumber": 2,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Chitti Chitti.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4389599
+    },
+    {
+      "id": "23d5e8ab89e0",
+      "title": "Ekkadekkada.Mp",
+      "normalizedTitle": "ekkadekkadamp",
+      "trackNumber": 3,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Ekkadekkada.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ramya.N.S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4373215
+    },
+    {
+      "id": "8f4180688ea4",
+      "title": "Hossanam.Mp",
+      "normalizedTitle": "hossanammp",
+      "trackNumber": 4,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Hossanam.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Ranjith",
+        "Roshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5328607
+    },
+    {
+      "id": "66e55702329e",
+      "title": "Mavilla (Remix).Mp",
+      "normalizedTitle": "mavilla remixmp",
+      "trackNumber": 5,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Mavilla (Remix).Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Muralidar & Ganga"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4798175
+    },
+    {
+      "id": "5bd74b1a32d4",
+      "title": "O Meri Bhavri.Mp",
+      "normalizedTitle": "o meri bhavrimp",
+      "trackNumber": 6,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "O Meri Bhavri.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Thaman.S",
+        "Bindhu Mahima"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4585183
+    },
+    {
+      "id": "51a96f7c3805",
+      "title": "Veera Veera.Mp",
+      "normalizedTitle": "veera veeramp",
+      "trackNumber": 7,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Veera Veera.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "M.L.R.Kaethikeyan & Ranina Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4208980
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "27fa815c084c",
+    "name": "Billa",
+    "year": 2009,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Billa.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "01b1c30812ca",
+      "title": "Billa Theme",
+      "normalizedTitle": "billa theme",
+      "trackNumber": 1,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Billa Theme.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ranjith",
+        "Rahul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4451196
+    },
+    {
+      "id": "d49abb68732f",
+      "title": "Ellora Shilpanni",
+      "normalizedTitle": "ellora shilpanni",
+      "trackNumber": 2,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Ellora Shilpanni.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4082966
+    },
+    {
+      "id": "69aa5da93170",
+      "title": "Hariloranga Hari",
+      "normalizedTitle": "hariloranga hari",
+      "trackNumber": 3,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Hariloranga Hari.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Mano",
+        "Ranjith",
+        "Kannan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4080074
+    },
+    {
+      "id": "a945918756a6",
+      "title": "My Name is Billa",
+      "normalizedTitle": "my name is billa",
+      "trackNumber": 4,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "My Name is Billa.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Ranjith",
+        "Naveen"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3902012
+    },
+    {
+      "id": "daf2cb7dd481",
+      "title": "Ne Pataasu",
+      "normalizedTitle": "ne pataasu",
+      "trackNumber": 5,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Ne Pataasu.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Suchi",
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3951727
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "e150c65bba90",
+    "name": "Bachi",
+    "year": 2000,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bachi.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "111d1d1ed946",
+      "title": "Habibi",
+      "normalizedTitle": "habibi",
+      "trackNumber": 1,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Habibi.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4895284
+    },
+    {
+      "id": "40906f4671f7",
+      "title": "Kundanala Bomma",
+      "normalizedTitle": "kundanala bomma",
+      "trackNumber": 2,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Kundanala Bomma.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4549609
+    },
+    {
+      "id": "56205b1a0601",
+      "title": "Lachimi",
+      "normalizedTitle": "lachimi",
+      "trackNumber": 3,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Lachimi.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4561686
+    },
+    {
+      "id": "25168c82472e",
+      "title": "Oh Chilaka",
+      "normalizedTitle": "oh chilaka",
+      "trackNumber": 4,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Oh Chilaka.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4486632
+    },
+    {
+      "id": "3690537802c8",
+      "title": "Titanic Kate Winslet",
+      "normalizedTitle": "titanic kate winslet",
+      "trackNumber": 5,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Titanic Kate Winslet.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4806908
+    }
+  ]
+}

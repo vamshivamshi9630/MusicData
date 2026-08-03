@@ -1,0 +1,150 @@
+{
+  "album": {
+    "id": "bcccbd71aec5",
+    "name": "Jodi",
+    "year": 1999,
+    "musicDirector": "A.R. Rahman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jodi.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "f175352a5f03",
+      "title": "Andala Jeeva",
+      "normalizedTitle": "andala jeeva",
+      "trackNumber": 1,
+      "duration": "5:26",
+      "durationSeconds": 326,
+      "audio": "Andala Jeeva.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5234983
+    },
+    {
+      "id": "cd29b593326d",
+      "title": "Hrudayanni Muripinchu",
+      "normalizedTitle": "hrudayanni muripinchu",
+      "trackNumber": 2,
+      "duration": "1:08",
+      "durationSeconds": 68,
+      "audio": "Hrudayanni Muripinchu.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1105546
+    },
+    {
+      "id": "9f7fd7189e73",
+      "title": "Kadile Kalame Jeevitham",
+      "normalizedTitle": "kadile kalame jeevitham",
+      "trackNumber": 3,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Kadile Kalame Jeevitham.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4722147
+    },
+    {
+      "id": "d1dc69213b60",
+      "title": "Na Kanne Hamsa Kadilindi",
+      "normalizedTitle": "na kanne hamsa kadilindi",
+      "trackNumber": 4,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Na Kanne Hamsa Kadilindi.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3903783
+    },
+    {
+      "id": "301237401ab8",
+      "title": "Nanu Preminchananu Mata (Duet)",
+      "normalizedTitle": "nanu preminchananu mata duet",
+      "trackNumber": 5,
+      "duration": "6:00",
+      "durationSeconds": 360,
+      "audio": "Nanu Preminchananu Mata (Duet).mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5775822
+    },
+    {
+      "id": "0eb1eecc722b",
+      "title": "Nanu Preminchananu Mata (Male)",
+      "normalizedTitle": "nanu preminchananu mata male",
+      "trackNumber": 6,
+      "duration": "6:11",
+      "durationSeconds": 371,
+      "audio": "Nanu Preminchananu Mata (Male).mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5949693
+    },
+    {
+      "id": "aff81aa60c1d",
+      "title": "Theme",
+      "normalizedTitle": "theme",
+      "trackNumber": 7,
+      "duration": "6:27",
+      "durationSeconds": 387,
+      "audio": "Theme.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6203812
+    },
+    {
+      "id": "a686609814ad",
+      "title": "Verri Manasa",
+      "normalizedTitle": "verri manasa",
+      "trackNumber": 8,
+      "duration": "6:27",
+      "durationSeconds": 387,
+      "audio": "Verri Manasa.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6198797
+    }
+  ]
+}

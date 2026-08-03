@@ -1,0 +1,154 @@
+{
+  "album": {
+    "id": "a72002beb371",
+    "name": "RX 100",
+    "year": 2018,
+    "musicDirector": "Chaitan Bharadwaj",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "RX 100.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "8e10c6a3612d",
+      "title": "Adire Hrudayam Song",
+      "normalizedTitle": "adire hrudayam song",
+      "trackNumber": 1,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Adire Hrudayam Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4871350
+    },
+    {
+      "id": "6dfdedd0c165",
+      "title": "Dhinaku Dhina Da Song",
+      "normalizedTitle": "dhinaku dhina da song",
+      "trackNumber": 2,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Dhinaku Dhina Da Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Varam",
+        "Sreedeep.K",
+        "Maruthi Kodimoju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4713839
+    },
+    {
+      "id": "303439fb6afa",
+      "title": "Manasunipatti Daaram Katti Song",
+      "normalizedTitle": "manasunipatti daaram katti song",
+      "trackNumber": 3,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Manasunipatti Daaram Katti Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Haricharan",
+        "Umaneha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3871640
+    },
+    {
+      "id": "dc52becec480",
+      "title": "Nippai Ragile Song",
+      "normalizedTitle": "nippai ragile song",
+      "trackNumber": 4,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Nippai Ragile Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3610771
+    },
+    {
+      "id": "e08605fbfdba",
+      "title": "Pilla Raa (Female Version) Song",
+      "normalizedTitle": "pilla raa female version song",
+      "trackNumber": 5,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Pilla Raa (Female Version) Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Spoorthi Jithender"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5985391
+    },
+    {
+      "id": "7f0202445358",
+      "title": "Pillaa Raa Song",
+      "normalizedTitle": "pillaa raa song",
+      "trackNumber": 6,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Pillaa Raa Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4078945
+    },
+    {
+      "id": "597e6445008b",
+      "title": "Reppalanindaa Song",
+      "normalizedTitle": "reppalanindaa song",
+      "trackNumber": 7,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Reppalanindaa Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3382621
+    },
+    {
+      "id": "fc0699659996",
+      "title": "Rudhiram Marigi Song",
+      "normalizedTitle": "rudhiram marigi song",
+      "trackNumber": 8,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Rudhiram Marigi Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Deepthi Parthasarathy",
+        "Sai Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3870810
+    }
+  ]
+}

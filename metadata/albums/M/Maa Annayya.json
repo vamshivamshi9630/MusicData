@@ -1,0 +1,141 @@
+{
+  "album": {
+    "id": "c83be2b0583d",
+    "name": "Maa Annayya",
+    "year": 2000,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Maa Annayya.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "36e3276487f3",
+      "title": "Kadile Andaala Song",
+      "normalizedTitle": "kadile andaala song",
+      "trackNumber": 1,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Kadile Andaala Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Sukhwinder Singh",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4029673
+    },
+    {
+      "id": "3d753a691d34",
+      "title": "Maa Logili Lo Song",
+      "normalizedTitle": "maa logili lo song",
+      "trackNumber": 2,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Maa Logili Lo Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "S.P. Balu",
+        "Unni Menon",
+        "Chitra",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4267896
+    },
+    {
+      "id": "7e54aac6292a",
+      "title": "Maina Emainaave Song",
+      "normalizedTitle": "maina emainaave song",
+      "trackNumber": 3,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Maina Emainaave Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Unni Krishnan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4806189
+    },
+    {
+      "id": "b44795a28179",
+      "title": "Neeli Ningilo (Sad) Song",
+      "normalizedTitle": "neeli ningilo sad song",
+      "trackNumber": 4,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Neeli Ningilo (Sad) Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3742893
+    },
+    {
+      "id": "09c834e3c78a",
+      "title": "Neeli Ningilo Song",
+      "normalizedTitle": "neeli ningilo song",
+      "trackNumber": 5,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Neeli Ningilo Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3905065
+    },
+    {
+      "id": "9105d74d9952",
+      "title": "Pilla Bhale Song",
+      "normalizedTitle": "pilla bhale song",
+      "trackNumber": 6,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Pilla Bhale Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "S.P. Balu",
+        "Swarnalatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4139136
+    },
+    {
+      "id": "22cc3b053626",
+      "title": "Tajaga Maaintlo Song",
+      "normalizedTitle": "tajaga maaintlo song",
+      "trackNumber": 7,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Tajaga Maaintlo Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Mano",
+        "Chitra",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4605159
+    }
+  ]
+}

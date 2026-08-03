@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "e141ad6ad2d9",
+    "name": "Shyam Singha Roy",
+    "year": 2021,
+    "musicDirector": "Mickey J. Meyer",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Shyam Singha Roy.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "08e05df89489",
+      "title": "Edo Edo Song",
+      "normalizedTitle": "edo edo song",
+      "trackNumber": 1,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Edo Edo Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Chaitra Ambadipudi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3618048
+    },
+    {
+      "id": "8dd4a5ef2a72",
+      "title": "Pranavalaya Song",
+      "normalizedTitle": "pranavalaya song",
+      "trackNumber": 2,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Pranavalaya Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4487680
+    },
+    {
+      "id": "01419cb39cfd",
+      "title": "Rise of Shyam Song",
+      "normalizedTitle": "rise of shyam song",
+      "trackNumber": 3,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Rise of Shyam Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Vishal Dadlani",
+        "Anurag Kulkarni",
+        "Cizzy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3963028
+    },
+    {
+      "id": "42a7d0d56a64",
+      "title": "Sirivennala Song",
+      "normalizedTitle": "sirivennala song",
+      "trackNumber": 4,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Sirivennala Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4363648
+    },
+    {
+      "id": "6e183d6c7da9",
+      "title": "Sirivennela (Female Version) Song",
+      "normalizedTitle": "sirivennela female version song",
+      "trackNumber": 5,
+      "duration": "2:58",
+      "durationSeconds": 178,
+      "audio": "Sirivennela (Female Version) Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Chaitra Ambadipudi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3181696
+    },
+    {
+      "id": "3e858600af97",
+      "title": "Tara Song",
+      "normalizedTitle": "tara song",
+      "trackNumber": 6,
+      "duration": "2:47",
+      "durationSeconds": 167,
+      "audio": "Tara Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2994688
+    }
+  ]
+}

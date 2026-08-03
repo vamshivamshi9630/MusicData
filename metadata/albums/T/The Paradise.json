@@ -1,0 +1,33 @@
+{
+  "album": {
+    "id": "7c6b57f59b6c",
+    "name": "The Paradise",
+    "year": 2024,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "The Paradise.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "d2e4205485b9",
+      "title": "Aaya Sher Song",
+      "normalizedTitle": "aaya sher song",
+      "trackNumber": 1,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Aaya Sher Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Addula Jangireddy",
+        "Akunoori Devaihah",
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128982,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4982233
+    }
+  ]
+}

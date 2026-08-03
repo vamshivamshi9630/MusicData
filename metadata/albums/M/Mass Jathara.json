@@ -1,0 +1,85 @@
+{
+  "album": {
+    "id": "c3172bd231f9",
+    "name": "Mass Jathara",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mass Jathara.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "3de637931759",
+      "title": "Hudiyo Hudiyo Song",
+      "normalizedTitle": "hudiyo hudiyo song",
+      "trackNumber": 1,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Hudiyo Hudiyo Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Hesham Abdul Wahab",
+        "Bheems Ceciroleo"
+      ],
+      "bitrate": 122389,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3767268
+    },
+    {
+      "id": "339ec0bbe48e",
+      "title": "Ole Ole Song",
+      "normalizedTitle": "ole ole song",
+      "trackNumber": 2,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Ole Ole Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo",
+        "Rohini Soratt"
+      ],
+      "bitrate": 129226,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4384645
+    },
+    {
+      "id": "d8666ee24638",
+      "title": "Super Duper Song",
+      "normalizedTitle": "super duper song",
+      "trackNumber": 3,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Super Duper Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo",
+        "Rohini Soratt"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5378802
+    },
+    {
+      "id": "9f76f3f9a164",
+      "title": "Tu Mera Lover Song",
+      "normalizedTitle": "tu mera lover song",
+      "trackNumber": 4,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Tu Mera Lover Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo"
+      ],
+      "bitrate": 128150,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4446423
+    }
+  ]
+}

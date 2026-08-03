@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "b7eb7ea1f421",
+    "name": "Jai Lava Kusa",
+    "year": 2017,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jai Lava Kusa.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "e1d418653405",
+      "title": "Andamaina Lokam Song",
+      "normalizedTitle": "andamaina lokam song",
+      "trackNumber": 1,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Andamaina Lokam Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Viswaprasad M Ganagi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3892349
+    },
+    {
+      "id": "d6409a41be96",
+      "title": "Dochestha Song",
+      "normalizedTitle": "dochestha song",
+      "trackNumber": 2,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Dochestha Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Nakash Aziz"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4728538
+    },
+    {
+      "id": "a008bf789f28",
+      "title": "Nee Kallalona Song",
+      "normalizedTitle": "nee kallalona song",
+      "trackNumber": 3,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Nee Kallalona Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4526246
+    },
+    {
+      "id": "d76233019543",
+      "title": "Raavana Song",
+      "normalizedTitle": "raavana song",
+      "trackNumber": 4,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Raavana Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Divya Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4876496
+    },
+    {
+      "id": "3ec88aa616c1",
+      "title": "Swing Zara Song",
+      "normalizedTitle": "swing zara song",
+      "trackNumber": 5,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Swing Zara Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Neha Basin",
+        "Devi Sri Prasad",
+        "M.M Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4885866
+    },
+    {
+      "id": "867e2cec2512",
+      "title": "Tring Tring Song",
+      "normalizedTitle": "tring tring song",
+      "trackNumber": 6,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Tring Tring Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Jaspreet Jasz",
+        "Ranina Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4928741
+    }
+  ]
+}

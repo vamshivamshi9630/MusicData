@@ -1,0 +1,82 @@
+{
+  "album": {
+    "id": "fadf4be78d3a",
+    "name": "Pushpa",
+    "year": 2021,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Pushpa.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "811575dc38f8",
+      "title": "Dakko Dakko Meka Song",
+      "normalizedTitle": "dakko dakko meka song",
+      "trackNumber": 1,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Dakko Dakko Meka Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shivam"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 12378496
+    },
+    {
+      "id": "34c108639a70",
+      "title": "Eyy Bidda Idhi Naa Adda Song",
+      "normalizedTitle": "eyy bidda idhi naa adda song",
+      "trackNumber": 2,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Eyy Bidda Idhi Naa Adda Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Nakash Aziz"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9819136
+    },
+    {
+      "id": "abfe22453568",
+      "title": "Oo Antava Oo Oo Antava Song",
+      "normalizedTitle": "oo antava oo oo antava song",
+      "trackNumber": 3,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Oo Antava Oo Oo Antava Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Indravathi Chauhan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9453376
+    },
+    {
+      "id": "df4611468d02",
+      "title": "Saami Saami Song",
+      "normalizedTitle": "saami saami song",
+      "trackNumber": 4,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Saami Saami Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mounika Yadav"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9550336
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "album": {
+    "id": "46276a0d2a4e",
+    "name": "Bhadra",
+    "year": 2005,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bhadra.png",
+    "songCount": 10
+  },
+  "songs": [
+    {
+      "id": "4ad496b6758d",
+      "title": "Aakasam Nelaku .Mp3",
+      "normalizedTitle": "aakasam nelaku mp3",
+      "trackNumber": 1,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Aakasam Nelaku .Mp3.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Mallikarjun",
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4880419
+    },
+    {
+      "id": "bcd4559d7f33",
+      "title": "Aakasam Nelaku",
+      "normalizedTitle": "aakasam nelaku",
+      "trackNumber": 2,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Aakasam Nelaku.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Mallikarjun",
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4880419
+    },
+    {
+      "id": "0f7fc374f9ee",
+      "title": "Emaindi Siru",
+      "normalizedTitle": "emaindi siru",
+      "trackNumber": 3,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Emaindi Siru.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Karthik",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4253876
+    },
+    {
+      "id": "40ae93eac004",
+      "title": "Just Do It",
+      "normalizedTitle": "just do it",
+      "trackNumber": 4,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Just Do It.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Timmy",
+        "Tanvi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4240079
+    },
+    {
+      "id": "d827573b7f4b",
+      "title": "O Manasa Omanasa.Mp3",
+      "normalizedTitle": "o manasa omanasamp3",
+      "trackNumber": 5,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "O Manasa Omanasa.Mp3.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "RaviVarma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4043259
+    },
+    {
+      "id": "9791635ca2d4",
+      "title": "Theme",
+      "normalizedTitle": "theme",
+      "trackNumber": 6,
+      "duration": "1:47",
+      "durationSeconds": 107,
+      "audio": "Theme.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Timmy",
+        "Tanvi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1807547
+    },
+    {
+      "id": "c0882917d165",
+      "title": "Thirumala Vasa",
+      "normalizedTitle": "thirumala vasa",
+      "trackNumber": 7,
+      "duration": "2:09",
+      "durationSeconds": 129,
+      "audio": "Thirumala Vasa.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2150709
+    },
+    {
+      "id": "feb6ce014596",
+      "title": "Ye Oore Chinadana",
+      "normalizedTitle": "ye oore chinadana",
+      "trackNumber": 8,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Ye Oore Chinadana.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Karthik",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4995763
+    },
+    {
+      "id": "610534f0af97",
+      "title": "Yerra Koka Pachha .Mp3",
+      "normalizedTitle": "yerra koka pachha mp3",
+      "trackNumber": 9,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Yerra Koka Pachha .Mp3.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Karthik",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4256823
+    },
+    {
+      "id": "6f7f10f65956",
+      "title": "Yerra Koka Pachha",
+      "normalizedTitle": "yerra koka pachha",
+      "trackNumber": 10,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Yerra Koka Pachha.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Karthik",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4256823
+    }
+  ]
+}

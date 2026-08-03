@@ -1,0 +1,84 @@
+{
+  "album": {
+    "id": "489c994fa278",
+    "name": "Atithi Devobhava",
+    "year": 2022,
+    "musicDirector": "Shekar Chandra",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Atithi Devobhava.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "f1ac438e9011",
+      "title": "Baguntundi",
+      "normalizedTitle": "baguntundi",
+      "trackNumber": 1,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Baguntundi.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Sid Sriram",
+        "NUTANA MOHAN"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3719936
+    },
+    {
+      "id": "cec9de6e0483",
+      "title": "Chinni Gunde Song",
+      "normalizedTitle": "chinni gunde song",
+      "trackNumber": 2,
+      "duration": "2:16",
+      "durationSeconds": 136,
+      "audio": "Chinni Gunde Song.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Sri Kavya Chandana",
+        "Ritesh G Rao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2427776
+    },
+    {
+      "id": "d9d9f0f227b1",
+      "title": "Gaaju Bomma Teeruna Song",
+      "normalizedTitle": "gaaju bomma teeruna song",
+      "trackNumber": 3,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Gaaju Bomma Teeruna Song.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Hrithika Aanandhi & Ritesh G Rao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3702272
+    },
+    {
+      "id": "138f6a96d1c5",
+      "title": "Ninnu Chudagane",
+      "normalizedTitle": "ninnu chudagane",
+      "trackNumber": 4,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Ninnu Chudagane.mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3610496
+    }
+  ]
+}

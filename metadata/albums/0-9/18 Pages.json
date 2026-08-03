@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "38f98c8f1eec",
+    "name": "18 Pages",
+    "year": 2022,
+    "musicDirector": "Gopi Sundar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "18 Pages.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "a7ea6624bc74",
+      "title": "Nannaya Raasina Song",
+      "normalizedTitle": "nannaya raasina song",
+      "trackNumber": 1,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Nannaya Raasina Song.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Prudhvi Chandra",
+        "Sithara Krishnakumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4559058
+    },
+    {
+      "id": "203e31cbeafb",
+      "title": "Nee Valla O Pilla Song",
+      "normalizedTitle": "nee valla o pilla song",
+      "trackNumber": 2,
+      "duration": "2:34",
+      "durationSeconds": 154,
+      "audio": "Nee Valla O Pilla Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Thirupathi Matla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2514402
+    },
+    {
+      "id": "13b4f607fdf8",
+      "title": "Time Ivvu Pilla Song",
+      "normalizedTitle": "time ivvu pilla song",
+      "trackNumber": 3,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Time Ivvu Pilla Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Silambarasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3513324
+    },
+    {
+      "id": "11459b669667",
+      "title": "Yedurangula Vaana Song",
+      "normalizedTitle": "yedurangula vaana song",
+      "trackNumber": 4,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Yedurangula Vaana Song.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4230542
+    }
+  ]
+}

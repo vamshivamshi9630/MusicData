@@ -1,0 +1,6990 @@
+{
+  "album": {
+    "id": "925e237172df",
+    "name": "All_Mix",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 402
+  },
+  "songs": [
+    {
+      "id": "dce3c40c01dc",
+      "title": "Aadinchi Ashta Chamma",
+      "normalizedTitle": "aadinchi ashta chamma",
+      "trackNumber": 1,
+      "duration": "3:40",
+      "durationSeconds": 220,
+      "audio": "Aadinchi Ashta Chamma.mp3",
+      "composer": "Music : Kalyani Malik | Lyrics : Sirivennela Seetarama Sastry",
+      "singers": [
+        "Srikrishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3553227
+    },
+    {
+      "id": "0b98a384b2ed",
+      "title": "Aakasam Sakshiga",
+      "normalizedTitle": "aakasam sakshiga",
+      "trackNumber": 2,
+      "duration": "5:47",
+      "durationSeconds": 347,
+      "audio": "Aakasam Sakshiga.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5586611
+    },
+    {
+      "id": "1f0dd4ccdd4f",
+      "title": "Aakasena Suryudu (Female)",
+      "normalizedTitle": "aakasena suryudu female",
+      "trackNumber": 3,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Aakasena Suryudu (Female).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5273772
+    },
+    {
+      "id": "2ec1e826e688",
+      "title": "Aakasena Suryudu (Male)",
+      "normalizedTitle": "aakasena suryudu male",
+      "trackNumber": 4,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Aakasena Suryudu (Male).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5291013
+    },
+    {
+      "id": "d9bb3c5620c1",
+      "title": "Aalayana Harathilo",
+      "normalizedTitle": "aalayana harathilo",
+      "trackNumber": 5,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Aalayana Harathilo.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Devayani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4323412
+    },
+    {
+      "id": "ec78ea128ee3",
+      "title": "Aanandamaanandha Madhike",
+      "normalizedTitle": "aanandamaanandha madhike",
+      "trackNumber": 6,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Aanandamaanandha Madhike.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7081344
+    },
+    {
+      "id": "f55f20596f3c",
+      "title": "Adhey Nannu",
+      "normalizedTitle": "adhey nannu",
+      "trackNumber": 7,
+      "duration": "5:23",
+      "durationSeconds": 323,
+      "audio": "Adhey Nannu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Karthik",
+        "V. Prasanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5196165
+    },
+    {
+      "id": "863aeb5fca91",
+      "title": "Adiga Adiga",
+      "normalizedTitle": "adiga adiga",
+      "trackNumber": 8,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Adiga Adiga.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4093181
+    },
+    {
+      "id": "2095a323f2fb",
+      "title": "Adugesthe Kadal",
+      "normalizedTitle": "adugesthe kadal",
+      "trackNumber": 9,
+      "duration": "6:07",
+      "durationSeconds": 367,
+      "audio": "Adugesthe Kadal.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5906354
+    },
+    {
+      "id": "ac999eccc41c",
+      "title": "Agadhu Agadhu",
+      "normalizedTitle": "agadhu agadhu",
+      "trackNumber": 10,
+      "duration": "5:14",
+      "durationSeconds": 314,
+      "audio": "Agadhu Agadhu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5038125
+    },
+    {
+      "id": "aae25d6768bf",
+      "title": "Allahe Allaha",
+      "normalizedTitle": "allahe allaha",
+      "trackNumber": 11,
+      "duration": "5:43",
+      "durationSeconds": 343,
+      "audio": "Allahe Allaha.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Ram Adnan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5553968
+    },
+    {
+      "id": "668ef331d124",
+      "title": "Allantha Doorala",
+      "normalizedTitle": "allantha doorala",
+      "trackNumber": 12,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Allantha Doorala.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4426346
+    },
+    {
+      "id": "7662b0b69f60",
+      "title": "Amma Amma",
+      "normalizedTitle": "amma amma",
+      "trackNumber": 13,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Amma Amma.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "S Janaki",
+        "Deepu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4973169
+    },
+    {
+      "id": "a26e47ea6d3e",
+      "title": "Anaganaga Oka Chinnadi",
+      "normalizedTitle": "anaganaga oka chinnadi",
+      "trackNumber": 14,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Anaganaga Oka Chinnadi.mp3",
+      "composer": "Music : Shirpi | Lyrics : E.S. Murthy",
+      "singers": [
+        "Mukesh",
+        "Swetha Mohan",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4687302
+    },
+    {
+      "id": "b4657da6be2f",
+      "title": "Anaganaga",
+      "normalizedTitle": "anaganaga",
+      "trackNumber": 15,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Anaganaga.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6218441
+    },
+    {
+      "id": "6550045c930a",
+      "title": "Ananda Ananda Maye (Female)",
+      "normalizedTitle": "ananda ananda maye female",
+      "trackNumber": 16,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Ananda Ananda Maye (Female).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4824964
+    },
+    {
+      "id": "4d7fd3a538ba",
+      "title": "Ananda Ananda Maye (Male)",
+      "normalizedTitle": "ananda ananda maye male",
+      "trackNumber": 17,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Ananda Ananda Maye (Male).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4880970
+    },
+    {
+      "id": "9994db959853",
+      "title": "Andaanike",
+      "normalizedTitle": "andaanike",
+      "trackNumber": 18,
+      "duration": "5:25",
+      "durationSeconds": 325,
+      "audio": "Andaanike.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Sonali Bindre"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5271591
+    },
+    {
+      "id": "12414336923b",
+      "title": "Andala Aparanji",
+      "normalizedTitle": "andala aparanji",
+      "trackNumber": 19,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Andala Aparanji.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Ramu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4756711
+    },
+    {
+      "id": "c72b49822bf9",
+      "title": "Andamaina Kundanala",
+      "normalizedTitle": "andamaina kundanala",
+      "trackNumber": 20,
+      "duration": "5:50",
+      "durationSeconds": 350,
+      "audio": "Andamaina Kundanala.mp3",
+      "composer": "Ghantaadi Krishna",
+      "singers": [
+        "Varikuppala Yadagiri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5989801
+    },
+    {
+      "id": "e26f67648d12",
+      "title": "Andhamaina Premarani",
+      "normalizedTitle": "andhamaina premarani",
+      "trackNumber": 21,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Andhamaina Premarani.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4623090
+    },
+    {
+      "id": "c9f5a6052642",
+      "title": "Anitha O Anitha",
+      "normalizedTitle": "anitha o anitha",
+      "trackNumber": 22,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Anitha O Anitha.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Guniparthi Nagaraj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4921596
+    },
+    {
+      "id": "31f00e74bebf",
+      "title": "Antha Bhranthiyena",
+      "normalizedTitle": "antha bhranthiyena",
+      "trackNumber": 23,
+      "duration": "3:21",
+      "durationSeconds": 201,
+      "audio": "Antha Bhranthiyena.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "K.Ranee"
+      ],
+      "bitrate": 196199,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5103856
+    },
+    {
+      "id": "374d280e5b7d",
+      "title": "Anthe Premanthe",
+      "normalizedTitle": "anthe premanthe",
+      "trackNumber": 24,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Anthe Premanthe.mp3",
+      "composer": "Music: Mm Keeravaani | Lyrics: Ananth Sriram, K. Shⅳa Datt㏊, S㏊rath Jyoﬅhna",
+      "singers": [
+        "㏍",
+        "B㏊irava",
+        "Mo㏊na"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4786500
+    },
+    {
+      "id": "e038f85db22e",
+      "title": "Apudo Ipudo",
+      "normalizedTitle": "apudo ipudo",
+      "trackNumber": 25,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Apudo Ipudo.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Siddharth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4012204
+    },
+    {
+      "id": "38cbb30cd1cc",
+      "title": "Ardham Leni Navvu",
+      "normalizedTitle": "ardham leni navvu",
+      "trackNumber": 26,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Ardham Leni Navvu.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Sreenidhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4130401
+    },
+    {
+      "id": "f2c32bf9d79d",
+      "title": "Are Emaindhi",
+      "normalizedTitle": "are emaindhi",
+      "trackNumber": 27,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Are Emaindhi.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P.Balu",
+        "S.Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4530864
+    },
+    {
+      "id": "a87462f0c7bf",
+      "title": "Arere Yekkada (Female)",
+      "normalizedTitle": "arere yekkada female",
+      "trackNumber": 28,
+      "duration": "0:48",
+      "durationSeconds": 48,
+      "audio": "Arere Yekkada (Female).mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "SenSongsMp3.Co"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1238311
+    },
+    {
+      "id": "f77a7dcd38cc",
+      "title": "Arere Yekkada",
+      "normalizedTitle": "arere yekkada",
+      "trackNumber": 29,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Arere Yekkada.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Naresh Iyer",
+        "Manisha Eerabhathini"
+      ],
+      "bitrate": 274721,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8518180
+    },
+    {
+      "id": "a419f22f9ba7",
+      "title": "Asalem Gurthuku",
+      "normalizedTitle": "asalem gurthuku",
+      "trackNumber": 30,
+      "duration": "5:54",
+      "durationSeconds": 354,
+      "audio": "Asalem Gurthuku.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 316605,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 14019003
+    },
+    {
+      "id": "a31e82090edc",
+      "title": "Atu Nuvve Itu Nuvve",
+      "normalizedTitle": "atu nuvve itu nuvve",
+      "trackNumber": 31,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Atu Nuvve Itu Nuvve.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Neha Bhasin"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4860573
+    },
+    {
+      "id": "256dedc6cbaf",
+      "title": "Avunante Kaadanile",
+      "normalizedTitle": "avunante kaadanile",
+      "trackNumber": 32,
+      "duration": "2:21",
+      "durationSeconds": 141,
+      "audio": "Avunante Kaadanile.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2262456
+    },
+    {
+      "id": "f57c0707ea3b",
+      "title": "Ayyayyo Anandame",
+      "normalizedTitle": "ayyayyo anandame",
+      "trackNumber": 33,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Ayyayyo Anandame.mp3",
+      "composer": "Music : D.Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 258533,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8594943
+    },
+    {
+      "id": "782d76460568",
+      "title": "Badulu Tochani",
+      "normalizedTitle": "badulu tochani",
+      "trackNumber": 34,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Badulu Tochani.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Ananth Sriram & Megha (English)",
+      "singers": [
+        "Karthik",
+        "Mallikarjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4154911
+    },
+    {
+      "id": "9b2d3f5fc23b",
+      "title": "Bagundalamma",
+      "normalizedTitle": "bagundalamma",
+      "trackNumber": 35,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Bagundalamma.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Ramu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3945452
+    },
+    {
+      "id": "aff991b09194",
+      "title": "Baguntundi",
+      "normalizedTitle": "baguntundi",
+      "trackNumber": 36,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Baguntundi.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Sid Sriram",
+        "NUTANA MOHAN"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3719936
+    },
+    {
+      "id": "d3c63785ecd4",
+      "title": "Bombhaat",
+      "normalizedTitle": "bombhaat",
+      "trackNumber": 37,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Bombhaat.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4556186
+    },
+    {
+      "id": "93e3a2a926ba",
+      "title": "Chali Chaliga",
+      "normalizedTitle": "chali chaliga",
+      "trackNumber": 38,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Chali Chaliga.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Ananth Sriram & Megha (English)",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4884654
+    },
+    {
+      "id": "831fe44908f2",
+      "title": "Cheliya Cheliya",
+      "normalizedTitle": "cheliya cheliya",
+      "trackNumber": 39,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Cheliya Cheliya.mp3",
+      "composer": "Music: T㏊man.S | Lyrics: Shree Mani",
+      "singers": [
+        "Deepak",
+        "M.M.Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4518829
+    },
+    {
+      "id": "c650a5b96f6e",
+      "title": "Cheliya Ninu",
+      "normalizedTitle": "cheliya ninu",
+      "trackNumber": 40,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Cheliya Ninu.mp3",
+      "composer": "Ghantaadi Krishna",
+      "singers": [
+        "Udit Narayan",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4483451
+    },
+    {
+      "id": "5f6f9abf0908",
+      "title": "Cheliya",
+      "normalizedTitle": "cheliya",
+      "trackNumber": 41,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Cheliya.mp3",
+      "composer": "Music : Selva Ganesh | Lyrics : Vanamali",
+      "singers": [
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4935071
+    },
+    {
+      "id": "5c0aba5f17c3",
+      "title": "Chepaalanundhi",
+      "normalizedTitle": "chepaalanundhi",
+      "trackNumber": 42,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Chepaalanundhi.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Charan",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4687903
+    },
+    {
+      "id": "0b90d1efd20d",
+      "title": "Cheppamma Cheppamma",
+      "normalizedTitle": "cheppamma cheppamma",
+      "trackNumber": 43,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Cheppamma Cheppamma.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Sonali Bindre"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4709416
+    },
+    {
+      "id": "1c0ece3be692",
+      "title": "Cheppave Balamani",
+      "normalizedTitle": "cheppave balamani",
+      "trackNumber": 44,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Cheppave Balamani.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Sweekar Agasthi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5268396
+    },
+    {
+      "id": "25678b8b60d4",
+      "title": "Cheppave Prema",
+      "normalizedTitle": "cheppave prema",
+      "trackNumber": 45,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Cheppave Prema.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5125530
+    },
+    {
+      "id": "2f72baa38407",
+      "title": "Cheppinadhe Thana Premani",
+      "normalizedTitle": "cheppinadhe thana premani",
+      "trackNumber": 46,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Cheppinadhe Thana Premani.mp3",
+      "composer": "Music : D.Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Kg Ranjith",
+        "Chinmayi"
+      ],
+      "bitrate": 238154,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8192443
+    },
+    {
+      "id": "c61a58ad2e75",
+      "title": "Chethilona Cheyyesi",
+      "normalizedTitle": "chethilona cheyyesi",
+      "trackNumber": 47,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Chethilona Cheyyesi.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4978647
+    },
+    {
+      "id": "eee072589dfd",
+      "title": "Chinnadana Neekosam",
+      "normalizedTitle": "chinnadana neekosam",
+      "trackNumber": 48,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Chinnadana Neekosam.mp3",
+      "composer": "Anoop Rubens",
+      "singers": [
+        "Raja Hasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3899497
+    },
+    {
+      "id": "01d0edb6f4b6",
+      "title": "Chiru Chiru Chiru",
+      "normalizedTitle": "chiru chiru chiru",
+      "trackNumber": 49,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Chiru Chiru Chiru.mp3",
+      "composer": "Karthi, Tamanna",
+      "singers": [
+        "Hari Charan",
+        "Tanvi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4673240
+    },
+    {
+      "id": "201d6da666c9",
+      "title": "Chirunama Thana Chirunama",
+      "normalizedTitle": "chirunama thana chirunama",
+      "trackNumber": 50,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Chirunama Thana Chirunama.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Yazin Nizar",
+        "Kareemulla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3793018
+    },
+    {
+      "id": "f4feab79dc4c",
+      "title": "Choododdhe Nannu",
+      "normalizedTitle": "choododdhe nannu",
+      "trackNumber": 51,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Choododdhe Nannu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4225672
+    },
+    {
+      "id": "82b299b11ab8",
+      "title": "Choosale Kallaraa",
+      "normalizedTitle": "choosale kallaraa",
+      "trackNumber": 52,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Choosale Kallaraa.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3876039
+    },
+    {
+      "id": "12b0c466156c",
+      "title": "Choosale Kallaraa Song",
+      "normalizedTitle": "choosale kallaraa song",
+      "trackNumber": 53,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Choosale Kallaraa Song.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3876039
+    },
+    {
+      "id": "3687dac20f65",
+      "title": "Choosi Chudagane",
+      "normalizedTitle": "choosi chudagane",
+      "trackNumber": 54,
+      "duration": "3:22",
+      "durationSeconds": 202,
+      "audio": "Choosi Chudagane.mp3",
+      "composer": "Mahati Swara Sagar",
+      "singers": [
+        "Anurag Kulkarni",
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4269732
+    },
+    {
+      "id": "032e2fe4951b",
+      "title": "Chukkalanti (Happy)",
+      "normalizedTitle": "chukkalanti happy",
+      "trackNumber": 55,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Chukkalanti (Happy).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2934144
+    },
+    {
+      "id": "4b963087809b",
+      "title": "Chukkalanti (Sad)",
+      "normalizedTitle": "chukkalanti sad",
+      "trackNumber": 56,
+      "duration": "2:05",
+      "durationSeconds": 125,
+      "audio": "Chukkalanti (Sad).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S. Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2129937
+    },
+    {
+      "id": "7cfb4253ee29",
+      "title": "Crazy Feeling",
+      "normalizedTitle": "crazy feeling",
+      "trackNumber": 57,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Crazy Feeling.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: Sagar, Ramajogayya Saﬅry, Ananth Sriram, B㏊skara B㏊tla",
+      "singers": [
+        "Prudhⅵ C㏊ndra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3452336
+    },
+    {
+      "id": "64b69440484a",
+      "title": "Devathala Nenu",
+      "normalizedTitle": "devathala nenu",
+      "trackNumber": 58,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Devathala Nenu.mp3",
+      "composer": "Vidyasagar",
+      "singers": [
+        "Harish Harish Raghavendra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5046728
+    },
+    {
+      "id": "10a7e1d0521f",
+      "title": "Devudu Karunisthadani",
+      "normalizedTitle": "devudu karunisthadani",
+      "trackNumber": 59,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Devudu Karunisthadani.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4821620
+    },
+    {
+      "id": "6fa2c06590e7",
+      "title": "Dhaari Choodu",
+      "normalizedTitle": "dhaari choodu",
+      "trackNumber": 60,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Dhaari Choodu.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Penchal Das"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3314808
+    },
+    {
+      "id": "7f425fd03692",
+      "title": "Dhooram Dhooram",
+      "normalizedTitle": "dhooram dhooram",
+      "trackNumber": 61,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Dhooram Dhooram.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Chandrabose",
+      "singers": [
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4690261
+    },
+    {
+      "id": "a211e341f029",
+      "title": "Dintana",
+      "normalizedTitle": "dintana",
+      "trackNumber": 62,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Dintana.mp3",
+      "composer": "Music: Mm Keeravaani | Lyrics: Ananth Sriram, K. Shⅳa Datt㏊, S㏊rath Jyoﬅhna",
+      "singers": [
+        "Rahul Sipliguǌ"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4811137
+    },
+    {
+      "id": "555fa0d8ad01",
+      "title": "Dooram Karigina",
+      "normalizedTitle": "dooram karigina",
+      "trackNumber": 63,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Dooram Karigina.mp3",
+      "composer": "Karthik Kodakandla",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5866112
+    },
+    {
+      "id": "e132731242b1",
+      "title": "Edo Manasu Padda",
+      "normalizedTitle": "edo manasu padda",
+      "trackNumber": 64,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Edo Manasu Padda.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Mano(Nagur Babu)",
+        "Chitra",
+        "SP.Sailaja"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4618275
+    },
+    {
+      "id": "edab3a6ad4a8",
+      "title": "Ee Hridayam",
+      "normalizedTitle": "ee hridayam",
+      "trackNumber": 65,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Ee Hridayam.mp3",
+      "composer": "Music : A.R. Rahman | Lyrics : Anantha Sriram | Rap Lyrics : Blaaze",
+      "singers": [
+        "Vijayprakash",
+        "Suzanne",
+        "Blaaze"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5331248
+    },
+    {
+      "id": "768ef2c12f54",
+      "title": "Ee Kshnam Oke Oka Korika",
+      "normalizedTitle": "ee kshnam oke oka korika",
+      "trackNumber": 66,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Ee Kshnam Oke Oka Korika.mp3",
+      "composer": "Koti",
+      "singers": [
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4725011
+    },
+    {
+      "id": "2b3f3201e7f3",
+      "title": "Ee Manase",
+      "normalizedTitle": "ee manase",
+      "trackNumber": 67,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Ee Manase.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Keerthy Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4350985
+    },
+    {
+      "id": "f1b4b3e39543",
+      "title": "Ee Maya Peremito",
+      "normalizedTitle": "ee maya peremito",
+      "trackNumber": 68,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Ee Maya Peremito.mp3",
+      "composer": "Anup Rubense",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4125865
+    },
+    {
+      "id": "403bca948688",
+      "title": "Ee Prema Manako",
+      "normalizedTitle": "ee prema manako",
+      "trackNumber": 69,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Ee Prema Manako.mp3",
+      "composer": "Music: V. Pradeep Kumar | Lyrics: Wasistha Sharma",
+      "singers": [
+        "Sean Roldan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4186067
+    },
+    {
+      "id": "21e08f9bd313",
+      "title": "Ee Premaki",
+      "normalizedTitle": "ee premaki",
+      "trackNumber": 70,
+      "duration": "1:24",
+      "durationSeconds": 84,
+      "audio": "Ee Premaki.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: Sagar, Ramajogayya Saﬅry, Ananth Sriram, B㏊skara B㏊tla",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1440640
+    },
+    {
+      "id": "063260e0a5eb",
+      "title": "Ee Velalo",
+      "normalizedTitle": "ee velalo",
+      "trackNumber": 71,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Ee Velalo.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Suneetha"
+      ],
+      "bitrate": 202240,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6657586
+    },
+    {
+      "id": "da87075958d6",
+      "title": "Eedura Teeralalo",
+      "normalizedTitle": "eedura teeralalo",
+      "trackNumber": 72,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Eedura Teeralalo.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4978034
+    },
+    {
+      "id": "53148a9d813d",
+      "title": "Eenade Edo",
+      "normalizedTitle": "eenade edo",
+      "trackNumber": 73,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Eenade Edo.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4326756
+    },
+    {
+      "id": "b6361757503b",
+      "title": "Ekaantham",
+      "normalizedTitle": "ekaantham",
+      "trackNumber": 74,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Ekaantham.mp3",
+      "composer": "Kaala Bhairava",
+      "singers": [
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3549952
+    },
+    {
+      "id": "ee9ba82d2c3e",
+      "title": "Ekkada Ekkada",
+      "normalizedTitle": "ekkada ekkada",
+      "trackNumber": 75,
+      "duration": "6:13",
+      "durationSeconds": 373,
+      "audio": "Ekkada Ekkada.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mahesh Babu",
+        "Sonali Bindre"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6038955
+    },
+    {
+      "id": "a67cc5f9f02a",
+      "title": "Ekkada Unna",
+      "normalizedTitle": "ekkada unna",
+      "trackNumber": 76,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Ekkada Unna.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Anantha Sriram",
+      "singers": [
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3490234
+    },
+    {
+      "id": "c2d89fe5cef6",
+      "title": "Ekkada Vunna",
+      "normalizedTitle": "ekkada vunna",
+      "trackNumber": 77,
+      "duration": "6:06",
+      "durationSeconds": 366,
+      "audio": "Ekkada Vunna.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Gopika Poornima",
+        "Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6115872
+    },
+    {
+      "id": "4e08cbe37b1e",
+      "title": "Ekkadiki Nee Parugu",
+      "normalizedTitle": "ekkadiki nee parugu",
+      "trackNumber": 78,
+      "duration": "5:28",
+      "durationSeconds": 328,
+      "audio": "Ekkadiki Nee Parugu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 244077,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10046724
+    },
+    {
+      "id": "43772746e283",
+      "title": "Em Cheppanu",
+      "normalizedTitle": "em cheppanu",
+      "trackNumber": 79,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Em Cheppanu.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: Sagar, Ramajogayya Saﬅry, Ananth Sriram, B㏊skara B㏊tla",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4679866
+    },
+    {
+      "id": "d93d3252d93e",
+      "title": "Emai Poyave",
+      "normalizedTitle": "emai poyave",
+      "trackNumber": 80,
+      "duration": "2:34",
+      "durationSeconds": 154,
+      "audio": "Emai Poyave.mp3",
+      "composer": "Vishal Chandrashekar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2544400
+    },
+    {
+      "id": "c179500a0457",
+      "title": "Emani Cheppanu",
+      "normalizedTitle": "emani cheppanu",
+      "trackNumber": 81,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Emani Cheppanu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5132164
+    },
+    {
+      "id": "da4f0faf0f7f",
+      "title": "Emannavoo",
+      "normalizedTitle": "emannavoo",
+      "trackNumber": 82,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "Emannavoo.mp3",
+      "composer": "Music : Anirudh Ravichander | Lyricist : Rakendu Mouli",
+      "singers": [
+        "Shweta Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3480578
+    },
+    {
+      "id": "f510ee841d3c",
+      "title": "Emantha Neram",
+      "normalizedTitle": "emantha neram",
+      "trackNumber": 83,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Emantha Neram.mp3",
+      "composer": "Abhiman Roy",
+      "singers": [
+        "Hariharan",
+        "Pranavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4981811
+    },
+    {
+      "id": "36d4e11ee940",
+      "title": "Emito Idhi",
+      "normalizedTitle": "emito idhi",
+      "trackNumber": 84,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Emito Idhi.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kapil Kapilan & Haripriya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4819859
+    },
+    {
+      "id": "5d0b29bb8c78",
+      "title": "Emo Emo",
+      "normalizedTitle": "emo emo",
+      "trackNumber": 85,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Emo Emo.mp3",
+      "composer": "Praveen Lakkaraju",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3951729
+    },
+    {
+      "id": "a2efc7b9876a",
+      "title": "Endakay Endakay",
+      "normalizedTitle": "endakay endakay",
+      "trackNumber": 86,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Endakay Endakay.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Dilip Devagan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4999336
+    },
+    {
+      "id": "01df83de595f",
+      "title": "Endhukila Nannu Vedhi",
+      "normalizedTitle": "endhukila nannu vedhi",
+      "trackNumber": 87,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Endhukila Nannu Vedhi.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Kunal Ganjawala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4262505
+    },
+    {
+      "id": "9b4ba4beca4c",
+      "title": "Endukani",
+      "normalizedTitle": "endukani",
+      "trackNumber": 88,
+      "duration": "5:38",
+      "durationSeconds": 338,
+      "audio": "Endukani.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5550007
+    },
+    {
+      "id": "89b8603fe5b9",
+      "title": "Enduke Enduke",
+      "normalizedTitle": "enduke enduke",
+      "trackNumber": 89,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Enduke Enduke.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Srimani",
+      "singers": [
+        "Sreeram Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4106300
+    },
+    {
+      "id": "1bb705b776f5",
+      "title": "Enduko (Male)",
+      "normalizedTitle": "enduko male",
+      "trackNumber": 90,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Enduko (Male).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4707511
+    },
+    {
+      "id": "34a2243e86cb",
+      "title": "Enduko Enthaki",
+      "normalizedTitle": "enduko enthaki",
+      "trackNumber": 91,
+      "duration": "5:28",
+      "durationSeconds": 328,
+      "audio": "Enduko Enthaki.mp3",
+      "composer": "Music : Sandeep Chowta | Lyrics : Chinni Charan",
+      "singers": [
+        "Saleem Shahida"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5343233
+    },
+    {
+      "id": "5d8655d44e94",
+      "title": "Epudaina Gurthukosthana",
+      "normalizedTitle": "epudaina gurthukosthana",
+      "trackNumber": 92,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Epudaina Gurthukosthana.mp3",
+      "composer": "Music: Ramesh Mukkera | Lyrics: Ramesh Mukkera",
+      "singers": [
+        "Venu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4480925
+    },
+    {
+      "id": "9280d9409c1d",
+      "title": "Eswara",
+      "normalizedTitle": "eswara",
+      "trackNumber": 93,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Eswara.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3649280
+    },
+    {
+      "id": "820cc8da1d4d",
+      "title": "Etu Choosina",
+      "normalizedTitle": "etu choosina",
+      "trackNumber": 94,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Etu Choosina.mp3",
+      "composer": "Abhiman Roy",
+      "singers": [
+        "Kunal Ganjawala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4654113
+    },
+    {
+      "id": "2306dc4aedcd",
+      "title": "Evaraina Epudai (Female)",
+      "normalizedTitle": "evaraina epudai female",
+      "trackNumber": 95,
+      "duration": "1:58",
+      "durationSeconds": 118,
+      "audio": "Evaraina Epudai (Female).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1860190
+    },
+    {
+      "id": "206f4dec542b",
+      "title": "Evaraina Epudai (Male)-DownloadArtist- PrathapMovieAnandam (2001)",
+      "normalizedTitle": "evaraina epudai maledownloadartist prathapmovieanandam 2001",
+      "trackNumber": 96,
+      "duration": "1:57",
+      "durationSeconds": 117,
+      "audio": "Evaraina Epudai (Male)-DownloadArtist- PrathapMovieAnandam (2001).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1902537
+    },
+    {
+      "id": "9d98a39a6a40",
+      "title": "Evaree Ammayani Adiga",
+      "normalizedTitle": "evaree ammayani adiga",
+      "trackNumber": 97,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Evaree Ammayani Adiga.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Vennelakanti",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4947529
+    },
+    {
+      "id": "7cbc9b28340c",
+      "title": "Evaru Lerani",
+      "normalizedTitle": "evaru lerani",
+      "trackNumber": 98,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Evaru Lerani.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4371890
+    },
+    {
+      "id": "aaf86110051c",
+      "title": "Evvare Nuvvu(Remix)",
+      "normalizedTitle": "evvare nuvvuremix",
+      "trackNumber": 99,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Evvare Nuvvu(Remix).mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Yuvan Shankar Raja",
+        "Rajesh",
+        "Premji Amaren"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4899591
+    },
+    {
+      "id": "314fbb3890c7",
+      "title": "Evvare Nuvvu",
+      "normalizedTitle": "evvare nuvvu",
+      "trackNumber": 100,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Evvare Nuvvu.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Harish Raghavendra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4323627
+    },
+    {
+      "id": "804b7f5f534d",
+      "title": "Evvarineppudu",
+      "normalizedTitle": "evvarineppudu",
+      "trackNumber": 101,
+      "duration": "1:29",
+      "durationSeconds": 89,
+      "audio": "Evvarineppudu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "K.K."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1450803
+    },
+    {
+      "id": "bac44b7c0760",
+      "title": "Evvaro Evvaro",
+      "normalizedTitle": "evvaro evvaro",
+      "trackNumber": 102,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Evvaro Evvaro.mp3",
+      "composer": "Music : Harris Jayaraj | Lyrics : Chandrabose",
+      "singers": [
+        "Karthik",
+        "Priya Hemesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5420959
+    },
+    {
+      "id": "8eb0c75c9643",
+      "title": "Evvaru Emanna Song",
+      "normalizedTitle": "evvaru emanna song",
+      "trackNumber": 103,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Evvaru Emanna Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "R.P. Patnaik",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3956450
+    },
+    {
+      "id": "63f6b4a55d7a",
+      "title": "Feel My Love",
+      "normalizedTitle": "feel my love",
+      "trackNumber": 104,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Feel My Love.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "K.K."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4852533
+    },
+    {
+      "id": "4b464af950a2",
+      "title": "Gaali Vaaluga",
+      "normalizedTitle": "gaali vaaluga",
+      "trackNumber": 105,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Gaali Vaaluga.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4348118
+    },
+    {
+      "id": "ee1e010f98ae",
+      "title": "Gagananiki",
+      "normalizedTitle": "gagananiki",
+      "trackNumber": 106,
+      "duration": "5:55",
+      "durationSeconds": 355,
+      "audio": "Gagananiki.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Keerthy Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5777888
+    },
+    {
+      "id": "6527169aeab2",
+      "title": "Gali Vanalo Vana",
+      "normalizedTitle": "gali vanalo vana",
+      "trackNumber": 107,
+      "duration": "6:13",
+      "durationSeconds": 373,
+      "audio": "Gali Vanalo Vana.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5981039
+    },
+    {
+      "id": "76f524769a8a",
+      "title": "Gelupu Thalupule",
+      "normalizedTitle": "gelupu thalupule",
+      "trackNumber": 108,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "Gelupu Thalupule.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Trisha Krishnan",
+        "Kruthi Kharbanda"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5152632
+    },
+    {
+      "id": "f6c9a9f70c77",
+      "title": "Ghal Ghal Ghal",
+      "normalizedTitle": "ghal ghal ghal",
+      "trackNumber": 109,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Ghal Ghal Ghal.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5166980
+    },
+    {
+      "id": "856563bdfd58",
+      "title": "Gucchi Gucchi",
+      "normalizedTitle": "gucchi gucchi",
+      "trackNumber": 110,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Gucchi Gucchi.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Harish Raghavendra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5402789
+    },
+    {
+      "id": "2dff952e81cc",
+      "title": "Gunde Enduku Echavura",
+      "normalizedTitle": "gunde enduku echavura",
+      "trackNumber": 111,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Gunde Enduku Echavura.mp3",
+      "composer": "Ghantaadi Krishna",
+      "singers": [
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5365362
+    },
+    {
+      "id": "4c6837b4649e",
+      "title": "Gunde Ninda Gudi",
+      "normalizedTitle": "gunde ninda gudi",
+      "trackNumber": 112,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Gunde Ninda Gudi.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4360193
+    },
+    {
+      "id": "4bcdafe3c2eb",
+      "title": "Gundello Yemundo",
+      "normalizedTitle": "gundello yemundo",
+      "trackNumber": 113,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Gundello Yemundo.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "KK"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3738859
+    },
+    {
+      "id": "eb67acd4b1f6",
+      "title": "Gundelonaa",
+      "normalizedTitle": "gundelonaa",
+      "trackNumber": 114,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Gundelonaa.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Sowjanya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4138443
+    },
+    {
+      "id": "b8b77e10cf7e",
+      "title": "Gunnamavi Song",
+      "normalizedTitle": "gunnamavi song",
+      "trackNumber": 115,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Gunnamavi Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Mallikarjun",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4169619
+    },
+    {
+      "id": "6b716f1a4e98",
+      "title": "Gurtu kochina appudualla",
+      "normalizedTitle": "gurtu kochina appudualla",
+      "trackNumber": 116,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Gurtu kochina appudualla.mp3",
+      "composer": "Ramu",
+      "singers": [
+        "Ramu"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 11580800
+    },
+    {
+      "id": "ab70e28b402d",
+      "title": "Hayirabba Hayirabba",
+      "normalizedTitle": "hayirabba hayirabba",
+      "trackNumber": 117,
+      "duration": "7:14",
+      "durationSeconds": 434,
+      "audio": "Hayirabba Hayirabba.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6962825
+    },
+    {
+      "id": "e71bef803a30",
+      "title": "Hello Neredu",
+      "normalizedTitle": "hello neredu",
+      "trackNumber": 118,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Hello Neredu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4478894
+    },
+    {
+      "id": "af4268537385",
+      "title": "Hrudayam",
+      "normalizedTitle": "hrudayam",
+      "trackNumber": 119,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Hrudayam.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Allu Arjun",
+        "Sheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3765788
+    },
+    {
+      "id": "1da37f809d99",
+      "title": "Hrudayama",
+      "normalizedTitle": "hrudayama",
+      "trackNumber": 120,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Hrudayama.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5520192
+    },
+    {
+      "id": "b98d27fc8617",
+      "title": "Hrudhayam Jaripe",
+      "normalizedTitle": "hrudhayam jaripe",
+      "trackNumber": 121,
+      "duration": "3:12",
+      "durationSeconds": 192,
+      "audio": "Hrudhayam Jaripe.mp3",
+      "composer": "Vishal Chandrashekar",
+      "singers": [
+        "Vishal Chandrashekhar",
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3147991
+    },
+    {
+      "id": "6bf309afe82f",
+      "title": "Ichate Nenichate",
+      "normalizedTitle": "ichate nenichate",
+      "trackNumber": 122,
+      "duration": "5:26",
+      "durationSeconds": 326,
+      "audio": "Ichate Nenichate.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5243385
+    },
+    {
+      "id": "51be97d55160",
+      "title": "Inkem Inkem Inkem Kaavaale",
+      "normalizedTitle": "inkem inkem inkem kaavaale",
+      "trackNumber": 123,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Inkem Inkem Inkem Kaavaale.mp3",
+      "composer": "Music: Gopi Sundar | Lyrics: Anantha Sriram, Shree Mani, Sagar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4922877
+    },
+    {
+      "id": "14c8e8df28b4",
+      "title": "Inkosaari Inkosaari",
+      "normalizedTitle": "inkosaari inkosaari",
+      "trackNumber": 124,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Inkosaari Inkosaari.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Shreya Ghoshal",
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3756800
+    },
+    {
+      "id": "5f1fbf5e41ae",
+      "title": "Inthakaalam",
+      "normalizedTitle": "inthakaalam",
+      "trackNumber": 125,
+      "duration": "5:57",
+      "durationSeconds": 357,
+      "audio": "Inthakaalam.mp3",
+      "composer": "Music : Ilayaraja | Lyrics : -",
+      "singers": [
+        "Ramya Nsk"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5789502
+    },
+    {
+      "id": "a777b6a0bd66",
+      "title": "Inthaku (Female)",
+      "normalizedTitle": "inthaku female",
+      "trackNumber": 126,
+      "duration": "2:41",
+      "durationSeconds": 161,
+      "audio": "Inthaku (Female).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Karthik",
+        "Shreya Goshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2601841
+    },
+    {
+      "id": "952fed1f5a1d",
+      "title": "Inthaku Nuvveva",
+      "normalizedTitle": "inthaku nuvveva",
+      "trackNumber": 127,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Inthaku Nuvveva.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4578374
+    },
+    {
+      "id": "3fdc74c7dd5f",
+      "title": "Inthalo Ennenni (Female)",
+      "normalizedTitle": "inthalo ennenni female",
+      "trackNumber": 128,
+      "duration": "2:31",
+      "durationSeconds": 151,
+      "audio": "Inthalo Ennenni (Female).mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Chinmaye"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2513195
+    },
+    {
+      "id": "8de633fbe9fb",
+      "title": "Inthalo Ennenni (Male)",
+      "normalizedTitle": "inthalo ennenni male",
+      "trackNumber": 129,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Inthalo Ennenni (Male).mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Naresh Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4250235
+    },
+    {
+      "id": "b1fa1fc81503",
+      "title": "Jabilli Kosam (Female)",
+      "normalizedTitle": "jabilli kosam female",
+      "trackNumber": 130,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Jabilli Kosam (Female).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3624586
+    },
+    {
+      "id": "90b5c59ee965",
+      "title": "Jabilli Kosam (Male)",
+      "normalizedTitle": "jabilli kosam male",
+      "trackNumber": 131,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Jabilli Kosam (Male).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4287052
+    },
+    {
+      "id": "4759e5ddfa07",
+      "title": "Jagame Maayaa",
+      "normalizedTitle": "jagame maayaa",
+      "trackNumber": 132,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Jagame Maayaa.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Ghantasala"
+      ],
+      "bitrate": 208308,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5678054
+    },
+    {
+      "id": "146797f7544c",
+      "title": "Janma Needele",
+      "normalizedTitle": "janma needele",
+      "trackNumber": 133,
+      "duration": "6:16",
+      "durationSeconds": 376,
+      "audio": "Janma Needele.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6049984
+    },
+    {
+      "id": "3b9f3d7898c3",
+      "title": "Kaathalae Kaathalae",
+      "normalizedTitle": "kaathalae kaathalae",
+      "trackNumber": 134,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Kaathalae Kaathalae.mp3",
+      "composer": "Govind Vasantha",
+      "singers": [
+        "Kalyani Menon",
+        "Govind Vasantha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3306434
+    },
+    {
+      "id": "e2431a80de2e",
+      "title": "Kadalalle",
+      "normalizedTitle": "kadalalle",
+      "trackNumber": 135,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Kadalalle.mp3",
+      "composer": "Justin Prabhakaran",
+      "singers": [
+        "Justin Prabhakaran",
+        "Aishwarya Ravichandran",
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4569850
+    },
+    {
+      "id": "fe2c2a4bf443",
+      "title": "Kadanna Prema",
+      "normalizedTitle": "kadanna prema",
+      "trackNumber": 136,
+      "duration": "6:55",
+      "durationSeconds": 415,
+      "audio": "Kadanna Prema.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6672769
+    },
+    {
+      "id": "554975ff54b8",
+      "title": "Kadile Kaalame",
+      "normalizedTitle": "kadile kaalame",
+      "trackNumber": 137,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Kadile Kaalame.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4722147
+    },
+    {
+      "id": "526cbab6bd95",
+      "title": "Kala Anuko Kala",
+      "normalizedTitle": "kala anuko kala",
+      "trackNumber": 138,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Kala Anuko Kala.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Hariharan",
+        "Mahalaxmi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5174393
+    },
+    {
+      "id": "0764f0cf2cbd",
+      "title": "Kala Idhe Kala Idhe",
+      "normalizedTitle": "kala idhe kala idhe",
+      "trackNumber": 139,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Kala Idhe Kala Idhe.mp3",
+      "composer": "Music: Hari Gaura | Lyrics: Ramajogayya Sastry, Sahithi, Radha Subrahmanyam, Chaitanya Prasad",
+      "singers": [
+        "Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5173929
+    },
+    {
+      "id": "b091a4a9add4",
+      "title": "Kalai Poyenu",
+      "normalizedTitle": "kalai poyenu",
+      "trackNumber": 140,
+      "duration": "5:48",
+      "durationSeconds": 348,
+      "audio": "Kalai Poyenu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Swarnalatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5604855
+    },
+    {
+      "id": "f703aac17550",
+      "title": "Kalala Kadhala",
+      "normalizedTitle": "kalala kadhala",
+      "trackNumber": 141,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Kalala Kadhala.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Harini Ivvaturi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4957138
+    },
+    {
+      "id": "b871c87ec1ab",
+      "title": "Kalalona",
+      "normalizedTitle": "kalalona",
+      "trackNumber": 142,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Kalalona.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4696952
+    },
+    {
+      "id": "7077069cf064",
+      "title": "Kalalu Chusina Kannuley Song",
+      "normalizedTitle": "kalalu chusina kannuley song",
+      "trackNumber": 143,
+      "duration": "2:49",
+      "durationSeconds": 169,
+      "audio": "Kalalu Chusina Kannuley Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2915018
+    },
+    {
+      "id": "d7a1c10ad4b2",
+      "title": "Kalalu Kane Kaalaalu",
+      "normalizedTitle": "kalalu kane kaalaalu",
+      "trackNumber": 144,
+      "duration": "5:29",
+      "durationSeconds": 329,
+      "audio": "Kalalu Kane Kaalaalu.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Harish Raghavendra",
+        "Madhumita",
+        "Ustad Sultan Khan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5493803
+    },
+    {
+      "id": "29d7ef9cadb7",
+      "title": "Kalavaramaye",
+      "normalizedTitle": "kalavaramaye",
+      "trackNumber": 145,
+      "duration": "3:04",
+      "durationSeconds": 184,
+      "audio": "Kalavaramaye.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7395832
+    },
+    {
+      "id": "200a48278190",
+      "title": "Kallaloki Kallu",
+      "normalizedTitle": "kallaloki kallu",
+      "trackNumber": 146,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Kallaloki Kallu.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Chithra K S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4599100
+    },
+    {
+      "id": "bc909a87dc88",
+      "title": "Kallu Moosi Yochisthey",
+      "normalizedTitle": "kallu moosi yochisthey",
+      "trackNumber": 147,
+      "duration": "5:52",
+      "durationSeconds": 352,
+      "audio": "Kallu Moosi Yochisthey.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5654206
+    },
+    {
+      "id": "0849d95ac039",
+      "title": "Kanapadava",
+      "normalizedTitle": "kanapadava",
+      "trackNumber": 148,
+      "duration": "1:16",
+      "durationSeconds": 76,
+      "audio": "Kanapadava.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Anand Aravindakshan"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3078773
+    },
+    {
+      "id": "ddb6adb5b254",
+      "title": "Kannanule",
+      "normalizedTitle": "kannanule",
+      "trackNumber": 149,
+      "duration": "5:54",
+      "durationSeconds": 354,
+      "audio": "Kannanule.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5679690
+    },
+    {
+      "id": "0a0047bd7f3e",
+      "title": "Kannula Baasalu Theliyavule",
+      "normalizedTitle": "kannula baasalu theliyavule",
+      "trackNumber": 150,
+      "duration": "5:51",
+      "durationSeconds": 351,
+      "audio": "Kannula Baasalu Theliyavule.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5840661
+    },
+    {
+      "id": "fd8593d9fca0",
+      "title": "Kannuladha",
+      "normalizedTitle": "kannuladha",
+      "trackNumber": 151,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Kannuladha.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Dhanush",
+        "Shruthi Haassan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3389812
+    },
+    {
+      "id": "11724bf85635",
+      "title": "Kanule Kanele",
+      "normalizedTitle": "kanule kanele",
+      "trackNumber": 152,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Kanule Kanele.mp3",
+      "composer": "Music : Anirudh | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Anirudh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4656124
+    },
+    {
+      "id": "a0bc3efab3ac",
+      "title": "Kanulu Therachi",
+      "normalizedTitle": "kanulu therachi",
+      "trackNumber": 153,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Kanulu Therachi.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4515374
+    },
+    {
+      "id": "dd1f0b9cd89f",
+      "title": "Karige Loga",
+      "normalizedTitle": "karige loga",
+      "trackNumber": 154,
+      "duration": "2:54",
+      "durationSeconds": 174,
+      "audio": "Karige Loga.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2817078
+    },
+    {
+      "id": "8890fea7759d",
+      "title": "Kathalanu Cheppey",
+      "normalizedTitle": "kathalanu cheppey",
+      "trackNumber": 155,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Kathalanu Cheppey.mp3",
+      "composer": "G.V. Prakash Kumar, Vijay Anthony",
+      "singers": [
+        "Rakhi",
+        "Hansika",
+        "Vijay Anthony"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5348340
+    },
+    {
+      "id": "cf6406fa5942",
+      "title": "Koila Paata",
+      "normalizedTitle": "koila paata",
+      "trackNumber": 156,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Koila Paata.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3969863
+    },
+    {
+      "id": "694634b614b6",
+      "title": "Komma Komma",
+      "normalizedTitle": "komma komma",
+      "trackNumber": 157,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Komma Komma.mp3",
+      "composer": "S.A.Rajkumar",
+      "singers": [
+        "K. S. Chithra",
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4673343
+    },
+    {
+      "id": "0a55c4183291",
+      "title": "Kudi Yedamaithe",
+      "normalizedTitle": "kudi yedamaithe",
+      "trackNumber": 158,
+      "duration": "3:11",
+      "durationSeconds": 191,
+      "audio": "Kudi Yedamaithe.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Ghantasala"
+      ],
+      "bitrate": 219696,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5426269
+    },
+    {
+      "id": "b75c4a8a8e76",
+      "title": "Kundanapu Bomma",
+      "normalizedTitle": "kundanapu bomma",
+      "trackNumber": 159,
+      "duration": "5:32",
+      "durationSeconds": 332,
+      "audio": "Kundanapu Bomma.mp3",
+      "composer": "Music : A.R. Rahman | Lyrics : Anantha Sriram | Malayalam Lyrics : Kalyani Menon",
+      "singers": [
+        "Benny Dayal",
+        "Kalyani Menon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5371818
+    },
+    {
+      "id": "6b856b2c6657",
+      "title": "Leharaayi",
+      "normalizedTitle": "leharaayi",
+      "trackNumber": 160,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Leharaayi.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4406656
+    },
+    {
+      "id": "939d3e370d7d",
+      "title": "Love Me Again",
+      "normalizedTitle": "love me again",
+      "trackNumber": 161,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Love Me Again.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sooraj Santhosh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4068705
+    },
+    {
+      "id": "22558b8510de",
+      "title": "Maate Vinadhuga",
+      "normalizedTitle": "maate vinadhuga",
+      "trackNumber": 162,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Maate Vinadhuga.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 124866,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4716508
+    },
+    {
+      "id": "7ac98e08d838",
+      "title": "Madana Mohana",
+      "normalizedTitle": "madana mohana",
+      "trackNumber": 163,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Madana Mohana.mp3",
+      "composer": "Music : Hari | Lyrics : Rakendu Mouli Vennelakanti",
+      "singers": [
+        "Pranavi",
+        "Sp Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4153368
+    },
+    {
+      "id": "a048c87d1e0d",
+      "title": "Madhurame",
+      "normalizedTitle": "madhurame",
+      "trackNumber": 164,
+      "duration": "5:43",
+      "durationSeconds": 343,
+      "audio": "Madhurame.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Sameera Bharadwaj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5878337
+    },
+    {
+      "id": "2e8e41504d1f",
+      "title": "Maguva Maguva",
+      "normalizedTitle": "maguva maguva",
+      "trackNumber": 165,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Maguva Maguva.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4068769
+    },
+    {
+      "id": "307ab10cf5bc",
+      "title": "Maina Emainaave",
+      "normalizedTitle": "maina emainaave",
+      "trackNumber": 166,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Maina Emainaave.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Unni Krishnan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4806189
+    },
+    {
+      "id": "4ea361cd8ddd",
+      "title": "Mainaa Mainaa",
+      "normalizedTitle": "mainaa mainaa",
+      "trackNumber": 167,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Mainaa Mainaa.mp3",
+      "composer": "Music : D. Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Shaan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4440331
+    },
+    {
+      "id": "4cfdb706acbb",
+      "title": "Manasa Manasa",
+      "normalizedTitle": "manasa manasa",
+      "trackNumber": 168,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Manasa Manasa.mp3",
+      "composer": "Gopi Sundar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4240128
+    },
+    {
+      "id": "c94f1d19f93f",
+      "title": "Manasa Mannicha",
+      "normalizedTitle": "manasa mannicha",
+      "trackNumber": 169,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Manasa Mannicha.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Karthik",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4412152
+    },
+    {
+      "id": "deb9141ee1f7",
+      "title": "Manasa Marchipo",
+      "normalizedTitle": "manasa marchipo",
+      "trackNumber": 170,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Manasa Marchipo.mp3",
+      "composer": "Music : Rathan | Lyrics : Laxmi Bhupal",
+      "singers": [
+        "D. Satyaprakash",
+        "Bhargavi Sridhar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4380757
+    },
+    {
+      "id": "ed66a1de1366",
+      "title": "Manasa",
+      "normalizedTitle": "manasa",
+      "trackNumber": 171,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Manasa.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3612319
+    },
+    {
+      "id": "68c88afd3d74",
+      "title": "Manasaa",
+      "normalizedTitle": "manasaa",
+      "trackNumber": 172,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Manasaa.mp3",
+      "composer": "Music : A.R. Rahman | Lyrics : Anantha Sriram",
+      "singers": [
+        "Devan Ekambaram",
+        "Chinmayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4086506
+    },
+    {
+      "id": "028c9061716d",
+      "title": "Manasantha",
+      "normalizedTitle": "manasantha",
+      "trackNumber": 173,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Manasantha.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Ananth Sriram",
+      "singers": [
+        "K.K."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4158547
+    },
+    {
+      "id": "05fdd9c73c0d",
+      "title": "Manasara Mansara",
+      "normalizedTitle": "manasara mansara",
+      "trackNumber": 174,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Manasara Mansara.mp3",
+      "composer": "Suresh Bobbili",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3302048
+    },
+    {
+      "id": "1390bb4add69",
+      "title": "Manasichavanuko",
+      "normalizedTitle": "manasichavanuko",
+      "trackNumber": 175,
+      "duration": "6:03",
+      "durationSeconds": 363,
+      "audio": "Manasichavanuko.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Sonu Nigam",
+        "S.P. Balasubrahmanyam",
+        "Sashana Saragam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6259923
+    },
+    {
+      "id": "91a60823c360",
+      "title": "Manasu Dhari Thappene",
+      "normalizedTitle": "manasu dhari thappene",
+      "trackNumber": 176,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Manasu Dhari Thappene.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3642752
+    },
+    {
+      "id": "6d650b08cdd1",
+      "title": "Manasu Gathi Inthe",
+      "normalizedTitle": "manasu gathi inthe",
+      "trackNumber": 177,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Manasu Gathi Inthe.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9788544
+    },
+    {
+      "id": "71b8df212197",
+      "title": "Manasu Nippula",
+      "normalizedTitle": "manasu nippula",
+      "trackNumber": 178,
+      "duration": "2:45",
+      "durationSeconds": 165,
+      "audio": "Manasu Nippula.mp3",
+      "composer": "Abhiman Roy",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2927945
+    },
+    {
+      "id": "ae16c7693e18",
+      "title": "Manasuna Unnadi (Male)",
+      "normalizedTitle": "manasuna unnadi male",
+      "trackNumber": 179,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Manasuna Unnadi (Male).mp3",
+      "composer": "S A Rajkumar",
+      "singers": [
+        "S.P. Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5351063
+    },
+    {
+      "id": "11a43c22f9da",
+      "title": "Manasuna Unnadi",
+      "normalizedTitle": "manasuna unnadi",
+      "trackNumber": 180,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Manasuna Unnadi.mp3",
+      "composer": "S A Rajkumar",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5349385
+    },
+    {
+      "id": "1b3c070d94f8",
+      "title": "Manasunipatti Daaram Katti",
+      "normalizedTitle": "manasunipatti daaram katti",
+      "trackNumber": 181,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Manasunipatti Daaram Katti.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Haricharan",
+        "Umaneha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3871640
+    },
+    {
+      "id": "e84c0953b662",
+      "title": "Manchu Keratam",
+      "normalizedTitle": "manchu keratam",
+      "trackNumber": 182,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Manchu Keratam.mp3",
+      "composer": "Music : Jithin Roshan | Lyrics : Srimani",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3958700
+    },
+    {
+      "id": "ce78b07f1989",
+      "title": "Manninchu O Prema",
+      "normalizedTitle": "manninchu o prema",
+      "trackNumber": 183,
+      "duration": "5:39",
+      "durationSeconds": 339,
+      "audio": "Manninchu O Prema.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Udit Narayan",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5704046
+    },
+    {
+      "id": "5a295a1cb49e",
+      "title": "Marhaba",
+      "normalizedTitle": "marhaba",
+      "trackNumber": 184,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Marhaba.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "K. S. Chithra",
+        "Aaishwarya",
+        "Gopi Sunder"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4795364
+    },
+    {
+      "id": "c4c9388b462b",
+      "title": "Matalu Rani",
+      "normalizedTitle": "matalu rani",
+      "trackNumber": 185,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Matalu Rani.mp3",
+      "composer": "Music : S.A. Rajkumar | Lyrics : Suddhala Ashok Teja",
+      "singers": [
+        "Jagadeesh",
+        "Ranina Reddy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4792566
+    },
+    {
+      "id": "07367728ead4",
+      "title": "Migilipoya",
+      "normalizedTitle": "migilipoya",
+      "trackNumber": 186,
+      "duration": "1:11",
+      "durationSeconds": 71,
+      "audio": "Migilipoya.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shweta Mohan"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1853300
+    },
+    {
+      "id": "398a050eca87",
+      "title": "Mona Mona",
+      "normalizedTitle": "mona mona",
+      "trackNumber": 187,
+      "duration": "5:41",
+      "durationSeconds": 341,
+      "audio": "Mona Mona.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Hariharan",
+        "Kausalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5590970
+    },
+    {
+      "id": "f9ef37813855",
+      "title": "Mundhugane",
+      "normalizedTitle": "mundhugane",
+      "trackNumber": 188,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Mundhugane.mp3",
+      "composer": "Anoop Rubens",
+      "singers": [
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3420920
+    },
+    {
+      "id": "3c444634590f",
+      "title": "My Love Is Gone",
+      "normalizedTitle": "my love is gone",
+      "trackNumber": 189,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "My Love Is Gone.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4645643
+    },
+    {
+      "id": "be0c858ddc11",
+      "title": "Na Gonthu Shrut",
+      "normalizedTitle": "na gonthu shrut",
+      "trackNumber": 190,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Na Gonthu Shrut.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu",
+        "Chitra"
+      ],
+      "bitrate": 255933,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8165030
+    },
+    {
+      "id": "30f7a70bac33",
+      "title": "Na Prema Kathaku",
+      "normalizedTitle": "na prema kathaku",
+      "trackNumber": 191,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Na Prema Kathaku.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4097055
+    },
+    {
+      "id": "0e3f66712178",
+      "title": "Naa Cheli Rojave",
+      "normalizedTitle": "naa cheli rojave",
+      "trackNumber": 192,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Naa Cheli Rojave.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4796125
+    },
+    {
+      "id": "d3414f0e25b1",
+      "title": "Naa Gundelo",
+      "normalizedTitle": "naa gundelo",
+      "trackNumber": 193,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Naa Gundelo.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sandeep",
+        "Usha",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4694170
+    },
+    {
+      "id": "3052efa90c76",
+      "title": "Naa Madhi Ninnu",
+      "normalizedTitle": "naa madhi ninnu",
+      "trackNumber": 194,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Naa Madhi Ninnu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Mohd.Rafi & S.Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4662289
+    },
+    {
+      "id": "3a58527b7061",
+      "title": "Naa Manasukemay",
+      "normalizedTitle": "naa manasukemay",
+      "trackNumber": 195,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Naa Manasukemay.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Udit Narayan",
+        "Nitya Santoshini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4636934
+    },
+    {
+      "id": "d6532e7aa1e5",
+      "title": "Naa Manasuki",
+      "normalizedTitle": "naa manasuki",
+      "trackNumber": 196,
+      "duration": "5:41",
+      "durationSeconds": 341,
+      "audio": "Naa Manasuki.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Karthik",
+        "Gayathri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5484627
+    },
+    {
+      "id": "afa971a467c2",
+      "title": "Naa Pranam",
+      "normalizedTitle": "naa pranam",
+      "trackNumber": 197,
+      "duration": "6:06",
+      "durationSeconds": 366,
+      "audio": "Naa Pranam.mp3",
+      "composer": "G.V. Prakash Kumar, Vijay Anthony",
+      "singers": [
+        "Chinmayi Sripada",
+        "Haricharan",
+        "Vijay Anthony"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6073079
+    },
+    {
+      "id": "24cb7a61613f",
+      "title": "Naa Prema",
+      "normalizedTitle": "naa prema",
+      "trackNumber": 198,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Naa Prema.mp3",
+      "composer": "G.V.Prakash Kumar",
+      "singers": [
+        "Karthik",
+        "Harini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4522041
+    },
+    {
+      "id": "77e5250b0a25",
+      "title": "Naalo Chilipi Kala (Theme Song)",
+      "normalizedTitle": "naalo chilipi kala theme song",
+      "trackNumber": 199,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Naalo Chilipi Kala (Theme Song).mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3567528
+    },
+    {
+      "id": "678a0889dd00",
+      "title": "Naalo Neeku",
+      "normalizedTitle": "naalo neeku",
+      "trackNumber": 200,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Naalo Neeku.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Shreya Ghosal",
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4496917
+    },
+    {
+      "id": "13a0d05b4968",
+      "title": "Naalo Premey",
+      "normalizedTitle": "naalo premey",
+      "trackNumber": 201,
+      "duration": "6:06",
+      "durationSeconds": 366,
+      "audio": "Naalo Premey.mp3",
+      "composer": "Music : Hari | Lyrics : Radhasubrahmanyam",
+      "singers": [
+        "Hari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6163703
+    },
+    {
+      "id": "43b66e16b904",
+      "title": "Naalona Pongenu",
+      "normalizedTitle": "naalona pongenu",
+      "trackNumber": 202,
+      "duration": "6:14",
+      "durationSeconds": 374,
+      "audio": "Naalona Pongenu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Harish Raghavendra",
+        "Devan",
+        "V. Prasanna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6015827
+    },
+    {
+      "id": "495bf00d12cf",
+      "title": "Naathone Nuvvu",
+      "normalizedTitle": "naathone nuvvu",
+      "trackNumber": 203,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Naathone Nuvvu.mp3",
+      "composer": "Music : Mani Sharma | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Saketh",
+        "Saindhavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4822653
+    },
+    {
+      "id": "90a204f4839b",
+      "title": "Nailu Nadi",
+      "normalizedTitle": "nailu nadi",
+      "trackNumber": 204,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Nailu Nadi.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4250880
+    },
+    {
+      "id": "203aee80715d",
+      "title": "Nailu Nadi Song",
+      "normalizedTitle": "nailu nadi song",
+      "trackNumber": 205,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Nailu Nadi Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4250880
+    },
+    {
+      "id": "020d8f5dea67",
+      "title": "Nammaka Tappani",
+      "normalizedTitle": "nammaka tappani",
+      "trackNumber": 206,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Nammaka Tappani.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4520045
+    },
+    {
+      "id": "3c9dbb0bb543",
+      "title": "Nannu Dhochukonduvate",
+      "normalizedTitle": "nannu dhochukonduvate",
+      "trackNumber": 207,
+      "duration": "3:12",
+      "durationSeconds": 192,
+      "audio": "Nannu Dhochukonduvate.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Ghantasala",
+        "S.Janaki"
+      ],
+      "bitrate": 203842,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4915749
+    },
+    {
+      "id": "9b60f433bc5f",
+      "title": "Nanu Preminchananu (Female)",
+      "normalizedTitle": "nanu preminchananu female",
+      "trackNumber": 208,
+      "duration": "6:00",
+      "durationSeconds": 360,
+      "audio": "Nanu Preminchananu (Female).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5775822
+    },
+    {
+      "id": "48104efebc51",
+      "title": "Nanu Preminchananu (Male)",
+      "normalizedTitle": "nanu preminchananu male",
+      "trackNumber": 209,
+      "duration": "6:11",
+      "durationSeconds": 371,
+      "audio": "Nanu Preminchananu (Male).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5949693
+    },
+    {
+      "id": "35a73384ef21",
+      "title": "Ne Tholi Sariga",
+      "normalizedTitle": "ne tholi sariga",
+      "trackNumber": 210,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Ne Tholi Sariga.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4709229
+    },
+    {
+      "id": "95f6ca9159bc",
+      "title": "Nede Thelisindhi",
+      "normalizedTitle": "nede thelisindhi",
+      "trackNumber": 211,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Nede Thelisindhi.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Mohd.Rafi & S.Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5064784
+    },
+    {
+      "id": "28945fd32eac",
+      "title": "Nee Choopule",
+      "normalizedTitle": "nee choopule",
+      "trackNumber": 212,
+      "duration": "6:02",
+      "durationSeconds": 362,
+      "audio": "Nee Choopule.mp3",
+      "composer": "Music : G.V. Prakash Kumar | Lyrics : Ramajogayya Sastry [Drgm]",
+      "singers": [
+        "Haricharan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5879531
+    },
+    {
+      "id": "bd0b87743cc2",
+      "title": "Nee Jathaleka (Female)",
+      "normalizedTitle": "nee jathaleka female",
+      "trackNumber": 213,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Nee Jathaleka (Female).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6614771
+    },
+    {
+      "id": "6d777cd91afd",
+      "title": "Nee Jathaleka (Male)",
+      "normalizedTitle": "nee jathaleka male",
+      "trackNumber": 214,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Nee Jathaleka (Male).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5918346
+    },
+    {
+      "id": "223d953d700d",
+      "title": "Nee Kannu Neeli Samudram",
+      "normalizedTitle": "nee kannu neeli samudram",
+      "trackNumber": 215,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Nee Kannu Neeli Samudram.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Javed Ali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5399677
+    },
+    {
+      "id": "b6107e357e39",
+      "title": "Nee Kosam",
+      "normalizedTitle": "nee kosam",
+      "trackNumber": 216,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Nee Kosam.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3192019
+    },
+    {
+      "id": "ad2bcf77ab8e",
+      "title": "Nee Kosame",
+      "normalizedTitle": "nee kosame",
+      "trackNumber": 217,
+      "duration": "3:49",
+      "durationSeconds": 229,
+      "audio": "Nee Kosame.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "K.K.",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3696064
+    },
+    {
+      "id": "82815de38cb7",
+      "title": "Nee Meedey",
+      "normalizedTitle": "nee meedey",
+      "trackNumber": 218,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Nee Meedey.mp3",
+      "composer": "Abhiman Roy",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5415196
+    },
+    {
+      "id": "1d041de9506f",
+      "title": "Nee Navve",
+      "normalizedTitle": "nee navve",
+      "trackNumber": 219,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Nee Navve.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4399660
+    },
+    {
+      "id": "936f588fe570",
+      "title": "Nee Navvule",
+      "normalizedTitle": "nee navvule",
+      "trackNumber": 220,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Nee Navvule.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Kumar Sanu",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4078080
+    },
+    {
+      "id": "813b7e42244a",
+      "title": "Nee Paata Madhuram",
+      "normalizedTitle": "nee paata madhuram",
+      "trackNumber": 221,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Nee Paata Madhuram.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Roop Kumar Rathod",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4311030
+    },
+    {
+      "id": "08195887b5e2",
+      "title": "Nee Prashnalu",
+      "normalizedTitle": "nee prashnalu",
+      "trackNumber": 222,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Nee Prashnalu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P.Balasubramanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4261216
+    },
+    {
+      "id": "04eed8f161c8",
+      "title": "Nee Selavdigi",
+      "normalizedTitle": "nee selavdigi",
+      "trackNumber": 223,
+      "duration": "1:37",
+      "durationSeconds": 97,
+      "audio": "Nee Selavdigi.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shwetha Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1868931
+    },
+    {
+      "id": "cb4157797e52",
+      "title": "Nee Sneham",
+      "normalizedTitle": "nee sneham",
+      "trackNumber": 224,
+      "duration": "2:58",
+      "durationSeconds": 178,
+      "audio": "Nee Sneham.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2881905
+    },
+    {
+      "id": "751930a495ed",
+      "title": "Nee Yadalo Naaku",
+      "normalizedTitle": "nee yadalo naaku",
+      "trackNumber": 225,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Nee Yadalo Naaku.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Yuvan Shankar Raja",
+        "Tanvi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4826852
+    },
+    {
+      "id": "82b1b4e45cae",
+      "title": "Neela Neela",
+      "normalizedTitle": "neela neela",
+      "trackNumber": 226,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Neela Neela.mp3",
+      "composer": "Sunil Kashyap",
+      "singers": [
+        "Sunil Kashyap"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3227840
+    },
+    {
+      "id": "3a84ff714db6",
+      "title": "Neelakashamlo",
+      "normalizedTitle": "neelakashamlo",
+      "trackNumber": 227,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Neelakashamlo.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4294571
+    },
+    {
+      "id": "afbb89399847",
+      "title": "Neeli Neeli Aakasam",
+      "normalizedTitle": "neeli neeli aakasam",
+      "trackNumber": 228,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Neeli Neeli Aakasam.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Sid Sriram",
+        "Sunitha"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7105119
+    },
+    {
+      "id": "528b43939e81",
+      "title": "Neeli Neeli Aakasam Song",
+      "normalizedTitle": "neeli neeli aakasam song",
+      "trackNumber": 229,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Neeli Neeli Aakasam Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Sid Sriram",
+        "Sunitha"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7105119
+    },
+    {
+      "id": "f8a55ae85c30",
+      "title": "Neeli Ningilo (Happy)",
+      "normalizedTitle": "neeli ningilo happy",
+      "trackNumber": 230,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Neeli Ningilo (Happy).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3905065
+    },
+    {
+      "id": "27c8fe06353c",
+      "title": "Neeli Ningilo (Sad)",
+      "normalizedTitle": "neeli ningilo sad",
+      "trackNumber": 231,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Neeli Ningilo (Sad).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Hariharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3742893
+    },
+    {
+      "id": "22458e207c6a",
+      "title": "Neeva Devunive",
+      "normalizedTitle": "neeva devunive",
+      "trackNumber": 232,
+      "duration": "1:21",
+      "durationSeconds": 81,
+      "audio": "Neeva Devunive.mp3",
+      "composer": "S.A.Rajkumar",
+      "singers": [
+        "Sujatha Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1717106
+    },
+    {
+      "id": "ffae55146e6e",
+      "title": "Nenai Neevani",
+      "normalizedTitle": "nenai neevani",
+      "trackNumber": 233,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Nenai Neevani.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shweta Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5010605
+    },
+    {
+      "id": "fcecf0980486",
+      "title": "Nenoka Prema",
+      "normalizedTitle": "nenoka prema",
+      "trackNumber": 234,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Nenoka Prema.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 202178,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4934720
+    },
+    {
+      "id": "33cbaf512a12",
+      "title": "Nenugaali Gopuram",
+      "normalizedTitle": "nenugaali gopuram",
+      "trackNumber": 235,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Nenugaali Gopuram.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5160673
+    },
+    {
+      "id": "226979599e19",
+      "title": "Nenunnadi",
+      "normalizedTitle": "nenunnadi",
+      "trackNumber": 236,
+      "duration": "1:23",
+      "durationSeconds": 83,
+      "audio": "Nenunnadi.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Anantha Sriram",
+      "singers": [
+        "Anup Rubens",
+        "Dhanunjay"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1416775
+    },
+    {
+      "id": "42852db8a4c2",
+      "title": "Niddura Pothunna",
+      "normalizedTitle": "niddura pothunna",
+      "trackNumber": 237,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Niddura Pothunna.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4408278
+    },
+    {
+      "id": "6b4987887f20",
+      "title": "Nidhare Kala",
+      "normalizedTitle": "nidhare kala",
+      "trackNumber": 238,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Nidhare Kala.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sudha Raghunathan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5172338
+    },
+    {
+      "id": "cd9bcb0274de",
+      "title": "Nijanga Nenena",
+      "normalizedTitle": "nijanga nenena",
+      "trackNumber": 239,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Nijanga Nenena.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5160221
+    },
+    {
+      "id": "6bbb48064766",
+      "title": "Niluvadhamu Ninu",
+      "normalizedTitle": "niluvadhamu ninu",
+      "trackNumber": 240,
+      "duration": "5:59",
+      "durationSeconds": 359,
+      "audio": "Niluvadhamu Ninu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Karthik",
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5771379
+    },
+    {
+      "id": "c5eace6a0bf6",
+      "title": "Ninnala Lede Song",
+      "normalizedTitle": "ninnala lede song",
+      "trackNumber": 241,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Ninnala Lede Song.mp3",
+      "composer": "Music : Sunil Kashyap | Lyrics : Sira Sri",
+      "singers": [
+        "Dinker",
+        "Chaitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3897364
+    },
+    {
+      "id": "7894217d686a",
+      "title": "Ninne Ninne",
+      "normalizedTitle": "ninne ninne",
+      "trackNumber": 242,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Ninne Ninne.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Srimani",
+      "singers": [
+        "Nikhil D'souza",
+        "Chaitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4030661
+    },
+    {
+      "id": "83d1200f7a99",
+      "title": "Ninne",
+      "normalizedTitle": "ninne",
+      "trackNumber": 243,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Ninne.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Chakri",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4494352
+    },
+    {
+      "id": "6c304583861f",
+      "title": "Ninnila",
+      "normalizedTitle": "ninnila",
+      "trackNumber": 244,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Ninnila.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Armaan Malik",
+        "S S Thaman"
+      ],
+      "bitrate": 319693,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9649457
+    },
+    {
+      "id": "5a67b90da32c",
+      "title": "Ninnu Chuse Anandamlo",
+      "normalizedTitle": "ninnu chuse anandamlo",
+      "trackNumber": 245,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Ninnu Chuse Anandamlo.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5032074
+    },
+    {
+      "id": "446517b2b8f0",
+      "title": "Ninnu Chusina",
+      "normalizedTitle": "ninnu chusina",
+      "trackNumber": 246,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Ninnu Chusina.mp3",
+      "composer": "Music : Anup Rubens | Lyrics : Anantha Sriram",
+      "singers": [
+        "Anup Rubens",
+        "Aishwarya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4309061
+    },
+    {
+      "id": "b77338afecbf",
+      "title": "Nuvu Choodu Chudakapo",
+      "normalizedTitle": "nuvu choodu chudakapo",
+      "trackNumber": 247,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Nuvu Choodu Chudakapo.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Ganga",
+        "M. M. Keeravani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5094560
+    },
+    {
+      "id": "34c29658a14e",
+      "title": "Nuvvante Ishtam",
+      "normalizedTitle": "nuvvante ishtam",
+      "trackNumber": 248,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Nuvvante Ishtam.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Rajesh",
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4866403
+    },
+    {
+      "id": "e48c09ec9e4e",
+      "title": "Nuvvante Pranamani",
+      "normalizedTitle": "nuvvante pranamani",
+      "trackNumber": 249,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Nuvvante Pranamani.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Vijay Yesudas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3851231
+    },
+    {
+      "id": "39ded8ad4220",
+      "title": "Nuvve Naku Pranam",
+      "normalizedTitle": "nuvve naku pranam",
+      "trackNumber": 250,
+      "duration": "3:51",
+      "durationSeconds": 231,
+      "audio": "Nuvve Naku Pranam.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "K.K.",
+        "Usha",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3732452
+    },
+    {
+      "id": "c57981fa6c23",
+      "title": "Nuvve Nuvve",
+      "normalizedTitle": "nuvve nuvve",
+      "trackNumber": 251,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Nuvve Nuvve.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4652334
+    },
+    {
+      "id": "03f8b5641631",
+      "title": "Nuvvika Ravani (Female)",
+      "normalizedTitle": "nuvvika ravani female",
+      "trackNumber": 252,
+      "duration": "1:23",
+      "durationSeconds": 83,
+      "audio": "Nuvvika Ravani (Female).mp3",
+      "composer": "Karthik Kodakandla",
+      "singers": [
+        "Pranavi Acharya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1478583
+    },
+    {
+      "id": "e918a50be2d1",
+      "title": "Nuvvika Ravani (Male)",
+      "normalizedTitle": "nuvvika ravani male",
+      "trackNumber": 253,
+      "duration": "7:02",
+      "durationSeconds": 422,
+      "audio": "Nuvvika Ravani (Male).mp3",
+      "composer": "Karthik Kodakandla",
+      "singers": [
+        "Vedala Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6905783
+    },
+    {
+      "id": "dd963fd7ad13",
+      "title": "Nuvvila",
+      "normalizedTitle": "nuvvila",
+      "trackNumber": 254,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Nuvvila.mp3",
+      "composer": "Music : Shekar Chandra | Lyrics : Bhaskarabhatla, Ananth Sriram",
+      "singers": [
+        "Krishna Chaitanya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3914133
+    },
+    {
+      "id": "6ff0794efd16",
+      "title": "Nuvvu Naatho Emannavo",
+      "normalizedTitle": "nuvvu naatho emannavo",
+      "trackNumber": 255,
+      "duration": "5:40",
+      "durationSeconds": 340,
+      "audio": "Nuvvu Naatho Emannavo.mp3",
+      "composer": "S.Thaman",
+      "singers": [
+        "S.P. Balasubramanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5891968
+    },
+    {
+      "id": "29012bdd4833",
+      "title": "Nuvvu Nenu",
+      "normalizedTitle": "nuvvu nenu",
+      "trackNumber": 256,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Nuvvu Nenu.mp3",
+      "composer": "Music : D. Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Benny Dayal",
+        "Shreya Goshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4783930
+    },
+    {
+      "id": "67d8f13bab7b",
+      "title": "Nuvvu Yevvari Edhalo",
+      "normalizedTitle": "nuvvu yevvari edhalo",
+      "trackNumber": 257,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Nuvvu Yevvari Edhalo.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3957744
+    },
+    {
+      "id": "afa903c8c450",
+      "title": "Nuvvunte Naa Jathaga",
+      "normalizedTitle": "nuvvunte naa jathaga",
+      "trackNumber": 258,
+      "duration": "5:50",
+      "durationSeconds": 350,
+      "audio": "Nuvvunte Naa Jathaga.mp3",
+      "composer": "Music: Ar Rahman | Lyrics: C㏊ndrabose, Anant㏊ Sriram, Ramajogayya Saﬅry",
+      "singers": [
+        "Sid Sriram & Isshrathquadhre"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5709121
+    },
+    {
+      "id": "4a06352fb651",
+      "title": "Nuvvunte Naa Jathagaa (Reprise)",
+      "normalizedTitle": "nuvvunte naa jathagaa reprise",
+      "trackNumber": 259,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Nuvvunte Naa Jathagaa (Reprise).mp3",
+      "composer": "Music: Ar Rahman | Lyrics: C㏊ndrabose, Anant㏊ Sriram, Ramajogayya Saﬅry",
+      "singers": [
+        "Isshrathquadhre & Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4147645
+    },
+    {
+      "id": "07bbb78164fb",
+      "title": "Nuvvunte",
+      "normalizedTitle": "nuvvunte",
+      "trackNumber": 260,
+      "duration": "5:13",
+      "durationSeconds": 313,
+      "audio": "Nuvvunte.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sagar",
+        "Sumangaly"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5045632
+    },
+    {
+      "id": "f44617c1f719",
+      "title": "O Cheli Nuvve",
+      "normalizedTitle": "o cheli nuvve",
+      "trackNumber": 261,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "O Cheli Nuvve.mp3",
+      "composer": "Music : Anoop Rubens | Lyrics : Phani Chandra",
+      "singers": [
+        "Adnan Sami",
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3971574
+    },
+    {
+      "id": "6574827ddce1",
+      "title": "O Cheliya",
+      "normalizedTitle": "o cheliya",
+      "trackNumber": 262,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "O Cheliya.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4986296
+    },
+    {
+      "id": "84e2ec83d7f2",
+      "title": "O Maguva",
+      "normalizedTitle": "o maguva",
+      "trackNumber": 263,
+      "duration": "5:59",
+      "durationSeconds": 359,
+      "audio": "O Maguva.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5769945
+    },
+    {
+      "id": "c1d2cf3ff41b",
+      "title": "O Manali O Mana",
+      "normalizedTitle": "o manali o mana",
+      "trackNumber": 264,
+      "duration": "5:31",
+      "durationSeconds": 331,
+      "audio": "O Manali O Mana.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5316066
+    },
+    {
+      "id": "890946908a25",
+      "title": "O Manasa Omanasa",
+      "normalizedTitle": "o manasa omanasa",
+      "trackNumber": 265,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "O Manasa Omanasa.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3923474
+    },
+    {
+      "id": "b31b589f33b1",
+      "title": "O Picchi Prema",
+      "normalizedTitle": "o picchi prema",
+      "trackNumber": 266,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "O Picchi Prema.mp3",
+      "composer": "Music : Shekar Chandra | Lyrics : Bhaskarabhatla, Ananth Sriram",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4401050
+    },
+    {
+      "id": "f3a6e7c105e2",
+      "title": "O Prema Na Prema",
+      "normalizedTitle": "o prema na prema",
+      "trackNumber": 267,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "O Prema Na Prema.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 218736,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8507139
+    },
+    {
+      "id": "417b5ce03fa6",
+      "title": "O Premaa",
+      "normalizedTitle": "o premaa",
+      "trackNumber": 268,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "O Premaa.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5105484
+    },
+    {
+      "id": "06d1fc97a885",
+      "title": "O Priiyatama",
+      "normalizedTitle": "o priiyatama",
+      "trackNumber": 269,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "O Priiyatama.mp3",
+      "composer": "Koti",
+      "singers": [
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5203244
+    },
+    {
+      "id": "7bd91d2f629a",
+      "title": "O Priya",
+      "normalizedTitle": "o priya",
+      "trackNumber": 270,
+      "duration": "5:46",
+      "durationSeconds": 346,
+      "audio": "O Priya.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu",
+        "Chitra",
+        "Chorus"
+      ],
+      "bitrate": 275390,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11959374
+    },
+    {
+      "id": "a4b64469f735",
+      "title": "O Saathiya",
+      "normalizedTitle": "o saathiya",
+      "trackNumber": 271,
+      "duration": "5:45",
+      "durationSeconds": 345,
+      "audio": "O Saathiya.mp3",
+      "composer": "Music : Chakri | Lyrics : Balaji",
+      "singers": [
+        "K.K."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5607127
+    },
+    {
+      "id": "bd16811b94da",
+      "title": "Oh I Miss You",
+      "normalizedTitle": "oh i miss you",
+      "trackNumber": 272,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Oh I Miss You.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Raghu Kunche"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5168609
+    },
+    {
+      "id": "d5ccc462e93a",
+      "title": "Oh Paavurama",
+      "normalizedTitle": "oh paavurama",
+      "trackNumber": 273,
+      "duration": "8:08",
+      "durationSeconds": 488,
+      "audio": "Oh Paavurama.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7812119
+    },
+    {
+      "id": "0c508e4829e8",
+      "title": "Oka Devata Vela (Female)",
+      "normalizedTitle": "oka devata vela female",
+      "trackNumber": 274,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Oka Devata Vela (Female).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3978258
+    },
+    {
+      "id": "f4809117787e",
+      "title": "Oka Devata Vela (Male)",
+      "normalizedTitle": "oka devata vela male",
+      "trackNumber": 275,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Oka Devata Vela (Male).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4569672
+    },
+    {
+      "id": "2711f20620be",
+      "title": "Okariki Okarani",
+      "normalizedTitle": "okariki okarani",
+      "trackNumber": 276,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Okariki Okarani.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3744256
+    },
+    {
+      "id": "f7be87ab7602",
+      "title": "Oke Oka Mata",
+      "normalizedTitle": "oke oka mata",
+      "trackNumber": 277,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Oke Oka Mata.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6626622
+    },
+    {
+      "id": "9187b0f0ed17",
+      "title": "Okey Oka Lokam",
+      "normalizedTitle": "okey oka lokam",
+      "trackNumber": 278,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Okey Oka Lokam.mp3",
+      "composer": "Arun Chiluveru",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3598336
+    },
+    {
+      "id": "933af6f30430",
+      "title": "Okey Oka Lokam Song",
+      "normalizedTitle": "okey oka lokam song",
+      "trackNumber": 279,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Okey Oka Lokam Song.mp3",
+      "composer": "Arun Chiluveru",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3598336
+    },
+    {
+      "id": "e345657e9824",
+      "title": "Okkasari Cheppaleva",
+      "normalizedTitle": "okkasari cheppaleva",
+      "trackNumber": 280,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Okkasari Cheppaleva.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Kumar Sanu",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5107142
+    },
+    {
+      "id": "9109c88fc5d2",
+      "title": "Okkasari Pilichavante",
+      "normalizedTitle": "okkasari pilichavante",
+      "trackNumber": 281,
+      "duration": "5:37",
+      "durationSeconds": 337,
+      "audio": "Okkasari Pilichavante.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "Udit Narayan",
+        "Mahalakshmi Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6076898
+    },
+    {
+      "id": "245873362c44",
+      "title": "Om Namaha",
+      "normalizedTitle": "om namaha",
+      "trackNumber": 282,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Om Namaha.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Balu",
+        "S. Janaki"
+      ],
+      "bitrate": 291891,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9011247
+    },
+    {
+      "id": "f08602acc9a3",
+      "title": "Oohale",
+      "normalizedTitle": "oohale",
+      "trackNumber": 283,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Oohale.mp3",
+      "composer": "Govind Vasantha",
+      "singers": [
+        "Chinmayi Sripaada",
+        "Govind Vasantha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5208962
+    },
+    {
+      "id": "551198310f44",
+      "title": "Oohalu Gusa Gusa",
+      "normalizedTitle": "oohalu gusa gusa",
+      "trackNumber": 284,
+      "duration": "3:45",
+      "durationSeconds": 225,
+      "audio": "Oohalu Gusa Gusa.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Ghantasala",
+        "P.Susheela"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 1,
+      "fileSize": 3718080
+    },
+    {
+      "id": "86346ce90228",
+      "title": "Ooruko Hrudayama",
+      "normalizedTitle": "ooruko hrudayama",
+      "trackNumber": 285,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Ooruko Hrudayama.mp3",
+      "composer": "R.P.Patnayak",
+      "singers": [
+        "R.P. Patnaik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3470749
+    },
+    {
+      "id": "fec5028f7f7d",
+      "title": "Oosupodu",
+      "normalizedTitle": "oosupodu",
+      "trackNumber": 286,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Oosupodu.mp3",
+      "composer": "Shakthikanth Karthick",
+      "singers": [
+        "Hemachandra"
+      ],
+      "bitrate": 319698,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11387085
+    },
+    {
+      "id": "9be0c9c07af3",
+      "title": "Ori Vaari",
+      "normalizedTitle": "ori vaari",
+      "trackNumber": 287,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Ori Vaari.mp3",
+      "composer": "Santhosh Narayanan",
+      "singers": [
+        "Santhosh Narayanan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3327876
+    },
+    {
+      "id": "7d7d410de065",
+      "title": "Osari Preminchaka",
+      "normalizedTitle": "osari preminchaka",
+      "trackNumber": 288,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Osari Preminchaka.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "KK"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3738859
+    },
+    {
+      "id": "d8332e765e74",
+      "title": "Padahaarellaina",
+      "normalizedTitle": "padahaarellaina",
+      "trackNumber": 289,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Padahaarellaina.mp3",
+      "composer": "Music: Achu | Lyrics: Manchu Manoj",
+      "singers": [
+        "Ch㏌mayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3428040
+    },
+    {
+      "id": "6e59d3766deb",
+      "title": "Padam Kadalanan",
+      "normalizedTitle": "padam kadalanan",
+      "trackNumber": 290,
+      "duration": "1:10",
+      "durationSeconds": 70,
+      "audio": "Padam Kadalanan.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1150804
+    },
+    {
+      "id": "b3f5a2ea7635",
+      "title": "Padi Padi Leche Manasu",
+      "normalizedTitle": "padi padi leche manasu",
+      "trackNumber": 291,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Padi Padi Leche Manasu.mp3",
+      "composer": "Vishal Chandrashekar",
+      "singers": [
+        "Armaan Malik",
+        "Sinduri Vishal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3325608
+    },
+    {
+      "id": "f6e9b1484297",
+      "title": "Paravaledhu",
+      "normalizedTitle": "paravaledhu",
+      "trackNumber": 292,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Paravaledhu.mp3",
+      "composer": "Music : Shekar Chandra | Lyrics : Bhaskarabhatla, Ananth Sriram",
+      "singers": [
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4331677
+    },
+    {
+      "id": "45fe025208b2",
+      "title": "Paruvam Vanaga",
+      "normalizedTitle": "paruvam vanaga",
+      "trackNumber": 293,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "Paruvam Vanaga.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5084098
+    },
+    {
+      "id": "17346a00c754",
+      "title": "Patala Pallakivai (Female)",
+      "normalizedTitle": "patala pallakivai female",
+      "trackNumber": 294,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Patala Pallakivai (Female).mp3",
+      "composer": "S.A.Rajkumar",
+      "singers": [
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5198310
+    },
+    {
+      "id": "aeaf753cb119",
+      "title": "Patala Pallakivai (Male)",
+      "normalizedTitle": "patala pallakivai male",
+      "trackNumber": 295,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Patala Pallakivai (Male).mp3",
+      "composer": "S.A.Rajkumar",
+      "singers": [
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4869614
+    },
+    {
+      "id": "37f1ecf816f1",
+      "title": "Pavuraniki Panjaraniki",
+      "normalizedTitle": "pavuraniki panjaraniki",
+      "trackNumber": 296,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Pavuraniki Panjaraniki.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "SP.Balu"
+      ],
+      "bitrate": 213672,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7771042
+    },
+    {
+      "id": "d751595b6d87",
+      "title": "Pedavi Datani Matoka",
+      "normalizedTitle": "pedavi datani matoka",
+      "trackNumber": 297,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Pedavi Datani Matoka.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Preeti Jhangiani",
+        "Aditi Govitrikar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4506575
+    },
+    {
+      "id": "6a15315d5806",
+      "title": "Pilichina",
+      "normalizedTitle": "pilichina",
+      "trackNumber": 298,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Pilichina.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Ravi Varma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5167258
+    },
+    {
+      "id": "52a7ced5648c",
+      "title": "Pilla O Pilla",
+      "normalizedTitle": "pilla o pilla",
+      "trackNumber": 299,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Pilla O Pilla.mp3",
+      "composer": "Music: Achu | Lyrics: Manchu Manoj",
+      "singers": [
+        "Karthick"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3940036
+    },
+    {
+      "id": "603f9c95bc2b",
+      "title": "Pilla Raa (Female Version)",
+      "normalizedTitle": "pilla raa female version",
+      "trackNumber": 300,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Pilla Raa (Female Version).mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Spoorthi Jithender"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5985391
+    },
+    {
+      "id": "d26bb1bfcedb",
+      "title": "Pillaa Raa",
+      "normalizedTitle": "pillaa raa",
+      "trackNumber": 301,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Pillaa Raa.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4078945
+    },
+    {
+      "id": "888c7b5a9521",
+      "title": "Po Pove Yekantham",
+      "normalizedTitle": "po pove yekantham",
+      "trackNumber": 302,
+      "duration": "3:41",
+      "durationSeconds": 221,
+      "audio": "Po Pove Yekantham.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3634864
+    },
+    {
+      "id": "e1545f05a27d",
+      "title": "Podde Erugani",
+      "normalizedTitle": "podde erugani",
+      "trackNumber": 303,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Podde Erugani.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Venkatesh",
+        "Raasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4415890
+    },
+    {
+      "id": "fba02940a5c4",
+      "title": "Poolane Kunukey",
+      "normalizedTitle": "poolane kunukey",
+      "trackNumber": 304,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Poolane Kunukey.mp3",
+      "composer": "Music: Ar Rahman | Lyrics: C㏊ndrabose, Anant㏊ Sriram, Ramajogayya Saﬅry",
+      "singers": [
+        "Haric㏊ran & Shreya Ghos㏊l"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4996914
+    },
+    {
+      "id": "fa8cd8dbeeb7",
+      "title": "Poovullo Daagunna",
+      "normalizedTitle": "poovullo daagunna",
+      "trackNumber": 305,
+      "duration": "6:56",
+      "durationSeconds": 416,
+      "audio": "Poovullo Daagunna.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6673179
+    },
+    {
+      "id": "41066cae91c4",
+      "title": "Pothe Ponee Pora",
+      "normalizedTitle": "pothe ponee pora",
+      "trackNumber": 306,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Pothe Ponee Pora.mp3",
+      "composer": "Music: Achu | Lyrics: Manchu Manoj",
+      "singers": [
+        "Manchu Manoj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3670051
+    },
+    {
+      "id": "1d89243abb31",
+      "title": "Pranam Pothunna",
+      "normalizedTitle": "pranam pothunna",
+      "trackNumber": 307,
+      "duration": "3:51",
+      "durationSeconds": 231,
+      "audio": "Pranam Pothunna.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Yuvan Shankar Raja"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3771757
+    },
+    {
+      "id": "1997dbd3d738",
+      "title": "Pranam Poye Badha",
+      "normalizedTitle": "pranam poye badha",
+      "trackNumber": 308,
+      "duration": "2:42",
+      "durationSeconds": 162,
+      "audio": "Pranam Poye Badha.mp3",
+      "composer": "Music : Yuvan Shankar Raja | Lyrics : Manoj Manchu",
+      "singers": [
+        "Yuvan Shankar Raja"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2688956
+    },
+    {
+      "id": "bc7172fb879e",
+      "title": "Pranam",
+      "normalizedTitle": "pranam",
+      "trackNumber": 309,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Pranam.mp3",
+      "composer": "Govind Vasantha",
+      "singers": [
+        "Chinmayi Sripaada",
+        "Gowtham Bharadwaj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3628843
+    },
+    {
+      "id": "b01b2aa6808f",
+      "title": "Pranamlo Pranamga",
+      "normalizedTitle": "pranamlo pranamga",
+      "trackNumber": 310,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Pranamlo Pranamga.mp3",
+      "composer": "Kalyani Malik",
+      "singers": [
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4756175
+    },
+    {
+      "id": "bab40872431a",
+      "title": "Prema Ane",
+      "normalizedTitle": "prema ane",
+      "trackNumber": 311,
+      "duration": "6:41",
+      "durationSeconds": 401,
+      "audio": "Prema Ane.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "S.P. Balu",
+        "Swarnalatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6928661
+    },
+    {
+      "id": "d2501b6ef449",
+      "title": "Prema Endukani",
+      "normalizedTitle": "prema endukani",
+      "trackNumber": 312,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Prema Endukani.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Rajesh",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4382389
+    },
+    {
+      "id": "1049bdaccae4",
+      "title": "Prema Enta",
+      "normalizedTitle": "prema enta",
+      "trackNumber": 313,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Prema Enta.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P.Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4175483
+    },
+    {
+      "id": "3664f3559b90",
+      "title": "Prema Kosamai Valalo",
+      "normalizedTitle": "prema kosamai valalo",
+      "trackNumber": 314,
+      "duration": "2:48",
+      "durationSeconds": 168,
+      "audio": "Prema Kosamai Valalo.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6762624
+    },
+    {
+      "id": "515ef61e8803",
+      "title": "Prema O Prema Song",
+      "normalizedTitle": "prema o prema song",
+      "trackNumber": 315,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Prema O Prema Song.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "K.K."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3362084
+    },
+    {
+      "id": "f315dca00a9d",
+      "title": "Prema O Premaa",
+      "normalizedTitle": "prema o premaa",
+      "trackNumber": 316,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Prema O Premaa.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "Sid Sriram",
+        "Hemambika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4700928
+    },
+    {
+      "id": "25f3e9d41b13",
+      "title": "Prema Oh Prema",
+      "normalizedTitle": "prema oh prema",
+      "trackNumber": 317,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Prema Oh Prema.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Venkatesh",
+        "Raasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4418798
+    },
+    {
+      "id": "71f8898ada7e",
+      "title": "Prema Prema",
+      "normalizedTitle": "prema prema",
+      "trackNumber": 318,
+      "duration": "2:00",
+      "durationSeconds": 120,
+      "audio": "Prema Prema.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Unni Krishnan"
+      ],
+      "bitrate": 205165,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3119370
+    },
+    {
+      "id": "c3fc9dfee4cd",
+      "title": "Prema Pusene",
+      "normalizedTitle": "prema pusene",
+      "trackNumber": 319,
+      "duration": "2:43",
+      "durationSeconds": 163,
+      "audio": "Prema Pusene.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2764081
+    },
+    {
+      "id": "893e78e6f469",
+      "title": "Premaku Maranam",
+      "normalizedTitle": "premaku maranam",
+      "trackNumber": 320,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Premaku Maranam.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 171023,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4275358
+    },
+    {
+      "id": "598e2f1186b1",
+      "title": "Premaledani",
+      "normalizedTitle": "premaledani",
+      "trackNumber": 321,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Premaledani.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P.Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4570037
+    },
+    {
+      "id": "18060d27758b",
+      "title": "Premante Yemita",
+      "normalizedTitle": "premante yemita",
+      "trackNumber": 322,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Premante Yemita.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4897689
+    },
+    {
+      "id": "d3b211a50915",
+      "title": "Preminchadame",
+      "normalizedTitle": "preminchadame",
+      "trackNumber": 323,
+      "duration": "2:09",
+      "durationSeconds": 129,
+      "audio": "Preminchadame.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Srinivas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2096548
+    },
+    {
+      "id": "8429064e8331",
+      "title": "Preminchanani",
+      "normalizedTitle": "preminchanani",
+      "trackNumber": 324,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Preminchanani.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6000224
+    },
+    {
+      "id": "8fcd113d2aab",
+      "title": "Preminchava",
+      "normalizedTitle": "preminchava",
+      "trackNumber": 325,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Preminchava.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Anupama Deshpande",
+        "Balasubramanyam S P",
+        "Chithra K S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5232254
+    },
+    {
+      "id": "53574ca18402",
+      "title": "Priya Priya",
+      "normalizedTitle": "priya priya",
+      "trackNumber": 326,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Priya Priya.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5335292
+    },
+    {
+      "id": "cd6438707683",
+      "title": "Priya Priyatama",
+      "normalizedTitle": "priya priyatama",
+      "trackNumber": 327,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Priya Priyatama.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Chitra",
+        "Mano",
+        "Chorus"
+      ],
+      "bitrate": 256212,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9948747
+    },
+    {
+      "id": "6140c78f2841",
+      "title": "Priyatama (Sad)",
+      "normalizedTitle": "priyatama sad",
+      "trackNumber": 328,
+      "duration": "1:42",
+      "durationSeconds": 102,
+      "audio": "Priyatama (Sad).mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Usha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1665182
+    },
+    {
+      "id": "8b41491bd2ba",
+      "title": "Priyatama",
+      "normalizedTitle": "priyatama",
+      "trackNumber": 329,
+      "duration": "5:59",
+      "durationSeconds": 359,
+      "audio": "Priyatama.mp3",
+      "composer": "Ilaiyaraaja, S.P. Balasubrahmanyam",
+      "singers": [
+        "S. Janaki",
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 226265,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10356882
+    },
+    {
+      "id": "a6932b05dcfd",
+      "title": "Priyathama Priyathama",
+      "normalizedTitle": "priyathama priyathama",
+      "trackNumber": 330,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Priyathama Priyathama.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Chinmayi Sripaada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4332117
+    },
+    {
+      "id": "8b96610bfb63",
+      "title": "Priyathama",
+      "normalizedTitle": "priyathama",
+      "trackNumber": 331,
+      "duration": "5:51",
+      "durationSeconds": 351,
+      "audio": "Priyathama.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5635805
+    },
+    {
+      "id": "7b071c70c976",
+      "title": "Raave Naa Chaliyaa",
+      "normalizedTitle": "raave naa chaliyaa",
+      "trackNumber": 332,
+      "duration": "5:51",
+      "durationSeconds": 351,
+      "audio": "Raave Naa Chaliyaa.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5627027
+    },
+    {
+      "id": "29dc13f8b346",
+      "title": "Radhe Radhe",
+      "normalizedTitle": "radhe radhe",
+      "trackNumber": 333,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Radhe Radhe.mp3",
+      "composer": "Music : Hari | Lyrics : Radhasubrahmanyam",
+      "singers": [
+        "Hari Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4931154
+    },
+    {
+      "id": "f87f80464056",
+      "title": "Rekkalochina Prema",
+      "normalizedTitle": "rekkalochina prema",
+      "trackNumber": 334,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Rekkalochina Prema.mp3",
+      "composer": "Music : J.B., G. Anil | Lyrics : Veturi Sundararama Murthy",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4571015
+    },
+    {
+      "id": "e513c609e71e",
+      "title": "Reppalanindaa",
+      "normalizedTitle": "reppalanindaa",
+      "trackNumber": 335,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Reppalanindaa.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3382621
+    },
+    {
+      "id": "db2091f492ca",
+      "title": "Rivvuna Egire",
+      "normalizedTitle": "rivvuna egire",
+      "trackNumber": 336,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Rivvuna Egire.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4868940
+    },
+    {
+      "id": "208818fc5174",
+      "title": "Sailaja Sailaja",
+      "normalizedTitle": "sailaja sailaja",
+      "trackNumber": 337,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Sailaja Sailaja.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: Sagar, Ramajogayya Saﬅry, Ananth Sriram, B㏊skara B㏊tla",
+      "singers": [
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3836847
+    },
+    {
+      "id": "32c787c418a1",
+      "title": "Saripovu",
+      "normalizedTitle": "saripovu",
+      "trackNumber": 338,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Saripovu.mp3",
+      "composer": "Shekar Chandra",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3998998
+    },
+    {
+      "id": "6c80db384db8",
+      "title": "Seetha Koka Chilukalu",
+      "normalizedTitle": "seetha koka chilukalu",
+      "trackNumber": 339,
+      "duration": "5:46",
+      "durationSeconds": 346,
+      "audio": "Seetha Koka Chilukalu.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6220676
+    },
+    {
+      "id": "bf1a24502a6e",
+      "title": "Selavanuko",
+      "normalizedTitle": "selavanuko",
+      "trackNumber": 340,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Selavanuko.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Chaitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4021290
+    },
+    {
+      "id": "417943bcbf4f",
+      "title": "Situkesthe Poye Pranam",
+      "normalizedTitle": "situkesthe poye pranam",
+      "trackNumber": 341,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Situkesthe Poye Pranam.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Hanmanth Yadav"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4864127
+    },
+    {
+      "id": "822cc347557f",
+      "title": "Soi Soi",
+      "normalizedTitle": "soi soi",
+      "trackNumber": 342,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Soi Soi.mp3",
+      "composer": "Music : D.Imman | Lyrics : Vennelakanti",
+      "singers": [
+        "Magizhini Manimaaran"
+      ],
+      "bitrate": 258713,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7233222
+    },
+    {
+      "id": "2b6ccf658643",
+      "title": "Swaasye",
+      "normalizedTitle": "swaasye",
+      "trackNumber": 343,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Swaasye.mp3",
+      "composer": "Music : A.R. Rahman | Lyrics : Anantha Sriram",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3138538
+    },
+    {
+      "id": "4cb320bbccdf",
+      "title": "Telisiney Na Nuvvey",
+      "normalizedTitle": "telisiney na nuvvey",
+      "trackNumber": 344,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Telisiney Na Nuvvey.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4416110
+    },
+    {
+      "id": "9b7c8a5d7b4f",
+      "title": "Teliyade Teliyade",
+      "normalizedTitle": "teliyade teliyade",
+      "trackNumber": 345,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Teliyade Teliyade.mp3",
+      "composer": "R Dhruvan",
+      "singers": [
+        "Sid Sriram",
+        "Aditi Bhavaraju"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6211072
+    },
+    {
+      "id": "649d27474ccd",
+      "title": "Teliyade Teliyade Song",
+      "normalizedTitle": "teliyade teliyade song",
+      "trackNumber": 346,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Teliyade Teliyade Song.mp3",
+      "composer": "R Dhruvan",
+      "singers": [
+        "Sid Sriram",
+        "Aditi Bhavaraju"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6211072
+    },
+    {
+      "id": "3133ed624ec2",
+      "title": "Telusa Manasa",
+      "normalizedTitle": "telusa manasa",
+      "trackNumber": 347,
+      "duration": "6:15",
+      "durationSeconds": 375,
+      "audio": "Telusa Manasa.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Keeravani"
+      ],
+      "bitrate": 220626,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10386905
+    },
+    {
+      "id": "48ed7a336bf7",
+      "title": "Telusa Nesthama",
+      "normalizedTitle": "telusa nesthama",
+      "trackNumber": 348,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Telusa Nesthama.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Hariharan",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5198846
+    },
+    {
+      "id": "88c0b5d04932",
+      "title": "Teluse Nuvvu Ravani",
+      "normalizedTitle": "teluse nuvvu ravani",
+      "trackNumber": 349,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Teluse Nuvvu Ravani.mp3",
+      "composer": "Music : Anoop Rubens | Lyrics : Anantha Sriram",
+      "singers": [
+        "Ankit Tiwari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3668525
+    },
+    {
+      "id": "1a24171cf716",
+      "title": "Thalachi Thalachi",
+      "normalizedTitle": "thalachi thalachi",
+      "trackNumber": 350,
+      "duration": "5:17",
+      "durationSeconds": 317,
+      "audio": "Thalachi Thalachi.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "K.K"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5308175
+    },
+    {
+      "id": "d3ee735bf026",
+      "title": "Thalli Thalli",
+      "normalizedTitle": "thalli thalli",
+      "trackNumber": 351,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Thalli Thalli.mp3",
+      "composer": "Suneel Kashyap",
+      "singers": [
+        "Sunil Kashyap"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3638179
+    },
+    {
+      "id": "eb878fcc84f3",
+      "title": "Tharagathi Gadhi Pathos",
+      "normalizedTitle": "tharagathi gadhi pathos",
+      "trackNumber": 352,
+      "duration": "2:01",
+      "durationSeconds": 121,
+      "audio": "Tharagathi Gadhi Pathos.mp3",
+      "composer": "Kaala Bhairava",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3274776
+    },
+    {
+      "id": "ffac5b9927e5",
+      "title": "Tharagathi Gadhi",
+      "normalizedTitle": "tharagathi gadhi",
+      "trackNumber": 353,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Tharagathi Gadhi.mp3",
+      "composer": "Kaala Bhairava",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3764137
+    },
+    {
+      "id": "62bdfd1b45f5",
+      "title": "Thuhi Hai Thuhi",
+      "normalizedTitle": "thuhi hai thuhi",
+      "trackNumber": 354,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Thuhi Hai Thuhi.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens",
+        "Smitha Belluri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4171108
+    },
+    {
+      "id": "d15e9ccb821b",
+      "title": "Tuhi Tuhi",
+      "normalizedTitle": "tuhi tuhi",
+      "trackNumber": 355,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Tuhi Tuhi.mp3",
+      "composer": "Music : Hari | Lyrics : Rakendu Mouli Vennelakanti",
+      "singers": [
+        "Hari Charan",
+        "Sunil",
+        "Kashyap & Lipsika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4252872
+    },
+    {
+      "id": "144fb7bd15e0",
+      "title": "Undiporaadhey",
+      "normalizedTitle": "undiporaadhey",
+      "trackNumber": 356,
+      "duration": "2:53",
+      "durationSeconds": 173,
+      "audio": "Undiporaadhey.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3156669
+    },
+    {
+      "id": "48da75b1b201",
+      "title": "Untale Untale Nee",
+      "normalizedTitle": "untale untale nee",
+      "trackNumber": 357,
+      "duration": "2:14",
+      "durationSeconds": 134,
+      "audio": "Untale Untale Nee.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2259321
+    },
+    {
+      "id": "03eb8e4ddd1b",
+      "title": "Uppenantha",
+      "normalizedTitle": "uppenantha",
+      "trackNumber": 358,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Uppenantha.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "K.K."
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5264197
+    },
+    {
+      "id": "3497a68c2746",
+      "title": "Usuremo",
+      "normalizedTitle": "usuremo",
+      "trackNumber": 359,
+      "duration": "2:11",
+      "durationSeconds": 131,
+      "audio": "Usuremo.mp3",
+      "composer": "Chaitan Bharadwaj",
+      "singers": [
+        "Mohana Bhogaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2403450
+    },
+    {
+      "id": "7cc79711e375",
+      "title": "Vaalu Kanuladaanaa",
+      "normalizedTitle": "vaalu kanuladaanaa",
+      "trackNumber": 360,
+      "duration": "5:49",
+      "durationSeconds": 349,
+      "audio": "Vaalu Kanuladaanaa.mp3",
+      "composer": "A.R. Rahman",
+      "singers": [
+        "Unni Menon"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6095245
+    },
+    {
+      "id": "60948f903d28",
+      "title": "Vachindamma",
+      "normalizedTitle": "vachindamma",
+      "trackNumber": 361,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Vachindamma.mp3",
+      "composer": "Music: Gopi Sundar | Lyrics: Anantha Sriram, Shree Mani, Sagar",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4662041
+    },
+    {
+      "id": "4cb9326bb515",
+      "title": "Vagala Ranivi",
+      "normalizedTitle": "vagala ranivi",
+      "trackNumber": 362,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Vagala Ranivi.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Ghantasala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 1,
+      "fileSize": 3581621
+    },
+    {
+      "id": "24cf6b396f70",
+      "title": "Vannelaadi",
+      "normalizedTitle": "vannelaadi",
+      "trackNumber": 363,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Vannelaadi.mp3",
+      "composer": "D. Imman",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4420858
+    },
+    {
+      "id": "acb96822b095",
+      "title": "Varinche Prema",
+      "normalizedTitle": "varinche prema",
+      "trackNumber": 364,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Varinche Prema.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4637347
+    },
+    {
+      "id": "5cee09228b55",
+      "title": "Vasthane Vasthane",
+      "normalizedTitle": "vasthane vasthane",
+      "trackNumber": 365,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Vasthane Vasthane.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Hari Haran",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4616608
+    },
+    {
+      "id": "9c43be943878",
+      "title": "Vastunna Vachestunna",
+      "normalizedTitle": "vastunna vachestunna",
+      "trackNumber": 366,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Vastunna Vachestunna.mp3",
+      "composer": "Amit Trivedi",
+      "singers": [
+        "Shreya Goshal",
+        "Amit Trivedi",
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3721600
+    },
+    {
+      "id": "1f1ffdaf8661",
+      "title": "Vayyarala",
+      "normalizedTitle": "vayyarala",
+      "trackNumber": 367,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Vayyarala.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Trisha Krishnan",
+        "Kruthi Kharbanda"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5237029
+    },
+    {
+      "id": "74cd8b675d78",
+      "title": "Vedanalona Vedanalona",
+      "normalizedTitle": "vedanalona vedanalona",
+      "trackNumber": 368,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Vedanalona Vedanalona.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 260142,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9785344
+    },
+    {
+      "id": "5d4df0c5a504",
+      "title": "Veede Veede",
+      "normalizedTitle": "veede veede",
+      "trackNumber": 369,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Veede Veede.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kailash Kher"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4755401
+    },
+    {
+      "id": "3a628a333e13",
+      "title": "Veeri Veeri",
+      "normalizedTitle": "veeri veeri",
+      "trackNumber": 370,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Veeri Veeri.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "R.P. Patnaik",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3428568
+    },
+    {
+      "id": "b82698b3157f",
+      "title": "Vellake",
+      "normalizedTitle": "vellake",
+      "trackNumber": 371,
+      "duration": "2:42",
+      "durationSeconds": 162,
+      "audio": "Vellake.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Lucky Raj"
+      ],
+      "bitrate": 127979,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2758500
+    },
+    {
+      "id": "86eb0c60240b",
+      "title": "Vellipothundhe",
+      "normalizedTitle": "vellipothundhe",
+      "trackNumber": 372,
+      "duration": "2:38",
+      "durationSeconds": 158,
+      "audio": "Vellipothundhe.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2903808
+    },
+    {
+      "id": "108f0211c4b9",
+      "title": "Vellipove Vellipove",
+      "normalizedTitle": "vellipove vellipove",
+      "trackNumber": 373,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Vellipove Vellipove.mp3",
+      "composer": "Music : Sekhar Chandra | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4605818
+    },
+    {
+      "id": "e0a519334d0b",
+      "title": "Veluthunna",
+      "normalizedTitle": "veluthunna",
+      "trackNumber": 374,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Veluthunna.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "K.K.",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4482227
+    },
+    {
+      "id": "2d5fc0dc32b7",
+      "title": "Vinave Vinave",
+      "normalizedTitle": "vinave vinave",
+      "trackNumber": 375,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Vinave Vinave.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "G.V.Prakash Kumar",
+        "Shakthisree Gopalan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3853790
+    },
+    {
+      "id": "a23c92724e57",
+      "title": "Vinnane Vinnane",
+      "normalizedTitle": "vinnane vinnane",
+      "trackNumber": 376,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Vinnane Vinnane.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Armaan Malik",
+        "Devan Ekambaram"
+      ],
+      "bitrate": 319664,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10066117
+    },
+    {
+      "id": "e0c974f22f52",
+      "title": "Vintunnavaa",
+      "normalizedTitle": "vintunnavaa",
+      "trackNumber": 377,
+      "duration": "6:58",
+      "durationSeconds": 418,
+      "audio": "Vintunnavaa.mp3",
+      "composer": "Music : A.R. Rahman | Lyrics : Anantha Sriram",
+      "singers": [
+        "Karthik",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6735117
+    },
+    {
+      "id": "c5adcb42932d",
+      "title": "Vurike Chilakaa",
+      "normalizedTitle": "vurike chilakaa",
+      "trackNumber": 378,
+      "duration": "7:17",
+      "durationSeconds": 437,
+      "audio": "Vurike Chilakaa.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7012144
+    },
+    {
+      "id": "81a2b6509309",
+      "title": "Yaevaindho",
+      "normalizedTitle": "yaevaindho",
+      "trackNumber": 379,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Yaevaindho.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "S P Bala Subramanyam & Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3880553
+    },
+    {
+      "id": "ee3d6634a192",
+      "title": "Yavariki Teliyani",
+      "normalizedTitle": "yavariki teliyani",
+      "trackNumber": 380,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Yavariki Teliyani.mp3",
+      "composer": "Music: Kamran, Nan㍲n Raj | Lyrics: Ramajogayya Saﬅhri, C㏊ndrabose",
+      "singers": [
+        "Madhu Balakrishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3527081
+    },
+    {
+      "id": "f931f8be1784",
+      "title": "Ye Kannulu Choodani",
+      "normalizedTitle": "ye kannulu choodani",
+      "trackNumber": 381,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Ye Kannulu Choodani.mp3",
+      "composer": "Nawfal raja AIS",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9350272
+    },
+    {
+      "id": "098edb825f9e",
+      "title": "Ye Mantramo",
+      "normalizedTitle": "ye mantramo",
+      "trackNumber": 382,
+      "duration": "2:47",
+      "durationSeconds": 167,
+      "audio": "Ye Mantramo.mp3",
+      "composer": "Music : Rathan | Lyrics : Vasishta Sharma",
+      "singers": [
+        "Bobo Shasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2768270
+    },
+    {
+      "id": "67dcf05ae2a8",
+      "title": "Ye Swapna Lokala",
+      "normalizedTitle": "ye swapna lokala",
+      "trackNumber": 383,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Ye Swapna Lokala.mp3",
+      "composer": "My3Songs.Com",
+      "singers": [
+        "Pawan Kalyan",
+        "Devayani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4662819
+    },
+    {
+      "id": "7d4f5fd0f904",
+      "title": "Yedakemai Untunde",
+      "normalizedTitle": "yedakemai untunde",
+      "trackNumber": 384,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Yedakemai Untunde.mp3",
+      "composer": "Madhu Ponnas",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4350720
+    },
+    {
+      "id": "3c08a9edb3ec",
+      "title": "Yedhalo Oka Mounam",
+      "normalizedTitle": "yedhalo oka mounam",
+      "trackNumber": 385,
+      "duration": "3:25",
+      "durationSeconds": 205,
+      "audio": "Yedhalo Oka Mounam.mp3",
+      "composer": "Music : Anirudh | Lyrics : Bhuvanachandra, Dhanush",
+      "singers": [
+        "Ajesh Ahsok",
+        "Anirudh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3370176
+    },
+    {
+      "id": "743bffd7af46",
+      "title": "Yedho Alajadi",
+      "normalizedTitle": "yedho alajadi",
+      "trackNumber": 386,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Yedho Alajadi.mp3",
+      "composer": "Yuvan Shankar Raja",
+      "singers": [
+        "S.P. Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4157795
+    },
+    {
+      "id": "b117dee4350d",
+      "title": "Yegire Mabbulona",
+      "normalizedTitle": "yegire mabbulona",
+      "trackNumber": 387,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Yegire Mabbulona.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "S.P. Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3813098
+    },
+    {
+      "id": "4f6ac01cfa5d",
+      "title": "Yeh Allah",
+      "normalizedTitle": "yeh allah",
+      "trackNumber": 388,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Yeh Allah.mp3",
+      "composer": "Music : Bheems Ceciroleo | Lyrics : Bheems Ceciroleo",
+      "singers": [
+        "Kailash Kher"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3895520
+    },
+    {
+      "id": "e2ad406b34ff",
+      "title": "Yellipoke Shyamala",
+      "normalizedTitle": "yellipoke shyamala",
+      "trackNumber": 389,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Yellipoke Shyamala.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3582155
+    },
+    {
+      "id": "34e0e7da954c",
+      "title": "Yemainado",
+      "normalizedTitle": "yemainado",
+      "trackNumber": 390,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Yemainado.mp3",
+      "composer": "S S Thaman",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3466974
+    },
+    {
+      "id": "e3c47b0bb196",
+      "title": "Yemi Cheyamandu",
+      "normalizedTitle": "yemi cheyamandu",
+      "trackNumber": 391,
+      "duration": "6:00",
+      "durationSeconds": 360,
+      "audio": "Yemi Cheyamandu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5795981
+    },
+    {
+      "id": "5b82fbb9cb86",
+      "title": "Yemito",
+      "normalizedTitle": "yemito",
+      "trackNumber": 392,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Yemito.mp3",
+      "composer": "Music : Rathan | Lyrics : Rakendu Mouli",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4383265
+    },
+    {
+      "id": "2d195c1ce266",
+      "title": "Yemunnave Pilla",
+      "normalizedTitle": "yemunnave pilla",
+      "trackNumber": 393,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Yemunnave Pilla.mp3",
+      "composer": "P R",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 256000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7998683
+    },
+    {
+      "id": "db737f30dd6d",
+      "title": "Yenaatiki",
+      "normalizedTitle": "yenaatiki",
+      "trackNumber": 394,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Yenaatiki.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "Raghu Kunche",
+        "Kausalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5171345
+    },
+    {
+      "id": "ebbe176510db",
+      "title": "Yennenno Andalu",
+      "normalizedTitle": "yennenno andalu",
+      "trackNumber": 395,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Yennenno Andalu.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "SP.Balu"
+      ],
+      "bitrate": 215977,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7909371
+    },
+    {
+      "id": "9691227c1bbb",
+      "title": "Yeppudu (Male)",
+      "normalizedTitle": "yeppudu male",
+      "trackNumber": 396,
+      "duration": "3:04",
+      "durationSeconds": 184,
+      "audio": "Yeppudu (Male).mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mallikarjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3073588
+    },
+    {
+      "id": "5535d90f86bf",
+      "title": "Yeppudu(Female)",
+      "normalizedTitle": "yeppudufemale",
+      "trackNumber": 397,
+      "duration": "3:04",
+      "durationSeconds": 184,
+      "audio": "Yeppudu(Female).mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mallikarjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3073588
+    },
+    {
+      "id": "fefcb7b4e903",
+      "title": "Yetu Pone-DownloadArtist-Kaala BhairavaMovie-Dear Comrade (2019)",
+      "normalizedTitle": "yetu ponedownloadartistkaala bhairavamoviedear comrade 2019",
+      "trackNumber": 398,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Yetu Pone-DownloadArtist-Kaala BhairavaMovie-Dear Comrade (2019).mp3",
+      "composer": "Justin Prabhakaran",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4356662
+    },
+    {
+      "id": "002a821c7af7",
+      "title": "Yevaipuga Naa Choopu Saagali (Sad Song)",
+      "normalizedTitle": "yevaipuga naa choopu saagali sad song",
+      "trackNumber": 399,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Yevaipuga Naa Choopu Saagali (Sad Song).mp3",
+      "composer": "Sai Kartheek",
+      "singers": [
+        "Ankit Tiwari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5125262
+    },
+    {
+      "id": "5b8f2d2060a1",
+      "title": "Yevare Nee Premaku Song",
+      "normalizedTitle": "yevare nee premaku song",
+      "trackNumber": 400,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Yevare Nee Premaku Song.mp3",
+      "composer": "Sai Karthik",
+      "singers": [
+        "Dhanunjay"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4201279
+    },
+    {
+      "id": "23b4c248a177",
+      "title": "Yevari Kosam",
+      "normalizedTitle": "yevari kosam",
+      "trackNumber": 401,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Yevari Kosam.mp3",
+      "composer": "Unknown",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8796864
+    },
+    {
+      "id": "af57e639be67",
+      "title": "Yevevo",
+      "normalizedTitle": "yevevo",
+      "trackNumber": 402,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Yevevo.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Akhil Akkineni",
+        "Jonita Gandhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4915106
+    }
+  ]
+}

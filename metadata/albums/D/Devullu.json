@@ -1,0 +1,150 @@
+{
+  "album": {
+    "id": "68dea1d58831",
+    "name": "Devullu",
+    "year": 2000,
+    "musicDirector": "Vandemataram Srinivas",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Devullu.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "ae2c1ed3394f",
+      "title": "Andhari Bhanduvayya",
+      "normalizedTitle": "andhari bhanduvayya",
+      "trackNumber": 1,
+      "duration": "5:42",
+      "durationSeconds": 342,
+      "audio": "Andhari Bhanduvayya.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 130302,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5601968
+    },
+    {
+      "id": "96f170ddccee",
+      "title": "Ayyappa Devaya",
+      "normalizedTitle": "ayyappa devaya",
+      "trackNumber": 2,
+      "duration": "5:24",
+      "durationSeconds": 324,
+      "audio": "Ayyappa Devaya.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 114927,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4683451
+    },
+    {
+      "id": "45550cc20d04",
+      "title": "Jaya Jaya Subhakara",
+      "normalizedTitle": "jaya jaya subhakara",
+      "trackNumber": 3,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Jaya Jaya Subhakara.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 115887,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4228229
+    },
+    {
+      "id": "b6a83f23e5cb",
+      "title": "Maha Kanaka Durga",
+      "normalizedTitle": "maha kanaka durga",
+      "trackNumber": 4,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Maha Kanaka Durga.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 135207,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5282663
+    },
+    {
+      "id": "c04ffae0d783",
+      "title": "Nee Prema Kore",
+      "normalizedTitle": "nee prema kore",
+      "trackNumber": 5,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Nee Prema Kore.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 142997,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5306997
+    },
+    {
+      "id": "4be914ebbb20",
+      "title": "Shanti Nikethana",
+      "normalizedTitle": "shanti nikethana",
+      "trackNumber": 6,
+      "duration": "5:24",
+      "durationSeconds": 324,
+      "audio": "Shanti Nikethana.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 125943,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5124932
+    },
+    {
+      "id": "db400017b749",
+      "title": "Sirula Nosage",
+      "normalizedTitle": "sirula nosage",
+      "trackNumber": 7,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Sirula Nosage.mp3",
+      "composer": "Vandemataram Srinivas",
+      "singers": [
+        "NooNMan"
+      ],
+      "bitrate": 121657,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5100650
+    },
+    {
+      "id": "98ee0a58f21e",
+      "title": "Vakratunda Mahakaya",
+      "normalizedTitle": "vakratunda mahakaya",
+      "trackNumber": 8,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Vakratunda Mahakaya.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "SenSongsMp3.Co"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6876308
+    }
+  ]
+}

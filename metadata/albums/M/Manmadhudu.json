@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "bd2b687de264",
+    "name": "Manmadhudu",
+    "year": 2002,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Manmadhudu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "5b54d18d9bde",
+      "title": "Andhamaina Bhamalu",
+      "normalizedTitle": "andhamaina bhamalu",
+      "trackNumber": 1,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Andhamaina Bhamalu.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4301270
+    },
+    {
+      "id": "003c18cdb3d5",
+      "title": "Cheliya Cheliya",
+      "normalizedTitle": "cheliya cheliya",
+      "trackNumber": 2,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Cheliya Cheliya.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shaan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4239808
+    },
+    {
+      "id": "0f9a7bf97c43",
+      "title": "Don`t Marry",
+      "normalizedTitle": "dont marry",
+      "trackNumber": 3,
+      "duration": "5:41",
+      "durationSeconds": 341,
+      "audio": "Don`t Marry.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "S P Balasubranaiam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5598171
+    },
+    {
+      "id": "066a7d800e66",
+      "title": "Gundello Emundho",
+      "normalizedTitle": "gundello emundho",
+      "trackNumber": 4,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Gundello Emundho.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Venu",
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4616550
+    },
+    {
+      "id": "590e9b5ba23a",
+      "title": "Na Manasune",
+      "normalizedTitle": "na manasune",
+      "trackNumber": 5,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Na Manasune.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "S P Balasubranaiam",
+        "K S Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4125709
+    },
+    {
+      "id": "40d253ba41f2",
+      "title": "Nenu Nenuga Lene",
+      "normalizedTitle": "nenu nenuga lene",
+      "trackNumber": 6,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Nenu Nenuga Lene.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "S P B Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3919243
+    }
+  ]
+}

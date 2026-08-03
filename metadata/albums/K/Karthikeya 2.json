@@ -1,0 +1,65 @@
+{
+  "album": {
+    "id": "ba5b819105e8",
+    "name": "Karthikeya 2",
+    "year": 2022,
+    "musicDirector": "Kaala Bhairava",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Karthikeya 2.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "1673a0799c66",
+      "title": "Krishna Trance Song",
+      "normalizedTitle": "krishna trance song",
+      "trackNumber": 1,
+      "duration": "2:58",
+      "durationSeconds": 178,
+      "audio": "Krishna Trance Song.mp3",
+      "composer": "Kaala Bhairava",
+      "singers": [
+        "Various"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2914347
+    },
+    {
+      "id": "0d3de6e3d298",
+      "title": "Nannu Nenu Adiga Song",
+      "normalizedTitle": "nannu nenu adiga song",
+      "trackNumber": 2,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Nannu Nenu Adiga Song.mp3",
+      "composer": "Kaala Bhairava",
+      "singers": [
+        "Inno Genga"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3745250
+    },
+    {
+      "id": "d0fb71658abe",
+      "title": "Prathi Udhayam Song",
+      "normalizedTitle": "prathi udhayam song",
+      "trackNumber": 3,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Prathi Udhayam Song.mp3",
+      "composer": "Kaala Bhairava",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4411250
+    }
+  ]
+}

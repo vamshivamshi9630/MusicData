@@ -1,0 +1,218 @@
+{
+  "album": {
+    "id": "68249324c8a6",
+    "name": "Prem Nagar",
+    "year": 1971,
+    "musicDirector": "K. V. Mahadevan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Prem Nagar.png",
+    "songCount": 12
+  },
+  "songs": [
+    {
+      "id": "f0a4382c49a3",
+      "title": "Anthamu Leni",
+      "normalizedTitle": "anthamu leni",
+      "trackNumber": 1,
+      "duration": "1:26",
+      "durationSeconds": 86,
+      "audio": "Anthamu Leni.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3468864
+    },
+    {
+      "id": "620ab755b6e9",
+      "title": "Kadavetthukochhindi",
+      "normalizedTitle": "kadavetthukochhindi",
+      "trackNumber": 2,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Kadavetthukochhindi.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 10627584
+    },
+    {
+      "id": "9eb181e4ed16",
+      "title": "Kalavani Deenula Paalita (Padyam)",
+      "normalizedTitle": "kalavani deenula paalita padyam",
+      "trackNumber": 3,
+      "duration": "0:46",
+      "durationSeconds": 46,
+      "audio": "Kalavani Deenula Paalita (Padyam).mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1854144
+    },
+    {
+      "id": "9be92f8e46a4",
+      "title": "Le..Le..Le.. Naaraaja",
+      "normalizedTitle": "lelele naaraaja",
+      "trackNumber": 4,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Le..Le..Le.. Naaraaja.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 10688064
+    },
+    {
+      "id": "a9d73b3b0ad8",
+      "title": "Le..Le..Le.",
+      "normalizedTitle": "lelele",
+      "trackNumber": 5,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Le..Le..Le..mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 10688064
+    },
+    {
+      "id": "ab69c06e6a81",
+      "title": "Manasu Gathi Inthe",
+      "normalizedTitle": "manasu gathi inthe",
+      "trackNumber": 6,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Manasu Gathi Inthe.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9788544
+    },
+    {
+      "id": "01e5aa80c075",
+      "title": "Neekosam Velisindi",
+      "normalizedTitle": "neekosam velisindi",
+      "trackNumber": 7,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Neekosam Velisindi.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 11457984
+    },
+    {
+      "id": "bf54f1a8d610",
+      "title": "Nenu Puttanu",
+      "normalizedTitle": "nenu puttanu",
+      "trackNumber": 8,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Nenu Puttanu.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 11099904
+    },
+    {
+      "id": "d35f3309cd98",
+      "title": "Theta Theta Telugula",
+      "normalizedTitle": "theta theta telugula",
+      "trackNumber": 9,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Theta Theta Telugula.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8681664
+    },
+    {
+      "id": "9f40d243650f",
+      "title": "Unte Eevoollo Undu",
+      "normalizedTitle": "unte eevoollo undu",
+      "trackNumber": 10,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Unte Eevoollo Undu.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9623424
+    },
+    {
+      "id": "3ecd7a176136",
+      "title": "Yevari Kosam",
+      "normalizedTitle": "yevari kosam",
+      "trackNumber": 11,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Yevari Kosam.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8796864
+    },
+    {
+      "id": "014ca6b140fb",
+      "title": "Yevaro Ravaali",
+      "normalizedTitle": "yevaro ravaali",
+      "trackNumber": 12,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Yevaro Ravaali.mp3",
+      "composer": "K. V. Mahadevan",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 10466304
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "7b033ba11dbc",
+    "name": "Nuvve Kavali",
+    "year": 2000,
+    "musicDirector": "Koti",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nuvve Kavali.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "d2c4cdea00f2",
+      "title": "Ammamalu Tatayalu",
+      "normalizedTitle": "ammamalu tatayalu",
+      "trackNumber": 1,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Ammamalu Tatayalu.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Anuradha Sriram",
+        "Devan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5111132
+    },
+    {
+      "id": "7e912ff1914e",
+      "title": "Anagana Akasam",
+      "normalizedTitle": "anagana akasam",
+      "trackNumber": 2,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Anagana Akasam.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Chithra K S",
+        "Jayachadran P"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5295440
+    },
+    {
+      "id": "c7102c2dae19",
+      "title": "Ekkada Vunna",
+      "normalizedTitle": "ekkada vunna",
+      "trackNumber": 3,
+      "duration": "6:06",
+      "durationSeconds": 366,
+      "audio": "Ekkada Vunna.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Gopika Poornima",
+        "Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6115872
+    },
+    {
+      "id": "2c1c9d098ba8",
+      "title": "Kallaloki Kallu",
+      "normalizedTitle": "kallaloki kallu",
+      "trackNumber": 4,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Kallaloki Kallu.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Chithra K S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4599100
+    },
+    {
+      "id": "d29c6fcae425",
+      "title": "Ole Ole Ole",
+      "normalizedTitle": "ole ole ole",
+      "trackNumber": 5,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Ole Ole Ole.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Chithra K S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4770863
+    },
+    {
+      "id": "663c19ebb6d5",
+      "title": "Shukriya",
+      "normalizedTitle": "shukriya",
+      "trackNumber": 6,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Shukriya.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Koti",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5203893
+    }
+  ]
+}

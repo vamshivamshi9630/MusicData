@@ -1,0 +1,48 @@
+{
+  "album": {
+    "id": "b9b7777653d9",
+    "name": "Raja Raja Chora",
+    "year": 2021,
+    "musicDirector": "Vivek Sagar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Raja Raja Chora.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "f399167aa6f6",
+      "title": "Maaya Maaya Song",
+      "normalizedTitle": "maaya maaya song",
+      "trackNumber": 1,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Maaya Maaya Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5325056
+    },
+    {
+      "id": "dd6d8c4acc99",
+      "title": "Raja Raju Vacche Song",
+      "normalizedTitle": "raja raju vacche song",
+      "trackNumber": 2,
+      "duration": "5:07",
+      "durationSeconds": 307,
+      "audio": "Raja Raju Vacche Song.mp3",
+      "composer": "Vivek Sagar",
+      "singers": [
+        "Mohana Bhogaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5262464
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "album": {
+    "id": "b2201a2f6928",
+    "name": "Snehithuda",
+    "year": 2009,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Snehithuda.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "1f2b6ad8856f",
+      "title": "Ayyo Rama Song",
+      "normalizedTitle": "ayyo rama song",
+      "trackNumber": 1,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Ayyo Rama Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Jassie Gift",
+        "Gopika Poornima",
+        "Master Bhargav"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4107378
+    },
+    {
+      "id": "941f44bb5e77",
+      "title": "Chiluka Navvave Song",
+      "normalizedTitle": "chiluka navvave song",
+      "trackNumber": 2,
+      "duration": "4:50",
+      "durationSeconds": 290,
+      "audio": "Chiluka Navvave Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Karthik",
+        "Chinmayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4666983
+    },
+    {
+      "id": "475b975a9f1f",
+      "title": "Inthaku Nuvveva Song",
+      "normalizedTitle": "inthaku nuvveva song",
+      "trackNumber": 3,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Inthaku Nuvveva Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4578374
+    },
+    {
+      "id": "67d83447bbe9",
+      "title": "Inthaku Song",
+      "normalizedTitle": "inthaku song",
+      "trackNumber": 4,
+      "duration": "2:41",
+      "durationSeconds": 161,
+      "audio": "Inthaku Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Karthik",
+        "Shreya Goshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2601841
+    },
+    {
+      "id": "74378a4fdf4b",
+      "title": "Muddu Peru Song",
+      "normalizedTitle": "muddu peru song",
+      "trackNumber": 5,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Muddu Peru Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Suvi Suresh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5364117
+    },
+    {
+      "id": "629c818fc945",
+      "title": "Righto Wrongo Song",
+      "normalizedTitle": "righto wrongo song",
+      "trackNumber": 6,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Righto Wrongo Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Rahul",
+        "Surmukhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4472624
+    }
+  ]
+}

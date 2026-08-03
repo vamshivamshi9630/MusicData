@@ -1,0 +1,152 @@
+{
+  "album": {
+    "id": "9e05011b4555",
+    "name": "90ML",
+    "year": 2019,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "90ML.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "14519b80dab5",
+      "title": "90 ML Title",
+      "normalizedTitle": "90 ml title",
+      "trackNumber": 1,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "90 ML Title.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3948901
+    },
+    {
+      "id": "3de614409630",
+      "title": "Anukoledhey Song",
+      "normalizedTitle": "anukoledhey song",
+      "trackNumber": 2,
+      "duration": "2:37",
+      "durationSeconds": 157,
+      "audio": "Anukoledhey Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2883456
+    },
+    {
+      "id": "e3f36488e87c",
+      "title": "ML Title",
+      "normalizedTitle": "ml title",
+      "trackNumber": 3,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "ML Title.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3948901
+    },
+    {
+      "id": "9a376c7f779f",
+      "title": "Naatho Nuvvunte Chalu Song",
+      "normalizedTitle": "naatho nuvvunte chalu song",
+      "trackNumber": 4,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Naatho Nuvvunte Chalu Song.mp3",
+      "composer": "Anup Rubense",
+      "singers": [
+        "Adnan Sami"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4934033
+    },
+    {
+      "id": "44aa41cbab6b",
+      "title": "Singilu Singilu Song",
+      "normalizedTitle": "singilu singilu song",
+      "trackNumber": 5,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Singilu Singilu Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Rahul Sipligunj",
+        "MM Mansi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3865069
+    },
+    {
+      "id": "b849b530f08b",
+      "title": "Vandella Life Lona Song",
+      "normalizedTitle": "vandella life lona song",
+      "trackNumber": 6,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Vandella Life Lona Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Sahithi",
+        "Saicharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4287744
+    },
+    {
+      "id": "114144bd9c80",
+      "title": "Vellipothundhe Song",
+      "normalizedTitle": "vellipothundhe song",
+      "trackNumber": 7,
+      "duration": "2:38",
+      "durationSeconds": 158,
+      "audio": "Vellipothundhe Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2903808
+    },
+    {
+      "id": "84e3d62c115a",
+      "title": "Yinipinchukoru Song",
+      "normalizedTitle": "yinipinchukoru song",
+      "trackNumber": 8,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Yinipinchukoru Song.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4824704
+    }
+  ]
+}

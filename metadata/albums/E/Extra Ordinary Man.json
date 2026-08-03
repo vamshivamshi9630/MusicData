@@ -1,0 +1,101 @@
+{
+  "album": {
+    "id": "78ce40c3b231",
+    "name": "Extra Ordinary Man",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Extra Ordinary Man.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "bab5c972bbec",
+      "title": "Brush Vesko Song",
+      "normalizedTitle": "brush vesko song",
+      "trackNumber": 1,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Brush Vesko Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Sanjith Hegde"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6546304
+    },
+    {
+      "id": "c73750d783dd",
+      "title": "Danger Pilla Song",
+      "normalizedTitle": "danger pilla song",
+      "trackNumber": 2,
+      "duration": "4:41",
+      "durationSeconds": 281,
+      "audio": "Danger Pilla Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4758007
+    },
+    {
+      "id": "de8c27427b2b",
+      "title": "Ole Ole Paa Paayi Song",
+      "normalizedTitle": "ole ole paa paayi song",
+      "trackNumber": 3,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Ole Ole Paa Paayi Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Ram Miriyala",
+        "Priya Hemesh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3849363
+    },
+    {
+      "id": "8f30e27bc1d6",
+      "title": "Pette Thaalam Song",
+      "normalizedTitle": "pette thaalam song",
+      "trackNumber": 4,
+      "duration": "1:21",
+      "durationSeconds": 81,
+      "audio": "Pette Thaalam Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Maneesha Pandranki",
+        "Sai Charan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3501622
+    },
+    {
+      "id": "2b8c81b9c93a",
+      "title": "Sirraaku Thaandavam Song",
+      "normalizedTitle": "sirraaku thaandavam song",
+      "trackNumber": 5,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Sirraaku Thaandavam Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4008607
+    }
+  ]
+}

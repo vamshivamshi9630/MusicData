@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "651e5ffd3267",
+    "name": "Golimaar",
+    "year": 2010,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Golimaar.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "ab539e932ccf",
+      "title": "Golimaar Song",
+      "normalizedTitle": "golimaar song",
+      "trackNumber": 1,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Golimaar Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Chakri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5167195
+    },
+    {
+      "id": "ca2a9e1d1539",
+      "title": "Gundello Song",
+      "normalizedTitle": "gundello song",
+      "trackNumber": 2,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Gundello Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Chakri",
+        "Kousalya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4142797
+    },
+    {
+      "id": "5d221fa0140c",
+      "title": "Magallu Song",
+      "normalizedTitle": "magallu song",
+      "trackNumber": 3,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Magallu Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3802990
+    },
+    {
+      "id": "eeb06cc58d33",
+      "title": "Nidharosthale Song",
+      "normalizedTitle": "nidharosthale song",
+      "trackNumber": 4,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Nidharosthale Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Vasu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3961389
+    },
+    {
+      "id": "1b538e5bd8b7",
+      "title": "Salam Poli Song",
+      "normalizedTitle": "salam poli song",
+      "trackNumber": 5,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Salam Poli Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Simha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4158248
+    },
+    {
+      "id": "19d2ad6b1321",
+      "title": "Theenmaar Song",
+      "normalizedTitle": "theenmaar song",
+      "trackNumber": 6,
+      "duration": "2:20",
+      "durationSeconds": 140,
+      "audio": "Theenmaar Song.mp3",
+      "composer": "Music : Chakri | Lyrics : Bhaskarabhatla",
+      "singers": [
+        "Mumaith Khan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2320907
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "21f4632d35e0",
+    "name": "Ustaad Bhagat Singh",
+    "year": 2024,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ustaad Bhagat Singh.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "535aad37578e",
+      "title": "Aura of Ustaad Song",
+      "normalizedTitle": "aura of ustaad song",
+      "trackNumber": 1,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Aura of Ustaad Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad",
+        "P. Abhishek"
+      ],
+      "bitrate": 135156,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4510987
+    },
+    {
+      "id": "11f894c737b3",
+      "title": "Collar Ey Etthara Song",
+      "normalizedTitle": "collar ey etthara song",
+      "trackNumber": 2,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Collar Ey Etthara Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 133379,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4644880
+    },
+    {
+      "id": "3adb29ff593e",
+      "title": "Dekhlenge Saala",
+      "normalizedTitle": "dekhlenge saala",
+      "trackNumber": 3,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Dekhlenge Saala.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Vishal Dadlani"
+      ],
+      "bitrate": 140216,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4648348
+    },
+    {
+      "id": "b0a5c32ef6c1",
+      "title": "Dekhlenge Saala  (Full Song)",
+      "normalizedTitle": "dekhlenge saala full song",
+      "trackNumber": 4,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Dekhlenge Saala  (Full Song).mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Vishal Dadlani"
+      ],
+      "bitrate": 140216,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4648348
+    }
+  ]
+}

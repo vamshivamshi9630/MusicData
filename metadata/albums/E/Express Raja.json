@@ -1,0 +1,67 @@
+{
+  "album": {
+    "id": "ac022806d455",
+    "name": "Express Raja",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Express Raja.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "64bf4f29d71c",
+      "title": "Colorful Chilaka Song",
+      "normalizedTitle": "colorful chilaka song",
+      "trackNumber": 1,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Colorful Chilaka Song.mp3",
+      "composer": "Music : Praveen Lakaraju | Lyrics : Bhaskara Bhatla",
+      "singers": [
+        "Narendra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3731423
+    },
+    {
+      "id": "8cece83df2e8",
+      "title": "Ee Vintha Needhiga Song",
+      "normalizedTitle": "ee vintha needhiga song",
+      "trackNumber": 2,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Ee Vintha Needhiga Song.mp3",
+      "composer": "Music : Praveen Lakaraju | Lyrics : Sreejo",
+      "singers": [
+        "Lipsika",
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2873363
+    },
+    {
+      "id": "3f13cbf8ca4e",
+      "title": "Hulala Song",
+      "normalizedTitle": "hulala song",
+      "trackNumber": 3,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Hulala Song.mp3",
+      "composer": "Music : Praveen Lakaraju | Lyrics : Srimani",
+      "singers": [
+        "Sweekar Agasthi",
+        "Silvia Anisha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3643242
+    }
+  ]
+}

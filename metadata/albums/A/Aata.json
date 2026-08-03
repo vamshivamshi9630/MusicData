@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "3f6630f9e215",
+    "name": "Aata",
+    "year": 2007,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aata.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "620cf5ad2a52",
+      "title": "Aata Song",
+      "normalizedTitle": "aata song",
+      "trackNumber": 1,
+      "duration": "5:29",
+      "durationSeconds": 329,
+      "audio": "Aata Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5288456
+    },
+    {
+      "id": "fb58fc801c6f",
+      "title": "Kakinada Kaaja Song",
+      "normalizedTitle": "kakinada kaaja song",
+      "trackNumber": 2,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Kakinada Kaaja Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Tippu",
+        "Gopika Poornima"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4387380
+    },
+    {
+      "id": "17fa5b977e74",
+      "title": "Muddulaata Song",
+      "normalizedTitle": "muddulaata song",
+      "trackNumber": 3,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Muddulaata Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Udit Narayan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5087852
+    },
+    {
+      "id": "8d672eeb3acf",
+      "title": "Ninu Choostunte Song",
+      "normalizedTitle": "ninu choostunte song",
+      "trackNumber": 4,
+      "duration": "5:13",
+      "durationSeconds": 313,
+      "audio": "Ninu Choostunte Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Siddharth",
+        "Sumangaly"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5044410
+    },
+    {
+      "id": "c2bf785a2eef",
+      "title": "Yela Yela Song",
+      "normalizedTitle": "yela yela song",
+      "trackNumber": 5,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Yela Yela Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sunitha",
+        "Smitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3858206
+    }
+  ]
+}

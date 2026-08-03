@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "d4718eef3b2d",
+    "name": "Narasimhudu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Narasimhudu.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "47873b2007ea",
+      "title": "Krishnamurariki",
+      "normalizedTitle": "krishnamurariki",
+      "trackNumber": 1,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "Krishnamurariki.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5140900
+    },
+    {
+      "id": "3a7440f5bf21",
+      "title": "Muddoche Kopalu",
+      "normalizedTitle": "muddoche kopalu",
+      "trackNumber": 2,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Muddoche Kopalu.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4659411
+    },
+    {
+      "id": "1d977e298022",
+      "title": "Muddula Gopala",
+      "normalizedTitle": "muddula gopala",
+      "trackNumber": 3,
+      "duration": "6:12",
+      "durationSeconds": 372,
+      "audio": "Muddula Gopala.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6049961
+    },
+    {
+      "id": "124199b7bf64",
+      "title": "Rajamandrike",
+      "normalizedTitle": "rajamandrike",
+      "trackNumber": 4,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Rajamandrike.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5335669
+    },
+    {
+      "id": "39e947e6a4c9",
+      "title": "Singu Singu",
+      "normalizedTitle": "singu singu",
+      "trackNumber": 5,
+      "duration": "5:32",
+      "durationSeconds": 332,
+      "audio": "Singu Singu.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5400871
+    },
+    {
+      "id": "cb9e6d69d851",
+      "title": "Slokam",
+      "normalizedTitle": "slokam",
+      "trackNumber": 6,
+      "duration": "1:06",
+      "durationSeconds": 66,
+      "audio": "Slokam.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1153152
+    },
+    {
+      "id": "746d74ee3066",
+      "title": "Yeluko Nayaka",
+      "normalizedTitle": "yeluko nayaka",
+      "trackNumber": 7,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Yeluko Nayaka.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4760139
+    }
+  ]
+}

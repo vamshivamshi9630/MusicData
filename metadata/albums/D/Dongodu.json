@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "5ad011e181c6",
+    "name": "Dongodu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Dongodu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "747ac0bbce12",
+      "title": "Chotta Buggala.Mp",
+      "normalizedTitle": "chotta buggalamp",
+      "trackNumber": 1,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Chotta Buggala.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Swarnalatha",
+        "Karthik Raja"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4705530
+    },
+    {
+      "id": "52f439c5a15f",
+      "title": "Dum Dum .Mp",
+      "normalizedTitle": "dum dum mp",
+      "trackNumber": 2,
+      "duration": "4:52",
+      "durationSeconds": 292,
+      "audio": "Dum Dum .Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "K. S. Chithra",
+        "Babji",
+        "Valisha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4748554
+    },
+    {
+      "id": "b997722d85aa",
+      "title": "Entha Panchesindi .Mp",
+      "normalizedTitle": "entha panchesindi mp",
+      "trackNumber": 3,
+      "duration": "5:30",
+      "durationSeconds": 330,
+      "audio": "Entha Panchesindi .Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Hariharan",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5358798
+    },
+    {
+      "id": "ebc1335b032b",
+      "title": "Kodi Munda.Mp",
+      "normalizedTitle": "kodi mundamp",
+      "trackNumber": 4,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Kodi Munda.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Shankar Mahadevan",
+        "Rimmi Tommy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4223597
+    },
+    {
+      "id": "bf4ec30f3eef",
+      "title": "Meesala Gopala.Mp",
+      "normalizedTitle": "meesala gopalamp",
+      "trackNumber": 5,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Meesala Gopala.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Udit Narayan",
+        "Srivarthini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4169686
+    },
+    {
+      "id": "d2fff143d6dc",
+      "title": "Theme.Mp",
+      "normalizedTitle": "thememp",
+      "trackNumber": 6,
+      "duration": "0:45",
+      "durationSeconds": 45,
+      "audio": "Theme.Mp.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Vidhya Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 797573
+    }
+  ]
+}

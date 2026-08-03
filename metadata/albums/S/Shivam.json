@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "50bf4c9269f1",
+    "name": "Shivam",
+    "year": 2015,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Shivam.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "4b05a810793f",
+      "title": "Andamaina Lokam Song",
+      "normalizedTitle": "andamaina lokam song",
+      "trackNumber": 1,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Andamaina Lokam Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: B㏊skara B㏊tla",
+      "singers": [
+        "Sagar",
+        "Haripriya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3903940
+    },
+    {
+      "id": "7a9c27d3d49a",
+      "title": "Gunde Aagi Pothaande Song",
+      "normalizedTitle": "gunde aagi pothaande song",
+      "trackNumber": 2,
+      "duration": "3:09",
+      "durationSeconds": 189,
+      "audio": "Gunde Aagi Pothaande Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: B㏊skara B㏊tla",
+      "singers": [
+        "Hemac㏊ndra",
+        "Mm Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3099389
+    },
+    {
+      "id": "c4dfc32502d1",
+      "title": "I Love You Too Song",
+      "normalizedTitle": "i love you too song",
+      "trackNumber": 3,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "I Love You Too Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: B㏊skara B㏊tla",
+      "singers": [
+        "Yaz㏌ Nizar",
+        "Sameera"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3754315
+    },
+    {
+      "id": "f58f6fc9ee47",
+      "title": "Prema Ane Picchi Song",
+      "normalizedTitle": "prema ane picchi song",
+      "trackNumber": 4,
+      "duration": "2:56",
+      "durationSeconds": 176,
+      "audio": "Prema Ane Picchi Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: B㏊skara B㏊tla",
+      "singers": [
+        "Narendra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2897899
+    },
+    {
+      "id": "814e7e2f95c9",
+      "title": "Shivam Shivam Song",
+      "normalizedTitle": "shivam shivam song",
+      "trackNumber": 5,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Shivam Shivam Song.mp3",
+      "composer": "Music: Deⅵ Sri Prasad | Lyrics: B㏊skara B㏊tla",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3488885
+    }
+  ]
+}

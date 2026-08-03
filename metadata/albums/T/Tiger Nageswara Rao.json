@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "4656e8f1d8a2",
+    "name": "Tiger Nageswara Rao",
+    "year": 2023,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Tiger Nageswara Rao.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "046d87db910a",
+      "title": "Ek Dum Ek Dum Song",
+      "normalizedTitle": "ek dum ek dum song",
+      "trackNumber": 1,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Ek Dum Ek Dum Song.mp3",
+      "composer": "G V Praksah Kumar",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4436179
+    },
+    {
+      "id": "0f8ef3e0c50e",
+      "title": "Icchesukuntaale Song",
+      "normalizedTitle": "icchesukuntaale song",
+      "trackNumber": 2,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Icchesukuntaale Song.mp3",
+      "composer": "G V Prakash Kumar",
+      "singers": [
+        "Sinduri Vishal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4668438
+    },
+    {
+      "id": "7443721876e2",
+      "title": "Rendu Gundela Monagada Song",
+      "normalizedTitle": "rendu gundela monagada song",
+      "trackNumber": 3,
+      "duration": "2:19",
+      "durationSeconds": 139,
+      "audio": "Rendu Gundela Monagada Song.mp3",
+      "composer": "G V Praksah Kumar",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2571746
+    },
+    {
+      "id": "95448d78de37",
+      "title": "Samarale Sariovna Song",
+      "normalizedTitle": "samarale sariovna song",
+      "trackNumber": 4,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Samarale Sariovna Song.mp3",
+      "composer": "G V Praksah Kumar",
+      "singers": [
+        "Hemachandra Vedala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4432919
+    },
+    {
+      "id": "efd00c4b5be9",
+      "title": "Veedu Song",
+      "normalizedTitle": "veedu song",
+      "trackNumber": 5,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Veedu Song.mp3",
+      "composer": "G V Praksah Kumar",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3476126
+    }
+  ]
+}

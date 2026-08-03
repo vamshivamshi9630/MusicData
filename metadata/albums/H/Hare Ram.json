@@ -1,0 +1,102 @@
+{
+  "album": {
+    "id": "da15dca24a50",
+    "name": "Hare Ram",
+    "year": 2008,
+    "musicDirector": "Mickey J. Meyer",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Hare Ram.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "292ca3b40e49",
+      "title": "Jairam Jairam Song",
+      "normalizedTitle": "jairam jairam song",
+      "trackNumber": 1,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Jairam Jairam Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Mickey J Meyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3489190
+    },
+    {
+      "id": "9b30fb7cda7e",
+      "title": "Lalijo Song",
+      "normalizedTitle": "lalijo song",
+      "trackNumber": 2,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Lalijo Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Karthik",
+        "Harini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4514850
+    },
+    {
+      "id": "cd7087a9c741",
+      "title": "Nasha Song",
+      "normalizedTitle": "nasha song",
+      "trackNumber": 3,
+      "duration": "4:09",
+      "durationSeconds": 249,
+      "audio": "Nasha Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Sunita Sarathy",
+        "Ranjit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4009967
+    },
+    {
+      "id": "352a17959beb",
+      "title": "Sariga Padani Song",
+      "normalizedTitle": "sariga padani song",
+      "trackNumber": 4,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Sariga Padani Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4914835
+    },
+    {
+      "id": "100fbc2887d0",
+      "title": "Yakhuda Zara Song",
+      "normalizedTitle": "yakhuda zara song",
+      "trackNumber": 5,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Yakhuda Zara Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Harish Raghavendra",
+        "Kalyani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4596824
+    }
+  ]
+}

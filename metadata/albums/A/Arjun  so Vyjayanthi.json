@@ -1,0 +1,48 @@
+{
+  "album": {
+    "id": "93933e84529e",
+    "name": "Arjun  so Vyjayanthi",
+    "year": 2024,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Arjun  so Vyjayanthi.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "fbe53c08463c",
+      "title": "Muchataga Bandhaale Song",
+      "normalizedTitle": "muchataga bandhaale song",
+      "trackNumber": 1,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Muchataga Bandhaale Song.mp3",
+      "composer": "B. Ajneesh Loknath",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 122851,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4035000
+    },
+    {
+      "id": "c4830a10338a",
+      "title": "Naayaldhi Song",
+      "normalizedTitle": "naayaldhi song",
+      "trackNumber": 2,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Naayaldhi Song.mp3",
+      "composer": "B. Ajneesh Loknath",
+      "singers": [
+        "B. Ajneesh Loknath"
+      ],
+      "bitrate": 117296,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3503443
+    }
+  ]
+}

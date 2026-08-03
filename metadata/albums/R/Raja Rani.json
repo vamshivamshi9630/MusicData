@@ -1,0 +1,144 @@
+{
+  "album": {
+    "id": "a47625ffc4c1",
+    "name": "Raja Rani",
+    "year": 2013,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Raja Rani.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "5a13ae36d645",
+      "title": "A Love Life",
+      "normalizedTitle": "a love life",
+      "trackNumber": 1,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "A Love Life.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "G.V.Prakash Kumar",
+        "Navin Iyer",
+        "Chennai Symphony"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3631040
+    },
+    {
+      "id": "e45efb7f23bb",
+      "title": "Ayyare",
+      "normalizedTitle": "ayyare",
+      "trackNumber": 2,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "Ayyare.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "Shakthisree Gopalan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3979960
+    },
+    {
+      "id": "f434c36bdf50",
+      "title": "Challaga",
+      "normalizedTitle": "challaga",
+      "trackNumber": 3,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Challaga.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "Rahul Nambiar",
+        "Megha",
+        "Clinton Cerejo"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5522671
+    },
+    {
+      "id": "2422d8214a08",
+      "title": "Hey Baby",
+      "normalizedTitle": "hey baby",
+      "trackNumber": 4,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Hey Baby.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "G.V. Prakash Kumar",
+        "Aishwarya",
+        "Jai Srinivas",
+        "Jai"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5418209
+    },
+    {
+      "id": "abb3bcd062d0",
+      "title": "Nee Valle",
+      "normalizedTitle": "nee valle",
+      "trackNumber": 5,
+      "duration": "1:40",
+      "durationSeconds": 100,
+      "audio": "Nee Valle.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "Vandana Srinivasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2142615
+    },
+    {
+      "id": "7b1ab5202f4f",
+      "title": "Oday Oday",
+      "normalizedTitle": "oday oday",
+      "trackNumber": 6,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Oday Oday.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "Vijay Prakash",
+        "Ranina Reddy",
+        "Shalmali Kholgade",
+        "Shashaa Tirupati"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4792544
+    },
+    {
+      "id": "b0e922932bf4",
+      "title": "Vinave Vinave",
+      "normalizedTitle": "vinave vinave",
+      "trackNumber": 7,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Vinave Vinave.mp3",
+      "composer": "G. V. Prakash Kumar",
+      "singers": [
+        "G.V.Prakash Kumar",
+        "Shakthisree Gopalan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3853790
+    }
+  ]
+}

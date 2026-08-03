@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "4a8c57fdc785",
+    "name": "Dikkulu Chudaku Ramayya",
+    "year": 2014,
+    "musicDirector": "Mickey J. Meyer",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Dikkulu Chudaku Ramayya.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "0e75c48d80c3",
+      "title": "Andari Rathalu Song",
+      "normalizedTitle": "andari rathalu song",
+      "trackNumber": 1,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Andari Rathalu Song.mp3",
+      "composer": "Music: Mm Keeravaani | Lyrics: Ananth Sriram, K. Shⅳa Datt㏊, S㏊rath Jyoﬅhna",
+      "singers": [
+        "Ramesh V㏌ayagam",
+        "Yam㏌i"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3551856
+    },
+    {
+      "id": "0079d9e1e130",
+      "title": "Anthe Premanthe Song",
+      "normalizedTitle": "anthe premanthe song",
+      "trackNumber": 2,
+      "duration": "4:56",
+      "durationSeconds": 296,
+      "audio": "Anthe Premanthe Song.mp3",
+      "composer": "Music: Mm Keeravaani | Lyrics: Ananth Sriram, K. Shⅳa Datt㏊, S㏊rath Jyoﬅhna",
+      "singers": [
+        "㏍",
+        "B㏊irava",
+        "Mo㏊na"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4786500
+    },
+    {
+      "id": "982867987be2",
+      "title": "Chembistri Song",
+      "normalizedTitle": "chembistri song",
+      "trackNumber": 3,
+      "duration": "2:40",
+      "durationSeconds": 160,
+      "audio": "Chembistri Song.mp3",
+      "composer": "Music: Mm Keeravaani | Lyrics: Ananth Sriram, K. Shⅳa Datt㏊, S㏊rath Jyoﬅhna",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2607648
+    },
+    {
+      "id": "e04863a32a21",
+      "title": "Dikkulu Choodaku Song",
+      "normalizedTitle": "dikkulu choodaku song",
+      "trackNumber": 4,
+      "duration": "1:43",
+      "durationSeconds": 103,
+      "audio": "Dikkulu Choodaku Song.mp3",
+      "composer": "Music: Mm Keeravaani | Lyrics: Ananth Sriram, K. Shⅳa Datt㏊, S㏊rath Jyoﬅhna",
+      "singers": [
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1695674
+    },
+    {
+      "id": "6c32a51407ee",
+      "title": "Dintana Song",
+      "normalizedTitle": "dintana song",
+      "trackNumber": 5,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Dintana Song.mp3",
+      "composer": "Music: Mm Keeravaani | Lyrics: Ananth Sriram, K. Shⅳa Datt㏊, S㏊rath Jyoﬅhna",
+      "singers": [
+        "Rahul Sipliguǌ"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4811137
+    },
+    {
+      "id": "fd1f25a06f16",
+      "title": "Telipotunna Song",
+      "normalizedTitle": "telipotunna song",
+      "trackNumber": 6,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Telipotunna Song.mp3",
+      "composer": "Music: Mm Keeravaani | Lyrics: Ananth Sriram, K. Shⅳa Datt㏊, S㏊rath Jyoﬅhna",
+      "singers": [
+        "Ramya Be㏊ra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3522153
+    }
+  ]
+}

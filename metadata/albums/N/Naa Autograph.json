@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "6b15355399fd",
+    "name": "Naa Autograph",
+    "year": 2004,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Naa Autograph.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "dd2cff444644",
+      "title": "Duvvina Talane Song",
+      "normalizedTitle": "duvvina talane song",
+      "trackNumber": 1,
+      "duration": "3:09",
+      "durationSeconds": 189,
+      "audio": "Duvvina Talane Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "M. M. Keeravani",
+        "Sumangali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3228691
+    },
+    {
+      "id": "f23efac28395",
+      "title": "Gaama Gaama Song",
+      "normalizedTitle": "gaama gaama song",
+      "trackNumber": 2,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Gaama Gaama Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Poornima",
+        "S.P. Balasubrahmanyam",
+        "Sri Vardhini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4722921
+    },
+    {
+      "id": "46f4a9ea7386",
+      "title": "Gurthukostunnayi Song",
+      "normalizedTitle": "gurthukostunnayi song",
+      "trackNumber": 3,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Gurthukostunnayi Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "KK"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4780534
+    },
+    {
+      "id": "e012bb0839ae",
+      "title": "Manmadhude Song",
+      "normalizedTitle": "manmadhude song",
+      "trackNumber": 4,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Manmadhude Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Ganga",
+        "Sandeep"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4619695
+    },
+    {
+      "id": "eef1346314d7",
+      "title": "Mounamgane Song",
+      "normalizedTitle": "mounamgane song",
+      "trackNumber": 5,
+      "duration": "5:19",
+      "durationSeconds": 319,
+      "audio": "Mounamgane Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5320551
+    },
+    {
+      "id": "38efc8e46d78",
+      "title": "Nuvvante Pranamani Song",
+      "normalizedTitle": "nuvvante pranamani song",
+      "trackNumber": 6,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Nuvvante Pranamani Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Vijay Yesudas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4033665
+    }
+  ]
+}

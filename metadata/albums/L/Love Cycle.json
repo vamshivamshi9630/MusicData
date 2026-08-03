@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "9e9def437028",
+    "name": "Love Cycle",
+    "year": 2020,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Love Cycle.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "4c2bff3b528a",
+      "title": "Ayyayyo Song",
+      "normalizedTitle": "ayyayyo song",
+      "trackNumber": 1,
+      "duration": "3:51",
+      "durationSeconds": 231,
+      "audio": "Ayyayyo Song.mp3",
+      "composer": "Music : Agastya | Lyrics : S.V.V. Ramanjaneyulu",
+      "singers": [
+        "Sampath",
+        "Sravani Krishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3793877
+    },
+    {
+      "id": "34259fa8957f",
+      "title": "I Am Very Sorry Song",
+      "normalizedTitle": "i am very sorry song",
+      "trackNumber": 2,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "I Am Very Sorry Song.mp3",
+      "composer": "Music : Agastya | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Srikrishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3634199
+    },
+    {
+      "id": "8da18883e22b",
+      "title": "Kasepu Song",
+      "normalizedTitle": "kasepu song",
+      "trackNumber": 3,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Kasepu Song.mp3",
+      "composer": "Music : Agastya | Lyrics : Chirravuri Vijay Kumar",
+      "singers": [
+        "Hymath",
+        "Sruthi Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4381104
+    },
+    {
+      "id": "b2c06c45b09f",
+      "title": "Pandaga Song",
+      "normalizedTitle": "pandaga song",
+      "trackNumber": 4,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Pandaga Song.mp3",
+      "composer": "Music : Agastya | Lyrics : Jayasurya Bopem",
+      "singers": [
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3548911
+    },
+    {
+      "id": "91e8c89ab241",
+      "title": "Play Boy Song",
+      "normalizedTitle": "play boy song",
+      "trackNumber": 5,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Play Boy Song.mp3",
+      "composer": "Music : Agastya | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Prudhvi",
+        "Sami"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5210733
+    },
+    {
+      "id": "9208db2e7da0",
+      "title": "Preme Song",
+      "normalizedTitle": "preme song",
+      "trackNumber": 6,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Preme Song.mp3",
+      "composer": "Music : Agastya | Lyrics : Chirravuri Vijay Kumar",
+      "singers": [
+        "Nakul"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4293718
+    }
+  ]
+}

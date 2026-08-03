@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "f3ef1741d1f9",
+    "name": "DC - Tamil",
+    "year": 2025,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "DC - Tamil.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "62b4503150b6",
+      "title": "Raga of Revenge Song",
+      "normalizedTitle": "raga of revenge song",
+      "trackNumber": 1,
+      "duration": "2:11",
+      "durationSeconds": 131,
+      "audio": "Raga of Revenge Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128154,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2333976
+    }
+  ]
+}

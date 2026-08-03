@@ -1,0 +1,87 @@
+{
+  "album": {
+    "id": "0951caa80b94",
+    "name": "Lenin",
+    "year": 2020,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Lenin.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "e9a6535564a0",
+      "title": "Jaya Mangalam Song",
+      "normalizedTitle": "jaya mangalam song",
+      "trackNumber": 1,
+      "duration": "3:27",
+      "durationSeconds": 207,
+      "audio": "Jaya Mangalam Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "SP Charan",
+        "Kumara Vagdevi",
+        "Vijaya Lakshmi"
+      ],
+      "bitrate": 128425,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3677985
+    },
+    {
+      "id": "455938ee195c",
+      "title": "Soul of Lenin Song",
+      "normalizedTitle": "soul of lenin song",
+      "trackNumber": 2,
+      "duration": "2:20",
+      "durationSeconds": 140,
+      "audio": "Soul of Lenin Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S",
+        "Kumara Vagdevi"
+      ],
+      "bitrate": 118674,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2428664
+    },
+    {
+      "id": "65066903c107",
+      "title": "Vaa Re Vaa Vaa Re Vaa Song",
+      "normalizedTitle": "vaa re vaa vaa re vaa song",
+      "trackNumber": 3,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Vaa Re Vaa Vaa Re Vaa Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Jubin Nautiyal",
+        "Swetha Mohan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7894603
+    },
+    {
+      "id": "92a44a948666",
+      "title": "Yetta Yetta Song",
+      "normalizedTitle": "yetta yetta song",
+      "trackNumber": 4,
+      "duration": "3:25",
+      "durationSeconds": 205,
+      "audio": "Yetta Yetta Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S",
+        "Sri Krishna"
+      ],
+      "bitrate": 139922,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3946623
+    }
+  ]
+}

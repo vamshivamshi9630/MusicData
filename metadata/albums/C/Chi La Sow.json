@@ -1,0 +1,105 @@
+{
+  "album": {
+    "id": "b2e01459eaad",
+    "name": "Chi La Sow",
+    "year": 2018,
+    "musicDirector": "Prashanth R. Vihari",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chi La Sow.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "c0ca3f63debc",
+      "title": "Chi La Sow Song",
+      "normalizedTitle": "chi la sow song",
+      "trackNumber": 1,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Chi La Sow Song.mp3",
+      "composer": "Prashanth R Vihari",
+      "singers": [
+        "Diwakar",
+        "Chinmayi Sripaada",
+        "Pranav Chaganty"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3681121
+    },
+    {
+      "id": "5114eb209b6f",
+      "title": "Down Down Song",
+      "normalizedTitle": "down down song",
+      "trackNumber": 2,
+      "duration": "3:07",
+      "durationSeconds": 187,
+      "audio": "Down Down Song.mp3",
+      "composer": "Prashanth R Vihari",
+      "singers": [
+        "Kaala Bhairava",
+        "Ernest Abraham"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3331707
+    },
+    {
+      "id": "3b88739badc9",
+      "title": "Mellaga Mellaga Song",
+      "normalizedTitle": "mellaga mellaga song",
+      "trackNumber": 3,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Mellaga Mellaga Song.mp3",
+      "composer": "Prashanth R Vihari",
+      "singers": [
+        "Chinmayi Sripaada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3605053
+    },
+    {
+      "id": "b2cfd9893201",
+      "title": "Solo Solo Song",
+      "normalizedTitle": "solo solo song",
+      "trackNumber": 4,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Solo Solo Song.mp3",
+      "composer": "Prashanth R Vihari",
+      "singers": [
+        "Prashanth R Vihari",
+        "Diwakar",
+        "Naresh Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4547550
+    },
+    {
+      "id": "9152c98560db",
+      "title": "Varshinche Song",
+      "normalizedTitle": "varshinche song",
+      "trackNumber": 5,
+      "duration": "1:13",
+      "durationSeconds": 73,
+      "audio": "Varshinche Song.mp3",
+      "composer": "Prashanth R Vihari",
+      "singers": [
+        "Abhijit Rao",
+        "Ravi Prakash Chodimalla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1518600
+    }
+  ]
+}

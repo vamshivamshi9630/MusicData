@@ -1,0 +1,139 @@
+{
+  "album": {
+    "id": "bf800d315e66",
+    "name": "Oh My Friend",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Oh My Friend.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "51ca3bfffb58",
+      "title": "Aalochana Vasthene Song",
+      "normalizedTitle": "aalochana vasthene song",
+      "trackNumber": 1,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Aalochana Vasthene Song.mp3",
+      "composer": "Music : Rahul Raj | Lyrics : Sitarama Sastry",
+      "singers": [
+        "Ranjith",
+        "Sangeetha Prabhu",
+        "Sarah Straub"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4639884
+    },
+    {
+      "id": "eb71fff22173",
+      "title": "Maa Daddy Pockets Song",
+      "normalizedTitle": "maa daddy pockets song",
+      "trackNumber": 2,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Maa Daddy Pockets Song.mp3",
+      "composer": "Music : Rahul Raj | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Siddharth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4034203
+    },
+    {
+      "id": "6e035fc70db4",
+      "title": "Nenu Thaanani Song",
+      "normalizedTitle": "nenu thaanani song",
+      "trackNumber": 3,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Nenu Thaanani Song.mp3",
+      "composer": "Music : Rahul Raj | Lyrics : Sitarama Sastry",
+      "singers": [
+        "Ranjith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4491434
+    },
+    {
+      "id": "aead6dc571d8",
+      "title": "Nuvvu Nenu Jattu Song",
+      "normalizedTitle": "nuvvu nenu jattu song",
+      "trackNumber": 4,
+      "duration": "1:51",
+      "durationSeconds": 111,
+      "audio": "Nuvvu Nenu Jattu Song.mp3",
+      "composer": "Music : Rahul Raj | Lyrics : Sitarama Sastry",
+      "singers": [
+        "Benny Dayal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1874188
+    },
+    {
+      "id": "419ca7e9cf53",
+      "title": "Oh Oh Oh My Frien Song",
+      "normalizedTitle": "oh oh oh my frien song",
+      "trackNumber": 5,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Oh Oh Oh My Frien Song.mp3",
+      "composer": "Music : Rahul Raj | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4254465
+    },
+    {
+      "id": "090ff59e763a",
+      "title": "Sri Chaitanya Song",
+      "normalizedTitle": "sri chaitanya song",
+      "trackNumber": 6,
+      "duration": "3:40",
+      "durationSeconds": 220,
+      "audio": "Sri Chaitanya Song.mp3",
+      "composer": "Music : Anil .R | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Siddharth",
+        "Sruthi Hasan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3620439
+    },
+    {
+      "id": "9eef1efed390",
+      "title": "Vegam Vegam Song",
+      "normalizedTitle": "vegam vegam song",
+      "trackNumber": 7,
+      "duration": "3:07",
+      "durationSeconds": 187,
+      "audio": "Vegam Vegam Song.mp3",
+      "composer": "Music : Rahul Raj | Lyrics : Krishna Chaitanya",
+      "singers": [
+        "Benny Dayal",
+        "Kavitha Mohan",
+        "Jayaram Ranjith",
+        "Desmond F (Rap)"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3088451
+    }
+  ]
+}

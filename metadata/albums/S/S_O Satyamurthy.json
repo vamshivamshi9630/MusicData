@@ -1,0 +1,138 @@
+{
+  "album": {
+    "id": "d8e08cc1734e",
+    "name": "S_O Satyamurthy",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "S_O Satyamurthy.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "9d0bf641b233",
+      "title": "Chal Chalo Chalo Song",
+      "normalizedTitle": "chal chalo chalo song",
+      "trackNumber": 1,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Chal Chalo Chalo Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Raghu Dixit",
+        "Sooraj Santhosh",
+        "Rita"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5687721
+    },
+    {
+      "id": "78f7d57a4eb9",
+      "title": "Come To The Party Song",
+      "normalizedTitle": "come to the party song",
+      "trackNumber": 2,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Come To The Party Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Vijay Prakash"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4603913
+    },
+    {
+      "id": "b9c10ac86619",
+      "title": "Jaaruko Song",
+      "normalizedTitle": "jaaruko song",
+      "trackNumber": 3,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Jaaruko Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar",
+        "M. M. Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4929076
+    },
+    {
+      "id": "3674ada5c15b",
+      "title": "One & Two & Three Song",
+      "normalizedTitle": "one two three song",
+      "trackNumber": 4,
+      "duration": "2:07",
+      "durationSeconds": 127,
+      "audio": "One & Two & Three Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sooraj Santhosh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2786213
+    },
+    {
+      "id": "2e177d909b02",
+      "title": "Seethakaalam Song",
+      "normalizedTitle": "seethakaalam song",
+      "trackNumber": 5,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Seethakaalam Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Yazin Nizar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4947070
+    },
+    {
+      "id": "ace9cf2f0641",
+      "title": "Super Machi Song",
+      "normalizedTitle": "super machi song",
+      "trackNumber": 6,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Super Machi Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad",
+        "Sravana Bhargavi",
+        "Magizhini Manimaaran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5194144
+    },
+    {
+      "id": "f5452c6a9783",
+      "title": "Vacchadu Song",
+      "normalizedTitle": "vacchadu song",
+      "trackNumber": 7,
+      "duration": "2:34",
+      "durationSeconds": 154,
+      "audio": "Vacchadu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Javed Ali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3227966
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "album": {
+    "id": "056e44f3589d",
+    "name": "Sayyare Song",
+    "year": 2020,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sayyare Song.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "4bbaf1bc535f",
+      "title": "Andhala bommaro",
+      "normalizedTitle": "andhala bommaro",
+      "trackNumber": 1,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Andhala bommaro.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Shriya",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4322223
+    },
+    {
+      "id": "57fd6d225fc9",
+      "title": "En Peru Murugan",
+      "normalizedTitle": "en peru murugan",
+      "trackNumber": 2,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "En Peru Murugan.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Shriya",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4841746
+    },
+    {
+      "id": "cd184500bfc2",
+      "title": "Kandi Chenu Kada",
+      "normalizedTitle": "kandi chenu kada",
+      "trackNumber": 3,
+      "duration": "6:14",
+      "durationSeconds": 374,
+      "audio": "Kandi Chenu Kada.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Shriya",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6105236
+    },
+    {
+      "id": "67fffdf9391e",
+      "title": "Nadumu Chusthe",
+      "normalizedTitle": "nadumu chusthe",
+      "trackNumber": 4,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Nadumu Chusthe.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Shriya",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4882706
+    },
+    {
+      "id": "bcb5c13c6c99",
+      "title": "Pattuko Pattuko",
+      "normalizedTitle": "pattuko pattuko",
+      "trackNumber": 5,
+      "duration": "4:16",
+      "durationSeconds": 256,
+      "audio": "Pattuko Pattuko.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Shriya",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4223166
+    },
+    {
+      "id": "0541584b0061",
+      "title": "Pilla Chuste",
+      "normalizedTitle": "pilla chuste",
+      "trackNumber": 6,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Pilla Chuste.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Shriya",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3979496
+    },
+    {
+      "id": "9de45a3e6430",
+      "title": "Sayya Sayyare",
+      "normalizedTitle": "sayya sayyare",
+      "trackNumber": 7,
+      "duration": "6:01",
+      "durationSeconds": 361,
+      "audio": "Sayya Sayyare.mp3",
+      "composer": "My3Songs.In",
+      "singers": [
+        "Jr NTR",
+        "Shriya",
+        "Genelia"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5892495
+    }
+  ]
+}

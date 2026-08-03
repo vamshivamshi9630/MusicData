@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "cf09f5a399de",
+    "name": "Shankar Dada Zindabad",
+    "year": 2007,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Shankar Dada Zindabad.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "3bd461c0da9e",
+      "title": "Akalesthey Song",
+      "normalizedTitle": "akalesthey song",
+      "trackNumber": 1,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Akalesthey Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Naveen",
+        "Mamatha Mohandas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4368722
+    },
+    {
+      "id": "d186744ae236",
+      "title": "Bhoogolamamntha Song",
+      "normalizedTitle": "bhoogolamamntha song",
+      "trackNumber": 2,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Bhoogolamamntha Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Adnan Sami",
+        "Gopika Poornima"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4361632
+    },
+    {
+      "id": "72e75985fb48",
+      "title": "Chandamama Song",
+      "normalizedTitle": "chandamama song",
+      "trackNumber": 3,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Chandamama Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "K. S. Chithra",
+        "Venugopal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3764333
+    },
+    {
+      "id": "3eb22db36760",
+      "title": "Good Morning Song",
+      "normalizedTitle": "good morning song",
+      "trackNumber": 4,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Good Morning Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Sagar",
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4420143
+    },
+    {
+      "id": "f879d6944c2c",
+      "title": "Jagadeka Veerudu Song",
+      "normalizedTitle": "jagadeka veerudu song",
+      "trackNumber": 5,
+      "duration": "5:54",
+      "durationSeconds": 354,
+      "audio": "Jagadeka Veerudu Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Mano"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5873005
+    },
+    {
+      "id": "4fa765a0a9b9",
+      "title": "O Bapu Nuvve Song",
+      "normalizedTitle": "o bapu nuvve song",
+      "trackNumber": 6,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "O Bapu Nuvve Song.mp3",
+      "composer": "SenSongsMp3.Co",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3314647
+    }
+  ]
+}

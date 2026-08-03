@@ -1,0 +1,135 @@
+{
+  "album": {
+    "id": "b747e99d86d8",
+    "name": "Abhinandana",
+    "year": 1988,
+    "musicDirector": "Ilaiyaraaja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Abhinandana.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "ea3c82a72055",
+      "title": "Ade Neevu Song",
+      "normalizedTitle": "ade neevu song",
+      "trackNumber": 1,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Ade Neevu Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "S.P.Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4482681
+    },
+    {
+      "id": "87610d5eaf05",
+      "title": "Chukkalanti Song",
+      "normalizedTitle": "chukkalanti song",
+      "trackNumber": 2,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Chukkalanti Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "S.Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2934144
+    },
+    {
+      "id": "2216405446b9",
+      "title": "Eduta Neeve Song",
+      "normalizedTitle": "eduta neeve song",
+      "trackNumber": 3,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Eduta Neeve Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "S.P.Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4240267
+    },
+    {
+      "id": "86fc114b629d",
+      "title": "Manchu Kurise Song",
+      "normalizedTitle": "manchu kurise song",
+      "trackNumber": 4,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Manchu Kurise Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "S.P.Balu",
+        "S.Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4045100
+    },
+    {
+      "id": "bfbb26564ae9",
+      "title": "Prema Enta Song",
+      "normalizedTitle": "prema enta song",
+      "trackNumber": 5,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Prema Enta Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "S.P.Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4175483
+    },
+    {
+      "id": "2eaeec41b18f",
+      "title": "Premaledani Song",
+      "normalizedTitle": "premaledani song",
+      "trackNumber": 6,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Premaledani Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "S.P.Balu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4570037
+    },
+    {
+      "id": "41d8ca2f21ba",
+      "title": "Rangulalo Song",
+      "normalizedTitle": "rangulalo song",
+      "trackNumber": 7,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Rangulalo Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "S.P.Balu",
+        "S.Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4453026
+    }
+  ]
+}

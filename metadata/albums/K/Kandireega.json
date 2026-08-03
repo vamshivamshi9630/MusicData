@@ -1,0 +1,115 @@
+{
+  "album": {
+    "id": "0779377470a6",
+    "name": "Kandireega",
+    "year": 2011,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kandireega.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "8f081a437e1a",
+      "title": "Angelina Song",
+      "normalizedTitle": "angelina song",
+      "trackNumber": 1,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Angelina Song.mp3",
+      "composer": "Thaman S.S",
+      "singers": [
+        "Ranjith",
+        "Ranina Reddy",
+        "Suchitra"
+      ],
+      "bitrate": 267646,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8614120
+    },
+    {
+      "id": "0b00feefe2e9",
+      "title": "Champakamala Song",
+      "normalizedTitle": "champakamala song",
+      "trackNumber": 2,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Champakamala Song.mp3",
+      "composer": "Thaman S.S",
+      "singers": [
+        "Karthik",
+        "Suchitra"
+      ],
+      "bitrate": 269989,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9869256
+    },
+    {
+      "id": "436282bb0a24",
+      "title": "Gentle Man Song",
+      "normalizedTitle": "gentle man song",
+      "trackNumber": 3,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Gentle Man Song.mp3",
+      "composer": "Thaman S.S",
+      "singers": [
+        "Ranjith",
+        "Chorus"
+      ],
+      "bitrate": 273791,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6867302
+    },
+    {
+      "id": "6374d8be0fe6",
+      "title": "Nenkudithey Song",
+      "normalizedTitle": "nenkudithey song",
+      "trackNumber": 4,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Nenkudithey Song.mp3",
+      "composer": "Thaman S.S",
+      "singers": [
+        "Naveen",
+        "M.L.R.Karthikeyan",
+        "Aalaap Raj",
+        "Ranjith",
+        "Ranina Reddy",
+        "Dharshana"
+      ],
+      "bitrate": 266706,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9282698
+    },
+    {
+      "id": "f162a3c68a85",
+      "title": "Premey Song",
+      "normalizedTitle": "premey song",
+      "trackNumber": 5,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Premey Song.mp3",
+      "composer": "Thaman S.S",
+      "singers": [
+        "Ranjith",
+        "Hemachandra",
+        "Deepu",
+        "Revanth Kumar",
+        "M.L.R.Karthikeyan",
+        "Bindhu Mahima",
+        "Geetha Madhuri",
+        "Shravana Bhargavi"
+      ],
+      "bitrate": 265226,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9936686
+    }
+  ]
+}

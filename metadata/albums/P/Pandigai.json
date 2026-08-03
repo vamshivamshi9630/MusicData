@@ -1,0 +1,72 @@
+{
+  "album": {
+    "id": "0edabcbff4b5",
+    "name": "Pandigai",
+    "year": 2017,
+    "musicDirector": "R. H. Vikram",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Pandigai.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "d1723a7a0d06",
+      "title": "Adiye Song",
+      "normalizedTitle": "adiye song",
+      "trackNumber": 1,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Adiye Song.mp3",
+      "composer": "R. H. Vikram",
+      "singers": [
+        "Nikhita Gandhi",
+        "Venkat Prabhu",
+        "Premgi Amaren & R.H. Vikram"
+      ],
+      "bitrate": 134277,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4181953
+    },
+    {
+      "id": "12e063ccc852",
+      "title": "Ithu Vaazhvukum Song",
+      "normalizedTitle": "ithu vaazhvukum song",
+      "trackNumber": 2,
+      "duration": "3:55",
+      "durationSeconds": 235,
+      "audio": "Ithu Vaazhvukum Song.mp3",
+      "composer": "R. H. Vikram",
+      "singers": [
+        "MC Vickey",
+        "Sricharan",
+        "Madhana Gopal",
+        "Deepak",
+        "Rajeev Rajaram"
+      ],
+      "bitrate": 134798,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4072375
+    },
+    {
+      "id": "fc6b008a2567",
+      "title": "Sila Vaarama Song",
+      "normalizedTitle": "sila vaarama song",
+      "trackNumber": 3,
+      "duration": "3:12",
+      "durationSeconds": 192,
+      "audio": "Sila Vaarama Song.mp3",
+      "composer": "R. H. Vikram",
+      "singers": [
+        "Karthik",
+        "R.H. Vikram"
+      ],
+      "bitrate": 130009,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3229281
+    }
+  ]
+}

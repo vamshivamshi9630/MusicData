@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "67acd15b704e",
+    "name": "Miles of Love",
+    "year": 2021,
+    "musicDirector": "RR Dhruvan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Miles of Love.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "03786313b304",
+      "title": "Gaganamu Daati Song",
+      "normalizedTitle": "gaganamu daati song",
+      "trackNumber": 1,
+      "duration": "3:40",
+      "durationSeconds": 220,
+      "audio": "Gaganamu Daati Song.mp3",
+      "composer": "R Dhruvan",
+      "singers": [
+        "Yasaswi Kondepudi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3733819
+    },
+    {
+      "id": "b29312beeb76",
+      "title": "Neelambari Song",
+      "normalizedTitle": "neelambari song",
+      "trackNumber": 2,
+      "duration": "3:45",
+      "durationSeconds": 225,
+      "audio": "Neelambari Song.mp3",
+      "composer": "RR Dhruvan",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3801216
+    },
+    {
+      "id": "87dda5f8e89c",
+      "title": "Teliyade Teliyade Song",
+      "normalizedTitle": "teliyade teliyade song",
+      "trackNumber": 3,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Teliyade Teliyade Song.mp3",
+      "composer": "R Dhruvan",
+      "singers": [
+        "Sid Sriram",
+        "Aditi Bhavaraju"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6211072
+    },
+    {
+      "id": "ae834d99e003",
+      "title": "Vennello Song",
+      "normalizedTitle": "vennello song",
+      "trackNumber": 4,
+      "duration": "3:03",
+      "durationSeconds": 183,
+      "audio": "Vennello Song.mp3",
+      "composer": "RR Dhruvan",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3126144
+    }
+  ]
+}

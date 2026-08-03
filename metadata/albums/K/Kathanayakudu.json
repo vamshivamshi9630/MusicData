@@ -1,0 +1,143 @@
+{
+  "album": {
+    "id": "f5f899335d54",
+    "name": "Kathanayakudu",
+    "year": 2008,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "a2339beb0e0f",
+      "title": "Bhantureethi Koluvu Song",
+      "normalizedTitle": "bhantureethi koluvu song",
+      "trackNumber": 1,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Bhantureethi Koluvu Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "K.S. Chithra",
+        "Sreenidhi Tirumala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5124480
+    },
+    {
+      "id": "67732422b634",
+      "title": "Chaitanya Ratham Song",
+      "normalizedTitle": "chaitanya ratham song",
+      "trackNumber": 2,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Chaitanya Ratham Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "M.M Keeravani",
+        "Kaala Bhairava",
+        "Sai Shivani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5180928
+    },
+    {
+      "id": "e3ae13a3b39e",
+      "title": "Kathaa Naayaka (Female) Song",
+      "normalizedTitle": "kathaa naayaka female song",
+      "trackNumber": 3,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Kathaa Naayaka (Female) Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Sreenidhi Tirumala",
+        "Ramya Behara",
+        "Mohana Bhogaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3859968
+    },
+    {
+      "id": "59a5ad89ae8f",
+      "title": "Kathaa Naayaka Song",
+      "normalizedTitle": "kathaa naayaka song",
+      "trackNumber": 4,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Kathaa Naayaka Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Kailash Kher"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3858048
+    },
+    {
+      "id": "6e39e3726370",
+      "title": "Rajarshi Song",
+      "normalizedTitle": "rajarshi song",
+      "trackNumber": 5,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Rajarshi Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Sarath Santosh",
+        "Mohana Bhogaraju",
+        "M.M. Keeravani",
+        "Kaala Bhairava",
+        "Sreenidhi Tirumala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5573376
+    },
+    {
+      "id": "2d67a5d1f914",
+      "title": "Ramanna Katha Song",
+      "normalizedTitle": "ramanna katha song",
+      "trackNumber": 6,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Ramanna Katha Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "K.S. Chithra",
+        "Suneetha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5368704
+    },
+    {
+      "id": "3a3338c2cb07",
+      "title": "Venditera Dora Song",
+      "normalizedTitle": "venditera dora song",
+      "trackNumber": 7,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Venditera Dora Song.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "M.M Keeravani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4572288
+    }
+  ]
+}

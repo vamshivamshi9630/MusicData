@@ -1,0 +1,150 @@
+{
+  "album": {
+    "id": "54e007d6b97d",
+    "name": "Bombayi Priyudu",
+    "year": 1996,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bombayi Priyudu.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "cff490326a0b",
+      "title": "Aho Priya",
+      "normalizedTitle": "aho priya",
+      "trackNumber": 1,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Aho Priya.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4312838
+    },
+    {
+      "id": "35e50b5fbad8",
+      "title": "Balamuralikrishna",
+      "normalizedTitle": "balamuralikrishna",
+      "trackNumber": 2,
+      "duration": "5:41",
+      "durationSeconds": 341,
+      "audio": "Balamuralikrishna.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5460972
+    },
+    {
+      "id": "c6c506326db6",
+      "title": "Bombai Premika",
+      "normalizedTitle": "bombai premika",
+      "trackNumber": 3,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Bombai Premika.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4768413
+    },
+    {
+      "id": "d73cd5b065bf",
+      "title": "Chandana Cheeranu Katti",
+      "normalizedTitle": "chandana cheeranu katti",
+      "trackNumber": 4,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Chandana Cheeranu Katti.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4773011
+    },
+    {
+      "id": "d7ea8eee2fdc",
+      "title": "Chethilona Cheyyesi",
+      "normalizedTitle": "chethilona cheyyesi",
+      "trackNumber": 5,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Chethilona Cheyyesi.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4978647
+    },
+    {
+      "id": "118281e52286",
+      "title": "Guppedu Gundelu",
+      "normalizedTitle": "guppedu gundelu",
+      "trackNumber": 6,
+      "duration": "6:07",
+      "durationSeconds": 367,
+      "audio": "Guppedu Gundelu.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5887290
+    },
+    {
+      "id": "3a5230a6419d",
+      "title": "Pranayama",
+      "normalizedTitle": "pranayama",
+      "trackNumber": 7,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Pranayama.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4830271
+    },
+    {
+      "id": "1f715c943516",
+      "title": "Rajkapoor Cinemaloni",
+      "normalizedTitle": "rajkapoor cinemaloni",
+      "trackNumber": 8,
+      "duration": "5:14",
+      "durationSeconds": 314,
+      "audio": "Rajkapoor Cinemaloni.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5037997
+    }
+  ]
+}

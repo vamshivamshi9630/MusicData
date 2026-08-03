@@ -1,0 +1,85 @@
+{
+  "album": {
+    "id": "2e6174c8fe3f",
+    "name": "Beeruva",
+    "year": 2015,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "d9c8508de9a6",
+      "title": "By By By Cheppai Song",
+      "normalizedTitle": "by by by cheppai song",
+      "trackNumber": 1,
+      "duration": "3:40",
+      "durationSeconds": 220,
+      "audio": "By By By Cheppai Song.mp3",
+      "composer": "Music: T㏊man.S | Lyrics: Shree Mani",
+      "singers": [
+        "Nⅳas"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3604308
+    },
+    {
+      "id": "8e4b6af4ad1a",
+      "title": "Cheliya Cheliya Song",
+      "normalizedTitle": "cheliya cheliya song",
+      "trackNumber": 2,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Cheliya Cheliya Song.mp3",
+      "composer": "Music: T㏊man.S | Lyrics: Shree Mani",
+      "singers": [
+        "Deepak",
+        "M.M.Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4518829
+    },
+    {
+      "id": "be117fb50955",
+      "title": "Chinnadana Chinnadan Song",
+      "normalizedTitle": "chinnadana chinnadan song",
+      "trackNumber": 3,
+      "duration": "3:25",
+      "durationSeconds": 205,
+      "audio": "Chinnadana Chinnadan Song.mp3",
+      "composer": "Music: T㏊man.S | Lyrics: Shree Mani",
+      "singers": [
+        "Naveen Mad㏊v",
+        "M.M.Monis㏊"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3363614
+    },
+    {
+      "id": "a06cba288d4d",
+      "title": "Pisthol Bava Song",
+      "normalizedTitle": "pisthol bava song",
+      "trackNumber": 4,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "Pisthol Bava Song.mp3",
+      "composer": "Music: T㏊man.S | Lyrics: Shree Mani",
+      "singers": [
+        "Mallikarjun",
+        "Pooja"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3520737
+    }
+  ]
+}

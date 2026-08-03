@@ -1,0 +1,137 @@
+{
+  "album": {
+    "id": "5bb6b0ba17fe",
+    "name": "Kalisundaam Raa",
+    "year": 2000,
+    "musicDirector": "S. A. Rajkumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kalisundaam Raa.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "4a31126ad4b2",
+      "title": "Boom Boom Song",
+      "normalizedTitle": "boom boom song",
+      "trackNumber": 1,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Boom Boom Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 218275,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8399074
+    },
+    {
+      "id": "8f6de72414f0",
+      "title": "Kalisunte Kaladu Song",
+      "normalizedTitle": "kalisunte kaladu song",
+      "trackNumber": 2,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Kalisunte Kaladu Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Rajesh"
+      ],
+      "bitrate": 217127,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7678633
+    },
+    {
+      "id": "e46e132537db",
+      "title": "Manasu Manasu Song",
+      "normalizedTitle": "manasu manasu song",
+      "trackNumber": 3,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Manasu Manasu Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "SP.Balu",
+        "Chitra"
+      ],
+      "bitrate": 206797,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7272527
+    },
+    {
+      "id": "5a2368833f6b",
+      "title": "Nachave Pallapitta Song",
+      "normalizedTitle": "nachave pallapitta song",
+      "trackNumber": 4,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Nachave Pallapitta Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "SP.Balu",
+        "Swarnalatha Jr"
+      ],
+      "bitrate": 228184,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7268325
+    },
+    {
+      "id": "459ed8abdfd4",
+      "title": "Nuvve Nuvve Song",
+      "normalizedTitle": "nuvve nuvve song",
+      "trackNumber": 5,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Nuvve Nuvve Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Hariharan",
+        "Sujatha"
+      ],
+      "bitrate": 214009,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7164796
+    },
+    {
+      "id": "c2673e9a8259",
+      "title": "Pacific Lo Song",
+      "normalizedTitle": "pacific lo song",
+      "trackNumber": 6,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Pacific Lo Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Udit Narayan",
+        "Anuradha Sriram"
+      ],
+      "bitrate": 221749,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7247169
+    },
+    {
+      "id": "1b9c08bbfe19",
+      "title": "Prema Prema Song",
+      "normalizedTitle": "prema prema song",
+      "trackNumber": 7,
+      "duration": "2:00",
+      "durationSeconds": 120,
+      "audio": "Prema Prema Song.mp3",
+      "composer": "S. A. Rajkumar",
+      "singers": [
+        "Unni Krishnan"
+      ],
+      "bitrate": 205165,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3119370
+    }
+  ]
+}

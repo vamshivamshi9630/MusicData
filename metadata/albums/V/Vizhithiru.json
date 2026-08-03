@@ -1,0 +1,139 @@
+{
+  "album": {
+    "id": "4d0eb22ebf28",
+    "name": "Vizhithiru",
+    "year": 2017,
+    "musicDirector": "Satyan Mahalingam",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Vizhithiru.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "10c96824cd38",
+      "title": "Aazhi Alai Song",
+      "normalizedTitle": "aazhi alai song",
+      "trackNumber": 1,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Aazhi Alai Song.mp3",
+      "composer": "Sathyan Mahalingam",
+      "singers": [
+        "Vaikom Vijayalakshmi"
+      ],
+      "bitrate": 122696,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2744426
+    },
+    {
+      "id": "fa7b995cc27c",
+      "title": "Kolai Vaall Song",
+      "normalizedTitle": "kolai vaall song",
+      "trackNumber": 2,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Kolai Vaall Song.mp3",
+      "composer": "Sathyan Mahalingam",
+      "singers": [
+        "Vijay Antony",
+        "Sricharan & Sunandhan"
+      ],
+      "bitrate": 139452,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4109704
+    },
+    {
+      "id": "a1cc31493529",
+      "title": "Papparappa Song",
+      "normalizedTitle": "papparappa song",
+      "trackNumber": 3,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Papparappa Song.mp3",
+      "composer": "Sathyan Mahalingam",
+      "singers": [
+        "T. Rajendar",
+        "Priyadarshini"
+      ],
+      "bitrate": 136009,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5203476
+    },
+    {
+      "id": "c4c675b644a0",
+      "title": "Papparappa",
+      "normalizedTitle": "papparappa",
+      "trackNumber": 4,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Papparappa.mp3",
+      "composer": "Sathyan Mahalingam",
+      "singers": [
+        "Sathyan Mahalingam"
+      ],
+      "bitrate": 140320,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5430188
+    },
+    {
+      "id": "35b8d131090d",
+      "title": "Pon Vidhi Song",
+      "normalizedTitle": "pon vidhi song",
+      "trackNumber": 5,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Pon Vidhi Song.mp3",
+      "composer": "Sathyan Mahalingam",
+      "singers": [
+        "Santhosh Narayanan"
+      ],
+      "bitrate": 137162,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3672335
+    },
+    {
+      "id": "d038cd2c14fc",
+      "title": "Stay Awake Song",
+      "normalizedTitle": "stay awake song",
+      "trackNumber": 6,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Stay Awake Song.mp3",
+      "composer": "Sathyan Mahalingam",
+      "singers": [
+        "C. Sathya",
+        "S. Thaman",
+        "Tha Prophecy",
+        "Sharmila & Baby Sudhantra"
+      ],
+      "bitrate": 131260,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4803182
+    },
+    {
+      "id": "8e218c9f7036",
+      "title": "Vellai Irave Song",
+      "normalizedTitle": "vellai irave song",
+      "trackNumber": 7,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Vellai Irave Song.mp3",
+      "composer": "Sathyan Mahalingam",
+      "singers": [
+        "G.V Prakash Kumar",
+        "NSK Ramya"
+      ],
+      "bitrate": 128814,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4668453
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "album": {
+    "id": "f37d3d479822",
+    "name": "Aparichitudu",
+    "year": 2005,
+    "musicDirector": "Harris Jayaraj",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aparichitudu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "17e5075d0731",
+      "title": "Jiyangaari Song",
+      "normalizedTitle": "jiyangaari song",
+      "trackNumber": 1,
+      "duration": "6:13",
+      "durationSeconds": 373,
+      "audio": "Jiyangaari Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "K.J. Yesudas",
+        "Harini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5999477
+    },
+    {
+      "id": "fc1d189a5e18",
+      "title": "Konda Kaki Song",
+      "normalizedTitle": "konda kaki song",
+      "trackNumber": 2,
+      "duration": "5:36",
+      "durationSeconds": 336,
+      "audio": "Konda Kaki Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Jassie Gift",
+        "K.K.",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5404733
+    },
+    {
+      "id": "5cb8d37b4209",
+      "title": "Love Elephentla Song",
+      "normalizedTitle": "love elephentla song",
+      "trackNumber": 3,
+      "duration": "5:45",
+      "durationSeconds": 345,
+      "audio": "Love Elephentla Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Nakul",
+        "G.V. Prakash",
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5554358
+    },
+    {
+      "id": "af21ac375e8a",
+      "title": "Naku Neeku Noki Song",
+      "normalizedTitle": "naku neeku noki song",
+      "trackNumber": 4,
+      "duration": "5:28",
+      "durationSeconds": 328,
+      "audio": "Naku Neeku Noki Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Nakul",
+        "Vasundhara Das"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5283095
+    },
+    {
+      "id": "f2aaf62febb1",
+      "title": "O Sukumari Song",
+      "normalizedTitle": "o sukumari song",
+      "trackNumber": 5,
+      "duration": "5:58",
+      "durationSeconds": 358,
+      "audio": "O Sukumari Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "O Sukumaari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5762038
+    },
+    {
+      "id": "9809b29310a7",
+      "title": "Stranger In Bla Song",
+      "normalizedTitle": "stranger in bla song",
+      "trackNumber": 6,
+      "duration": "2:47",
+      "durationSeconds": 167,
+      "audio": "Stranger In Bla Song.mp3",
+      "composer": "Harris Jayaraj",
+      "singers": [
+        "Sunitha Sarathy",
+        "Chennai Chorale"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2701443
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "5ce3a0e99d4f",
+    "name": "Manoharam",
+    "year": 2000,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Manoharam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "0e743a3b36ad",
+      "title": "Bharata Matha",
+      "normalizedTitle": "bharata matha",
+      "trackNumber": 1,
+      "duration": "5:51",
+      "durationSeconds": 351,
+      "audio": "Bharata Matha.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5641222
+    },
+    {
+      "id": "dd8a3672479d",
+      "title": "Chooda Chakkani",
+      "normalizedTitle": "chooda chakkani",
+      "trackNumber": 2,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Chooda Chakkani.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3607843
+    },
+    {
+      "id": "39453ebb6e39",
+      "title": "Guppedu Gundela",
+      "normalizedTitle": "guppedu gundela",
+      "trackNumber": 3,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Guppedu Gundela.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4093096
+    },
+    {
+      "id": "a94fe25be1e5",
+      "title": "Mangala Gouriki",
+      "normalizedTitle": "mangala gouriki",
+      "trackNumber": 4,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Mangala Gouriki.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4322552
+    },
+    {
+      "id": "f0ea14183d69",
+      "title": "Pucha Puvvula",
+      "normalizedTitle": "pucha puvvula",
+      "trackNumber": 5,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Pucha Puvvula.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 112000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3886081
+    },
+    {
+      "id": "aecadebea5cc",
+      "title": "Sari Sari Natanala",
+      "normalizedTitle": "sari sari natanala",
+      "trackNumber": 6,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Sari Sari Natanala.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4192155
+    }
+  ]
+}

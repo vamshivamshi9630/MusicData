@@ -1,0 +1,153 @@
+{
+  "album": {
+    "id": "f686895b2ed1",
+    "name": "100% Love",
+    "year": 2011,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "100% Love.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "c1fd8c2bf995",
+      "title": "A Square B Square (Female) Song",
+      "normalizedTitle": "a square b square female song",
+      "trackNumber": 1,
+      "duration": "1:50",
+      "durationSeconds": 110,
+      "audio": "A Square B Square (Female) Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Shree Mani",
+      "singers": [
+        "Swathi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1838966
+    },
+    {
+      "id": "63faab1fd452",
+      "title": "A Square B Square (Male) Song",
+      "normalizedTitle": "a square b square male song",
+      "trackNumber": 2,
+      "duration": "2:04",
+      "durationSeconds": 124,
+      "audio": "A Square B Square (Male) Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Shree Mani",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2064260
+    },
+    {
+      "id": "44690aa43371",
+      "title": "Aho Balu Song",
+      "normalizedTitle": "aho balu song",
+      "trackNumber": 3,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Aho Balu Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Shree Mani",
+      "singers": [
+        "Ranjith",
+        "Sri Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5017953
+    },
+    {
+      "id": "93bdd826b6b5",
+      "title": "Dhooram Dhooram Song",
+      "normalizedTitle": "dhooram dhooram song",
+      "trackNumber": 4,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Dhooram Dhooram Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Chandrabose",
+      "singers": [
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4690261
+    },
+    {
+      "id": "445842b590f8",
+      "title": "Diyalo Diyal Song",
+      "normalizedTitle": "diyalo diyal song",
+      "trackNumber": 5,
+      "duration": "6:30",
+      "durationSeconds": 390,
+      "audio": "Diyalo Diyal Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Chandrabose",
+      "singers": [
+        "Priya Hemesh",
+        "Murali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6316984
+    },
+    {
+      "id": "90c016deae15",
+      "title": "Infatuation Song",
+      "normalizedTitle": "infatuation song",
+      "trackNumber": 6,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Infatuation Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Chandrabose",
+      "singers": [
+        "Adnan Sami"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5033408
+    },
+    {
+      "id": "02ce5845d587",
+      "title": "That is Mahalakshmi Song",
+      "normalizedTitle": "that is mahalakshmi song",
+      "trackNumber": 7,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "That is Mahalakshmi Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Shree Mani & Dev (Rap)",
+      "singers": [
+        "Richard",
+        "Dev (Rap)"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3318993
+    },
+    {
+      "id": "1651dbe19a31",
+      "title": "Thiru Thiru Gananadha Song",
+      "normalizedTitle": "thiru thiru gananadha song",
+      "trackNumber": 8,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Thiru Thiru Gananadha Song.mp3",
+      "composer": "Music : Devi Sri Prasad | Lyrics : Ramjogayya Sastry",
+      "singers": [
+        "Harini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3402137
+    }
+  ]
+}

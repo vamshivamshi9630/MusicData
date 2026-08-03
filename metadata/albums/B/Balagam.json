@@ -1,0 +1,120 @@
+{
+  "album": {
+    "id": "b7c0de89b74f",
+    "name": "Balagam",
+    "year": 2023,
+    "musicDirector": "Bheems Ceciroleo",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Balagam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "2023dcb128e1",
+      "title": "Ayyo Shivuda Song",
+      "normalizedTitle": "ayyo shivuda song",
+      "trackNumber": 1,
+      "duration": "1:10",
+      "durationSeconds": 70,
+      "audio": "Ayyo Shivuda Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Kondappa Dasari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1176849
+    },
+    {
+      "id": "45bbf242b6f2",
+      "title": "Balarama Narsayyo Song",
+      "normalizedTitle": "balarama narsayyo song",
+      "trackNumber": 2,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Balarama Narsayyo Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Bheems Ceciroleo",
+        "Tillu Venu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4661915
+    },
+    {
+      "id": "bf6cdb4bc872",
+      "title": "Kodukulara Song",
+      "normalizedTitle": "kodukulara song",
+      "trackNumber": 3,
+      "duration": "1:22",
+      "durationSeconds": 82,
+      "audio": "Kodukulara Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Venu Yeldandi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1369111
+    },
+    {
+      "id": "0b73c1c0b2be",
+      "title": "Ooru Palletooru Song",
+      "normalizedTitle": "ooru palletooru song",
+      "trackNumber": 4,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Ooru Palletooru Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Mangli",
+        "Ram Miryala",
+        "Bheems Ceciroleo"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4137313
+    },
+    {
+      "id": "b9837af970f5",
+      "title": "Potti Pilla Song",
+      "normalizedTitle": "potti pilla song",
+      "trackNumber": 5,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Potti Pilla Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3755708
+    },
+    {
+      "id": "d3542b0eb5bc",
+      "title": "Thoduga Ma Thodundi Song",
+      "normalizedTitle": "thoduga ma thodundi song",
+      "trackNumber": 6,
+      "duration": "6:19",
+      "durationSeconds": 379,
+      "audio": "Thoduga Ma Thodundi Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Mogili",
+        "Komaramma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6131337
+    }
+  ]
+}

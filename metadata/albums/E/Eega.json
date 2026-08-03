@@ -1,0 +1,109 @@
+{
+  "album": {
+    "id": "387c1d784932",
+    "name": "Eega",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Eega.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "c188b88da9c2",
+      "title": "Ga Eega Eega Eega (Remix) Song",
+      "normalizedTitle": "ga eega eega eega remix song",
+      "trackNumber": 1,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Ga Eega Eega Eega (Remix) Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Deepu",
+        "Rahul Silpigunj",
+        "Sravana Bhargavi",
+        "Chaitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4253675
+    },
+    {
+      "id": "aa88140be61a",
+      "title": "Ga Eega Eega Eega Song",
+      "normalizedTitle": "ga eega eega eega song",
+      "trackNumber": 2,
+      "duration": "4:47",
+      "durationSeconds": 287,
+      "audio": "Ga Eega Eega Eega Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Ramajogayya Sastry",
+      "singers": [
+        "Deepu",
+        "Rahul Silpigunj",
+        "Sravana Bhargavi",
+        "Chaitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4683739
+    },
+    {
+      "id": "14da6729a838",
+      "title": "Konchemu Konchemu Song",
+      "normalizedTitle": "konchemu konchemu song",
+      "trackNumber": 3,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Konchemu Konchemu Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Ananth Sriram",
+      "singers": [
+        "Vijay Prakash",
+        "Deepu",
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4032508
+    },
+    {
+      "id": "d9854753817f",
+      "title": "Laava Laava Song",
+      "normalizedTitle": "laava laava song",
+      "trackNumber": 4,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Laava Laava Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : Chaitanya Prasad",
+      "singers": [
+        "Anju Gurwara",
+        "Shivani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3841897
+    },
+    {
+      "id": "6dee2f490083",
+      "title": "Nene Song",
+      "normalizedTitle": "nene song",
+      "trackNumber": 5,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Nene Song.mp3",
+      "composer": "Music : M.M. Keeravani | Lyrics : M.M. Keeravani",
+      "singers": [
+        "Deepu",
+        "G. Sahithi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4144491
+    }
+  ]
+}

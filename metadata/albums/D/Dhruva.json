@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "6f294fdb63e9",
+    "name": "Dhruva",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Dhruva.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "926a494cb732",
+      "title": "Choosa Choosa",
+      "normalizedTitle": "choosa choosa",
+      "trackNumber": 1,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Choosa Choosa.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Padmalatha",
+        "Sniggy"
+      ],
+      "bitrate": 162885,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4352945
+    },
+    {
+      "id": "ac6529951040",
+      "title": "Dhruva Dhruva",
+      "normalizedTitle": "dhruva dhruva",
+      "trackNumber": 2,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Dhruva Dhruva.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Amit Mishra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3569869
+    },
+    {
+      "id": "03b102080142",
+      "title": "Manishi Musugulo",
+      "normalizedTitle": "manishi musugulo",
+      "trackNumber": 3,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Manishi Musugulo.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Hiphop Tamizha",
+        "Kaushik Krish",
+        "Yadagiri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3665984
+    },
+    {
+      "id": "421664d80a0e",
+      "title": "Neethoney Dance",
+      "normalizedTitle": "neethoney dance",
+      "trackNumber": 4,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Neethoney Dance.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Hiphop Tamizha",
+        "Nikhita Gandhi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3405453
+    },
+    {
+      "id": "1f67fdb72c61",
+      "title": "Pareshanura",
+      "normalizedTitle": "pareshanura",
+      "trackNumber": 5,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Pareshanura.mp3",
+      "composer": "Hiphop Tamizha",
+      "singers": [
+        "Padmalatha",
+        "Vishnu Priya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3357957
+    }
+  ]
+}

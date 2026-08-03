@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "9934b5e631a6",
+    "name": "Kalidasu",
+    "year": 2008,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kalidasu.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "f7ed34802872",
+      "title": "Cheemalemo Chakkara Song",
+      "normalizedTitle": "cheemalemo chakkara song",
+      "trackNumber": 1,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Cheemalemo Chakkara Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 319725,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10680073
+    },
+    {
+      "id": "6689269a83fd",
+      "title": "Ellake Ellake Song",
+      "normalizedTitle": "ellake ellake song",
+      "trackNumber": 2,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Ellake Ellake Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 319725,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9712273
+    },
+    {
+      "id": "ac1c47398f99",
+      "title": "Pada Padarey Song",
+      "normalizedTitle": "pada padarey song",
+      "trackNumber": 3,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Pada Padarey Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 319725,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10997760
+    },
+    {
+      "id": "08a7d79bc019",
+      "title": "Prema Song",
+      "normalizedTitle": "prema song",
+      "trackNumber": 4,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Prema Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 319725,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9551513
+    },
+    {
+      "id": "c03eb6008812",
+      "title": "Thadisi Mopedu Song",
+      "normalizedTitle": "thadisi mopedu song",
+      "trackNumber": 5,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Thadisi Mopedu Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 319725,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11055104
+    }
+  ]
+}

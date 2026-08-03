@@ -1,0 +1,170 @@
+{
+  "album": {
+    "id": "fc613b4dfd67",
+    "name": "Master",
+    "year": 2021,
+    "musicDirector": "Anirudh Ravichander",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Master.png",
+    "songCount": 9
+  },
+  "songs": [
+    {
+      "id": "95e16379e539",
+      "title": "Andham Vadi Choopera Song",
+      "normalizedTitle": "andham vadi choopera song",
+      "trackNumber": 1,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Andham Vadi Choopera Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Inno Genga"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3164816
+    },
+    {
+      "id": "5cc1b4df2247",
+      "title": "Beat Of Master Song",
+      "normalizedTitle": "beat of master song",
+      "trackNumber": 2,
+      "duration": "1:15",
+      "durationSeconds": 75,
+      "audio": "Beat Of Master Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Instrumental"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1257690
+    },
+    {
+      "id": "edf27994cde0",
+      "title": "Chitti Story Song",
+      "normalizedTitle": "chitti story song",
+      "trackNumber": 3,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Chitti Story Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Sam Vishal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4868026
+    },
+    {
+      "id": "9b15f982b2e2",
+      "title": "Letha Letha Gundelu Song",
+      "normalizedTitle": "letha letha gundelu song",
+      "trackNumber": 4,
+      "duration": "1:36",
+      "durationSeconds": 96,
+      "audio": "Letha Letha Gundelu Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Mayukh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1594952
+    },
+    {
+      "id": "0ad490474401",
+      "title": "Master Coming Song",
+      "normalizedTitle": "master coming song",
+      "trackNumber": 5,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Master Coming Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Gaana Balachandar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3690191
+    },
+    {
+      "id": "213769ca0064",
+      "title": "Master Raid Song",
+      "normalizedTitle": "master raid song",
+      "trackNumber": 6,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Master Raid Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Sam Vishal",
+        "Rap by Arivu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3507595
+    },
+    {
+      "id": "6aafaf1c6f09",
+      "title": "Master the Blaster Song",
+      "normalizedTitle": "master the blaster song",
+      "trackNumber": 7,
+      "duration": "1:32",
+      "durationSeconds": 92,
+      "audio": "Master the Blaster Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3989632
+    },
+    {
+      "id": "66e8c0857a32",
+      "title": "Modhalettu Song",
+      "normalizedTitle": "modhalettu song",
+      "trackNumber": 8,
+      "duration": "3:33",
+      "durationSeconds": 213,
+      "audio": "Modhalettu Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Saketh Komanduri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3461977
+    },
+    {
+      "id": "1988cf536d32",
+      "title": "Quit Chyyara Song",
+      "normalizedTitle": "quit chyyara song",
+      "trackNumber": 9,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Quit Chyyara Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Yashwanth Nag"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4117753
+    }
+  ]
+}

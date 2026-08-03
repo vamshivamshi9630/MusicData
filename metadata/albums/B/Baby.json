@@ -1,0 +1,151 @@
+{
+  "album": {
+    "id": "a3ca38ef0e85",
+    "name": "Baby",
+    "year": 2023,
+    "musicDirector": "Vijai Bulganin",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Baby.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "ff4ec8b55557",
+      "title": "Chandamama Song",
+      "normalizedTitle": "chandamama song",
+      "trackNumber": 1,
+      "duration": "5:50",
+      "durationSeconds": 350,
+      "audio": "Chandamama Song.mp3",
+      "composer": "Vijay Bulganin",
+      "singers": [
+        "Vijay Bulganin",
+        "Deepu"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8454083
+    },
+    {
+      "id": "21077a2b4b9a",
+      "title": "Chanti Pillala Song",
+      "normalizedTitle": "chanti pillala song",
+      "trackNumber": 2,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Chanti Pillala Song.mp3",
+      "composer": "Vijay Bulganin",
+      "singers": [
+        "Anudeep Dev"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7690095
+    },
+    {
+      "id": "95d7cfe98bff",
+      "title": "Deva Raaja Song",
+      "normalizedTitle": "deva raaja song",
+      "trackNumber": 3,
+      "duration": "5:37",
+      "durationSeconds": 337,
+      "audio": "Deva Raaja Song.mp3",
+      "composer": "Vijay Bulganin",
+      "singers": [
+        "Arya Dhayal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5748674
+    },
+    {
+      "id": "058e1e3aacf9",
+      "title": "Kalakalame Song",
+      "normalizedTitle": "kalakalame song",
+      "trackNumber": 4,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Kalakalame Song.mp3",
+      "composer": "Vijay Bulganin",
+      "singers": [
+        "Sahithi Chaganti"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5226853
+    },
+    {
+      "id": "d489a447273b",
+      "title": "O Rendu Prema Meghaalila (Reprise) Song",
+      "normalizedTitle": "o rendu prema meghaalila reprise song",
+      "trackNumber": 5,
+      "duration": "5:14",
+      "durationSeconds": 314,
+      "audio": "O Rendu Prema Meghaalila (Reprise) Song.mp3",
+      "composer": "Vijay Bulganin",
+      "singers": [
+        "Sreerama Chandra"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7888835
+    },
+    {
+      "id": "0fab2499da26",
+      "title": "O Rendu Prema Meghaalila Song",
+      "normalizedTitle": "o rendu prema meghaalila song",
+      "trackNumber": 6,
+      "duration": "5:14",
+      "durationSeconds": 314,
+      "audio": "O Rendu Prema Meghaalila Song.mp3",
+      "composer": "Vijay Bulganin",
+      "singers": [
+        "Sreerama Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5373765
+    },
+    {
+      "id": "ad88f8bdfbac",
+      "title": "Premisthunna Song",
+      "normalizedTitle": "premisthunna song",
+      "trackNumber": 7,
+      "duration": "6:36",
+      "durationSeconds": 396,
+      "audio": "Premisthunna Song.mp3",
+      "composer": "Vijay Bulganin",
+      "singers": [
+        "P V N S Rohit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6691712
+    },
+    {
+      "id": "157acf19295f",
+      "title": "Ribapappa Song",
+      "normalizedTitle": "ribapappa song",
+      "trackNumber": 8,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Ribapappa Song.mp3",
+      "composer": "Vijay Bulganin",
+      "singers": [
+        "Sri Krishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5223718
+    }
+  ]
+}

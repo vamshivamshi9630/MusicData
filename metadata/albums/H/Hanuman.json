@@ -1,0 +1,139 @@
+{
+  "album": {
+    "id": "1ca35897540e",
+    "name": "Hanuman",
+    "year": 2024,
+    "musicDirector": "GowraHari",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Hanuman.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "91009dc93019",
+      "title": "Anjanadri Theme Song",
+      "normalizedTitle": "anjanadri theme song",
+      "trackNumber": 1,
+      "duration": "2:03",
+      "durationSeconds": 123,
+      "audio": "Anjanadri Theme Song.mp3",
+      "composer": "Gowra Hari, Anudeep Dev, Krishna Saurabh",
+      "singers": [
+        "Sai Charan Bhaskaruni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2037343
+    },
+    {
+      "id": "6040e5e0cfdf",
+      "title": "Avakaya Anjaneya Song",
+      "normalizedTitle": "avakaya anjaneya song",
+      "trackNumber": 2,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Avakaya Anjaneya Song.mp3",
+      "composer": "Gowra Hari, Anudeep Dev, Krishna Saurabh",
+      "singers": [
+        "Sahithi Galidevara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4229744
+    },
+    {
+      "id": "a753b06caef5",
+      "title": "Hanuman Chalisa Song",
+      "normalizedTitle": "hanuman chalisa song",
+      "trackNumber": 3,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Hanuman Chalisa Song.mp3",
+      "composer": "Gowra Hari, Anudeep Dev, Krishna Saurabh",
+      "singers": [
+        "Sai Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4051800
+    },
+    {
+      "id": "09588ae70bbd",
+      "title": "Poolamme Pilla Song",
+      "normalizedTitle": "poolamme pilla song",
+      "trackNumber": 4,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Poolamme Pilla Song.mp3",
+      "composer": "Gowra Hari, Anudeep Dev, Krishna Saurabh",
+      "singers": [
+        "Gowra Hari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3878913
+    },
+    {
+      "id": "6ed9117973cb",
+      "title": "Raghunandana Song",
+      "normalizedTitle": "raghunandana song",
+      "trackNumber": 5,
+      "duration": "2:36",
+      "durationSeconds": 156,
+      "audio": "Raghunandana Song.mp3",
+      "composer": "Gowra Hari, Anudeep Dev, Krishna Saurabh",
+      "singers": [
+        "Saicharan Bhaskaruni",
+        "Lokeshwar Edara",
+        "Harshavardhan Chavali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2566480
+    },
+    {
+      "id": "ad1a2977a9ec",
+      "title": "Sri Ramadootha Stotram Song",
+      "normalizedTitle": "sri ramadootha stotram song",
+      "trackNumber": 6,
+      "duration": "0:55",
+      "durationSeconds": 55,
+      "audio": "Sri Ramadootha Stotram Song.mp3",
+      "composer": "Gowra Hari, Anudeep Dev, Krishna Saurabh",
+      "singers": [
+        "Sai Charan Bhaskaruni",
+        "Lokeshwar Edara",
+        "Harshavardhan Chavali"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 959324
+    },
+    {
+      "id": "fde49f410b18",
+      "title": "Super Hero Hanu Man Song",
+      "normalizedTitle": "super hero hanu man song",
+      "trackNumber": 7,
+      "duration": "3:48",
+      "durationSeconds": 228,
+      "audio": "Super Hero Hanu Man Song.mp3",
+      "composer": "Gowra Hari, Anudeep Dev, Krishna Saurabh",
+      "singers": [
+        "Sai Veda Vagdevi",
+        "Prakruthi Reddy",
+        "Mayukh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3744328
+    }
+  ]
+}

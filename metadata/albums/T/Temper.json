@@ -1,0 +1,126 @@
+{
+  "album": {
+    "id": "ca98e82217ae",
+    "name": "Temper",
+    "year": 2015,
+    "musicDirector": "Anup Rubens",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Temper.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "a2e338e9888f",
+      "title": "Choolenge Aasma",
+      "normalizedTitle": "choolenge aasma",
+      "trackNumber": 1,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Choolenge Aasma.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Adnan Sami",
+        "Ramya Behara",
+        "Veena Ghantasala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 24000,
+      "channels": 2,
+      "fileSize": 4139158
+    },
+    {
+      "id": "03ae168bfd2b",
+      "title": "Devudaa",
+      "normalizedTitle": "devudaa",
+      "trackNumber": 2,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Devudaa.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Anup Rubens",
+        "Puri Jagannath"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 24000,
+      "channels": 2,
+      "fileSize": 3462118
+    },
+    {
+      "id": "549485ff2e17",
+      "title": "Ittage Recchipodham",
+      "normalizedTitle": "ittage recchipodham",
+      "trackNumber": 3,
+      "duration": "3:17",
+      "durationSeconds": 197,
+      "audio": "Ittage Recchipodham.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Geetha Madhuri"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 24000,
+      "channels": 2,
+      "fileSize": 3279002
+    },
+    {
+      "id": "db60be7720c1",
+      "title": "One More Time",
+      "normalizedTitle": "one more time",
+      "trackNumber": 4,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "One More Time.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Ranjith",
+        "Lipsika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 24000,
+      "channels": 2,
+      "fileSize": 4379084
+    },
+    {
+      "id": "6458a1f17836",
+      "title": "Temper Theme",
+      "normalizedTitle": "temper theme",
+      "trackNumber": 5,
+      "duration": "1:44",
+      "durationSeconds": 104,
+      "audio": "Temper Theme.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Hymanth",
+        "Arun",
+        "Anudeep",
+        "Dhanunjay"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 24000,
+      "channels": 2,
+      "fileSize": 1789458
+    },
+    {
+      "id": "de5cae99063a",
+      "title": "Temper",
+      "normalizedTitle": "temper",
+      "trackNumber": 6,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Temper.mp3",
+      "composer": "Anup Rubens",
+      "singers": [
+        "Uma Neha",
+        "MLR.Karthikeyan",
+        "Bhargavi Pillai",
+        "Simha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 24000,
+      "channels": 2,
+      "fileSize": 4059678
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "1a9d2ab35102",
+    "name": "Palasa 1978",
+    "year": 2020,
+    "musicDirector": "Raghu Kunche",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Palasa 1978.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "96ac692aba9d",
+      "title": "Baavochhadu Song",
+      "normalizedTitle": "baavochhadu song",
+      "trackNumber": 1,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Baavochhadu Song.mp3",
+      "composer": "Raghu Kunche",
+      "singers": [
+        "Aditi Bhavaraju"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3388632
+    },
+    {
+      "id": "1e79f8bc6c34",
+      "title": "Chinthachettukinda Song",
+      "normalizedTitle": "chinthachettukinda song",
+      "trackNumber": 2,
+      "duration": "1:16",
+      "durationSeconds": 76,
+      "audio": "Chinthachettukinda Song.mp3",
+      "composer": "Raghu Kunche",
+      "singers": [
+        "Sandhya Koyyada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1488186
+    },
+    {
+      "id": "8e2efe88d8d5",
+      "title": "Kalavathi Kalavathi Song",
+      "normalizedTitle": "kalavathi kalavathi song",
+      "trackNumber": 3,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Kalavathi Kalavathi Song.mp3",
+      "composer": "Raghu Kunche",
+      "singers": [
+        "Ramya Behara",
+        "Raghu Kunche"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4511286
+    },
+    {
+      "id": "ee1e5bbd7a48",
+      "title": "Nakkileesu Golusu Song",
+      "normalizedTitle": "nakkileesu golusu song",
+      "trackNumber": 4,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Nakkileesu Golusu Song.mp3",
+      "composer": "Raghu Kunche",
+      "singers": [
+        "Raghu Kunche"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4050691
+    },
+    {
+      "id": "67d9f8219d99",
+      "title": "O Sogasari Song",
+      "normalizedTitle": "o sogasari song",
+      "trackNumber": 5,
+      "duration": "5:15",
+      "durationSeconds": 315,
+      "audio": "O Sogasari Song.mp3",
+      "composer": "Raghu Kunche",
+      "singers": [
+        "S. P. Balasubrahmanyam",
+        "Baby Pasala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5300414
+    },
+    {
+      "id": "b7c815151222",
+      "title": "Ye Ooru Ye Oore Song",
+      "normalizedTitle": "ye ooru ye oore song",
+      "trackNumber": 6,
+      "duration": "3:10",
+      "durationSeconds": 190,
+      "audio": "Ye Ooru Ye Oore Song.mp3",
+      "composer": "Raghu Kunche",
+      "singers": [
+        "Vaikom Vijayalakshmi",
+        "Raju Jamuku Asirayya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3300869
+    }
+  ]
+}

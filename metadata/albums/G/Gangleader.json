@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "dae5f2d965a1",
+    "name": "Gangleader",
+    "year": 2019,
+    "musicDirector": "Anirudh Ravichander",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Gangleader.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "4e7841980a35",
+      "title": "Gang U Leader Song",
+      "normalizedTitle": "gang u leader song",
+      "trackNumber": 1,
+      "duration": "2:59",
+      "durationSeconds": 179,
+      "audio": "Gang U Leader Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3169976
+    },
+    {
+      "id": "04391d8993ad",
+      "title": "Hoyna Hoyna Song",
+      "normalizedTitle": "hoyna hoyna song",
+      "trackNumber": 2,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Hoyna Hoyna Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Inno Genga"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4658052
+    },
+    {
+      "id": "686a9c631223",
+      "title": "Ninnu Chuse Anandamlo Song",
+      "normalizedTitle": "ninnu chuse anandamlo song",
+      "trackNumber": 3,
+      "duration": "4:55",
+      "durationSeconds": 295,
+      "audio": "Ninnu Chuse Anandamlo Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Sid Sriram"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5032074
+    },
+    {
+      "id": "eec5d525204b",
+      "title": "Ra Ra (Roar of the Revengers) Song",
+      "normalizedTitle": "ra ra roar of the revengers song",
+      "trackNumber": 4,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Ra Ra (Roar of the Revengers) Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Prudhvi Chandra",
+        "Bashermax"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4275264
+    }
+  ]
+}

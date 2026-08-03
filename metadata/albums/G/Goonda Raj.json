@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "b211ef13e62d",
+    "name": "Goonda Raj",
+    "year": 1995,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Goonda Raj.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "612b64a5ff77",
+      "title": "Aa Roju Ninne Song",
+      "normalizedTitle": "aa roju ninne song",
+      "trackNumber": 1,
+      "duration": "7:25",
+      "durationSeconds": 445,
+      "audio": "Aa Roju Ninne Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7138369
+    },
+    {
+      "id": "f96f8036c8bb",
+      "title": "No One Can Dance Song",
+      "normalizedTitle": "no one can dance song",
+      "trackNumber": 2,
+      "duration": "7:21",
+      "durationSeconds": 441,
+      "audio": "No One Can Dance Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7063555
+    },
+    {
+      "id": "6008e9b57f60",
+      "title": "Pillagada Song",
+      "normalizedTitle": "pillagada song",
+      "trackNumber": 3,
+      "duration": "7:34",
+      "durationSeconds": 454,
+      "audio": "Pillagada Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7280256
+    },
+    {
+      "id": "13111d80ceaa",
+      "title": "Puvu Pusindhi Song",
+      "normalizedTitle": "puvu pusindhi song",
+      "trackNumber": 4,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Puvu Pusindhi Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5243342
+    },
+    {
+      "id": "b676d3dafe05",
+      "title": "Sandevela Song",
+      "normalizedTitle": "sandevela song",
+      "trackNumber": 5,
+      "duration": "7:04",
+      "durationSeconds": 424,
+      "audio": "Sandevela Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6792717
+    }
+  ]
+}

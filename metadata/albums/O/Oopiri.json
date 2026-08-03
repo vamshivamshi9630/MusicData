@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "13c4d8bb1dd7",
+    "name": "Oopiri",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Oopiri.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "0210f3421747",
+      "title": "Ayyo Ayyo.Mp",
+      "normalizedTitle": "ayyo ayyomp",
+      "trackNumber": 1,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Ayyo Ayyo.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3757200
+    },
+    {
+      "id": "df4637020991",
+      "title": "Baby Aagodhu.Mp",
+      "normalizedTitle": "baby aagodhump",
+      "trackNumber": 2,
+      "duration": "2:35",
+      "durationSeconds": 155,
+      "audio": "Baby Aagodhu.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2621604
+    },
+    {
+      "id": "d2189277346d",
+      "title": "Door Number.Mp",
+      "normalizedTitle": "door numbermp",
+      "trackNumber": 3,
+      "duration": "4:03",
+      "durationSeconds": 243,
+      "audio": "Door Number.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4021344
+    },
+    {
+      "id": "46555f3cd0ac",
+      "title": "Eppudu.Mp",
+      "normalizedTitle": "eppudump",
+      "trackNumber": 4,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Eppudu.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4693408
+    },
+    {
+      "id": "d58d47684db0",
+      "title": "Nuvvu Yemichavo.Mp",
+      "normalizedTitle": "nuvvu yemichavomp",
+      "trackNumber": 5,
+      "duration": "2:05",
+      "durationSeconds": 125,
+      "audio": "Nuvvu Yemichavo.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2133420
+    },
+    {
+      "id": "30d367379389",
+      "title": "Oka Life.Mp",
+      "normalizedTitle": "oka lifemp",
+      "trackNumber": 6,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Oka Life.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4677944
+    },
+    {
+      "id": "045cf096b64f",
+      "title": "Podhama.Mp",
+      "normalizedTitle": "podhamamp",
+      "trackNumber": 7,
+      "duration": "4:43",
+      "durationSeconds": 283,
+      "audio": "Podhama.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4671262
+    }
+  ]
+}

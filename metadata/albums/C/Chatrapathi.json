@@ -1,0 +1,143 @@
+{
+  "album": {
+    "id": "8aed97897f10",
+    "name": "Chatrapathi",
+    "year": 2005,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chatrapathi.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "f794996948f8",
+      "title": "A Vachi B Pai.Mp",
+      "normalizedTitle": "a vachi b paimp",
+      "trackNumber": 1,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "A Vachi B Pai.Mp.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "M. M. Keeravani",
+        "Mathangi Jagdish"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4635408
+    },
+    {
+      "id": "f6dbc4915d79",
+      "title": "Agni Skalana.Mp",
+      "normalizedTitle": "agni skalanamp",
+      "trackNumber": 2,
+      "duration": "3:11",
+      "durationSeconds": 191,
+      "audio": "Agni Skalana.Mp.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "M. M. Keeravani",
+        "Mathangi Jagdish",
+        "Mangari"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3137859
+    },
+    {
+      "id": "80439971c0f5",
+      "title": "Gala Gala.Mp",
+      "normalizedTitle": "gala galamp",
+      "trackNumber": 3,
+      "duration": "4:37",
+      "durationSeconds": 277,
+      "audio": "Gala Gala.Mp.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "K. S. Chithra",
+        "Jassie Gift",
+        "Neerippal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4510420
+    },
+    {
+      "id": "8bda47c313b4",
+      "title": "Gundu Sudhi.Mp",
+      "normalizedTitle": "gundu sudhimp",
+      "trackNumber": 4,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Gundu Sudhi.Mp.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "M. M. Keeravani",
+        "Sunitha Upadrashta"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4199053
+    },
+    {
+      "id": "f50eec6144cc",
+      "title": "Mannela Thintivi Ra.Mp",
+      "normalizedTitle": "mannela thintivi ramp",
+      "trackNumber": 5,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Mannela Thintivi Ra.Mp.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "Tippu",
+        "Smita",
+        "Kalyani Malik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4831023
+    },
+    {
+      "id": "121319a9735f",
+      "title": "Nallani Vanni.Mp",
+      "normalizedTitle": "nallani vannimp",
+      "trackNumber": 6,
+      "duration": "5:27",
+      "durationSeconds": 327,
+      "audio": "Nallani Vanni.Mp.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5306203
+    },
+    {
+      "id": "4c0cfa98f386",
+      "title": "Summama Suriya.Mp",
+      "normalizedTitle": "summama suriyamp",
+      "trackNumber": 7,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Summama Suriya.Mp.mp3",
+      "composer": "MM Keeravani",
+      "singers": [
+        "Sunitha Upadrashta",
+        "Smita",
+        "Kalyani Malik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4557682
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "album": {
+    "id": "f64b1f56c7fc",
+    "name": "War2",
+    "year": 2025,
+    "musicDirector": "Pritam",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "War2.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "88bb2b1cd04a",
+      "title": "Kabir Theme Reloaded Song",
+      "normalizedTitle": "kabir theme reloaded song",
+      "trackNumber": 1,
+      "duration": "1:29",
+      "durationSeconds": 89,
+      "audio": "Kabir Theme Reloaded Song.mp3",
+      "composer": "Pritam",
+      "singers": [
+        "Sanchit Balhara",
+        "Ankita Balhara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1831314
+    },
+    {
+      "id": "66871fa40464",
+      "title": "Nuvvunte Naatho Song",
+      "normalizedTitle": "nuvvunte naatho song",
+      "trackNumber": 2,
+      "duration": "3:09",
+      "durationSeconds": 189,
+      "audio": "Nuvvunte Naatho Song.mp3",
+      "composer": "Pritam",
+      "singers": [
+        "Pritam",
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3427082
+    },
+    {
+      "id": "8b6f1a33938b",
+      "title": "Oopiri Ooyalaga Song",
+      "normalizedTitle": "oopiri ooyalaga song",
+      "trackNumber": 3,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Oopiri Ooyalaga Song.mp3",
+      "composer": "Pritam",
+      "singers": [
+        "Shashwat Singh",
+        "Nikhita Gandhi"
+      ],
+      "bitrate": 130703,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4171936
+    },
+    {
+      "id": "c2f71ba6a14e",
+      "title": "Raghu Kaboo Theme Song",
+      "normalizedTitle": "raghu kaboo theme song",
+      "trackNumber": 4,
+      "duration": "1:51",
+      "durationSeconds": 111,
+      "audio": "Raghu Kaboo Theme Song.mp3",
+      "composer": "Pritam",
+      "singers": [
+        "Sanchit Balhara",
+        "Ankita Balhara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2186162
+    },
+    {
+      "id": "caa631bfaada",
+      "title": "Salam Anali Song",
+      "normalizedTitle": "salam anali song",
+      "trackNumber": 5,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Salam Anali Song.mp3",
+      "composer": "Pritam",
+      "singers": [
+        "Nakash Aziz",
+        "Yazin Nizar"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9021056
+    },
+    {
+      "id": "d53c0527b002",
+      "title": "Shaitan Song",
+      "normalizedTitle": "shaitan song",
+      "trackNumber": 6,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Shaitan Song.mp3",
+      "composer": "Pritam",
+      "singers": [
+        "Sanchit Balhara",
+        "Ankita Balhara",
+        "Roll Rida",
+        "Riya Duggal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3491448
+    },
+    {
+      "id": "84594cba1639",
+      "title": "Tripping High Song",
+      "normalizedTitle": "tripping high song",
+      "trackNumber": 7,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Tripping High Song.mp3",
+      "composer": "Pritam",
+      "singers": [
+        "Pritam",
+        "Tsumyoki",
+        "Raghav Chaitanya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3055934
+    },
+    {
+      "id": "695e147a3276",
+      "title": "War Theme 2.o Song",
+      "normalizedTitle": "war theme 2o song",
+      "trackNumber": 8,
+      "duration": "1:59",
+      "durationSeconds": 119,
+      "audio": "War Theme 2.o Song.mp3",
+      "composer": "Pritam",
+      "singers": [
+        "Sanchit Balhara",
+        "Ankita Balhara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2314892
+    }
+  ]
+}

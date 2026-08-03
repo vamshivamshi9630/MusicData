@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "d20bcf177b60",
+    "name": "Rogue",
+    "year": 2017,
+    "musicDirector": "Sunil Kashyap",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Rogue.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "13a779a0306d",
+      "title": "Adadhante",
+      "normalizedTitle": "adadhante",
+      "trackNumber": 1,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Adadhante.mp3",
+      "composer": "Sunil Kashyap",
+      "singers": [
+        "Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4379712
+    },
+    {
+      "id": "7e18d53794b1",
+      "title": "Ee Pranam",
+      "normalizedTitle": "ee pranam",
+      "trackNumber": 2,
+      "duration": "3:07",
+      "durationSeconds": 187,
+      "audio": "Ee Pranam.mp3",
+      "composer": "Sunil Kashyap",
+      "singers": [
+        "Sunil Kashyap"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3089073
+    },
+    {
+      "id": "645daf23354c",
+      "title": "Ghumshuda",
+      "normalizedTitle": "ghumshuda",
+      "trackNumber": 3,
+      "duration": "3:07",
+      "durationSeconds": 187,
+      "audio": "Ghumshuda.mp3",
+      "composer": "Sunil Kashyap",
+      "singers": [
+        "Chinmayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3090735
+    },
+    {
+      "id": "c7a0d5f2e4ff",
+      "title": "Nee Kosam",
+      "normalizedTitle": "nee kosam",
+      "trackNumber": 4,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Nee Kosam.mp3",
+      "composer": "Sunil Kashyap",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3978910
+    },
+    {
+      "id": "6c10e02a95eb",
+      "title": "Neela Neela",
+      "normalizedTitle": "neela neela",
+      "trackNumber": 5,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Neela Neela.mp3",
+      "composer": "Sunil Kashyap",
+      "singers": [
+        "Sunil Kashyap"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3227840
+    },
+    {
+      "id": "055a31dce333",
+      "title": "Toli Paravasame",
+      "normalizedTitle": "toli paravasame",
+      "trackNumber": 6,
+      "duration": "3:25",
+      "durationSeconds": 205,
+      "audio": "Toli Paravasame.mp3",
+      "composer": "Sunil Kashyap",
+      "singers": [
+        "Pranavi",
+        "Malavika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3378321
+    }
+  ]
+}

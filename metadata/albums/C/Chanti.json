@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "cb38393d3310",
+    "name": "Chanti",
+    "year": 1992,
+    "musicDirector": "Ilaiyaraaja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Chanti.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "dbcff23b7787",
+      "title": "Annula Minnula Song",
+      "normalizedTitle": "annula minnula song",
+      "trackNumber": 1,
+      "duration": "4:54",
+      "durationSeconds": 294,
+      "audio": "Annula Minnula Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "SP.Balu"
+      ],
+      "bitrate": 219770,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8134394
+    },
+    {
+      "id": "3bc9df797bfd",
+      "title": "Idhi Tailam Patti Song",
+      "normalizedTitle": "idhi tailam patti song",
+      "trackNumber": 2,
+      "duration": "5:05",
+      "durationSeconds": 305,
+      "audio": "Idhi Tailam Patti Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "SP.Balu"
+      ],
+      "bitrate": 222657,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8543165
+    },
+    {
+      "id": "4c942ee69425",
+      "title": "Jabiliki Vennelaki Song",
+      "normalizedTitle": "jabiliki vennelaki song",
+      "trackNumber": 3,
+      "duration": "2:42",
+      "durationSeconds": 162,
+      "audio": "Jabiliki Vennelaki Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "SP.Balu"
+      ],
+      "bitrate": 216757,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4465950
+    },
+    {
+      "id": "fdf5cb3fe055",
+      "title": "O Prema Na Prema Song",
+      "normalizedTitle": "o prema na prema song",
+      "trackNumber": 4,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "O Prema Na Prema Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "Chitra"
+      ],
+      "bitrate": 218736,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8507139
+    },
+    {
+      "id": "544127a83e74",
+      "title": "Pavuraniki Panjaraniki Song",
+      "normalizedTitle": "pavuraniki panjaraniki song",
+      "trackNumber": 5,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Pavuraniki Panjaraniki Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "SP.Balu"
+      ],
+      "bitrate": 213672,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7771042
+    },
+    {
+      "id": "56630fb0d7b3",
+      "title": "Yennenno Andalu Song",
+      "normalizedTitle": "yennenno andalu song",
+      "trackNumber": 6,
+      "duration": "4:51",
+      "durationSeconds": 291,
+      "audio": "Yennenno Andalu Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "SP.Balu"
+      ],
+      "bitrate": 215977,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7909371
+    }
+  ]
+}

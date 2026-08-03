@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "1e7fb994db29",
+    "name": "Kubera",
+    "year": 2025,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kubera.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "58c56b67c145",
+      "title": "Anaganaga Kadha Song",
+      "normalizedTitle": "anaganaga kadha song",
+      "trackNumber": 1,
+      "duration": "3:22",
+      "durationSeconds": 202,
+      "audio": "Anaganaga Kadha Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Hyde Karty",
+        "Kareemullah"
+      ],
+      "bitrate": 119628,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3240742
+    },
+    {
+      "id": "1be4bb4a7f50",
+      "title": "Naa Koduka Song",
+      "normalizedTitle": "naa koduka song",
+      "trackNumber": 2,
+      "duration": "4:45",
+      "durationSeconds": 285,
+      "audio": "Naa Koduka Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sinduri Vishal"
+      ],
+      "bitrate": 129711,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4851886
+    },
+    {
+      "id": "3c70d42bcb10",
+      "title": "Pippi Pippi Dum Dum Dum Song",
+      "normalizedTitle": "pippi pippi dum dum dum song",
+      "trackNumber": 3,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Pippi Pippi Dum Dum Dum Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Indravathi Chauhan"
+      ],
+      "bitrate": 129448,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3930923
+    },
+    {
+      "id": "0a91f825c87b",
+      "title": "Poyiraa Mama Song",
+      "normalizedTitle": "poyiraa mama song",
+      "trackNumber": 4,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Poyiraa Mama Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Dhanush"
+      ],
+      "bitrate": 127004,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4457250
+    }
+  ]
+}

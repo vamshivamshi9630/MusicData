@@ -1,0 +1,133 @@
+{
+  "album": {
+    "id": "92942b2ea189",
+    "name": "Prema Katha",
+    "year": 1999,
+    "musicDirector": "Sandeep Chowta",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Prema Katha.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "67eae8699ccc",
+      "title": "Changure Hangaama Song",
+      "normalizedTitle": "changure hangaama song",
+      "trackNumber": 1,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Changure Hangaama Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4837921
+    },
+    {
+      "id": "d4d188afa66b",
+      "title": "Devudu Karunisthadani Song",
+      "normalizedTitle": "devudu karunisthadani song",
+      "trackNumber": 2,
+      "duration": "5:01",
+      "durationSeconds": 301,
+      "audio": "Devudu Karunisthadani Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4821620
+    },
+    {
+      "id": "c53d1e439744",
+      "title": "Kokkarako Song",
+      "normalizedTitle": "kokkarako song",
+      "trackNumber": 3,
+      "duration": "4:53",
+      "durationSeconds": 293,
+      "audio": "Kokkarako Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4707099
+    },
+    {
+      "id": "c13c79a4e4bc",
+      "title": "Nee Kosam Nireekshana Song",
+      "normalizedTitle": "nee kosam nireekshana song",
+      "trackNumber": 4,
+      "duration": "6:17",
+      "durationSeconds": 377,
+      "audio": "Nee Kosam Nireekshana Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6038717
+    },
+    {
+      "id": "ab7f3f3494ef",
+      "title": "Prema Sangati Emito Song",
+      "normalizedTitle": "prema sangati emito song",
+      "trackNumber": 5,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Prema Sangati Emito Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4183814
+    },
+    {
+      "id": "a6574aea1eb1",
+      "title": "Soul Of Love Song",
+      "normalizedTitle": "soul of love song",
+      "trackNumber": 6,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Soul Of Love Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4952859
+    },
+    {
+      "id": "2dd815544061",
+      "title": "Sunday Monday Song",
+      "normalizedTitle": "sunday monday song",
+      "trackNumber": 7,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Sunday Monday Song.mp3",
+      "composer": "Sandeep Chowta",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4811589
+    }
+  ]
+}

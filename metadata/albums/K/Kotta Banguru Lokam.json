@@ -1,0 +1,123 @@
+{
+  "album": {
+    "id": "2162c4b1d99d",
+    "name": "Kotta Banguru Lokam",
+    "year": 2008,
+    "musicDirector": "Mickey J. Meyer",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kotta Banguru Lokam.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "37aa1d03301f",
+      "title": "Confusion Song",
+      "normalizedTitle": "confusion song",
+      "trackNumber": 1,
+      "duration": "4:17",
+      "durationSeconds": 257,
+      "audio": "Confusion Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Krishna Chaitanya",
+        "Mickey.J.Meyer",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4135861
+    },
+    {
+      "id": "5b6c8ad645fb",
+      "title": "Kalasalalo Song",
+      "normalizedTitle": "kalasalalo song",
+      "trackNumber": 2,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Kalasalalo Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Chaitanya",
+        "Adithya",
+        "Siddharth",
+        "Kranthi",
+        "Shashi Kiran"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3805703
+    },
+    {
+      "id": "7f20024ff341",
+      "title": "Nee Prashnalu Song",
+      "normalizedTitle": "nee prashnalu song",
+      "trackNumber": 3,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Nee Prashnalu Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "S.P.Balasubramanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4261216
+    },
+    {
+      "id": "22ce26a3bfd1",
+      "title": "Nenai Neevani Song",
+      "normalizedTitle": "nenai neevani song",
+      "trackNumber": 4,
+      "duration": "5:11",
+      "durationSeconds": 311,
+      "audio": "Nenai Neevani Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Shweta Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5010605
+    },
+    {
+      "id": "07cdee0a77dc",
+      "title": "Nijanga Nenena Song",
+      "normalizedTitle": "nijanga nenena song",
+      "trackNumber": 5,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Nijanga Nenena Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5160221
+    },
+    {
+      "id": "6dd5da8d601f",
+      "title": "Ok Anesa Song",
+      "normalizedTitle": "ok anesa song",
+      "trackNumber": 6,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Ok Anesa Song.mp3",
+      "composer": "Mickey J. Meyer",
+      "singers": [
+        "Naresh Iyer",
+        "Kalyani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4415853
+    }
+  ]
+}

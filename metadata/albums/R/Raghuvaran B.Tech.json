@@ -1,0 +1,117 @@
+{
+  "album": {
+    "id": "6143eac07c5b",
+    "name": "Raghuvaran B.Tech",
+    "year": 2015,
+    "musicDirector": "Anirudh Ravichander",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Raghuvaran B.Tech.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "bb96b275f5ff",
+      "title": "Amma Amma Song",
+      "normalizedTitle": "amma amma song",
+      "trackNumber": 1,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Amma Amma Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "S Janaki",
+        "Deepu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4973169
+    },
+    {
+      "id": "744004c7db5a",
+      "title": "Chudandi Saaru Song",
+      "normalizedTitle": "chudandi saaru song",
+      "trackNumber": 2,
+      "duration": "1:59",
+      "durationSeconds": 119,
+      "audio": "Chudandi Saaru Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2011930
+    },
+    {
+      "id": "9ce51864e556",
+      "title": "Luckkanna Mate Nillu Song",
+      "normalizedTitle": "luckkanna mate nillu song",
+      "trackNumber": 3,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "Luckkanna Mate Nillu Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3458073
+    },
+    {
+      "id": "046733569015",
+      "title": "Nippulanti Nirudyogi Song",
+      "normalizedTitle": "nippulanti nirudyogi song",
+      "trackNumber": 4,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Nippulanti Nirudyogi Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3950847
+    },
+    {
+      "id": "b22ca612133a",
+      "title": "Ori Devuda Song",
+      "normalizedTitle": "ori devuda song",
+      "trackNumber": 5,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Ori Devuda Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4393454
+    },
+    {
+      "id": "95919eae8cbd",
+      "title": "Po Pove Yekantham Song",
+      "normalizedTitle": "po pove yekantham song",
+      "trackNumber": 6,
+      "duration": "3:41",
+      "durationSeconds": 221,
+      "audio": "Po Pove Yekantham Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3634864
+    }
+  ]
+}

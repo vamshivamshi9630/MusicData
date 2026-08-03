@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "3c800a1a39f0",
+    "name": "Nannaku Prematho",
+    "year": 2016,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nannaku Prematho.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "0cfeecdea7b0",
+      "title": "Don’t Stop",
+      "normalizedTitle": "dont stop",
+      "trackNumber": 1,
+      "duration": "3:53",
+      "durationSeconds": 233,
+      "audio": "Don’t Stop.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Raghu Dixit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3858035
+    },
+    {
+      "id": "569300bb4f4a",
+      "title": "Follow Follow",
+      "normalizedTitle": "follow follow",
+      "trackNumber": 2,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Follow Follow.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Jr. NTR"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3618981
+    },
+    {
+      "id": "a3b4cb8cdc46",
+      "title": "Love Dhebba",
+      "normalizedTitle": "love dhebba",
+      "trackNumber": 3,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Love Dhebba.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Deepak",
+        "Sravana Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3906131
+    },
+    {
+      "id": "a0403b9015e7",
+      "title": "Love Me Again.Mp3",
+      "normalizedTitle": "love me againmp3",
+      "trackNumber": 4,
+      "duration": "4:06",
+      "durationSeconds": 246,
+      "audio": "Love Me Again.Mp3.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sooraj Santhosh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4068705
+    },
+    {
+      "id": "cff4b4f7acbd",
+      "title": "Naa Manasu Neelo",
+      "normalizedTitle": "naa manasu neelo",
+      "trackNumber": 5,
+      "duration": "4:21",
+      "durationSeconds": 261,
+      "audio": "Naa Manasu Neelo.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad",
+        "Sharmila Tagore"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4306935
+    },
+    {
+      "id": "bd8e0359f564",
+      "title": "Nannaku",
+      "normalizedTitle": "nannaku",
+      "trackNumber": 6,
+      "duration": "3:09",
+      "durationSeconds": 189,
+      "audio": "Nannaku.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sagar",
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3147276
+    }
+  ]
+}

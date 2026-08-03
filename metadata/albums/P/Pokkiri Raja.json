@@ -1,0 +1,104 @@
+{
+  "album": {
+    "id": "67d97dc054f3",
+    "name": "Pokkiri Raja",
+    "year": 2016,
+    "musicDirector": "D. Imman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Pokkiri Raja.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "84f9c3621e45",
+      "title": "Athuvutta Reprise Song",
+      "normalizedTitle": "athuvutta reprise song",
+      "trackNumber": 1,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Athuvutta Reprise Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Jeeva",
+        "Hansika"
+      ],
+      "bitrate": 170181,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5283858
+    },
+    {
+      "id": "3a38981614ff",
+      "title": "Athuvutta Song",
+      "normalizedTitle": "athuvutta song",
+      "trackNumber": 2,
+      "duration": "4:22",
+      "durationSeconds": 262,
+      "audio": "Athuvutta Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Jeeva",
+        "Hansika"
+      ],
+      "bitrate": 133089,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4433018
+    },
+    {
+      "id": "08e2273e40c7",
+      "title": "Bubbly Bubbly Song",
+      "normalizedTitle": "bubbly bubbly song",
+      "trackNumber": 3,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Bubbly Bubbly Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Jeeva",
+        "Hansika"
+      ],
+      "bitrate": 159799,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5029921
+    },
+    {
+      "id": "12960910e11c",
+      "title": "Rain Rain Go Go Song",
+      "normalizedTitle": "rain rain go go song",
+      "trackNumber": 4,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Rain Rain Go Go Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Jeeva",
+        "Hansika"
+      ],
+      "bitrate": 157060,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5001848
+    },
+    {
+      "id": "e6fcf21e5c8c",
+      "title": "Thaaru Thaara Song",
+      "normalizedTitle": "thaaru thaara song",
+      "trackNumber": 5,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Thaaru Thaara Song.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Jeeva",
+        "Hansika"
+      ],
+      "bitrate": 161236,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5048694
+    }
+  ]
+}

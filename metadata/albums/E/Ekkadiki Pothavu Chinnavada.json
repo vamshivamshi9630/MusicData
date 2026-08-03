@@ -1,0 +1,84 @@
+{
+  "album": {
+    "id": "ffc62699f975",
+    "name": "Ekkadiki Pothavu Chinnavada",
+    "year": 2016,
+    "musicDirector": "Sekhar Chandra",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ekkadiki Pothavu Chinnavada.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "44cb7b2e4ac4",
+      "title": "Chirunama Thana Chirunama.Mp3",
+      "normalizedTitle": "chirunama thana chirunamamp3",
+      "trackNumber": 1,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Chirunama Thana Chirunama.Mp3.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Yazin Nizar",
+        "Kareemulla"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3793018
+    },
+    {
+      "id": "769f46d80682",
+      "title": "Masthundhi Life",
+      "normalizedTitle": "masthundhi life",
+      "trackNumber": 2,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Masthundhi Life.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Sekhar Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3259268
+    },
+    {
+      "id": "854c229044f1",
+      "title": "Neetho Unte Chalu",
+      "normalizedTitle": "neetho unte chalu",
+      "trackNumber": 3,
+      "duration": "2:53",
+      "durationSeconds": 173,
+      "audio": "Neetho Unte Chalu.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2941203
+    },
+    {
+      "id": "4d9829c6fff3",
+      "title": "Vandha Speedulo",
+      "normalizedTitle": "vandha speedulo",
+      "trackNumber": 4,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Vandha Speedulo.mp3",
+      "composer": "Sekhar Chandra",
+      "singers": [
+        "Dhanunjay",
+        "Sweekar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3726975
+    }
+  ]
+}

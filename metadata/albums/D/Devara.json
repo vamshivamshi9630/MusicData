@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "fe0865f959e0",
+    "name": "Devara",
+    "year": 2024,
+    "musicDirector": "Anirudh Ravichander",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Devara.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "bc4d5bae2f18",
+      "title": "All Hail The Tiger",
+      "normalizedTitle": "all hail the tiger",
+      "trackNumber": 1,
+      "duration": "1:21",
+      "durationSeconds": 81,
+      "audio": "All Hail The Tiger.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Natalie Di Luccio"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2250240
+    },
+    {
+      "id": "d5f8c29aaaeb",
+      "title": "Ayudha Pooja",
+      "normalizedTitle": "ayudha pooja",
+      "trackNumber": 2,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Ayudha Pooja.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4525977
+    },
+    {
+      "id": "53bc6fe42b75",
+      "title": "Chuttamalle Song",
+      "normalizedTitle": "chuttamalle song",
+      "trackNumber": 3,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Chuttamalle Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Shilpa Rao"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9286950
+    },
+    {
+      "id": "f06dd7d27b38",
+      "title": "Daavudi Song",
+      "normalizedTitle": "daavudi song",
+      "trackNumber": 4,
+      "duration": "2:12",
+      "durationSeconds": 132,
+      "audio": "Daavudi Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Nakash Aziz",
+        "Akasa Singh"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5617268
+    },
+    {
+      "id": "6a4ef61d2936",
+      "title": "Fear Song",
+      "normalizedTitle": "fear song",
+      "trackNumber": 5,
+      "duration": "3:16",
+      "durationSeconds": 196,
+      "audio": "Fear Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8211227
+    },
+    {
+      "id": "f37b2c6a2db4",
+      "title": "Red Sea",
+      "normalizedTitle": "red sea",
+      "trackNumber": 6,
+      "duration": "2:39",
+      "durationSeconds": 159,
+      "audio": "Red Sea.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 6680512
+    }
+  ]
+}

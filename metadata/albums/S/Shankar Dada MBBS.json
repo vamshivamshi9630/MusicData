@@ -1,0 +1,139 @@
+{
+  "album": {
+    "id": "62fbf36cc052",
+    "name": "Shankar Dada MBBS",
+    "year": 2004,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Shankar Dada MBBS.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "260d767b0514",
+      "title": "Chaila Chaila",
+      "normalizedTitle": "chaila chaila",
+      "trackNumber": 1,
+      "duration": "6:06",
+      "durationSeconds": 366,
+      "audio": "Chaila Chaila.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "KK",
+        "Chiranjeevi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6084547
+    },
+    {
+      "id": "08597fc225ac",
+      "title": "Naa Pere Kanchanamaala",
+      "normalizedTitle": "naa pere kanchanamaala",
+      "trackNumber": 2,
+      "duration": "5:20",
+      "durationSeconds": 320,
+      "audio": "Naa Pere Kanchanamaala.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Karthik",
+        "Malathi Sharma"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5340998
+    },
+    {
+      "id": "4a0f9c225be0",
+      "title": "Pattu Pattu",
+      "normalizedTitle": "pattu pattu",
+      "trackNumber": 3,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Pattu Pattu.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sumangali",
+        "Manikka Vinayagam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5185943
+    },
+    {
+      "id": "3037bdbffd70",
+      "title": "Sande Poddu",
+      "normalizedTitle": "sande poddu",
+      "trackNumber": 4,
+      "duration": "5:33",
+      "durationSeconds": 333,
+      "audio": "Sande Poddu.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shankar Mahadevan",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5548728
+    },
+    {
+      "id": "1072d60d21e8",
+      "title": "Shankerdada M.B.B.S",
+      "normalizedTitle": "shankerdada mbbs",
+      "trackNumber": 5,
+      "duration": "5:46",
+      "durationSeconds": 346,
+      "audio": "Shankerdada M.B.B.S.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mano"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5761453
+    },
+    {
+      "id": "b2bead496c70",
+      "title": "Thellarindoi",
+      "normalizedTitle": "thellarindoi",
+      "trackNumber": 6,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Thellarindoi.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Sumangali",
+        "Manikka Vinayagam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3688385
+    },
+    {
+      "id": "38a4a210a395",
+      "title": "Ye Jilla",
+      "normalizedTitle": "ye jilla",
+      "trackNumber": 7,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Ye Jilla.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Adnan Sami",
+        "Kalpana"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5063465
+    }
+  ]
+}

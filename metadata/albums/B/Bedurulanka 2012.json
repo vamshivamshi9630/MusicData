@@ -1,0 +1,67 @@
+{
+  "album": {
+    "id": "6d7a26923860",
+    "name": "Bedurulanka 2012",
+    "year": 2023,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bedurulanka 2012.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "a417038350f5",
+      "title": "Dongode Doragadu Song",
+      "normalizedTitle": "dongode doragadu song",
+      "trackNumber": 1,
+      "duration": "2:46",
+      "durationSeconds": 166,
+      "audio": "Dongode Doragadu Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Sahithi Chaganti"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2716422
+    },
+    {
+      "id": "7892a34c3650",
+      "title": "Solluda Siva Song",
+      "normalizedTitle": "solluda siva song",
+      "trackNumber": 2,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Solluda Siva Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Anurag Kulakarni",
+        "Roll Rida & Prudhvi Chandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3383485
+    },
+    {
+      "id": "815eb81706f2",
+      "title": "Vennello Aadapilla Song",
+      "normalizedTitle": "vennello aadapilla song",
+      "trackNumber": 3,
+      "duration": "4:19",
+      "durationSeconds": 259,
+      "audio": "Vennello Aadapilla Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Harika Narayan",
+        "J.V. Sudhanshu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4204357
+    }
+  ]
+}

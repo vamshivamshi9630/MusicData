@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "d6e8a4741cfa",
+    "name": "Kanche",
+    "year": 2015,
+    "musicDirector": "Chirantan Bhatt",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kanche.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "f6e3c6411ccd",
+      "title": "Bhaga Bhagamani.Mp",
+      "normalizedTitle": "bhaga bhagamanimp",
+      "trackNumber": 1,
+      "duration": "2:59",
+      "durationSeconds": 179,
+      "audio": "Bhaga Bhagamani.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Varun Tej",
+        "Pragya Jaiswal-SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3011806
+    },
+    {
+      "id": "0acbacea449e",
+      "title": "Itu Itu Ani Chitikelu.Mp",
+      "normalizedTitle": "itu itu ani chitikelump",
+      "trackNumber": 2,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Itu Itu Ani Chitikelu.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Varun Tej",
+        "Pragya Jaiswal-SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5074047
+    },
+    {
+      "id": "be3698596c7b",
+      "title": "Love Is War.Mp",
+      "normalizedTitle": "love is warmp",
+      "trackNumber": 3,
+      "duration": "3:03",
+      "durationSeconds": 183,
+      "audio": "Love Is War.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Varun Tej",
+        "Pragya Jaiswal-SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3077836
+    },
+    {
+      "id": "024139fc39d2",
+      "title": "Nijamenani Nammani.Mp",
+      "normalizedTitle": "nijamenani nammanimp",
+      "trackNumber": 4,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Nijamenani Nammani.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Varun Tej",
+        "Pragya Jaiswal-SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4690335
+    },
+    {
+      "id": "713e0f7ff72d",
+      "title": "Ooru Erayyindi Eru Horettindi.Mp",
+      "normalizedTitle": "ooru erayyindi eru horettindimp",
+      "trackNumber": 5,
+      "duration": "5:09",
+      "durationSeconds": 309,
+      "audio": "Ooru Erayyindi Eru Horettindi.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Varun Tej",
+        "Pragya Jaiswal-SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5089932
+    },
+    {
+      "id": "9fa35e51aa5d",
+      "title": "Raa Mundadugeddam.Mp",
+      "normalizedTitle": "raa mundadugeddammp",
+      "trackNumber": 6,
+      "duration": "6:47",
+      "durationSeconds": 407,
+      "audio": "Raa Mundadugeddam.Mp.mp3",
+      "composer": "SenSongsMp3.Com",
+      "singers": [
+        "Varun Tej",
+        "Pragya Jaiswal-SenSongsMp3.Com"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6657250
+    }
+  ]
+}

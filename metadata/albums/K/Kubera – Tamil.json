@@ -1,0 +1,66 @@
+{
+  "album": {
+    "id": "8b926a1f14f0",
+    "name": "Kubera – Tamil",
+    "year": 2025,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kubera – Tamil.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "eea4693a197f",
+      "title": "Kadha Kadha Kadhai Song",
+      "normalizedTitle": "kadha kadha kadhai song",
+      "trackNumber": 1,
+      "duration": "3:22",
+      "durationSeconds": 202,
+      "audio": "Kadha Kadha Kadhai Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Hyde Karty",
+        "Karemullah"
+      ],
+      "bitrate": 120782,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3272300
+    },
+    {
+      "id": "b490c9e8e2cf",
+      "title": "Pippi Pippi Dum Dum Dum Song",
+      "normalizedTitle": "pippi pippi dum dum dum song",
+      "trackNumber": 2,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Pippi Pippi Dum Dum Dum Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Indravathi Chauhan"
+      ],
+      "bitrate": 129448,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3930923
+    },
+    {
+      "id": "eced8edc2f0e",
+      "title": "Poyivaa Nanba Song",
+      "normalizedTitle": "poyivaa nanba song",
+      "trackNumber": 3,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Poyivaa Nanba Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Dhanush"
+      ],
+      "bitrate": 127187,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4462256
+    }
+  ]
+}

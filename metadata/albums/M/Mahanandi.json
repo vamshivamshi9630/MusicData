@@ -1,0 +1,136 @@
+{
+  "album": {
+    "id": "45397dfc90d0",
+    "name": "Mahanandi",
+    "year": 2005,
+    "musicDirector": "Kamalakar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mahanandi.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "8d49212f4def",
+      "title": "Champaka Mala Song",
+      "normalizedTitle": "champaka mala song",
+      "trackNumber": 1,
+      "duration": "5:21",
+      "durationSeconds": 321,
+      "audio": "Champaka Mala Song.mp3",
+      "composer": "Kamalakar",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5312750
+    },
+    {
+      "id": "d98d10b1dd42",
+      "title": "Eemaina Song",
+      "normalizedTitle": "eemaina song",
+      "trackNumber": 2,
+      "duration": "5:06",
+      "durationSeconds": 306,
+      "audio": "Eemaina Song.mp3",
+      "composer": "Kamalakar",
+      "singers": [
+        "Hariharan",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5071745
+    },
+    {
+      "id": "f6919ad0ae77",
+      "title": "Etu Chuste Atu Nuvve Song",
+      "normalizedTitle": "etu chuste atu nuvve song",
+      "trackNumber": 3,
+      "duration": "1:33",
+      "durationSeconds": 93,
+      "audio": "Etu Chuste Atu Nuvve Song.mp3",
+      "composer": "Kamalakar",
+      "singers": [
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1662876
+    },
+    {
+      "id": "54f2b65900c6",
+      "title": "Indra Dhanassu Song",
+      "normalizedTitle": "indra dhanassu song",
+      "trackNumber": 4,
+      "duration": "5:35",
+      "durationSeconds": 335,
+      "audio": "Indra Dhanassu Song.mp3",
+      "composer": "Kamalakar",
+      "singers": [
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5528999
+    },
+    {
+      "id": "f1730673582d",
+      "title": "Kattilanti Ammae Song",
+      "normalizedTitle": "kattilanti ammae song",
+      "trackNumber": 5,
+      "duration": "4:58",
+      "durationSeconds": 298,
+      "audio": "Kattilanti Ammae Song.mp3",
+      "composer": "Kamalakar",
+      "singers": [
+        "Adnan Sami",
+        "Sujatha Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4943708
+    },
+    {
+      "id": "99e083673c73",
+      "title": "Na Pancapranalu Song",
+      "normalizedTitle": "na pancapranalu song",
+      "trackNumber": 6,
+      "duration": "5:14",
+      "durationSeconds": 314,
+      "audio": "Na Pancapranalu Song.mp3",
+      "composer": "Kamalakar",
+      "singers": [
+        "S. P. Balasubrahmanyam",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5202158
+    },
+    {
+      "id": "439f6a68dd13",
+      "title": "Taitugunna Jeans Pantu Song",
+      "normalizedTitle": "taitugunna jeans pantu song",
+      "trackNumber": 7,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Taitugunna Jeans Pantu Song.mp3",
+      "composer": "Kamalakar",
+      "singers": [
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5125670
+    }
+  ]
+}

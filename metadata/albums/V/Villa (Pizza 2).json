@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "80a6eb64edeb",
+    "name": "Villa (Pizza 2)",
+    "year": 2013,
+    "musicDirector": "Santhosh Narayanan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "ab73092b4812",
+      "title": "Chethi Kala (Theme) Song",
+      "normalizedTitle": "chethi kala theme song",
+      "trackNumber": 1,
+      "duration": "1:51",
+      "durationSeconds": 111,
+      "audio": "Chethi Kala (Theme) Song.mp3",
+      "composer": "Music: Santhosh Narayana | Lyrics: Rakendu Mouli",
+      "singers": [
+        "Instrumental"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1833253
+    },
+    {
+      "id": "0d4675f28aec",
+      "title": "Nijame Song",
+      "normalizedTitle": "nijame song",
+      "trackNumber": 2,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Nijame Song.mp3",
+      "composer": "Music: Santhosh Narayana | Lyrics: Rakendu Mouli",
+      "singers": [
+        "Kalyani Nair",
+        "Pranavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3489199
+    },
+    {
+      "id": "26767700c5f6",
+      "title": "Swargame Song",
+      "normalizedTitle": "swargame song",
+      "trackNumber": 3,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Swargame Song.mp3",
+      "composer": "Music: Santhosh Narayana | Lyrics: Rakendu Mouli",
+      "singers": [
+        "Pradeep Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3850304
+    },
+    {
+      "id": "deb762a671fa",
+      "title": "The Villa (Theme) Song",
+      "normalizedTitle": "the villa theme song",
+      "trackNumber": 4,
+      "duration": "1:02",
+      "durationSeconds": 62,
+      "audio": "The Villa (Theme) Song.mp3",
+      "composer": "Music: Santhosh Narayana | Lyrics: Rakendu Mouli",
+      "singers": [
+        "Instrumental"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1052919
+    }
+  ]
+}

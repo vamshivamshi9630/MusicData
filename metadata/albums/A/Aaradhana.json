@@ -1,0 +1,85 @@
+{
+  "album": {
+    "id": "bd22921c6a34",
+    "name": "Aaradhana",
+    "year": 1987,
+    "musicDirector": "Ilaiyaraaja",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aaradhana.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "8b3fe940f87d",
+      "title": "Are Emaindhi Song",
+      "normalizedTitle": "are emaindhi song",
+      "trackNumber": 1,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Are Emaindhi Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "S.P.Balu",
+        "S.Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4530864
+    },
+    {
+      "id": "afa55371fa1b",
+      "title": "Emavthundhi Song",
+      "normalizedTitle": "emavthundhi song",
+      "trackNumber": 2,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Emavthundhi Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "S.P.Balu",
+        "S.Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4560957
+    },
+    {
+      "id": "1510acc17ed0",
+      "title": "Hai Jamaku Jama Song",
+      "normalizedTitle": "hai jamaku jama song",
+      "trackNumber": 3,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Hai Jamaku Jama Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "S.Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4463971
+    },
+    {
+      "id": "6a908c7c3dc5",
+      "title": "Theeganai Malle Song",
+      "normalizedTitle": "theeganai malle song",
+      "trackNumber": 4,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Theeganai Malle Song.mp3",
+      "composer": "Ilaiyaraaja",
+      "singers": [
+        "S.P.Balu",
+        "S.Janaki"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4356993
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "2bc1d130712f",
+    "name": "Sundarakanda",
+    "year": 1992,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sundarakanda.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "b722d5caab89",
+      "title": "Aakasena Suryudu (Female)",
+      "normalizedTitle": "aakasena suryudu female",
+      "trackNumber": 1,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Aakasena Suryudu (Female).mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5273772
+    },
+    {
+      "id": "962d9e6ff5ca",
+      "title": "Aakasena Suryudu",
+      "normalizedTitle": "aakasena suryudu",
+      "trackNumber": 2,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Aakasena Suryudu.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5291013
+    },
+    {
+      "id": "a938f61de44a",
+      "title": "Inka Inka",
+      "normalizedTitle": "inka inka",
+      "trackNumber": 3,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Inka Inka.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4692287
+    },
+    {
+      "id": "41cebe2cd51f",
+      "title": "Kokilamma Kottapata",
+      "normalizedTitle": "kokilamma kottapata",
+      "trackNumber": 4,
+      "duration": "4:42",
+      "durationSeconds": 282,
+      "audio": "Kokilamma Kottapata.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5661430
+    },
+    {
+      "id": "11f5295fb31e",
+      "title": "Sundara Kandaka Oo",
+      "normalizedTitle": "sundara kandaka oo",
+      "trackNumber": 5,
+      "duration": "4:34",
+      "durationSeconds": 274,
+      "audio": "Sundara Kandaka Oo.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5484319
+    },
+    {
+      "id": "d11eaaf22863",
+      "title": "Vulikipadaka",
+      "normalizedTitle": "vulikipadaka",
+      "trackNumber": 6,
+      "duration": "4:25",
+      "durationSeconds": 265,
+      "audio": "Vulikipadaka.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5314523
+    }
+  ]
+}

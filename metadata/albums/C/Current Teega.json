@@ -1,0 +1,152 @@
+{
+  "album": {
+    "id": "f5c52f216e16",
+    "name": "Current Teega",
+    "year": 2014,
+    "musicDirector": "Achu Rajamani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Current Teega.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "ab31f66d31f2",
+      "title": "Ammay Nadumu Song",
+      "normalizedTitle": "ammay nadumu song",
+      "trackNumber": 1,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Ammay Nadumu Song.mp3",
+      "composer": "Music: Achu | Lyrics: Manchu Manoj",
+      "singers": [
+        "Achu",
+        "Mm Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3940048
+    },
+    {
+      "id": "0870b531708e",
+      "title": "Current Theega Song",
+      "normalizedTitle": "current theega song",
+      "trackNumber": 2,
+      "duration": "1:21",
+      "durationSeconds": 81,
+      "audio": "Current Theega Song.mp3",
+      "composer": "Music: Achu | Lyrics: Manchu Manoj",
+      "singers": [
+        "Achu Rajamani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1397213
+    },
+    {
+      "id": "79649df9aef3",
+      "title": "Kallalo Vunna Prema Song",
+      "normalizedTitle": "kallalo vunna prema song",
+      "trackNumber": 3,
+      "duration": "1:41",
+      "durationSeconds": 101,
+      "audio": "Kallalo Vunna Prema Song.mp3",
+      "composer": "Music: Achu | Lyrics: Manchu Manoj",
+      "singers": [
+        "Karthick"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1730298
+    },
+    {
+      "id": "46a1a73d072d",
+      "title": "Nene Nene Current Song",
+      "normalizedTitle": "nene nene current song",
+      "trackNumber": 4,
+      "duration": "3:50",
+      "durationSeconds": 230,
+      "audio": "Nene Nene Current Song.mp3",
+      "composer": "Music: Achu | Lyrics: Manchu Manoj",
+      "singers": [
+        "Raǌith"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3780394
+    },
+    {
+      "id": "90bb8328572e",
+      "title": "Padahaarellainaa Song",
+      "normalizedTitle": "padahaarellainaa song",
+      "trackNumber": 5,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Padahaarellainaa Song.mp3",
+      "composer": "Music: Achu | Lyrics: Manchu Manoj",
+      "singers": [
+        "Ch㏌mayi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3428040
+    },
+    {
+      "id": "0c043f7e2e3f",
+      "title": "Pilla O Pilla Song",
+      "normalizedTitle": "pilla o pilla song",
+      "trackNumber": 6,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Pilla O Pilla Song.mp3",
+      "composer": "Music: Achu | Lyrics: Manchu Manoj",
+      "singers": [
+        "Karthick"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3940036
+    },
+    {
+      "id": "d7719aefd3b2",
+      "title": "Pothe Ponee Poraa Song",
+      "normalizedTitle": "pothe ponee poraa song",
+      "trackNumber": 7,
+      "duration": "3:43",
+      "durationSeconds": 223,
+      "audio": "Pothe Ponee Poraa Song.mp3",
+      "composer": "Music: Achu | Lyrics: Manchu Manoj",
+      "singers": [
+        "Manchu Manoj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3670051
+    },
+    {
+      "id": "7e7ba30b3603",
+      "title": "Yerraa Yerraa Cheera Song",
+      "normalizedTitle": "yerraa yerraa cheera song",
+      "trackNumber": 8,
+      "duration": "2:53",
+      "durationSeconds": 173,
+      "audio": "Yerraa Yerraa Cheera Song.mp3",
+      "composer": "Music: Achu | Lyrics: Manchu Manoj",
+      "singers": [
+        "Jessi Gift",
+        "Kamalaja"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2870517
+    }
+  ]
+}

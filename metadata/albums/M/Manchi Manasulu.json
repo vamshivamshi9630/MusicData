@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "783cbef9f331",
+    "name": "Manchi Manasulu",
+    "year": 1962,
+    "musicDirector": "S. Rajeshwara Rao",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Manchi Manasulu.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "a00cde32ea91",
+      "title": "Dhumarukam Mroga",
+      "normalizedTitle": "dhumarukam mroga",
+      "trackNumber": 1,
+      "duration": "5:41",
+      "durationSeconds": 341,
+      "audio": "Dhumarukam Mroga.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5473638
+    },
+    {
+      "id": "30ef5f1b6861",
+      "title": "Ee Sandhya",
+      "normalizedTitle": "ee sandhya",
+      "trackNumber": 2,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Ee Sandhya.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10898330
+    },
+    {
+      "id": "05b15d41094f",
+      "title": "Jabilli Kosam (Female)",
+      "normalizedTitle": "jabilli kosam female",
+      "trackNumber": 3,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Jabilli Kosam (Female).mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3624586
+    },
+    {
+      "id": "d4394c924415",
+      "title": "Jabilli Kosam (Male)",
+      "normalizedTitle": "jabilli kosam male",
+      "trackNumber": 4,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Jabilli Kosam (Male).mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4287052
+    },
+    {
+      "id": "9e3483fc6986",
+      "title": "Puttinti Bomma",
+      "normalizedTitle": "puttinti bomma",
+      "trackNumber": 5,
+      "duration": "4:02",
+      "durationSeconds": 242,
+      "audio": "Puttinti Bomma.mp3",
+      "composer": "S. Rajeshwara Rao",
+      "singers": [
+        "www.SenSongsMp3.co"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3891662
+    }
+  ]
+}

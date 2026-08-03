@@ -1,0 +1,83 @@
+{
+  "album": {
+    "id": "090df164e80b",
+    "name": "Aswathama",
+    "year": 2020,
+    "musicDirector": "Sricharan Pakala",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aswathama.png",
+    "songCount": 4
+  },
+  "songs": [
+    {
+      "id": "bada9d1fd86b",
+      "title": "Andaga Annaga Song",
+      "normalizedTitle": "andaga annaga song",
+      "trackNumber": 1,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Andaga Annaga Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Vedala Hemachandra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3639158
+    },
+    {
+      "id": "4bb263c5a51e",
+      "title": "Ashwathama Title Song",
+      "normalizedTitle": "ashwathama title song",
+      "trackNumber": 2,
+      "duration": "3:59",
+      "durationSeconds": 239,
+      "audio": "Ashwathama Title Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Divya Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3896749
+    },
+    {
+      "id": "7ce104566a79",
+      "title": "Maahi Song",
+      "normalizedTitle": "maahi song",
+      "trackNumber": 3,
+      "duration": "3:23",
+      "durationSeconds": 203,
+      "audio": "Maahi Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Poojan Kohli"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3328083
+    },
+    {
+      "id": "24abea7f797a",
+      "title": "Ninne Ninne Song",
+      "normalizedTitle": "ninne ninne song",
+      "trackNumber": 4,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Ninne Ninne Song.mp3",
+      "composer": "Sricharan Pakala",
+      "singers": [
+        "Armaan Malik",
+        "Yamini Gantasala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3535769
+    }
+  ]
+}

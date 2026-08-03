@@ -1,0 +1,125 @@
+{
+  "album": {
+    "id": "a274c3254dfd",
+    "name": "7th Sense",
+    "year": 2011,
+    "musicDirector": "Harris Jayaraj",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "7th Sense.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "1bebaafbcda5",
+      "title": "Amma Amma Song",
+      "normalizedTitle": "amma amma song",
+      "trackNumber": 1,
+      "duration": "6:07",
+      "durationSeconds": 367,
+      "audio": "Amma Amma Song.mp3",
+      "composer": "Music : Harris Jayaraj | Lyrics : Bhuvanachandra",
+      "singers": [
+        "S.P.Balu",
+        "Swetha Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5931235
+    },
+    {
+      "id": "e313115d3e78",
+      "title": "Endukanta Joda Song",
+      "normalizedTitle": "endukanta joda song",
+      "trackNumber": 2,
+      "duration": "5:00",
+      "durationSeconds": 300,
+      "audio": "Endukanta Joda Song.mp3",
+      "composer": "Music : Harris Jayaraj | Lyrics : Bhuvanachandra",
+      "singers": [
+        "Balaram",
+        "Naresh Iyer",
+        "Suchith Suresan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4856702
+    },
+    {
+      "id": "b0fbaa1a1e5d",
+      "title": "Mutyala Dhaarani Song",
+      "normalizedTitle": "mutyala dhaarani song",
+      "trackNumber": 3,
+      "duration": "6:13",
+      "durationSeconds": 373,
+      "audio": "Mutyala Dhaarani Song.mp3",
+      "composer": "Music : Harris Jayaraj | Lyrics : Bhuvanachandra",
+      "singers": [
+        "Karthik",
+        "Megha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6024856
+    },
+    {
+      "id": "8079c286fc88",
+      "title": "Oh Ringa Ringa Song",
+      "normalizedTitle": "oh ringa ringa song",
+      "trackNumber": 4,
+      "duration": "5:36",
+      "durationSeconds": 336,
+      "audio": "Oh Ringa Ringa Song.mp3",
+      "composer": "Music : Harris Jayaraj | Lyrics : Bhuvanachandra",
+      "singers": [
+        "Benny",
+        "Suchitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5443472
+    },
+    {
+      "id": "03627553e9e4",
+      "title": "The Rise of Damo Song",
+      "normalizedTitle": "the rise of damo song",
+      "trackNumber": 5,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "The Rise of Damo Song.mp3",
+      "composer": "Music : Harris Jayaraj | Lyrics : Karky",
+      "singers": [
+        "Hao Wang",
+        "Sunitha Sarathy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3157682
+    },
+    {
+      "id": "c27648073c44",
+      "title": "Yellae Lama Song",
+      "normalizedTitle": "yellae lama song",
+      "trackNumber": 6,
+      "duration": "5:22",
+      "durationSeconds": 322,
+      "audio": "Yellae Lama Song.mp3",
+      "composer": "Music : Harris Jayaraj | Lyrics : Bhuvanachandra",
+      "singers": [
+        "Vijay Prakash",
+        "Karthik",
+        "Shalini",
+        "Reeta"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5212799
+    }
+  ]
+}

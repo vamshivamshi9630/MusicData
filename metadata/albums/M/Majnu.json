@@ -1,0 +1,116 @@
+{
+  "album": {
+    "id": "78d2847a9556",
+    "name": "Majnu",
+    "year": 2016,
+    "musicDirector": "Gopi Sundar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Majnu.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "85c156a4455a",
+      "title": "Aadara.Mp",
+      "normalizedTitle": "aadaramp",
+      "trackNumber": 1,
+      "duration": "3:01",
+      "durationSeconds": 181,
+      "audio": "Aadara.Mp.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Ranjith Govind"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3008181
+    },
+    {
+      "id": "e26a35af059e",
+      "title": "Andamaina.Mp",
+      "normalizedTitle": "andamainamp",
+      "trackNumber": 2,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Andamaina.Mp.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Rahul Nambiar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3120212
+    },
+    {
+      "id": "c3386930009f",
+      "title": "Jare Jare.Mp",
+      "normalizedTitle": "jare jaremp",
+      "trackNumber": 3,
+      "duration": "4:59",
+      "durationSeconds": 299,
+      "audio": "Jare Jare.Mp.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Naresh Iyer"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4900296
+    },
+    {
+      "id": "5a205978cdb0",
+      "title": "Kallumoosi.Mp",
+      "normalizedTitle": "kallumoosimp",
+      "trackNumber": 4,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Kallumoosi.Mp.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Suchith Suresan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3598779
+    },
+    {
+      "id": "0973db212f2e",
+      "title": "Oorikey Ala.Mp",
+      "normalizedTitle": "oorikey alamp",
+      "trackNumber": 5,
+      "duration": "5:54",
+      "durationSeconds": 354,
+      "audio": "Oorikey Ala.Mp.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5776340
+    },
+    {
+      "id": "6ded828f7f68",
+      "title": "Oye Meghamla.Mp",
+      "normalizedTitle": "oye meghamlamp",
+      "trackNumber": 6,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Oye Meghamla.Mp.mp3",
+      "composer": "Gopi Sunder",
+      "singers": [
+        "Chinmayi Sripaada"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4338557
+    }
+  ]
+}

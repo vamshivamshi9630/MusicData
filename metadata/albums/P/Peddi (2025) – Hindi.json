@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "61192fd6eea7",
+    "name": "Peddi (2025) – Hindi",
+    "year": 2025,
+    "musicDirector": "Thaman S",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Peddi (2025) – Hindi.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "10f2b3ce05a7",
+      "title": "Chikiri Chikiri Song",
+      "normalizedTitle": "chikiri chikiri song",
+      "trackNumber": 1,
+      "duration": "0:00",
+      "durationSeconds": 0,
+      "audio": "Chikiri Chikiri Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S"
+      ],
+      "bitrate": 0,
+      "sampleRate": 0,
+      "channels": 2,
+      "fileSize": 4409219
+    }
+  ]
+}

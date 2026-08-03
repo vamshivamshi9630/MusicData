@@ -1,0 +1,65 @@
+{
+  "album": {
+    "id": "bb4b12cca2d3",
+    "name": "Jathi Ratnalu",
+    "year": 2021,
+    "musicDirector": "Radhan",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jathi Ratnalu.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "1d485e06dc79",
+      "title": "Chanchalguda Jail Lo Song",
+      "normalizedTitle": "chanchalguda jail lo song",
+      "trackNumber": 1,
+      "duration": "2:42",
+      "durationSeconds": 162,
+      "audio": "Chanchalguda Jail Lo Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Yogi Sekar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2963828
+    },
+    {
+      "id": "8f377fa0bf47",
+      "title": "Chitti Song",
+      "normalizedTitle": "chitti song",
+      "trackNumber": 2,
+      "duration": "3:11",
+      "durationSeconds": 191,
+      "audio": "Chitti Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 160000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4178737
+    },
+    {
+      "id": "0277c2b3da59",
+      "title": "Mana Jathi Ratnalu Song",
+      "normalizedTitle": "mana jathi ratnalu song",
+      "trackNumber": 3,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Mana Jathi Ratnalu Song.mp3",
+      "composer": "Radhan",
+      "singers": [
+        "Rahul Sipligunj"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3999232
+    }
+  ]
+}

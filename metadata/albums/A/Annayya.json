@@ -1,0 +1,123 @@
+{
+  "album": {
+    "id": "92a8b786437c",
+    "name": "Annayya",
+    "year": 2000,
+    "musicDirector": "Mani Sharma",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Annayya.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "8b699bfc9326",
+      "title": "Aata Kaavala",
+      "normalizedTitle": "aata kaavala",
+      "trackNumber": 1,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Aata Kaavala.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Sukhwinder Singh",
+        "Radhika"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5098613
+    },
+    {
+      "id": "4758cff90fe7",
+      "title": "Baava Chandamaamalu",
+      "normalizedTitle": "baava chandamaamalu",
+      "trackNumber": 2,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Baava Chandamaamalu.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "S. P. Balasubrahmanyam",
+        "Chitra",
+        "S. P. B. Charan",
+        "Teja"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5044680
+    },
+    {
+      "id": "c04717bc2a4a",
+      "title": "Gusagusale",
+      "normalizedTitle": "gusagusale",
+      "trackNumber": 3,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Gusagusale.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Udit Narayan",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5157523
+    },
+    {
+      "id": "cf62ea35d0fe",
+      "title": "Hima Seemallo",
+      "normalizedTitle": "hima seemallo",
+      "trackNumber": 4,
+      "duration": "5:43",
+      "durationSeconds": 343,
+      "audio": "Hima Seemallo.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Hariharan",
+        "Harini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6164797
+    },
+    {
+      "id": "6999a1ca7ff3",
+      "title": "Sayyare Sayya",
+      "normalizedTitle": "sayyare sayya",
+      "trackNumber": 5,
+      "duration": "5:18",
+      "durationSeconds": 318,
+      "audio": "Sayyare Sayya.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "S. P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5779860
+    },
+    {
+      "id": "e4d5205670ae",
+      "title": "Vana Vallappa",
+      "normalizedTitle": "vana vallappa",
+      "trackNumber": 6,
+      "duration": "5:02",
+      "durationSeconds": 302,
+      "audio": "Vana Vallappa.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Hariharan",
+        "Sujatha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5509858
+    }
+  ]
+}

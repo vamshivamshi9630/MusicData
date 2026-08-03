@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "320ca8dd0130",
+    "name": "Student No.1",
+    "year": 2001,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Student No.1.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "a9fc2d10614a",
+      "title": "Ekkado Putti Song",
+      "normalizedTitle": "ekkado putti song",
+      "trackNumber": 1,
+      "duration": "5:16",
+      "durationSeconds": 316,
+      "audio": "Ekkado Putti Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "M. M. Keeravani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5257462
+    },
+    {
+      "id": "1aac52fbe8f3",
+      "title": "Kastha Ninu Song",
+      "normalizedTitle": "kastha ninu song",
+      "trackNumber": 2,
+      "duration": "4:40",
+      "durationSeconds": 280,
+      "audio": "Kastha Ninu Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "K. S. Chithra",
+        "S.P. Balasubrahmanyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4677027
+    },
+    {
+      "id": "cfb8e76be318",
+      "title": "Kuchipudi Song",
+      "normalizedTitle": "kuchipudi song",
+      "trackNumber": 3,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Kuchipudi Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Tippu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4215068
+    },
+    {
+      "id": "1711574c03a9",
+      "title": "Okariki Okarye Song",
+      "normalizedTitle": "okariki okarye song",
+      "trackNumber": 4,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Okariki Okarye Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "KK",
+        "Vardhini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4486092
+    },
+    {
+      "id": "22c37041c496",
+      "title": "Paddanandi Song",
+      "normalizedTitle": "paddanandi song",
+      "trackNumber": 5,
+      "duration": "4:38",
+      "durationSeconds": 278,
+      "audio": "Paddanandi Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Udit Narayan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4639735
+    },
+    {
+      "id": "e021be1eb199",
+      "title": "Yevetti Song",
+      "normalizedTitle": "yevetti song",
+      "trackNumber": 6,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Yevetti Song.mp3",
+      "composer": "M. M. Keeravani",
+      "singers": [
+        "Udit Narayan",
+        "K. S. Chithra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5156096
+    }
+  ]
+}

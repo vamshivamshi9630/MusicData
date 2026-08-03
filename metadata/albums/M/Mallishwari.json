@@ -1,0 +1,122 @@
+{
+  "album": {
+    "id": "eaa9c3cb8c91",
+    "name": "Mallishwari",
+    "year": 2004,
+    "musicDirector": "Koti",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Mallishwari.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "5dd249f76d95",
+      "title": "Cheli Soku Song",
+      "normalizedTitle": "cheli soku song",
+      "trackNumber": 1,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Cheli Soku Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "K.K.",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3930105
+    },
+    {
+      "id": "cb4620d3800b",
+      "title": "Gundello Gulabi Song",
+      "normalizedTitle": "gundello gulabi song",
+      "trackNumber": 2,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Gundello Gulabi Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Shankar Mahadevan",
+        "Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4153333
+    },
+    {
+      "id": "699ece75084f",
+      "title": "Janma Janmala Song",
+      "normalizedTitle": "janma janmala song",
+      "trackNumber": 3,
+      "duration": "5:08",
+      "durationSeconds": 308,
+      "audio": "Janma Janmala Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "S.P. Balu",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4958742
+    },
+    {
+      "id": "ab0c6ffc79ed",
+      "title": "Nee Navvule Song",
+      "normalizedTitle": "nee navvule song",
+      "trackNumber": 4,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Nee Navvule Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Kumar Sanu",
+        "Sunitha"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4078080
+    },
+    {
+      "id": "cc68fcf6665d",
+      "title": "Nuvventha Andagathe Song",
+      "normalizedTitle": "nuvventha andagathe song",
+      "trackNumber": 5,
+      "duration": "4:49",
+      "durationSeconds": 289,
+      "audio": "Nuvventha Andagathe Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "Karthik",
+        "Chorus"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4660723
+    },
+    {
+      "id": "e4d56ca7809c",
+      "title": "Nuvvu Yevvari Song",
+      "normalizedTitle": "nuvvu yevvari song",
+      "trackNumber": 6,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Nuvvu Yevvari Song.mp3",
+      "composer": "Koti",
+      "singers": [
+        "S.P. Balu",
+        "Shreya Ghoshal"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3957744
+    }
+  ]
+}

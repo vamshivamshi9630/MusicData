@@ -1,0 +1,137 @@
+{
+  "album": {
+    "id": "a86aee4f531b",
+    "name": "Jaya Janaki Nayaka",
+    "year": 2017,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jaya Janaki Nayaka.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "2b5b64f5eed8",
+      "title": "A For Apple Song",
+      "normalizedTitle": "a for apple song",
+      "trackNumber": 1,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "A For Apple Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Mamta Sharma",
+        "Sagar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4227518
+    },
+    {
+      "id": "7fae764e5f0e",
+      "title": "Andhamaina Seetakoka Chiluka Song",
+      "normalizedTitle": "andhamaina seetakoka chiluka song",
+      "trackNumber": 2,
+      "duration": "1:43",
+      "durationSeconds": 103,
+      "audio": "Andhamaina Seetakoka Chiluka Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Soosaj Santhosh"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2250571
+    },
+    {
+      "id": "fd3c5f88728b",
+      "title": "Just Chill Boss Song",
+      "normalizedTitle": "just chill boss song",
+      "trackNumber": 3,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Just Chill Boss Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "M M Manasi",
+        "Deepak"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4617056
+    },
+    {
+      "id": "401814b85de1",
+      "title": "Let’s Party All Night Song",
+      "normalizedTitle": "lets party all night song",
+      "trackNumber": 4,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Let’s Party All Night Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Prudhvi Chandra",
+        "M M Manasi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4613294
+    },
+    {
+      "id": "cc6fff86c2b7",
+      "title": "Nuvvele Nuvvele Song",
+      "normalizedTitle": "nuvvele nuvvele song",
+      "trackNumber": 5,
+      "duration": "4:29",
+      "durationSeconds": 269,
+      "audio": "Nuvvele Nuvvele Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shweta Mohan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4896023
+    },
+    {
+      "id": "e8f3b77532c7",
+      "title": "Rangu Rangu Kallajodu Song",
+      "normalizedTitle": "rangu rangu kallajodu song",
+      "trackNumber": 6,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Rangu Rangu Kallajodu Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Hemachandra",
+        "Shravana Bhargavi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4861980
+    },
+    {
+      "id": "93891274cf79",
+      "title": "Veede Veede Song",
+      "normalizedTitle": "veede veede song",
+      "trackNumber": 7,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Veede Veede Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Kailash Kher"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4755401
+    }
+  ]
+}

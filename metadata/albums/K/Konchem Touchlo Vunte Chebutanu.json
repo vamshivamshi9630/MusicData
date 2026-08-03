@@ -1,0 +1,99 @@
+{
+  "album": {
+    "id": "6bc1f2303147",
+    "name": "Konchem Touchlo Vunte Chebutanu",
+    "year": 2004,
+    "musicDirector": "Chakri",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Konchem Touchlo Vunte Chebutanu.png",
+    "songCount": 5
+  },
+  "songs": [
+    {
+      "id": "1bf9679a960c",
+      "title": "Chilipi Kanula Song",
+      "normalizedTitle": "chilipi kanula song",
+      "trackNumber": 1,
+      "duration": "4:10",
+      "durationSeconds": 250,
+      "audio": "Chilipi Kanula Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4034597
+    },
+    {
+      "id": "1f27b76f0bd6",
+      "title": "Nee Kuluku Jamaku Song",
+      "normalizedTitle": "nee kuluku jamaku song",
+      "trackNumber": 2,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Nee Kuluku Jamaku Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3747457
+    },
+    {
+      "id": "70709ca17e77",
+      "title": "Sarele Sarele Song",
+      "normalizedTitle": "sarele sarele song",
+      "trackNumber": 3,
+      "duration": "4:48",
+      "durationSeconds": 288,
+      "audio": "Sarele Sarele Song.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4634956
+    },
+    {
+      "id": "32b1cd7345d0",
+      "title": "Unnattuga Lenat",
+      "normalizedTitle": "unnattuga lenat",
+      "trackNumber": 4,
+      "duration": "6:04",
+      "durationSeconds": 364,
+      "audio": "Unnattuga Lenat.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5846026
+    },
+    {
+      "id": "09942d2e280a",
+      "title": "Unnattuga Lenattuga",
+      "normalizedTitle": "unnattuga lenattuga",
+      "trackNumber": 5,
+      "duration": "6:04",
+      "durationSeconds": 364,
+      "audio": "Unnattuga Lenattuga.mp3",
+      "composer": "Chakri",
+      "singers": [
+        "DRGM"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5846026
+    }
+  ]
+}

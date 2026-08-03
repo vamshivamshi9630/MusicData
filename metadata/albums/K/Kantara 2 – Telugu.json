@@ -1,0 +1,48 @@
+{
+  "album": {
+    "id": "fc9f80af3369",
+    "name": "Kantara 2 – Telugu",
+    "year": 2025,
+    "musicDirector": "B. Ajaneesh Loknath",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kantara 2 – Telugu.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "185733018f4c",
+      "title": "Brahmakalasha Song",
+      "normalizedTitle": "brahmakalasha song",
+      "trackNumber": 1,
+      "duration": "5:44",
+      "durationSeconds": 344,
+      "audio": "Brahmakalasha Song.mp3",
+      "composer": "B. Ajneesh Loknath",
+      "singers": [
+        "Abby V"
+      ],
+      "bitrate": 129275,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5785576
+    },
+    {
+      "id": "ca73a3c8c4d1",
+      "title": "Rebel Song",
+      "normalizedTitle": "rebel song",
+      "trackNumber": 2,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Rebel Song.mp3",
+      "composer": "B. Ajneesh Loknath",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4358351
+    }
+  ]
+}
