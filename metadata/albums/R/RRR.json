@@ -1,0 +1,118 @@
+{
+  "album": {
+    "id": "12b0f0dcaefb",
+    "name": "RRR",
+    "year": 2022,
+    "musicDirector": "M. M. Keeravani",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "RRR.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "ed63d35f671e",
+      "title": "Dosti",
+      "normalizedTitle": "dosti",
+      "trackNumber": 1,
+      "duration": "5:04",
+      "durationSeconds": 304,
+      "audio": "Dosti.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Hemachandra"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 12493248
+    },
+    {
+      "id": "75e82f216019",
+      "title": "Janani",
+      "normalizedTitle": "janani",
+      "trackNumber": 2,
+      "duration": "3:09",
+      "durationSeconds": 189,
+      "audio": "Janani.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "M. M. Keeravaani",
+        "Chorus"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7899840
+    },
+    {
+      "id": "c56eb9bfbd63",
+      "title": "Komma Uyyala",
+      "normalizedTitle": "komma uyyala",
+      "trackNumber": 3,
+      "duration": "2:49",
+      "durationSeconds": 169,
+      "audio": "Komma Uyyala.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Prakruthi Reddy"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7088443
+    },
+    {
+      "id": "b8113499f190",
+      "title": "Komuram Bheemudo",
+      "normalizedTitle": "komuram bheemudo",
+      "trackNumber": 4,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Komuram Bheemudo.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 10245120
+    },
+    {
+      "id": "084467f1639b",
+      "title": "Nattu Nattu",
+      "normalizedTitle": "nattu nattu",
+      "trackNumber": 5,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Nattu Nattu.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "Rahul Sipligunj",
+        "Kaala Bhairava"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 8656320
+    },
+    {
+      "id": "6ebd211de0a7",
+      "title": "Raamam Raaghavam",
+      "normalizedTitle": "raamam raaghavam",
+      "trackNumber": 6,
+      "duration": "3:54",
+      "durationSeconds": 234,
+      "audio": "Raamam Raaghavam.mp3",
+      "composer": "M M Keeravani",
+      "singers": [
+        "楖慪⁹牐歡獡ⱨ䌠慨摮湡⁡慂慬䬠污慹Ɱ䌠慨畲䠠牡桩牡湡愠摮䌠潨畲ꁳ"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 9683520
+    }
+  ]
+}

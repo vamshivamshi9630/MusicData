@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 3,
+  "manifestVersion": 4,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-08-19T14:54:53.877915Z",
+  "generatedAt": "2026-08-19T15:59:21.936718Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 3,
-      "hash": "6813ba4865e281dc"
+      "version": 4,
+      "hash": "bae8a240ffd84d49"
     },
     "artists": {
-      "version": 2,
-      "hash": "abb344cc7438c875"
+      "version": 3,
+      "hash": "235d762b7f018de6"
     },
     "genres": {
-      "version": 2,
-      "hash": "805bfdcd0a280fe6"
+      "version": 3,
+      "hash": "528b9eac11203366"
     },
     "languages": {
-      "version": 2,
-      "hash": "79ea8e85c4d1b9a3"
+      "version": 3,
+      "hash": "12f02da43fd6d24d"
     },
     "search": {
-      "version": 2,
-      "hash": "1e064928ea5de463"
+      "version": 3,
+      "hash": "a8088e51cdf4b8e3"
     }
   },
   "albums": {
@@ -3170,6 +3170,12 @@
       "partition": "R",
       "version": 1,
       "hash": "e5fa0dceabbe7f8b"
+    },
+    "12b0f0dcaefb": {
+      "name": "RRR",
+      "partition": "R",
+      "version": 1,
+      "hash": "41c13796a5d2c9be"
     },
     "e7329073ea2e": {
       "name": "Run Raja Run",
