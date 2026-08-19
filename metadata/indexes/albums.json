@@ -3718,6 +3718,17 @@
     "partition": "L"
   },
   {
+    "id": "9cd1e87c16ef",
+    "name": "Lovers Day",
+    "artist": "Unknown",
+    "year": 2019,
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Lovers Day.png",
+    "songCount": 8,
+    "partition": "L"
+  },
+  {
     "id": "22febe6587e4",
     "name": "Lucky Baskhar",
     "artist": "G. V. Prakash Kumar",
@@ -5337,8 +5348,8 @@
   {
     "id": "817dacb00a8c",
     "name": "Pushpa2",
-    "artist": "Devi Sri Prasad",
-    "year": 2024,
+    "artist": "Unknown",
+    "year": 2026,
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Pushpa2.png",

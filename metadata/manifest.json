@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 2,
+  "manifestVersion": 3,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-08-03T13:00:34.977967Z",
+  "generatedAt": "2026-08-19T12:44:07.610927Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 2,
-      "hash": "e3fc56bb01807678"
+      "version": 3,
+      "hash": "6813ba4865e281dc"
     },
     "artists": {
-      "version": 1,
-      "hash": "7e313b01b17c6651"
+      "version": 2,
+      "hash": "abb344cc7438c875"
     },
     "genres": {
-      "version": 1,
-      "hash": "505ab507fb95587f"
+      "version": 2,
+      "hash": "805bfdcd0a280fe6"
     },
     "languages": {
-      "version": 1,
-      "hash": "d4243cfc24a3593d"
+      "version": 2,
+      "hash": "79ea8e85c4d1b9a3"
     },
     "search": {
-      "version": 1,
-      "hash": "4bb52e95e3790958"
+      "version": 2,
+      "hash": "1e064928ea5de463"
     }
   },
   "albums": {
@@ -2055,6 +2055,12 @@
       "version": 1,
       "hash": "2f8b2285378c366e"
     },
+    "9cd1e87c16ef": {
+      "name": "Lovers Day",
+      "partition": "L",
+      "version": 1,
+      "hash": "539352fa1b328271"
+    },
     "22febe6587e4": {
       "name": "Lucky Baskhar",
       "partition": "L",
@@ -2940,8 +2946,8 @@
     "817dacb00a8c": {
       "name": "Pushpa2",
       "partition": "P",
-      "version": 1,
-      "hash": "ae7d0cd5be7b2166"
+      "version": 2,
+      "hash": "46c5cb5f20d2ffef"
     },
     "ab8e67b2dbc0": {
       "name": "Pushpaka Vimanam",

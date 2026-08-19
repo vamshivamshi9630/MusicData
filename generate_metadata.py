@@ -1,10 +1,18 @@
+import os
 import sys
 import time
-from typing import List
+from typing import List, Optional, Set, Tuple
 from generator.config import BASE_PATH, METADATA_DIR
 from generator.logger import log_step, log_info, log_success, log_error
 from generator.scanner import scan_all_albums
-from generator.metadata_reader import read_audio_info, read_id3_tags
+from generator.metadata_reader import read_song_metadata
+from generator.cache_reader import (
+    load_album_cache,
+    GeneratorTelemetry,
+    StrictCloudSafetyViolation,
+    CacheMissError,
+    CacheInvalidError
+)
 from generator.models import Album, Song
 from generator.utils import get_stable_id, normalize
 from generator.validator import validate_albums
@@ -17,8 +25,19 @@ from generator.search_writer import write_search_index
 from generator.statistics_writer import write_statistics
 from generator.manifest_writer import write_manifest
 
-def build_album_objects(scanned_data: List[dict]) -> List[Album]:
+def build_album_objects(
+    scanned_data: List[dict],
+    use_cache: bool = True,
+    strict_cloud_safety: bool = False,
+    modified_songs: Optional[Set[Tuple[str, str]]] = None,
+    telemetry: Optional[GeneratorTelemetry] = None
+) -> Tuple[List[Album], GeneratorTelemetry]:
+    if telemetry is None:
+        telemetry = GeneratorTelemetry()
+
+    modified_songs_set = modified_songs or set()
     albums = []
+
     for data in scanned_data:
         album_name = data["album_name"]
         album_info = data["album_info"]
@@ -31,13 +50,24 @@ def build_album_objects(scanned_data: List[dict]) -> List[Album]:
         genre = album_info.get("genre", "Soundtrack").strip() or "Soundtrack"
         language = album_info.get("language", "Telugu").strip() or "Telugu"
 
+        album_cache = load_album_cache(METADATA_DIR, album_name) if use_cache else None
+
         songs = []
         for track_num, mp3_file in enumerate(mp3_files, start=1):
             song_title = mp3_file.stem
             song_id = get_stable_id(f"{album_name}{mp3_file.name}")
-            
-            audio_info = read_audio_info(mp3_file)
-            singers, composer = read_id3_tags(mp3_file, music_director)
+
+            is_modified = (album_name, mp3_file.name) in modified_songs_set or not use_cache
+
+            audio_info, singers, composer = read_song_metadata(
+                album_name=album_name,
+                mp3_file=mp3_file,
+                music_director=music_director,
+                album_cache=album_cache,
+                is_new_or_modified=is_modified,
+                strict_cloud_safety=strict_cloud_safety,
+                telemetry=telemetry
+            )
 
             songs.append(
                 Song(
@@ -71,16 +101,21 @@ def build_album_objects(scanned_data: List[dict]) -> List[Album]:
             )
         )
 
-    # Sort albums alphabetically by name
     albums.sort(key=lambda a: a.name.lower())
-    return albums
+    return albums, telemetry
 
 def main():
     start_time = time.time()
     total_steps = 8
 
+    # Read environment configuration flags
+    use_cache = os.environ.get("GENERATOR_CACHE_MODE", "1") != "0"
+    strict_cloud_safety = os.environ.get("STRICT_CLOUD_SAFETY", "0") == "1" or os.environ.get("CLOUD_MODE", "0") == "1"
+
     print("=====================================================")
-    print(" Tunezy Metadata Generator v2.0.0")
+    print(f" Tunezy Metadata Generator v2.1.0 (Cache-Aware Mode)")
+    print(f" Cache Reading: {'ENABLED' if use_cache else 'DISABLED'}")
+    print(f" Strict Cloud Safety: {'ACTIVE' if strict_cloud_safety else 'INACTIVE'}")
     print("=====================================================")
 
     # Step 1: Scan
@@ -90,9 +125,25 @@ def main():
 
     # Step 2: Read Metadata & Construct Objects
     log_step(2, total_steps, "Extracting Audio Specs & Metadata")
-    albums = build_album_objects(scanned_data)
+    telemetry = GeneratorTelemetry()
+    try:
+        albums, telemetry = build_album_objects(
+            scanned_data,
+            use_cache=use_cache,
+            strict_cloud_safety=strict_cloud_safety,
+            telemetry=telemetry
+        )
+    except (StrictCloudSafetyViolation, CacheMissError, CacheInvalidError) as e:
+        log_error(f"Generator Execution Halted: {e}")
+        sys.exit(1)
+
     total_songs = sum(len(a.songs) for a in albums)
     log_info(f"Successfully processed {len(albums)} albums and {total_songs} songs")
+    log_info(
+        f"Telemetry -> Historical Songs: {telemetry.historical_songs_processed}, Cache Hits: {telemetry.cache_hits}, "
+        f"Cache Misses: {telemetry.cache_misses}, Invalid: {telemetry.cache_invalid_records}, "
+        f"New Songs: {telemetry.newly_uploaded_songs}, MP3 Files Opened: {telemetry.actual_mp3_files_opened}"
+    )
 
     # Step 3: Validate
     log_step(3, total_steps, "Running Data Integrity Validation")

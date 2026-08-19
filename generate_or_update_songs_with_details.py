@@ -8,7 +8,7 @@ from mutagen.mp3 import MP3
 from urllib.parse import quote
 
 # Configuration
-BASE_PATH = Path(r"D:\MusicData")
+BASE_PATH = Path(os.environ.get("MUSICDATA_REPOSITORY_ROOT", Path(__file__).resolve().parent))
 METADATA_FILE = BASE_PATH / "MusiDirector_Year.txt"
 JSON_FILE = BASE_PATH / "songs_with_details.json"
 SUPPORTED_IMAGE_EXTS = ['.png', '.jpg', '.jpeg', '.webp']

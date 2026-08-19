@@ -1,0 +1,151 @@
+{
+  "album": {
+    "id": "9cd1e87c16ef",
+    "name": "Lovers Day",
+    "year": 2019,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Lovers Day.png",
+    "songCount": 8
+  },
+  "songs": [
+    {
+      "id": "5919b2be4372",
+      "title": "Anandaley Kannullona",
+      "normalizedTitle": "anandaley kannullona",
+      "trackNumber": 1,
+      "duration": "2:54",
+      "durationSeconds": 174,
+      "audio": "Anandaley Kannullona.mp3",
+      "composer": "Shaan Rahman",
+      "singers": [
+        "Revanth"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3274765
+    },
+    {
+      "id": "38bb7f4f65c0",
+      "title": "Arererey Pilla",
+      "normalizedTitle": "arererey pilla",
+      "trackNumber": 2,
+      "duration": "2:45",
+      "durationSeconds": 165,
+      "audio": "Arererey Pilla.mp3",
+      "composer": "Shaan Rahman",
+      "singers": [
+        "Dinakar & Harini"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3126389
+    },
+    {
+      "id": "4c8fdf6dc532",
+      "title": "Forever Friend",
+      "normalizedTitle": "forever friend",
+      "trackNumber": 3,
+      "duration": "1:44",
+      "durationSeconds": 104,
+      "audio": "Forever Friend.mp3",
+      "composer": "Shaan Rahman",
+      "singers": [
+        "Dhanunjay"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2150454
+    },
+    {
+      "id": "44ccd9750ae9",
+      "title": "Freak Pilla",
+      "normalizedTitle": "freak pilla",
+      "trackNumber": 4,
+      "duration": "3:38",
+      "durationSeconds": 218,
+      "audio": "Freak Pilla.mp3",
+      "composer": "Shaan Rahman",
+      "singers": [
+        "Dinakar",
+        "Neethu Naduvathettu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3977766
+    },
+    {
+      "id": "43fc19f2b218",
+      "title": "Maahiya Bheliyaa",
+      "normalizedTitle": "maahiya bheliyaa",
+      "trackNumber": 5,
+      "duration": "4:11",
+      "durationSeconds": 251,
+      "audio": "Maahiya Bheliyaa.mp3",
+      "composer": "Shaan Rahman",
+      "singers": [
+        "Hemachandra & Sahithi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4504400
+    },
+    {
+      "id": "deee49e18d7d",
+      "title": "Manikya ManiKanthi Puvve",
+      "normalizedTitle": "manikya manikanthi puvve",
+      "trackNumber": 6,
+      "duration": "3:12",
+      "durationSeconds": 192,
+      "audio": "Manikya ManiKanthi Puvve.mp3",
+      "composer": "Shaan Rahman",
+      "singers": [
+        "Anudeep Dev"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3552197
+    },
+    {
+      "id": "e2cd370a1bef",
+      "title": "Pilla Nee Venakaley",
+      "normalizedTitle": "pilla nee venakaley",
+      "trackNumber": 7,
+      "duration": "3:52",
+      "durationSeconds": 232,
+      "audio": "Pilla Nee Venakaley.mp3",
+      "composer": "Shaan Rahman",
+      "singers": [
+        "Sai Charan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4191886
+    },
+    {
+      "id": "8a88c80ae35b",
+      "title": "Velloddey Velloddey",
+      "normalizedTitle": "velloddey velloddey",
+      "trackNumber": 8,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Velloddey Velloddey.mp3",
+      "composer": "Shaan Rahman",
+      "singers": [
+        "Rahul Sipligunj & Hari Gunta"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3677677
+    }
+  ]
+}

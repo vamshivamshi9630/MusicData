@@ -1,10 +1,24 @@
 from pathlib import Path
-from typing import Dict, Tuple, List
+from typing import Dict, Tuple, List, Optional
 from mutagen.mp3 import MP3
 from mutagen.id3 import ID3
 
-def read_audio_info(file_path: Path) -> Dict:
+from generator.cache_reader import (
+    CacheStatus,
+    CacheResult,
+    CacheMissError,
+    CacheInvalidError,
+    StrictCloudSafetyViolation,
+    GeneratorTelemetry,
+    read_song_from_cache
+)
+
+def read_audio_info(file_path: Path, telemetry: Optional[GeneratorTelemetry] = None) -> Dict:
     """Extract audio technical specifications using mutagen.mp3.MP3."""
+    if telemetry:
+        telemetry.actual_mp3_files_opened += 1
+        telemetry.mutagen_reads_performed += 1
+
     try:
         audio = MP3(file_path)
         duration_sec = int(audio.info.length)
@@ -57,3 +71,59 @@ def read_id3_tags(mp3_file: Path, default_composer: str) -> Tuple[List[str], str
         singers = [default_composer]
 
     return singers, composer
+
+def read_song_metadata(
+    album_name: str,
+    mp3_file: Path,
+    music_director: str,
+    album_cache: Optional[Dict] = None,
+    is_new_or_modified: bool = False,
+    strict_cloud_safety: bool = False,
+    telemetry: Optional[GeneratorTelemetry] = None
+) -> Tuple[Dict, List[str], str]:
+    """Cache-aware song metadata extraction."""
+    
+    # Newly uploaded or explicitly modified song -> Must perform actual mutagen read
+    if is_new_or_modified:
+        if telemetry:
+            telemetry.newly_uploaded_songs += 1
+        audio_info = read_audio_info(mp3_file, telemetry=telemetry)
+        singers, composer = read_id3_tags(mp3_file, music_director)
+        return audio_info, singers, composer
+
+    # Historical song -> Attempt cache-first read
+    if telemetry:
+        telemetry.historical_songs_processed += 1
+
+    cache_res = read_song_from_cache(album_cache, album_name, mp3_file)
+
+    if cache_res.status == CacheStatus.HIT:
+        if telemetry:
+            telemetry.cache_hits += 1
+        # NO MP3 FILE OPENED!
+        return cache_res.audio_info, cache_res.id3_tags[0], cache_res.id3_tags[1]
+
+    if cache_res.status == CacheStatus.MISS:
+        if telemetry:
+            telemetry.cache_misses += 1
+        if strict_cloud_safety:
+            raise CacheMissError(f"Strict Cloud Safety Violation: Cache miss for historical song '{album_name}/{mp3_file.name}'. {cache_res.reason}")
+        # Local Mode fallback
+        audio_info = read_audio_info(mp3_file, telemetry=telemetry)
+        singers, composer = read_id3_tags(mp3_file, music_director)
+        return audio_info, singers, composer
+
+    if cache_res.status == CacheStatus.INVALID:
+        if telemetry:
+            telemetry.cache_invalid_records += 1
+        if strict_cloud_safety:
+            raise CacheInvalidError(f"Strict Cloud Safety Violation: Invalid cache record for historical song '{album_name}/{mp3_file.name}'. {cache_res.reason}")
+        # Local Mode fallback
+        audio_info = read_audio_info(mp3_file, telemetry=telemetry)
+        singers, composer = read_id3_tags(mp3_file, music_director)
+        return audio_info, singers, composer
+
+    # Default fallback
+    audio_info = read_audio_info(mp3_file, telemetry=telemetry)
+    singers, composer = read_id3_tags(mp3_file, music_director)
+    return audio_info, singers, composer
