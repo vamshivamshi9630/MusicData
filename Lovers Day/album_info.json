@@ -1,12 +1,8 @@
 {
-    "album": "Lovers Day",
-    "year": 2019,
-    "musicDirector": "Unknown",
-    "genre": "Tollywood Soundtrack",
-    "language": "Telugu",
-    "country": "India",
-    "releaseDate": "2019-02-14",
-    "director": "Unknown",
-    "producer": "Unknown",
-    "banner": "Unknown"
+  "musicDirector": "Unknown",
+  "year": 2019,
+  "genre": "Tollywood Soundtrack",
+  "language": "Telugu",
+  "country": "India",
+  "releaseDate": "2019-02-14"
 }

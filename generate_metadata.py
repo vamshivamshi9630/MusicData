@@ -57,7 +57,7 @@ def build_album_objects(
             song_title = mp3_file.stem
             song_id = get_stable_id(f"{album_name}{mp3_file.name}")
 
-            is_modified = (album_name, mp3_file.name) in modified_songs_set or not use_cache
+            is_modified = album_cache is None or (album_name, mp3_file.name) in modified_songs_set or not use_cache
 
             audio_info, singers, composer = read_song_metadata(
                 album_name=album_name,
