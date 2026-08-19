@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 4,
+  "manifestVersion": 5,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-08-19T15:59:21.936718Z",
+  "generatedAt": "2026-08-19T16:15:02.831754Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 4,
-      "hash": "bae8a240ffd84d49"
+      "version": 5,
+      "hash": "8e4a27d4dca6635b"
     },
     "artists": {
-      "version": 3,
-      "hash": "235d762b7f018de6"
+      "version": 4,
+      "hash": "ed7b085a2bb00c7d"
     },
     "genres": {
-      "version": 3,
-      "hash": "528b9eac11203366"
+      "version": 4,
+      "hash": "4cee230a1832b150"
     },
     "languages": {
-      "version": 3,
-      "hash": "12f02da43fd6d24d"
+      "version": 4,
+      "hash": "0b779026ab6e3dd9"
     },
     "search": {
-      "version": 3,
-      "hash": "a8088e51cdf4b8e3"
+      "version": 4,
+      "hash": "05ccb31a7ec944d5"
     }
   },
   "albums": {
@@ -728,6 +728,12 @@
       "partition": "B",
       "version": 2,
       "hash": "1e696099fe3352a3"
+    },
+    "ff3727276784": {
+      "name": "Bro",
+      "partition": "B",
+      "version": 1,
+      "hash": "54c6123d7ad09ccb"
     },
     "433453e9984c": {
       "name": "Brothers",

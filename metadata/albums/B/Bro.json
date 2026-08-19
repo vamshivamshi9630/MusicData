@@ -1,0 +1,142 @@
+{
+  "album": {
+    "id": "ff3727276784",
+    "name": "Bro",
+    "year": 2023,
+    "musicDirector": "S. Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bro.png",
+    "songCount": 7
+  },
+  "songs": [
+    {
+      "id": "71f2261b6208",
+      "title": "Bro Rap",
+      "normalizedTitle": "bro rap",
+      "trackNumber": 1,
+      "duration": "2:01",
+      "durationSeconds": 121,
+      "audio": "Bro Rap.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Aditya Iyengar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2277231
+    },
+    {
+      "id": "430524fa0f89",
+      "title": "Bro Theme",
+      "normalizedTitle": "bro theme",
+      "trackNumber": 2,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "Bro Theme.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Aditi Bhavaraju",
+        "Aditya Iyengar",
+        "Adviteeya",
+        "Anudeep"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 11508069
+    },
+    {
+      "id": "a474015103fb",
+      "title": "Bro",
+      "normalizedTitle": "bro",
+      "trackNumber": 3,
+      "duration": "2:35",
+      "durationSeconds": 155,
+      "audio": "Bro.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Arun Kaundinyas",
+        "Hymath",
+        "Ritesh G Rao",
+        "Pavan Charan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6546893
+    },
+    {
+      "id": "f7da48eda944",
+      "title": "Its My Time (Rap)",
+      "normalizedTitle": "its my time rap",
+      "trackNumber": 4,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Its My Time (Rap).mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sai Charan Bhaskaruni",
+        "MC Hari"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 12223824
+    },
+    {
+      "id": "2b4dcb00aecd",
+      "title": "Jaanavule",
+      "normalizedTitle": "jaanavule",
+      "trackNumber": 5,
+      "duration": "3:44",
+      "durationSeconds": 224,
+      "audio": "Jaanavule.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S",
+        "K.Pranati"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9298109
+    },
+    {
+      "id": "9466b3fada4e",
+      "title": "Jeevame",
+      "normalizedTitle": "jeevame",
+      "trackNumber": 6,
+      "duration": "6:55",
+      "durationSeconds": 415,
+      "audio": "Jeevame.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Kaala Bhairava"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6980108
+    },
+    {
+      "id": "68f0599d0df2",
+      "title": "My Dear Markandeya",
+      "normalizedTitle": "my dear markandeya",
+      "trackNumber": 7,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "My Dear Markandeya.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Revanth",
+        "Singdha Sharma"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10541037
+    }
+  ]
+}

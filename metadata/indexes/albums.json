@@ -1287,6 +1287,17 @@
     "partition": "B"
   },
   {
+    "id": "ff3727276784",
+    "name": "Bro",
+    "artist": "S. Thaman",
+    "year": 2023,
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bro.png",
+    "songCount": 7,
+    "partition": "B"
+  },
+  {
     "id": "433453e9984c",
     "name": "Brothers",
     "artist": "Harris Jayaraj",
