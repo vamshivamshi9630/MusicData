@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-08-19T16:15:02.831754Z",
+  "generatedAt": "2026-08-20T09:07:46.375485Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 5,
-      "hash": "8e4a27d4dca6635b"
+      "version": 6,
+      "hash": "a640aa8e70de9d86"
     },
     "artists": {
-      "version": 4,
-      "hash": "ed7b085a2bb00c7d"
+      "version": 5,
+      "hash": "26adda035b89e929"
     },
     "genres": {
-      "version": 4,
-      "hash": "4cee230a1832b150"
+      "version": 5,
+      "hash": "7cec92d840de0436"
     },
     "languages": {
-      "version": 4,
-      "hash": "0b779026ab6e3dd9"
+      "version": 5,
+      "hash": "f8177de2923cae6e"
     },
     "search": {
-      "version": 4,
-      "hash": "05ccb31a7ec944d5"
+      "version": 5,
+      "hash": "cbef59179f5a3673"
     }
   },
   "albums": {
@@ -1802,6 +1802,12 @@
       "partition": "K",
       "version": 2,
       "hash": "3bb364917628ac26"
+    },
+    "82f230fbdab1": {
+      "name": "Khaidi No 150",
+      "partition": "K",
+      "version": 1,
+      "hash": "90f13f634147929c"
     },
     "48d129aaa210": {
       "name": "Khaleja",
