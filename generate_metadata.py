@@ -57,7 +57,11 @@ def build_album_objects(
             song_title = mp3_file.stem
             song_id = get_stable_id(f"{album_name}{mp3_file.name}")
 
-            is_modified = album_cache is None or (album_name, mp3_file.name) in modified_songs_set or not use_cache
+            cached_song_names = {s.get("audio") for s in album_cache.get("songs", [])} if album_cache else set()
+            cached_song_ids = {s.get("id") for s in album_cache.get("songs", [])} if album_cache else set()
+            is_in_cache = (mp3_file.name in cached_song_names) or (song_id in cached_song_ids)
+
+            is_modified = album_cache is None or not is_in_cache or (album_name, mp3_file.name) in modified_songs_set or not use_cache
 
             audio_info, singers, composer = read_song_metadata(
                 album_name=album_name,
