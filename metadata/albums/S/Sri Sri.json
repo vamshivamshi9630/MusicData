@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "1cf890e4374d",
+    "name": "Sri Sri",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Sri Sri.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "f39f1ca1d98b",
+      "title": "Bomma Bomma Song",
+      "normalizedTitle": "bomma bomma song",
+      "trackNumber": 1,
+      "duration": "3:17",
+      "durationSeconds": 197,
+      "audio": "Bomma Bomma Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "GV Prakash Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3196511
+    }
+  ]
+}

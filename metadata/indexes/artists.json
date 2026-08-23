@@ -24,10 +24,16 @@
     "albumCount": 2
   },
   {
+    "id": "619aa7109323",
+    "name": "Achu Rajamani, Sam C. S., Suresh Bobbili",
+    "songCount": 2,
+    "albumCount": 1
+  },
+  {
     "id": "442550fd4ad3",
     "name": "Ajay-Atul",
-    "songCount": 6,
-    "albumCount": 1
+    "songCount": 8,
+    "albumCount": 2
   },
   {
     "id": "8a09a8aca63e",
@@ -50,8 +56,8 @@
   {
     "id": "5f17acf75f09",
     "name": "Anirudh Ravichander",
-    "songCount": 65,
-    "albumCount": 10
+    "songCount": 74,
+    "albumCount": 13
   },
   {
     "id": "10481c176191",
@@ -62,8 +68,8 @@
   {
     "id": "2a565fe84da1",
     "name": "Anup Rubens",
-    "songCount": 132,
-    "albumCount": 22
+    "songCount": 138,
+    "albumCount": 23
   },
   {
     "id": "bacf2b855758",
@@ -86,14 +92,14 @@
   {
     "id": "b54c08f6ef54",
     "name": "B. Ajaneesh Loknath",
-    "songCount": 13,
-    "albumCount": 4
+    "songCount": 15,
+    "albumCount": 5
   },
   {
     "id": "7c6831d88e11",
     "name": "Bheems Ceciroleo",
-    "songCount": 30,
-    "albumCount": 6
+    "songCount": 51,
+    "albumCount": 10
   },
   {
     "id": "c80f258fb989",
@@ -104,8 +110,8 @@
   {
     "id": "eab2482f9cee",
     "name": "Chaitan Bharadwaj",
-    "songCount": 20,
-    "albumCount": 3
+    "songCount": 21,
+    "albumCount": 4
   },
   {
     "id": "26cb4acea3c5",
@@ -116,8 +122,8 @@
   {
     "id": "543dd4202186",
     "name": "Chakri",
-    "songCount": 133,
-    "albumCount": 21
+    "songCount": 145,
+    "albumCount": 23
   },
   {
     "id": "b06bcd1fa543",
@@ -128,14 +134,20 @@
   {
     "id": "088c6019a9b9",
     "name": "D. Imman",
-    "songCount": 44,
+    "songCount": 47,
     "albumCount": 8
+  },
+  {
+    "id": "c8646098e328",
+    "name": "Davzand",
+    "songCount": 4,
+    "albumCount": 1
   },
   {
     "id": "2ddbfa3c3847",
     "name": "Devi Sri Prasad",
-    "songCount": 348,
-    "albumCount": 56
+    "songCount": 372,
+    "albumCount": 60
   },
   {
     "id": "3c4b5f95ecae",
@@ -146,8 +158,8 @@
   {
     "id": "aa497c77fda2",
     "name": "G. V. Prakash Kumar",
-    "songCount": 85,
-    "albumCount": 20
+    "songCount": 95,
+    "albumCount": 24
   },
   {
     "id": "207e81875bb2",
@@ -168,10 +180,16 @@
     "albumCount": 4
   },
   {
+    "id": "8d42210ba914",
+    "name": "Ghibran Vaibodha",
+    "songCount": 3,
+    "albumCount": 1
+  },
+  {
     "id": "1e6e9efdd7d2",
     "name": "Gopi Sundar",
-    "songCount": 69,
-    "albumCount": 13
+    "songCount": 76,
+    "albumCount": 14
   },
   {
     "id": "7611f0669414",
@@ -200,8 +218,8 @@
   {
     "id": "ed79f39774cd",
     "name": "Harris Jayaraj",
-    "songCount": 49,
-    "albumCount": 9
+    "songCount": 66,
+    "albumCount": 12
   },
   {
     "id": "5be31a3cf6e1",
@@ -218,8 +236,8 @@
   {
     "id": "f52fb89749cd",
     "name": "Hiphop Tamizha",
-    "songCount": 19,
-    "albumCount": 4
+    "songCount": 24,
+    "albumCount": 5
   },
   {
     "id": "c98772cd8a34",
@@ -296,8 +314,8 @@
   {
     "id": "f18525d23d7e",
     "name": "Kaala Bhairava",
-    "songCount": 8,
-    "albumCount": 2
+    "songCount": 15,
+    "albumCount": 3
   },
   {
     "id": "b8b284842e31",
@@ -308,8 +326,8 @@
   {
     "id": "1ec31ae97ef3",
     "name": "Kalyani Malik",
-    "songCount": 19,
-    "albumCount": 3
+    "songCount": 23,
+    "albumCount": 4
   },
   {
     "id": "0919aa328c22",
@@ -342,10 +360,16 @@
     "albumCount": 11
   },
   {
+    "id": "5f2abda8c239",
+    "name": "Leon James",
+    "songCount": 4,
+    "albumCount": 1
+  },
+  {
     "id": "c99a118ccc37",
     "name": "M. M. Keeravani",
-    "songCount": 174,
-    "albumCount": 27
+    "songCount": 178,
+    "albumCount": 28
   },
   {
     "id": "a65750063105",
@@ -372,10 +396,16 @@
     "albumCount": 4
   },
   {
+    "id": "5cb07576c353",
+    "name": "Mahesh Shankar",
+    "songCount": 8,
+    "albumCount": 1
+  },
+  {
     "id": "d1d7a0f2bb12",
     "name": "Mani Sharma",
-    "songCount": 276,
-    "albumCount": 46
+    "songCount": 305,
+    "albumCount": 51
   },
   {
     "id": "dade117ffc50",
@@ -386,8 +416,8 @@
   {
     "id": "4246e9d95f70",
     "name": "Mickey J. Meyer",
-    "songCount": 64,
-    "albumCount": 12
+    "songCount": 79,
+    "albumCount": 14
   },
   {
     "id": "fc54d2104c1b",
@@ -438,6 +468,12 @@
     "albumCount": 1
   },
   {
+    "id": "433f39ba4793",
+    "name": "Praveen Lakkaraju",
+    "songCount": 3,
+    "albumCount": 1
+  },
+  {
     "id": "aed7e180c68c",
     "name": "Pritam",
     "songCount": 8,
@@ -452,8 +488,8 @@
   {
     "id": "da01d4c165a2",
     "name": "R. P. Patnaik",
-    "songCount": 57,
-    "albumCount": 7
+    "songCount": 70,
+    "albumCount": 9
   },
   {
     "id": "3544fe50bf78",
@@ -464,8 +500,8 @@
   {
     "id": "81dcaa1727cf",
     "name": "Radhan",
-    "songCount": 34,
-    "albumCount": 5
+    "songCount": 37,
+    "albumCount": 6
   },
   {
     "id": "58b6d9d5b950",
@@ -477,6 +513,12 @@
     "id": "edad13ec43cb",
     "name": "Raghu Kunche",
     "songCount": 6,
+    "albumCount": 1
+  },
+  {
+    "id": "9f595931a2b7",
+    "name": "Rahul Raj",
+    "songCount": 7,
     "albumCount": 1
   },
   {
@@ -494,12 +536,24 @@
   {
     "id": "1eb3daa61e0d",
     "name": "Ramana Gogula",
-    "songCount": 18,
-    "albumCount": 3
+    "songCount": 36,
+    "albumCount": 5
+  },
+  {
+    "id": "29bb5593b181",
+    "name": "Ramesh Mukkera",
+    "songCount": 5,
+    "albumCount": 1
   },
   {
     "id": "3b9df17b37d6",
     "name": "Ramprakash Rayappa",
+    "songCount": 5,
+    "albumCount": 1
+  },
+  {
+    "id": "b3eb2acc8991",
+    "name": "Rap Rock Shakeel",
     "songCount": 5,
     "albumCount": 1
   },
@@ -536,7 +590,7 @@
   {
     "id": "99df7de51574",
     "name": "S. Thaman",
-    "songCount": 107,
+    "songCount": 106,
     "albumCount": 19
   },
   {
@@ -544,6 +598,12 @@
     "name": "S. V. Krishna Reddy",
     "songCount": 10,
     "albumCount": 1
+  },
+  {
+    "id": "bb261651c59d",
+    "name": "Sai Abhyankkar",
+    "songCount": 9,
+    "albumCount": 2
   },
   {
     "id": "442cdd305689",
@@ -566,8 +626,8 @@
   {
     "id": "09928374fe8c",
     "name": "Santhosh Narayanan",
-    "songCount": 25,
-    "albumCount": 4
+    "songCount": 28,
+    "albumCount": 5
   },
   {
     "id": "62f7ef7eee71",
@@ -636,16 +696,28 @@
     "albumCount": 1
   },
   {
+    "id": "8ec7a042f823",
+    "name": "Sinjith Yerramilli",
+    "songCount": 6,
+    "albumCount": 1
+  },
+  {
     "id": "ef36e4a08499",
     "name": "Sirpy",
     "songCount": 5,
     "albumCount": 1
   },
   {
+    "id": "18965a1448b4",
+    "name": "Sri Koti",
+    "songCount": 5,
+    "albumCount": 1
+  },
+  {
     "id": "0aef750c3e9f",
     "name": "Sricharan Pakala",
-    "songCount": 25,
-    "albumCount": 7
+    "songCount": 28,
+    "albumCount": 8
   },
   {
     "id": "667eefb9b553",
@@ -674,8 +746,8 @@
   {
     "id": "5158aca457d4",
     "name": "Suresh Bobbili",
-    "songCount": 7,
-    "albumCount": 1
+    "songCount": 9,
+    "albumCount": 2
   },
   {
     "id": "cdb4933c68f2",
@@ -684,16 +756,22 @@
     "albumCount": 1
   },
   {
+    "id": "d319b007272e",
+    "name": "Sweekar Agasthi",
+    "songCount": 6,
+    "albumCount": 1
+  },
+  {
     "id": "5704e6b286f0",
     "name": "Thaman S",
-    "songCount": 107,
-    "albumCount": 22
+    "songCount": 154,
+    "albumCount": 30
   },
   {
     "id": "b23a6a8439c0",
     "name": "Unknown",
-    "songCount": 845,
-    "albumCount": 79
+    "songCount": 618,
+    "albumCount": 47
   },
   {
     "id": "10cb3776f9bf",
@@ -710,20 +788,20 @@
   {
     "id": "52a7427a9de5",
     "name": "Various Artists",
-    "songCount": 149,
-    "albumCount": 42
+    "songCount": 70,
+    "albumCount": 14
   },
   {
     "id": "938813d97bae",
     "name": "Vidyasagar",
-    "songCount": 6,
-    "albumCount": 1
+    "songCount": 12,
+    "albumCount": 2
   },
   {
     "id": "2106d096f036",
     "name": "Vijai Bulganin",
-    "songCount": 8,
-    "albumCount": 1
+    "songCount": 11,
+    "albumCount": 2
   },
   {
     "id": "fb182c8e1086",
@@ -734,8 +812,8 @@
   {
     "id": "d13599bebc59",
     "name": "Vishal Chandrashekhar",
-    "songCount": 17,
-    "albumCount": 2
+    "songCount": 23,
+    "albumCount": 3
   },
   {
     "id": "72afed8a8fd0",
@@ -746,13 +824,19 @@
   {
     "id": "3da0219dfdbf",
     "name": "Vivek Sagar",
-    "songCount": 19,
-    "albumCount": 4
+    "songCount": 28,
+    "albumCount": 6
+  },
+  {
+    "id": "240d1a8745a1",
+    "name": "Vivek-Mervin",
+    "songCount": 8,
+    "albumCount": 1
   },
   {
     "id": "b973b8a09ecf",
     "name": "Yuvan Shankar Raja",
-    "songCount": 83,
-    "albumCount": 15
+    "songCount": 84,
+    "albumCount": 16
   }
 ]

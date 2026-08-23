@@ -2,19 +2,36 @@
   "album": {
     "id": "0951caa80b94",
     "name": "Lenin",
-    "year": 2026,
+    "year": 2020,
     "musicDirector": "Various Artists",
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Lenin.png",
-    "songCount": 4
+    "songCount": 7
   },
   "songs": [
+    {
+      "id": "5d01ba81675a",
+      "title": "Bangaram Song",
+      "normalizedTitle": "bangaram song",
+      "trackNumber": 1,
+      "duration": "1:36",
+      "durationSeconds": 96,
+      "audio": "Bangaram Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Akhil Akkineni"
+      ],
+      "bitrate": 132356,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1950330
+    },
     {
       "id": "e9a6535564a0",
       "title": "Jaya Mangalam Song",
       "normalizedTitle": "jaya mangalam song",
-      "trackNumber": 1,
+      "trackNumber": 2,
       "duration": "3:27",
       "durationSeconds": 207,
       "audio": "Jaya Mangalam Song.mp3",
@@ -30,10 +47,44 @@
       "fileSize": 3677985
     },
     {
+      "id": "66dafffadf97",
+      "title": "Raavanaa Sandanaala Song",
+      "normalizedTitle": "raavanaa sandanaala song",
+      "trackNumber": 3,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Raavanaa Sandanaala Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Kareemullah"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8949949
+    },
+    {
+      "id": "cb0776c276b0",
+      "title": "Sonthamalle Song",
+      "normalizedTitle": "sonthamalle song",
+      "trackNumber": 4,
+      "duration": "2:12",
+      "durationSeconds": 132,
+      "audio": "Sonthamalle Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Dheeraj D"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5628219
+    },
+    {
       "id": "455938ee195c",
       "title": "Soul of Lenin Song",
       "normalizedTitle": "soul of lenin song",
-      "trackNumber": 2,
+      "trackNumber": 5,
       "duration": "2:20",
       "durationSeconds": 140,
       "audio": "Soul of Lenin Song.mp3",
@@ -51,7 +102,7 @@
       "id": "65066903c107",
       "title": "Vaa Re Vaa Vaa Re Vaa Song",
       "normalizedTitle": "vaa re vaa vaa re vaa song",
-      "trackNumber": 3,
+      "trackNumber": 6,
       "duration": "3:08",
       "durationSeconds": 188,
       "audio": "Vaa Re Vaa Vaa Re Vaa Song.mp3",
@@ -69,7 +120,7 @@
       "id": "92a44a948666",
       "title": "Yetta Yetta Song",
       "normalizedTitle": "yetta yetta song",
-      "trackNumber": 4,
+      "trackNumber": 7,
       "duration": "3:25",
       "durationSeconds": 205,
       "audio": "Yetta Yetta Song.mp3",

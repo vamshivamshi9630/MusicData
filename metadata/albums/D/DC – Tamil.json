@@ -1,0 +1,278 @@
+{
+  "album": {
+    "id": "2c76a9482ff6",
+    "name": "DC – Tamil",
+    "year": 2025,
+    "musicDirector": "Various Artists",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "DC – Tamil.png",
+    "songCount": 15
+  },
+  "songs": [
+    {
+      "id": "0bd2bb730db8",
+      "title": "Aln’t Nobody Song",
+      "normalizedTitle": "alnt nobody song",
+      "trackNumber": 1,
+      "duration": "2:42",
+      "durationSeconds": 162,
+      "audio": "Aln’t Nobody Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Heisenberg",
+        "Ram Kumar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2833877
+    },
+    {
+      "id": "1e7be2729eb0",
+      "title": "Bloody Valentine Song",
+      "normalizedTitle": "bloody valentine song",
+      "trackNumber": 2,
+      "duration": "1:41",
+      "durationSeconds": 101,
+      "audio": "Bloody Valentine Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1858774
+    },
+    {
+      "id": "39f757e5f9a0",
+      "title": "Bum Baa Diga Diga Song",
+      "normalizedTitle": "bum baa diga diga song",
+      "trackNumber": 3,
+      "duration": "3:25",
+      "durationSeconds": 205,
+      "audio": "Bum Baa Diga Diga Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Vedan",
+        "Heisenberg"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3521003
+    },
+    {
+      "id": "08435bce2b45",
+      "title": "Das and Parvathi Song",
+      "normalizedTitle": "das and parvathi song",
+      "trackNumber": 4,
+      "duration": "3:01",
+      "durationSeconds": 181,
+      "audio": "Das and Parvathi Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3140655
+    },
+    {
+      "id": "74c6c8784435",
+      "title": "Don’t Give a Damn Song",
+      "normalizedTitle": "dont give a damn song",
+      "trackNumber": 5,
+      "duration": "3:05",
+      "durationSeconds": 185,
+      "audio": "Don’t Give a Damn Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Heisenberg"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3191644
+    },
+    {
+      "id": "3dfd2c9b2ded",
+      "title": "Echoes of DC Song",
+      "normalizedTitle": "echoes of dc song",
+      "trackNumber": 6,
+      "duration": "2:50",
+      "durationSeconds": 170,
+      "audio": "Echoes of DC Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2955495
+    },
+    {
+      "id": "0535f4466732",
+      "title": "Hangova Song",
+      "normalizedTitle": "hangova song",
+      "trackNumber": 7,
+      "duration": "4:07",
+      "durationSeconds": 247,
+      "audio": "Hangova Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Heisenberg"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4194736
+    },
+    {
+      "id": "68586767f4df",
+      "title": "Jaya Jaya Shankara Song",
+      "normalizedTitle": "jaya jaya shankara song",
+      "trackNumber": 8,
+      "duration": "2:57",
+      "durationSeconds": 177,
+      "audio": "Jaya Jaya Shankara Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3069171
+    },
+    {
+      "id": "957868946a1a",
+      "title": "Malayla Song",
+      "normalizedTitle": "malayla song",
+      "trackNumber": 9,
+      "duration": "2:17",
+      "durationSeconds": 137,
+      "audio": "Malayla Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2434280
+    },
+    {
+      "id": "544e60fce83d",
+      "title": "Namaste Song",
+      "normalizedTitle": "namaste song",
+      "trackNumber": 10,
+      "duration": "2:30",
+      "durationSeconds": 150,
+      "audio": "Namaste Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2632393
+    },
+    {
+      "id": "690f0f622bef",
+      "title": "Raga of Madness Song",
+      "normalizedTitle": "raga of madness song",
+      "trackNumber": 11,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Raga of Madness Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Vishal Mishra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3411492
+    },
+    {
+      "id": "ebba0e928d48",
+      "title": "Raga of Revenge Song",
+      "normalizedTitle": "raga of revenge song",
+      "trackNumber": 12,
+      "duration": "2:11",
+      "durationSeconds": 131,
+      "audio": "Raga of Revenge Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128154,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2333976
+    },
+    {
+      "id": "47ef101c9ae8",
+      "title": "Thaalam Trip Song",
+      "normalizedTitle": "thaalam trip song",
+      "trackNumber": 13,
+      "duration": "2:20",
+      "durationSeconds": 140,
+      "audio": "Thaalam Trip Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Shivapriya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2482795
+    },
+    {
+      "id": "b35295bb57c2",
+      "title": "The Rose Song",
+      "normalizedTitle": "the rose song",
+      "trackNumber": 14,
+      "duration": "2:14",
+      "durationSeconds": 134,
+      "audio": "The Rose Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2379126
+    },
+    {
+      "id": "3df6c6c35d48",
+      "title": "Vizhigale Song",
+      "normalizedTitle": "vizhigale song",
+      "trackNumber": 15,
+      "duration": "1:56",
+      "durationSeconds": 116,
+      "audio": "Vizhigale Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Heisenberg"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2099927
+    }
+  ]
+}

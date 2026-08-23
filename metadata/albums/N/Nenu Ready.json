@@ -1,0 +1,67 @@
+{
+  "album": {
+    "id": "a33e2fd92c8f",
+    "name": "Nenu Ready",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Nenu Ready.png",
+    "songCount": 3
+  },
+  "songs": [
+    {
+      "id": "406b057df293",
+      "title": "Konchem Konchem Song",
+      "normalizedTitle": "konchem konchem song",
+      "trackNumber": 1,
+      "duration": "3:22",
+      "durationSeconds": 202,
+      "audio": "Konchem Konchem Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Sameera Bharadwaj"
+      ],
+      "bitrate": 136930,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3521173
+    },
+    {
+      "id": "1ba5dc5898ce",
+      "title": "Masthugundira Yavvaram Song",
+      "normalizedTitle": "masthugundira yavvaram song",
+      "trackNumber": 2,
+      "duration": "3:12",
+      "durationSeconds": 192,
+      "audio": "Masthugundira Yavvaram Song.mp3",
+      "composer": "Havish, Kavya Thapar",
+      "singers": [
+        "Anurag Kulkarni",
+        "Manisha Erabathini"
+      ],
+      "bitrate": 136351,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3517071
+    },
+    {
+      "id": "311c4ea7fe1f",
+      "title": "Merupule Merupule Song",
+      "normalizedTitle": "merupule merupule song",
+      "trackNumber": 3,
+      "duration": "3:58",
+      "durationSeconds": 238,
+      "audio": "Merupule Merupule Song.mp3",
+      "composer": "Mickey J Meyer",
+      "singers": [
+        "Ritesh G Rao",
+        "Lakshmi Meghana"
+      ],
+      "bitrate": 131230,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3968052
+    }
+  ]
+}

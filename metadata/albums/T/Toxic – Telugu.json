@@ -1,0 +1,48 @@
+{
+  "album": {
+    "id": "00e62297f6f2",
+    "name": "Toxic – Telugu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Toxic – Telugu.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "63bfedf5c432",
+      "title": "Manasaagadhe Song",
+      "normalizedTitle": "manasaagadhe song",
+      "trackNumber": 1,
+      "duration": "3:15",
+      "durationSeconds": 195,
+      "audio": "Manasaagadhe Song.mp3",
+      "composer": "Ravi Basrur",
+      "singers": [
+        "Siddarth Basrur"
+      ],
+      "bitrate": 126805,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3386213
+    },
+    {
+      "id": "dda418f4d4db",
+      "title": "Tabaahi Song",
+      "normalizedTitle": "tabaahi song",
+      "trackNumber": 2,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Tabaahi Song.mp3",
+      "composer": "Ravi Basrur",
+      "singers": [
+        "Vishal Mishra"
+      ],
+      "bitrate": 125576,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4473612
+    }
+  ]
+}

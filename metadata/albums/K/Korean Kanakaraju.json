@@ -3,11 +3,11 @@
     "id": "9b42e3fee773",
     "name": "Korean Kanakaraju",
     "year": 2026,
-    "musicDirector": "Various Artists",
+    "musicDirector": "Thaman S",
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Korean Kanakaraju.png",
-    "songCount": 1
+    "songCount": 5
   },
   "songs": [
     {
@@ -26,6 +26,75 @@
       "sampleRate": 44100,
       "channels": 2,
       "fileSize": 3777031
+    },
+    {
+      "id": "cb4ec48793ef",
+      "title": "Neowa Hummke Ya Song",
+      "normalizedTitle": "neowa hummke ya song",
+      "trackNumber": 2,
+      "duration": "3:29",
+      "durationSeconds": 209,
+      "audio": "Neowa Hummke Ya Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Sruthi Ranjani",
+        "D Dheeraj"
+      ],
+      "bitrate": 192000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 5360704
+    },
+    {
+      "id": "6214a853852b",
+      "title": "Rasaa Gummadi Song",
+      "normalizedTitle": "rasaa gummadi song",
+      "trackNumber": 3,
+      "duration": "3:57",
+      "durationSeconds": 237,
+      "audio": "Rasaa Gummadi Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Nalgonda Gaddar Narsanna"
+      ],
+      "bitrate": 136738,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4379989
+    },
+    {
+      "id": "49761aaec541",
+      "title": "The Possession Theme Song",
+      "normalizedTitle": "the possession theme song",
+      "trackNumber": 4,
+      "duration": "9:02",
+      "durationSeconds": 542,
+      "audio": "The Possession Theme Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S"
+      ],
+      "bitrate": 135872,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9547176
+    },
+    {
+      "id": "6a0376209471",
+      "title": "Wrath of Bhairava Song",
+      "normalizedTitle": "wrath of bhairava song",
+      "trackNumber": 5,
+      "duration": "1:13",
+      "durationSeconds": 73,
+      "audio": "Wrath of Bhairava Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1493348
     }
   ]
 }

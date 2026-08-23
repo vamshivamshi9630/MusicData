@@ -2,12 +2,12 @@
   "album": {
     "id": "41f491459b6c",
     "name": "Irumudi",
-    "year": 2026,
+    "year": 2025,
     "musicDirector": "D. Imman",
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Irumudi.png",
-    "songCount": 1
+    "songCount": 4
   },
   "songs": [
     {
@@ -26,6 +26,58 @@
       "sampleRate": 44100,
       "channels": 2,
       "fileSize": 4790576
+    },
+    {
+      "id": "fd8d1d879635",
+      "title": "Karthika Maasam Song",
+      "normalizedTitle": "karthika maasam song",
+      "trackNumber": 2,
+      "duration": "4:04",
+      "durationSeconds": 244,
+      "audio": "Karthika Maasam Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "GV Prakash Kumar"
+      ],
+      "bitrate": 138066,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4586826
+    },
+    {
+      "id": "3063df899522",
+      "title": "Mallepoola Pallaki Song",
+      "normalizedTitle": "mallepoola pallaki song",
+      "trackNumber": 3,
+      "duration": "3:12",
+      "durationSeconds": 192,
+      "audio": "Mallepoola Pallaki Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Dappu Srinu"
+      ],
+      "bitrate": 127225,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3427118
+    },
+    {
+      "id": "4795d8d04dae",
+      "title": "Yaalalo Yaalalo Song",
+      "normalizedTitle": "yaalalo yaalalo song",
+      "trackNumber": 4,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Yaalalo Yaalalo Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Hesham Abdul Wahab",
+        "Sadhika KR"
+      ],
+      "bitrate": 128865,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1155072
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "45a17ed82907",
+    "name": "Jailer 2 – Telugu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jailer 2 – Telugu.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "cb5d118e2c2a",
+      "title": "Ala Bolelo Song",
+      "normalizedTitle": "ala bolelo song",
+      "trackNumber": 1,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Ala Bolelo Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 133659,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4172683
+    }
+  ]
+}

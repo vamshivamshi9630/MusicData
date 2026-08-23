@@ -3,18 +3,52 @@
     "id": "16bb1ecec743",
     "name": "Vishwanath And Sons",
     "year": 2026,
-    "musicDirector": "Various Artists",
+    "musicDirector": "G. V. Prakash Kumar",
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Vishwanath And Sons.png",
-    "songCount": 1
+    "songCount": 5
   },
   "songs": [
+    {
+      "id": "ab4266997487",
+      "title": "Devaki Nandana Song",
+      "normalizedTitle": "devaki nandana song",
+      "trackNumber": 1,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Devaki Nandana Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "G. V. Prakash"
+      ],
+      "bitrate": 125465,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3732687
+    },
+    {
+      "id": "cc51f4f651c8",
+      "title": "Kalale Kalale Song",
+      "normalizedTitle": "kalale kalale song",
+      "trackNumber": 2,
+      "duration": "3:26",
+      "durationSeconds": 206,
+      "audio": "Kalale Kalale Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "G. V. Prakash"
+      ],
+      "bitrate": 127519,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3446824
+    },
     {
       "id": "f72c1d3002b9",
       "title": "Neno Butterfly Song",
       "normalizedTitle": "neno butterfly song",
-      "trackNumber": 1,
+      "trackNumber": 3,
       "duration": "3:24",
       "durationSeconds": 204,
       "audio": "Neno Butterfly Song.mp3",
@@ -26,6 +60,40 @@
       "sampleRate": 44100,
       "channels": 2,
       "fileSize": 4057721
+    },
+    {
+      "id": "dbc35fdc2088",
+      "title": "The One Rule Song",
+      "normalizedTitle": "the one rule song",
+      "trackNumber": 4,
+      "duration": "2:49",
+      "durationSeconds": 169,
+      "audio": "The One Rule Song.mp3",
+      "composer": "Various Artists",
+      "singers": [
+        "G. V. Prakash"
+      ],
+      "bitrate": 117929,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2725251
+    },
+    {
+      "id": "fbdd00b2be08",
+      "title": "The Wedding Song",
+      "normalizedTitle": "the wedding song",
+      "trackNumber": 5,
+      "duration": "3:41",
+      "durationSeconds": 221,
+      "audio": "The Wedding Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Surya"
+      ],
+      "bitrate": 123801,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3712968
     }
   ]
 }

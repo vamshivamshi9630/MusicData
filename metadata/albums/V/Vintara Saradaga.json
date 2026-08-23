@@ -2,12 +2,12 @@
   "album": {
     "id": "3e0bada7be1b",
     "name": "Vintara Saradaga",
-    "year": 2026,
+    "year": 2025,
     "musicDirector": "M. M. Keeravani",
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Vintara Saradaga.png",
-    "songCount": 1
+    "songCount": 2
   },
   "songs": [
     {
@@ -26,6 +26,24 @@
       "sampleRate": 44100,
       "channels": 2,
       "fileSize": 4068030
+    },
+    {
+      "id": "c6984e5c01f8",
+      "title": "Chingari Song",
+      "normalizedTitle": "chingari song",
+      "trackNumber": 2,
+      "duration": "4:13",
+      "durationSeconds": 253,
+      "audio": "Chingari Song.mp3",
+      "composer": "Vijai Bulganin",
+      "singers": [
+        "Sid Sriram",
+        "Lipsika Bhashyam"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4409979
     }
   ]
 }

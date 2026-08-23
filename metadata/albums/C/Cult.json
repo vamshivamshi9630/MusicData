@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "c4f3ec4655d8",
+    "name": "Cult",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Cult.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "af83bbf5bc0d",
+      "title": "He is My Dosthi Song",
+      "normalizedTitle": "he is my dosthi song",
+      "trackNumber": 1,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "He is My Dosthi Song.mp3",
+      "composer": "Ravi Basrur",
+      "singers": [
+        "Karthik"
+      ],
+      "bitrate": 124204,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4228936
+    }
+  ]
+}

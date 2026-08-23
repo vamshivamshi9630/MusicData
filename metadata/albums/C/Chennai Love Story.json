@@ -2,19 +2,53 @@
   "album": {
     "id": "1f33c372a8fa",
     "name": "Chennai Love Story",
-    "year": 2026,
+    "year": 2025,
     "musicDirector": "Mickey J. Meyer",
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Chennai Love Story.png",
-    "songCount": 4
+    "songCount": 7
   },
   "songs": [
+    {
+      "id": "cb2be13191fa",
+      "title": "Chennai Chennai Song",
+      "normalizedTitle": "chennai chennai song",
+      "trackNumber": 1,
+      "duration": "2:48",
+      "durationSeconds": 168,
+      "audio": "Chennai Chennai Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Aditya Lyengar"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2995644
+    },
+    {
+      "id": "08f36b571c24",
+      "title": "Chirunavvulo Song",
+      "normalizedTitle": "chirunavvulo song",
+      "trackNumber": 2,
+      "duration": "2:53",
+      "durationSeconds": 173,
+      "audio": "Chirunavvulo Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "P V N S Rohit"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3082581
+    },
     {
       "id": "b4a3a2e7309a",
       "title": "Guruthundhaa Song",
       "normalizedTitle": "guruthundhaa song",
-      "trackNumber": 1,
+      "trackNumber": 3,
       "duration": "5:28",
       "durationSeconds": 328,
       "audio": "Guruthundhaa Song.mp3",
@@ -32,7 +66,7 @@
       "id": "90a7b3ba770f",
       "title": "Hoyila Hoyila Song",
       "normalizedTitle": "hoyila hoyila song",
-      "trackNumber": 2,
+      "trackNumber": 4,
       "duration": "4:06",
       "durationSeconds": 246,
       "audio": "Hoyila Hoyila Song.mp3",
@@ -50,7 +84,7 @@
       "id": "4275942a5521",
       "title": "Jigithara Song",
       "normalizedTitle": "jigithara song",
-      "trackNumber": 3,
+      "trackNumber": 5,
       "duration": "4:15",
       "durationSeconds": 255,
       "audio": "Jigithara Song.mp3",
@@ -64,10 +98,27 @@
       "fileSize": 4437308
     },
     {
+      "id": "36b5d351f3bd",
+      "title": "Namminchi Chesava Mosam Song",
+      "normalizedTitle": "namminchi chesava mosam song",
+      "trackNumber": 6,
+      "duration": "4:28",
+      "durationSeconds": 268,
+      "audio": "Namminchi Chesava Mosam Song.mp3",
+      "composer": "Mani Sharma",
+      "singers": [
+        "Sruthika Samudrala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4603952
+    },
+    {
       "id": "edb243b8fa7f",
       "title": "Vadhalane Song",
       "normalizedTitle": "vadhalane song",
-      "trackNumber": 4,
+      "trackNumber": 7,
       "duration": "5:33",
       "durationSeconds": 333,
       "audio": "Vadhalane Song.mp3",

@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "28d7ddcf559e",
+    "name": "Aakasamlo Oka Tara",
+    "year": 2026,
+    "musicDirector": "G. V. Prakash Kumar",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Aakasamlo Oka Tara.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "7b6cc5720f6b",
+      "title": "Chitti Chitti Cheema Song",
+      "normalizedTitle": "chitti chitti cheema song",
+      "trackNumber": 1,
+      "duration": "4:44",
+      "durationSeconds": 284,
+      "audio": "Chitti Chitti Cheema Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Ramya Behara"
+      ],
+      "bitrate": 125032,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4711793
+    }
+  ]
+}

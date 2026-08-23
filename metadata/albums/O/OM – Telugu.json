@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "abd30b2c5a3f",
+    "name": "OM – Telugu",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "OM – Telugu.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "d50eb55098fd",
+      "title": "Alaakaa Loova Song",
+      "normalizedTitle": "alaakaa loova song",
+      "trackNumber": 1,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Alaakaa Loova Song.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Ram Miriyala",
+        "Arun Koundinya"
+      ],
+      "bitrate": 126709,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3708313
+    }
+  ]
+}

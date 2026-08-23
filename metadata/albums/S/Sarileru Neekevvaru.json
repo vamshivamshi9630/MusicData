@@ -1,0 +1,119 @@
+{
+  "album": {
+    "id": "c5e84a1738b4",
+    "name": "Sarileru Neekevvaru",
+    "year": 2020,
+    "musicDirector": "Devi Sri Prasad",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Peddi Reddy Song.png",
+    "songCount": 6
+  },
+  "songs": [
+    {
+      "id": "c1a0f9437934",
+      "title": "Daang Daang  Song",
+      "normalizedTitle": "daang daang song",
+      "trackNumber": 1,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Daang Daang  Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Nakash Aziz",
+        "Lavita Lobo"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4141834
+    },
+    {
+      "id": "47a64f0b165a",
+      "title": "He Is So Cute Song",
+      "normalizedTitle": "he is so cute song",
+      "trackNumber": 2,
+      "duration": "3:30",
+      "durationSeconds": 210,
+      "audio": "He Is So Cute Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Madhu Priya"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3662473
+    },
+    {
+      "id": "83fae7e5c3d4",
+      "title": "Mind Block Song",
+      "normalizedTitle": "mind block song",
+      "trackNumber": 3,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Mind Block Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Blaaze",
+        "Ranina Reddy",
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4592640
+    },
+    {
+      "id": "97d5262605ef",
+      "title": "Sarileru Neekevvaru Anthem Song",
+      "normalizedTitle": "sarileru neekevvaru anthem song",
+      "trackNumber": 4,
+      "duration": "4:31",
+      "durationSeconds": 271,
+      "audio": "Sarileru Neekevvaru Anthem Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4407933
+    },
+    {
+      "id": "3d9f4e7b9c2d",
+      "title": "Sarileru Neekevvaru Title Song",
+      "normalizedTitle": "sarileru neekevvaru title song",
+      "trackNumber": 5,
+      "duration": "2:30",
+      "durationSeconds": 150,
+      "audio": "Sarileru Neekevvaru Title Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "Devi Sri Prasad"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2462053
+    },
+    {
+      "id": "05fc81665d26",
+      "title": "Suryudivo Chandrudivo Song",
+      "normalizedTitle": "suryudivo chandrudivo song",
+      "trackNumber": 6,
+      "duration": "4:32",
+      "durationSeconds": 272,
+      "audio": "Suryudivo Chandrudivo Song.mp3",
+      "composer": "Devi Sri Prasad",
+      "singers": [
+        "B Praak"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4728192
+    }
+  ]
+}

@@ -2,12 +2,12 @@
   "album": {
     "id": "ec6e512c0d77",
     "name": "Srinivasa Mangapuram",
-    "year": 2026,
+    "year": 2025,
     "musicDirector": "Various Artists",
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Srinivasa Mangapuram.png",
-    "songCount": 3
+    "songCount": 6
   },
   "songs": [
     {
@@ -61,6 +61,57 @@
       "sampleRate": 44100,
       "channels": 2,
       "fileSize": 3399799
+    },
+    {
+      "id": "bc74665e6a93",
+      "title": "Raave Cheliya Song",
+      "normalizedTitle": "raave cheliya song",
+      "trackNumber": 4,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Raave Cheliya Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Kapil Kapilan"
+      ],
+      "bitrate": 125832,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3805379
+    },
+    {
+      "id": "ad1a030f48f2",
+      "title": "Ukkiri Bikkiri Song",
+      "normalizedTitle": "ukkiri bikkiri song",
+      "trackNumber": 5,
+      "duration": "5:10",
+      "durationSeconds": 310,
+      "audio": "Ukkiri Bikkiri Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Haricharan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5329797
+    },
+    {
+      "id": "816d3d2c8df4",
+      "title": "Vellamaake Song",
+      "normalizedTitle": "vellamaake song",
+      "trackNumber": 6,
+      "duration": "5:03",
+      "durationSeconds": 303,
+      "audio": "Vellamaake Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 133658,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5267738
     }
   ]
 }

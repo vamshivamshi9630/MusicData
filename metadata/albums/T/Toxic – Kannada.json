@@ -1,0 +1,48 @@
+{
+  "album": {
+    "id": "2ef6c44f7363",
+    "name": "Toxic – Kannada",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Toxic – Kannada.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "dda92452ac7c",
+      "title": "Manamohaka Song",
+      "normalizedTitle": "manamohaka song",
+      "trackNumber": 1,
+      "duration": "4:05",
+      "durationSeconds": 245,
+      "audio": "Manamohaka Song.mp3",
+      "composer": "Ravi Basrur",
+      "singers": [
+        "Siddarth Basrur"
+      ],
+      "bitrate": 127927,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4222281
+    },
+    {
+      "id": "17f97e843feb",
+      "title": "Tabaahi Song",
+      "normalizedTitle": "tabaahi song",
+      "trackNumber": 2,
+      "duration": "4:26",
+      "durationSeconds": 266,
+      "audio": "Tabaahi Song.mp3",
+      "composer": "Ravi Basrur",
+      "singers": [
+        "Vishal Mishra"
+      ],
+      "bitrate": 126107,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4492913
+    }
+  ]
+}

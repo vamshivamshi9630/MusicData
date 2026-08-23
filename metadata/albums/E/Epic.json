@@ -2,19 +2,37 @@
   "album": {
     "id": "49a70bd1e731",
     "name": "Epic",
-    "year": 2026,
+    "year": 2024,
     "musicDirector": "Various Artists",
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Epic.png",
-    "songCount": 2
+    "songCount": 3
   },
   "songs": [
+    {
+      "id": "492d8e857e3a",
+      "title": "Manasavacha Song",
+      "normalizedTitle": "manasavacha song",
+      "trackNumber": 1,
+      "duration": "4:33",
+      "durationSeconds": 273,
+      "audio": "Manasavacha Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "SP Charan",
+        "KS Chitra"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4679229
+    },
     {
       "id": "8863ed80f3f9",
       "title": "Priyasakhi Song",
       "normalizedTitle": "priyasakhi song",
-      "trackNumber": 1,
+      "trackNumber": 2,
       "duration": "4:05",
       "durationSeconds": 245,
       "audio": "Priyasakhi Song.mp3",
@@ -31,7 +49,7 @@
       "id": "f99b12b8d63f",
       "title": "Sancharame Song",
       "normalizedTitle": "sancharame song",
-      "trackNumber": 2,
+      "trackNumber": 3,
       "duration": "3:27",
       "durationSeconds": 207,
       "audio": "Sancharame Song.mp3",

@@ -1,0 +1,48 @@
+{
+  "album": {
+    "id": "3c7c002566f5",
+    "name": "Ramba Oorvasi Menaka",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Ramba Oorvasi Menaka.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "c1ff16dcd1a1",
+      "title": "Bad Time Band Baaja Song",
+      "normalizedTitle": "bad time band baaja song",
+      "trackNumber": 1,
+      "duration": "3:13",
+      "durationSeconds": 193,
+      "audio": "Bad Time Band Baaja Song.mp3",
+      "composer": "Chaithan Bharadwaj",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 118772,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3145980
+    },
+    {
+      "id": "25b776c19689",
+      "title": "Naa Kanti Meedhe Kunuke Song",
+      "normalizedTitle": "naa kanti meedhe kunuke song",
+      "trackNumber": 2,
+      "duration": "3:34",
+      "durationSeconds": 214,
+      "audio": "Naa Kanti Meedhe Kunuke Song.mp3",
+      "composer": "Chaithan Bharadwaj",
+      "singers": [
+        "Dhanunjay Seepana"
+      ],
+      "bitrate": 126969,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3646944
+    }
+  ]
+}

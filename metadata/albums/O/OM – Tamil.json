@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "368fcf24c398",
+    "name": "OM – Tamil",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "OM – Tamil.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "5ebc2e529642",
+      "title": "Alaakaa Loova Song",
+      "normalizedTitle": "alaakaa loova song",
+      "trackNumber": 1,
+      "duration": "3:36",
+      "durationSeconds": 216,
+      "audio": "Alaakaa Loova Song.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar"
+      ],
+      "bitrate": 123686,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3613651
+    }
+  ]
+}

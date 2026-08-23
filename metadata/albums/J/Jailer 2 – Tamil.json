@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "c26039b3002c",
+    "name": "Jailer 2 – Tamil",
+    "year": 2026,
+    "musicDirector": "Unknown",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Jailer 2 – Tamil.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "45755bdfdf68",
+      "title": "Ala Bolelo Song",
+      "normalizedTitle": "ala bolelo song",
+      "trackNumber": 1,
+      "duration": "4:00",
+      "durationSeconds": 240,
+      "audio": "Ala Bolelo Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 132863,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4147768
+    }
+  ]
+}
