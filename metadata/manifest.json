@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 11,
+  "manifestVersion": 12,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-11T08:11:36.713319Z",
+  "generatedAt": "2026-11-11T08:21:13.316654Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 11,
-      "hash": "16c92e8217d21773"
+      "version": 12,
+      "hash": "8a2e1daabc3e6c9c"
     },
     "artists": {
-      "version": 10,
-      "hash": "81974321a2927fdd"
+      "version": 11,
+      "hash": "cee96f52091ae0ed"
     },
     "genres": {
-      "version": 9,
-      "hash": "48d0db69f7245224"
+      "version": 10,
+      "hash": "c888154e9b020291"
     },
     "languages": {
-      "version": 9,
-      "hash": "3fd9dcb20b72faab"
+      "version": 10,
+      "hash": "e20d603c4297b3d2"
     },
     "search": {
-      "version": 10,
-      "hash": "de2088ce9b9f6c83"
+      "version": 11,
+      "hash": "a605ff0f0bc85e2d"
     }
   },
   "albums": {
@@ -1754,6 +1754,12 @@
       "partition": "K",
       "version": 3,
       "hash": "dd103e107c2f6304"
+    },
+    "9c00b0107bac": {
+      "name": "Kanaka Durga",
+      "partition": "K",
+      "version": 1,
+      "hash": "13444c036c342f74"
     },
     "d6e8a4741cfa": {
       "name": "Kanche",

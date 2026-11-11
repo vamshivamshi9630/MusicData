@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "9c00b0107bac",
+    "name": "Kanaka Durga",
+    "year": 2026,
+    "musicDirector": "SS Thaman",
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Kanaka Durga.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "6b9dd3c9ff06",
+      "title": "Amma Kanaka Durga",
+      "normalizedTitle": "amma kanaka durga",
+      "trackNumber": 1,
+      "duration": "4:46",
+      "durationSeconds": 286,
+      "audio": "Amma Kanaka Durga.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Ananthu",
+        "Sruthi Ranjani"
+      ],
+      "bitrate": 136177,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5110577
+    }
+  ]
+}
