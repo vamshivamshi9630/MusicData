@@ -1199,6 +1199,17 @@
     "partition": "B"
   },
   {
+    "id": "1e1392b5ac2a",
+    "name": "Bhogi",
+    "artist": "Bheems Ceciroleo",
+    "year": 2026,
+    "genre": "Tollywood Soundtrack",
+    "language": "Telugu",
+    "image": "Bhogi.png",
+    "songCount": 2,
+    "partition": "B"
+  },
+  {
     "id": "9eabc6d9a24a",
     "name": "Biker",
     "artist": "Ghibran Vaibodha",

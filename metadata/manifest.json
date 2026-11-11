@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 12,
+  "manifestVersion": 13,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-11T08:21:13.316654Z",
+  "generatedAt": "2026-11-11T08:23:19.914525Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 12,
-      "hash": "8a2e1daabc3e6c9c"
+      "version": 13,
+      "hash": "f0a86c5bb501d568"
     },
     "artists": {
-      "version": 11,
-      "hash": "cee96f52091ae0ed"
+      "version": 12,
+      "hash": "d88bc576b33bb692"
     },
     "genres": {
-      "version": 10,
-      "hash": "c888154e9b020291"
+      "version": 11,
+      "hash": "8c367a3bfab7fad9"
     },
     "languages": {
-      "version": 10,
-      "hash": "e20d603c4297b3d2"
+      "version": 11,
+      "hash": "b6eea9649872c772"
     },
     "search": {
-      "version": 11,
-      "hash": "a605ff0f0bc85e2d"
+      "version": 12,
+      "hash": "e889f8b1c2ee5e7b"
     }
   },
   "albums": {
@@ -680,6 +680,12 @@
       "partition": "B",
       "version": 1,
       "hash": "c25b0b264d6df356"
+    },
+    "1e1392b5ac2a": {
+      "name": "Bhogi",
+      "partition": "B",
+      "version": 1,
+      "hash": "97143fd0186d9276"
     },
     "9eabc6d9a24a": {
       "name": "Biker",
