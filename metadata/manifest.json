@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 10,
+  "manifestVersion": 11,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-08-23T08:16:28.866838Z",
+  "generatedAt": "2026-11-11T08:11:36.713319Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 10,
-      "hash": "57f13d32af149c73"
+      "version": 11,
+      "hash": "16c92e8217d21773"
     },
     "artists": {
-      "version": 9,
-      "hash": "d14371c057434374"
+      "version": 10,
+      "hash": "81974321a2927fdd"
     },
     "genres": {
-      "version": 8,
-      "hash": "fa9601269cafa611"
+      "version": 9,
+      "hash": "48d0db69f7245224"
     },
     "languages": {
-      "version": 8,
-      "hash": "98cc90489bfb35ee"
+      "version": 9,
+      "hash": "3fd9dcb20b72faab"
     },
     "search": {
-      "version": 9,
-      "hash": "af40a151d14a9560"
+      "version": 10,
+      "hash": "de2088ce9b9f6c83"
     }
   },
   "albums": {
@@ -2706,8 +2706,8 @@
     "abd30b2c5a3f": {
       "name": "OM – Telugu",
       "partition": "O",
-      "version": 1,
-      "hash": "3fc02dc456317502"
+      "version": 2,
+      "hash": "15394bd1400a7bad"
     },
     "259461b5948b": {
       "name": "Om-Bheem-Bush",

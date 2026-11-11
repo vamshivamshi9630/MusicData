@@ -7,7 +7,7 @@
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "OM – Telugu.png",
-    "songCount": 1
+    "songCount": 3
   },
   "songs": [
     {
@@ -27,6 +27,42 @@
       "sampleRate": 44100,
       "channels": 2,
       "fileSize": 3708313
+    },
+    {
+      "id": "6c4d6440bba6",
+      "title": "Alaakaa Loova",
+      "normalizedTitle": "alaakaa loova",
+      "trackNumber": 2,
+      "duration": "3:37",
+      "durationSeconds": 217,
+      "audio": "Alaakaa Loova.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Ram Miriyala",
+        "Arun Koundinya"
+      ],
+      "bitrate": 126709,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3708313
+    },
+    {
+      "id": "f6d4b8ce0194",
+      "title": "Veera Veera",
+      "normalizedTitle": "veera veera",
+      "trackNumber": 3,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Veera Veera.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar",
+        "Ritesh G Rao"
+      ],
+      "bitrate": 126454,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3874581
     }
   ]
 }
