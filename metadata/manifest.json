@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 18,
+  "manifestVersion": 19,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T11:24:18.206313Z",
+  "generatedAt": "2026-11-12T12:15:13.594385Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 18,
-      "hash": "80f652d4af16bb84"
+      "version": 19,
+      "hash": "1da6dd22a9679799"
     },
     "artists": {
-      "version": 17,
-      "hash": "5cef779489335aca"
+      "version": 18,
+      "hash": "84d878fd6abd00d8"
     },
     "genres": {
-      "version": 16,
-      "hash": "8a791ce1f71fe900"
+      "version": 17,
+      "hash": "a82f821c5c64855d"
     },
     "languages": {
-      "version": 16,
-      "hash": "b971ec5adbe3c63b"
+      "version": 17,
+      "hash": "cbcdb79152475156"
     },
     "search": {
-      "version": 17,
-      "hash": "26e827dd43214cd8"
+      "version": 18,
+      "hash": "e6a56723f902fbf0"
     }
   },
   "albums": {
@@ -1430,6 +1430,12 @@
       "partition": "G",
       "version": 1,
       "hash": "6ec4573cc408945c"
+    },
+    "d43f3c27e7cb": {
+      "name": "Haindava",
+      "partition": "H",
+      "version": 1,
+      "hash": "5dca83a2f1ea0b3e"
     },
     "1ca35897540e": {
       "name": "Hanuman",

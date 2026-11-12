@@ -2574,6 +2574,17 @@
     "partition": "G"
   },
   {
+    "id": "d43f3c27e7cb",
+    "name": "Haindava",
+    "artist": "Sam CS",
+    "year": 2026,
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Haindava.png",
+    "songCount": 1,
+    "partition": "H"
+  },
+  {
     "id": "1ca35897540e",
     "name": "Hanuman",
     "artist": "GowraHari",

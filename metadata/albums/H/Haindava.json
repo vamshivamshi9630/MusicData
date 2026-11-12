@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "d43f3c27e7cb",
+    "name": "Haindava",
+    "year": 2026,
+    "musicDirector": "Sam CS",
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Haindava.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "b80a9f6ea55a",
+      "title": "Evaraina Song",
+      "normalizedTitle": "evaraina song",
+      "trackNumber": 1,
+      "duration": "3:39",
+      "durationSeconds": 219,
+      "audio": "Evaraina Song.mp3",
+      "composer": "Sam CS",
+      "singers": [
+        "Kapil Kapilan",
+        "Swetha Mohan"
+      ],
+      "bitrate": 132611,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3784025
+    }
+  ]
+}
