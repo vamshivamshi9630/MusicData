@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "8af624463d81",
+    "name": "Emo Emo Idi",
+    "year": 2026,
+    "musicDirector": "Hesham Abdul Wahab",
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Emo Emo Idi.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "bdbfff88a83b",
+      "title": "Emo Emo Idi Song",
+      "normalizedTitle": "emo emo idi song",
+      "trackNumber": 1,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Emo Emo Idi Song.mp3",
+      "composer": "Hesham Abdul Wahab",
+      "singers": [
+        "Karthik",
+        "Ramya Behara"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4322744
+    }
+  ]
+}

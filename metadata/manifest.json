@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 28,
+  "manifestVersion": 29,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T13:08:55.085281Z",
+  "generatedAt": "2026-11-12T13:17:04.881245Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 28,
-      "hash": "20a442f8e89c0ae8"
+      "version": 29,
+      "hash": "4f508e74e02aa5c7"
     },
     "artists": {
-      "version": 27,
-      "hash": "2a36033bf33d510a"
+      "version": 28,
+      "hash": "8c99a26603777363"
     },
     "genres": {
-      "version": 26,
-      "hash": "d1c501c76b73e402"
+      "version": 27,
+      "hash": "8fa95f0c22f1370c"
     },
     "languages": {
-      "version": 26,
-      "hash": "ec62d1c97faa8b6f"
+      "version": 27,
+      "hash": "a85eb48cb2e0d241"
     },
     "search": {
-      "version": 27,
-      "hash": "d04df3113ac4cfd2"
+      "version": 28,
+      "hash": "6ef35308a36e88ec"
     }
   },
   "albums": {
@@ -1196,6 +1196,12 @@
       "partition": "E",
       "version": 1,
       "hash": "dc96ff1662c08d4f"
+    },
+    "8af624463d81": {
+      "name": "Emo Emo Idi",
+      "partition": "E",
+      "version": 1,
+      "hash": "16157af9d1cd1a04"
     },
     "85db3efb8227": {
       "name": "Endukante Premanta",
