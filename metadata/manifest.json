@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 14,
+  "manifestVersion": 15,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T11:04:21.173820Z",
+  "generatedAt": "2026-11-12T11:20:46.418133Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 14,
-      "hash": "3f809ca75d826295"
+      "version": 15,
+      "hash": "cf7579879fac2f72"
     },
     "artists": {
-      "version": 13,
-      "hash": "3fae1b61dee93919"
+      "version": 14,
+      "hash": "0dd35e9d7a116fd4"
     },
     "genres": {
-      "version": 12,
-      "hash": "271e6f4ee2604f9f"
+      "version": 13,
+      "hash": "32248fe7ff652029"
     },
     "languages": {
-      "version": 12,
-      "hash": "dbbb871a2d34691f"
+      "version": 13,
+      "hash": "81ca266a74e23fc2"
     },
     "search": {
-      "version": 13,
-      "hash": "0ca0524cc448d0df"
+      "version": 14,
+      "hash": "9202b8248159171f"
     }
   },
   "albums": {
@@ -3164,6 +3164,12 @@
       "partition": "R",
       "version": 1,
       "hash": "a26a67dde8aeecbf"
+    },
+    "d7ac1d220e6a": {
+      "name": "Reality",
+      "partition": "R",
+      "version": 1,
+      "hash": "2e666e77fc1598bf"
     },
     "52a39733bfab": {
       "name": "Rebel",
