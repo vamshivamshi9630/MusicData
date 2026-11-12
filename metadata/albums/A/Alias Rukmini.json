@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "d634bf424491",
+    "name": "Alias Rukmini",
+    "year": 2026,
+    "musicDirector": "Vijai Bulganin",
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Alias Rukmini.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "dd247d318e75",
+      "title": "Ruku Ruku Rukmini Song",
+      "normalizedTitle": "ruku ruku rukmini song",
+      "trackNumber": 1,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Ruku Ruku Rukmini Song.mp3",
+      "composer": "Vijai Bulganin",
+      "singers": [
+        "Anurag Kulkarni"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3676036
+    }
+  ]
+}

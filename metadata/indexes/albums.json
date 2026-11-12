@@ -385,6 +385,17 @@
     "partition": "A"
   },
   {
+    "id": "d634bf424491",
+    "name": "Alias Rukmini",
+    "artist": "Vijai Bulganin",
+    "year": 2026,
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Alias Rukmini.png",
+    "songCount": 1,
+    "partition": "A"
+  },
+  {
     "id": "925e237172df",
     "name": "All_Mix",
     "artist": "Unknown",

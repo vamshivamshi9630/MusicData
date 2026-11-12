@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 19,
+  "manifestVersion": 20,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T12:15:13.594385Z",
+  "generatedAt": "2026-11-12T12:15:34.386245Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 19,
-      "hash": "1da6dd22a9679799"
+      "version": 20,
+      "hash": "6975ae3b1faea4d5"
     },
     "artists": {
-      "version": 18,
-      "hash": "84d878fd6abd00d8"
+      "version": 19,
+      "hash": "404f2ecd3b331022"
     },
     "genres": {
-      "version": 17,
-      "hash": "a82f821c5c64855d"
+      "version": 18,
+      "hash": "51171c051b29cffd"
     },
     "languages": {
-      "version": 17,
-      "hash": "cbcdb79152475156"
+      "version": 18,
+      "hash": "02bca288381f182f"
     },
     "search": {
-      "version": 18,
-      "hash": "e6a56723f902fbf0"
+      "version": 19,
+      "hash": "1e6f580342e0f31a"
     }
   },
   "albums": {
@@ -236,6 +236,12 @@
       "partition": "A",
       "version": 1,
       "hash": "e2706eee9ac3875c"
+    },
+    "d634bf424491": {
+      "name": "Alias Rukmini",
+      "partition": "A",
+      "version": 1,
+      "hash": "2b77129c094b8384"
     },
     "925e237172df": {
       "name": "All_Mix",
