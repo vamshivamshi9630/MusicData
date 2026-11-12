@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 22,
+  "manifestVersion": 23,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T12:16:16.716787Z",
+  "generatedAt": "2026-11-12T12:17:03.293063Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 22,
-      "hash": "8921451d149d8917"
+      "version": 23,
+      "hash": "8393df8b9fc96b54"
     },
     "artists": {
-      "version": 21,
-      "hash": "e0f4a07431055226"
+      "version": 22,
+      "hash": "9639d714a6319c42"
     },
     "genres": {
-      "version": 20,
-      "hash": "6bf4768080593249"
+      "version": 21,
+      "hash": "2ac1c44562a81728"
     },
     "languages": {
-      "version": 20,
-      "hash": "2ec023a82ca7a6ad"
+      "version": 21,
+      "hash": "7044fb0847aad860"
     },
     "search": {
-      "version": 21,
-      "hash": "a5da90e609169b22"
+      "version": 22,
+      "hash": "1e671221aebd1981"
     }
   },
   "albums": {
@@ -1556,6 +1556,12 @@
       "partition": "I",
       "version": 1,
       "hash": "41225772316c7158"
+    },
+    "6227323dafe3": {
+      "name": "Idupu Kayitham",
+      "partition": "I",
+      "version": 1,
+      "hash": "a4a8c6bb919d08b1"
     },
     "93d730ab08cd": {
       "name": "Indra",

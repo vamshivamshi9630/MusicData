@@ -1,0 +1,48 @@
+{
+  "album": {
+    "id": "6227323dafe3",
+    "name": "Idupu Kayitham",
+    "year": 2026,
+    "musicDirector": "Suresh Bobbili",
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Idupu Kayitham.png",
+    "songCount": 2
+  },
+  "songs": [
+    {
+      "id": "746c1a28449a",
+      "title": "Gadapa Song",
+      "normalizedTitle": "gadapa song",
+      "trackNumber": 1,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Gadapa Song.mp3",
+      "composer": "Suresh Bobbili",
+      "singers": [
+        "Saregama Telugu"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3440988
+    },
+    {
+      "id": "4eead72282fc",
+      "title": "Srilatha Song",
+      "normalizedTitle": "srilatha song",
+      "trackNumber": 2,
+      "duration": "4:01",
+      "durationSeconds": 241,
+      "audio": "Srilatha Song.mp3",
+      "composer": "Suresh Bobbili",
+      "singers": [
+        "Suresh Bobbili"
+      ],
+      "bitrate": 133132,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4062565
+    }
+  ]
+}
