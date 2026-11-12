@@ -7,14 +7,32 @@
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Aadarsha Kutumbam.png",
-    "songCount": 7
+    "songCount": 15
   },
   "songs": [
+    {
+      "id": "6139ad9dab29",
+      "title": "Bandik Song",
+      "normalizedTitle": "bandik song",
+      "trackNumber": 1,
+      "duration": "2:27",
+      "durationSeconds": 147,
+      "audio": "Bandik Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S",
+        "Romy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2603535
+    },
     {
       "id": "e08a54212a16",
       "title": "Bidiyamela O Cheli Song",
       "normalizedTitle": "bidiyamela o cheli song",
-      "trackNumber": 1,
+      "trackNumber": 2,
       "duration": "3:02",
       "durationSeconds": 182,
       "audio": "Bidiyamela O Cheli Song.mp3",
@@ -28,10 +46,28 @@
       "fileSize": 3045391
     },
     {
+      "id": "68b9c04a9024",
+      "title": "Bling Song",
+      "normalizedTitle": "bling song",
+      "trackNumber": 3,
+      "duration": "3:18",
+      "durationSeconds": 198,
+      "audio": "Bling Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S",
+        "Bjorn Surrao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3425243
+    },
+    {
       "id": "7bf47e6a3445",
       "title": "Cheyi Cheyi Song",
       "normalizedTitle": "cheyi cheyi song",
-      "trackNumber": 2,
+      "trackNumber": 4,
       "duration": "3:54",
       "durationSeconds": 234,
       "audio": "Cheyi Cheyi Song.mp3",
@@ -45,10 +81,28 @@
       "fileSize": 3865427
     },
     {
+      "id": "aee38e608849",
+      "title": "Chori Song",
+      "normalizedTitle": "chori song",
+      "trackNumber": 5,
+      "duration": "2:32",
+      "durationSeconds": 152,
+      "audio": "Chori Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S",
+        "Adviteeya Vojjala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2690471
+    },
+    {
       "id": "051dbf9a7dc1",
       "title": "Edukondala Song",
       "normalizedTitle": "edukondala song",
-      "trackNumber": 3,
+      "trackNumber": 6,
       "duration": "3:21",
       "durationSeconds": 201,
       "audio": "Edukondala Song.mp3",
@@ -65,7 +119,7 @@
       "id": "ee1c12ceff64",
       "title": "Hallo Saru Song",
       "normalizedTitle": "hallo saru song",
-      "trackNumber": 4,
+      "trackNumber": 7,
       "duration": "3:36",
       "durationSeconds": 216,
       "audio": "Hallo Saru Song.mp3",
@@ -82,7 +136,7 @@
       "id": "b57c0b3ab515",
       "title": "Kaligajja Kankalamma Song",
       "normalizedTitle": "kaligajja kankalamma song",
-      "trackNumber": 5,
+      "trackNumber": 8,
       "duration": "3:43",
       "durationSeconds": 223,
       "audio": "Kaligajja Kankalamma Song.mp3",
@@ -96,10 +150,100 @@
       "fileSize": 3693228
     },
     {
+      "id": "64e64507aa59",
+      "title": "Maala Song",
+      "normalizedTitle": "maala song",
+      "trackNumber": 9,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Maala Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "SS Thaman",
+        "Dhanunjay Seepana",
+        "Ranina Reddy"
+      ],
+      "bitrate": 124928,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4405494
+    },
+    {
+      "id": "b424d4f0c212",
+      "title": "Narayanamma Song",
+      "normalizedTitle": "narayanamma song",
+      "trackNumber": 10,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Narayanamma Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Ram Miriyala",
+        "Prabha"
+      ],
+      "bitrate": 127141,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4685266
+    },
+    {
+      "id": "79faf05a4cdc",
+      "title": "Pakkad Song",
+      "normalizedTitle": "pakkad song",
+      "trackNumber": 11,
+      "duration": "3:17",
+      "durationSeconds": 197,
+      "audio": "Pakkad Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S",
+        "Sruthi Ranjani"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3411450
+    },
+    {
+      "id": "d794ab1fa1c9",
+      "title": "Pony Tail Pilla Song",
+      "normalizedTitle": "pony tail pilla song",
+      "trackNumber": 12,
+      "duration": "3:00",
+      "durationSeconds": 180,
+      "audio": "Pony Tail Pilla Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S",
+        "Srikrishna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3129746
+    },
+    {
+      "id": "65c9e157de6a",
+      "title": "Soul Of AK 47 Song",
+      "normalizedTitle": "soul of ak 47 song",
+      "trackNumber": 13,
+      "duration": "2:30",
+      "durationSeconds": 150,
+      "audio": "Soul Of AK 47 Song.mp3",
+      "composer": "Thaman S",
+      "singers": [
+        "Thaman S"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2649093
+    },
+    {
       "id": "f709d02e8951",
       "title": "Surya Vamsamuna Song",
       "normalizedTitle": "surya vamsamuna song",
-      "trackNumber": 6,
+      "trackNumber": 14,
       "duration": "4:47",
       "durationSeconds": 287,
       "audio": "Surya Vamsamuna Song.mp3",
@@ -116,7 +260,7 @@
       "id": "3932197d4fcb",
       "title": "Yei Yeira Song",
       "normalizedTitle": "yei yeira song",
-      "trackNumber": 7,
+      "trackNumber": 15,
       "duration": "3:53",
       "durationSeconds": 233,
       "audio": "Yei Yeira Song.mp3",

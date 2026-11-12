@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 17,
+  "manifestVersion": 18,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T11:21:42.703625Z",
+  "generatedAt": "2026-11-12T11:22:15.104961Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 17,
-      "hash": "3fde0bd8d20fc26c"
+      "version": 18,
+      "hash": "80f652d4af16bb84"
     },
     "artists": {
-      "version": 16,
-      "hash": "01a576f1b8161888"
+      "version": 17,
+      "hash": "5cef779489335aca"
     },
     "genres": {
-      "version": 15,
-      "hash": "31693f8dcdd9586c"
+      "version": 16,
+      "hash": "8a791ce1f71fe900"
     },
     "languages": {
-      "version": 15,
-      "hash": "8bb67023ca078609"
+      "version": 16,
+      "hash": "b971ec5adbe3c63b"
     },
     "search": {
-      "version": 16,
-      "hash": "53afd9ff746a96c7"
+      "version": 17,
+      "hash": "26e827dd43214cd8"
     }
   },
   "albums": {
@@ -108,8 +108,8 @@
     "f72fd6e2ae3b": {
       "name": "Aadarsha Kutumbam",
       "partition": "A",
-      "version": 1,
-      "hash": "db946b03e3d67ad4"
+      "version": 2,
+      "hash": "25367735561c5d25"
     },
     "7c92da5cecc7": {
       "name": "Aadavari Matalaku Ardhale Verule",
