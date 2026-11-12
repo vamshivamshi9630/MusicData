@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 16,
+  "manifestVersion": 17,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T11:21:13.210716Z",
+  "generatedAt": "2026-11-12T11:21:42.703625Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 16,
-      "hash": "75d0d5f16ecc00a9"
+      "version": 17,
+      "hash": "3fde0bd8d20fc26c"
     },
     "artists": {
-      "version": 15,
-      "hash": "be05a645bf6cdf19"
+      "version": 16,
+      "hash": "01a576f1b8161888"
     },
     "genres": {
-      "version": 14,
-      "hash": "b61a7a7d91ca5cf5"
+      "version": 15,
+      "hash": "31693f8dcdd9586c"
     },
     "languages": {
-      "version": 14,
-      "hash": "1e2dc5f040396bec"
+      "version": 15,
+      "hash": "8bb67023ca078609"
     },
     "search": {
-      "version": 15,
-      "hash": "8611c859247b771a"
+      "version": 16,
+      "hash": "53afd9ff746a96c7"
     }
   },
   "albums": {
@@ -2456,6 +2456,12 @@
       "partition": "M",
       "version": 1,
       "hash": "e36f7c330fafc10a"
+    },
+    "3ff93dcdc7aa": {
+      "name": "Mysaa",
+      "partition": "M",
+      "version": 1,
+      "hash": "3143767ec71f379a"
     },
     "6b15355399fd": {
       "name": "Naa Autograph",

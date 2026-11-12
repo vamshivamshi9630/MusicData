@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "3ff93dcdc7aa",
+    "name": "Mysaa",
+    "year": 2026,
+    "musicDirector": "Jakes Bejoy",
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Mysaa.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "ec44cde3e2d5",
+      "title": "O Mysaa Re Song",
+      "normalizedTitle": "o mysaa re song",
+      "trackNumber": 1,
+      "duration": "4:39",
+      "durationSeconds": 279,
+      "audio": "O Mysaa Re Song.mp3",
+      "composer": "Jakes Bejoy",
+      "singers": [
+        "Release - Topic"
+      ],
+      "bitrate": 127638,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4597386
+    }
+  ]
+}
