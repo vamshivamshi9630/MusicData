@@ -7,7 +7,7 @@
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Jailer 2 – Telugu.png",
-    "songCount": 1
+    "songCount": 12
   },
   "songs": [
     {
@@ -26,6 +26,199 @@
       "sampleRate": 44100,
       "channels": 2,
       "fileSize": 4172683
+    },
+    {
+      "id": "20e47a5beb0e",
+      "title": "Allam Bellam Po Song",
+      "normalizedTitle": "allam bellam po song",
+      "trackNumber": 2,
+      "duration": "2:39",
+      "durationSeconds": 159,
+      "audio": "Allam Bellam Po Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Asura"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2594943
+    },
+    {
+      "id": "50341ade2f6b",
+      "title": "Bindaas Song",
+      "normalizedTitle": "bindaas song",
+      "trackNumber": 3,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Bindaas Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Deepthi Suresh"
+      ],
+      "bitrate": 129309,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4386477
+    },
+    {
+      "id": "9166f973e927",
+      "title": "Dhada Giri Song",
+      "normalizedTitle": "dhada giri song",
+      "trackNumber": 4,
+      "duration": "2:31",
+      "durationSeconds": 151,
+      "audio": "Dhada Giri Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Asura"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2452001
+    },
+    {
+      "id": "d53010e97c08",
+      "title": "Dil Haareya Song",
+      "normalizedTitle": "dil haareya song",
+      "trackNumber": 5,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Dil Haareya Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Ritesh G Rao"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2851152
+    },
+    {
+      "id": "b123e76f26cd",
+      "title": "Dileep Theme Song",
+      "normalizedTitle": "dileep theme song",
+      "trackNumber": 6,
+      "duration": "1:08",
+      "durationSeconds": 68,
+      "audio": "Dileep Theme Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1139192
+    },
+    {
+      "id": "37e5962c29e1",
+      "title": "Hukum Reloaded Theme Song",
+      "normalizedTitle": "hukum reloaded theme song",
+      "trackNumber": 7,
+      "duration": "1:34",
+      "durationSeconds": 94,
+      "audio": "Hukum Reloaded Theme Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Dinker Kalvala"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1547119
+    },
+    {
+      "id": "04040541b529",
+      "title": "Jailer 2 Theme",
+      "normalizedTitle": "jailer 2 theme",
+      "trackNumber": 8,
+      "duration": "1:44",
+      "durationSeconds": 104,
+      "audio": "Jailer 2 Theme.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Inno Genga",
+        "MS Krsna"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1715139
+    },
+    {
+      "id": "7f13ba7491ce",
+      "title": "Marichipo Song",
+      "normalizedTitle": "marichipo song",
+      "trackNumber": 9,
+      "duration": "4:18",
+      "durationSeconds": 258,
+      "audio": "Marichipo Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4170231
+    },
+    {
+      "id": "6ca245ab2f5e",
+      "title": "One Name Song",
+      "normalizedTitle": "one name song",
+      "trackNumber": 10,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "One Name Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Sri Krishna",
+        "Arun Kaundinya",
+        "Sahithi Chaganti"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3251138
+    },
+    {
+      "id": "7a6113c87bfd",
+      "title": "One Sun One Moon Song",
+      "normalizedTitle": "one sun one moon song",
+      "trackNumber": 11,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "One Sun One Moon Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Ms Krsna"
+      ],
+      "bitrate": 123755,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3537014
+    },
+    {
+      "id": "6200bff4ae6b",
+      "title": "Shaitan Song",
+      "normalizedTitle": "shaitan song",
+      "trackNumber": 12,
+      "duration": "2:52",
+      "durationSeconds": 172,
+      "audio": "Shaitan Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Romy"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2803087
     }
   ]
 }

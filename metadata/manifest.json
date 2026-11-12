@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 24,
+  "manifestVersion": 25,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T12:17:32.183592Z",
+  "generatedAt": "2026-11-12T12:19:10.882962Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 24,
-      "hash": "eefe340299eb8e8e"
+      "version": 25,
+      "hash": "00216be960fc4ef7"
     },
     "artists": {
-      "version": 23,
-      "hash": "a33c0e180513b422"
+      "version": 24,
+      "hash": "749abdf4dfecf0cd"
     },
     "genres": {
-      "version": 22,
-      "hash": "da8927ae3e8729e4"
+      "version": 23,
+      "hash": "8d67adf366ec7287"
     },
     "languages": {
-      "version": 22,
-      "hash": "e3f0a13a61f6cd0a"
+      "version": 23,
+      "hash": "43e0067b5a04ecc7"
     },
     "search": {
-      "version": 23,
-      "hash": "66880c1f78d95c63"
+      "version": 24,
+      "hash": "c610f7521997d688"
     }
   },
   "albums": {
@@ -1650,8 +1650,8 @@
     "45a17ed82907": {
       "name": "Jailer 2 – Telugu",
       "partition": "J",
-      "version": 1,
-      "hash": "c986f0ccc2bb14c1"
+      "version": 2,
+      "hash": "640c7e6f4dbd3a9c"
     },
     "e9c58774bb4a": {
       "name": "Jajikaya Jajikaya Song",
