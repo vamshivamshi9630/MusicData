@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 27,
+  "manifestVersion": 28,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T12:20:27.207098Z",
+  "generatedAt": "2026-11-12T13:08:55.085281Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 27,
-      "hash": "022501f2213e990b"
+      "version": 28,
+      "hash": "20a442f8e89c0ae8"
     },
     "artists": {
-      "version": 26,
-      "hash": "8f6c21fd8708e79f"
+      "version": 27,
+      "hash": "2a36033bf33d510a"
     },
     "genres": {
-      "version": 25,
-      "hash": "93ff02c509e4dc07"
+      "version": 26,
+      "hash": "d1c501c76b73e402"
     },
     "languages": {
-      "version": 25,
-      "hash": "6d4ef5359e80bbeb"
+      "version": 26,
+      "hash": "ec62d1c97faa8b6f"
     },
     "search": {
-      "version": 26,
-      "hash": "9e7f9f0e7254f1ad"
+      "version": 27,
+      "hash": "d04df3113ac4cfd2"
     }
   },
   "albums": {
@@ -1644,8 +1644,8 @@
     "c26039b3002c": {
       "name": "Jailer 2 – Tamil",
       "partition": "J",
-      "version": 1,
-      "hash": "e561f0cbc1ff09fc"
+      "version": 2,
+      "hash": "d9a2bfc859ab5a09"
     },
     "45a17ed82907": {
       "name": "Jailer 2 – Telugu",

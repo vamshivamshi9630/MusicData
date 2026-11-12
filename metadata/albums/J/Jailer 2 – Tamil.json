@@ -7,7 +7,7 @@
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Jailer 2 – Tamil.png",
-    "songCount": 1
+    "songCount": 12
   },
   "songs": [
     {
@@ -26,6 +26,201 @@
       "sampleRate": 44100,
       "channels": 2,
       "fileSize": 4147768
+    },
+    {
+      "id": "4ac8b301500f",
+      "title": "Bindaas Song",
+      "normalizedTitle": "bindaas song",
+      "trackNumber": 2,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Bindaas Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 130067,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4261903
+    },
+    {
+      "id": "c811e909a034",
+      "title": "Dil Haareya Song",
+      "normalizedTitle": "dil haareya song",
+      "trackNumber": 3,
+      "duration": "2:58",
+      "durationSeconds": 178,
+      "audio": "Dil Haareya Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Ritesh G Rao"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7183090
+    },
+    {
+      "id": "be4e4e76c133",
+      "title": "Dileep Theme Song",
+      "normalizedTitle": "dileep theme song",
+      "trackNumber": 4,
+      "duration": "1:12",
+      "durationSeconds": 72,
+      "audio": "Dileep Theme Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2936625
+    },
+    {
+      "id": "59778b4c5d2b",
+      "title": "Hukum Reloaded Song",
+      "normalizedTitle": "hukum reloaded song",
+      "trackNumber": 5,
+      "duration": "1:31",
+      "durationSeconds": 91,
+      "audio": "Hukum Reloaded Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3709850
+    },
+    {
+      "id": "09c28ca225d3",
+      "title": "Jailer 2 Theme Song",
+      "normalizedTitle": "jailer 2 theme song",
+      "trackNumber": 6,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "Jailer 2 Theme Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "MS Krsna"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8203956
+    },
+    {
+      "id": "b6506421f502",
+      "title": "Netru Ponavai Song",
+      "normalizedTitle": "netru ponavai song",
+      "trackNumber": 7,
+      "duration": "4:24",
+      "durationSeconds": 264,
+      "audio": "Netru Ponavai Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Shankar Mahadevan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10616625
+    },
+    {
+      "id": "d6c025792772",
+      "title": "One Name Song",
+      "normalizedTitle": "one name song",
+      "trackNumber": 8,
+      "duration": "3:24",
+      "durationSeconds": 204,
+      "audio": "One Name Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 130235,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3524506
+    },
+    {
+      "id": "5eecfe5073f3",
+      "title": "One Sun One Moon Song",
+      "normalizedTitle": "one sun one moon song",
+      "trackNumber": 9,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "One Sun One Moon Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Ms Krsna"
+      ],
+      "bitrate": 123755,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3537014
+    },
+    {
+      "id": "93ed64a71d6c",
+      "title": "Putaapu Song",
+      "normalizedTitle": "putaapu song",
+      "trackNumber": 10,
+      "duration": "2:40",
+      "durationSeconds": 160,
+      "audio": "Putaapu Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Thamizh Aadhavan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6464201
+    },
+    {
+      "id": "b0692326808a",
+      "title": "Shaitaan Song",
+      "normalizedTitle": "shaitaan song",
+      "trackNumber": 11,
+      "duration": "2:55",
+      "durationSeconds": 175,
+      "audio": "Shaitaan Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Romy",
+        "Vivek"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7055613
+    },
+    {
+      "id": "5f4afb4b4446",
+      "title": "Veramaari Song",
+      "normalizedTitle": "veramaari song",
+      "trackNumber": 12,
+      "duration": "2:32",
+      "durationSeconds": 152,
+      "audio": "Veramaari Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Thamizh Aadhavan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6145507
     }
   ]
 }
