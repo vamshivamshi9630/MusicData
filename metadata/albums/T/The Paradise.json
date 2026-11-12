@@ -7,7 +7,7 @@
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "The Paradise.png",
-    "songCount": 1
+    "songCount": 12
   },
   "songs": [
     {
@@ -28,6 +28,197 @@
       "sampleRate": 44100,
       "channels": 2,
       "fileSize": 4982233
+    },
+    {
+      "id": "cea92d667361",
+      "title": "Anjaana Anjaani Song",
+      "normalizedTitle": "anjaana anjaani song",
+      "trackNumber": 2,
+      "duration": "3:46",
+      "durationSeconds": 226,
+      "audio": "Anjaana Anjaani Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander",
+        "Sublashini"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9472461
+    },
+    {
+      "id": "de2064543e43",
+      "title": "Dhumavati Song",
+      "normalizedTitle": "dhumavati song",
+      "trackNumber": 3,
+      "duration": "6:02",
+      "durationSeconds": 362,
+      "audio": "Dhumavati Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Mangli"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 14910110
+    },
+    {
+      "id": "12198614c6ab",
+      "title": "Jadal Zamana (Interval Theme) Song",
+      "normalizedTitle": "jadal zamana interval theme song",
+      "trackNumber": 4,
+      "duration": "1:19",
+      "durationSeconds": 79,
+      "audio": "Jadal Zamana (Interval Theme) Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 124246,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 1630535
+    },
+    {
+      "id": "182d5ad19169",
+      "title": "Koduka Na Muddu Koduka Song",
+      "normalizedTitle": "koduka na muddu koduka song",
+      "trackNumber": 5,
+      "duration": "2:31",
+      "durationSeconds": 151,
+      "audio": "Koduka Na Muddu Koduka Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Ashwini"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6467335
+    },
+    {
+      "id": "510cb3e1d0f7",
+      "title": "Sammakka Female Version Song (Full Song)",
+      "normalizedTitle": "sammakka female version song full song",
+      "trackNumber": 6,
+      "duration": "4:20",
+      "durationSeconds": 260,
+      "audio": "Sammakka Female Version Song (Full Song).mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Akunoori Devaihah",
+        "Yogi Sekar",
+        "Sridhar Sena"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10826649
+    },
+    {
+      "id": "a5c55358a2d4",
+      "title": "Sammakka Song",
+      "normalizedTitle": "sammakka song",
+      "trackNumber": 7,
+      "duration": "1:38",
+      "durationSeconds": 98,
+      "audio": "Sammakka Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4327384
+    },
+    {
+      "id": "0ba2d007a3f8",
+      "title": "Uyyalo Uyyalo (Female) Song",
+      "normalizedTitle": "uyyalo uyyalo female song",
+      "trackNumber": 8,
+      "duration": "3:35",
+      "durationSeconds": 215,
+      "audio": "Uyyalo Uyyalo (Female) Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Madhushree"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 9011662
+    },
+    {
+      "id": "b576ae009e21",
+      "title": "Uyyalo Uyyalo (Male) Song",
+      "normalizedTitle": "uyyalo uyyalo male song",
+      "trackNumber": 9,
+      "duration": "2:23",
+      "durationSeconds": 143,
+      "audio": "Uyyalo Uyyalo (Male) Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6120429
+    },
+    {
+      "id": "ada105bb0e5f",
+      "title": "Welcome The Paradise Song",
+      "normalizedTitle": "welcome the paradise song",
+      "trackNumber": 10,
+      "duration": "3:09",
+      "durationSeconds": 189,
+      "audio": "Welcome The Paradise Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Siddarth Basrur"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 7970944
+    },
+    {
+      "id": "bd439507ca31",
+      "title": "Yesha Nagula Mass Beat (Folk Version) Song",
+      "normalizedTitle": "yesha nagula mass beat folk version song",
+      "trackNumber": 11,
+      "duration": "4:08",
+      "durationSeconds": 248,
+      "audio": "Yesha Nagula Mass Beat (Folk Version) Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Veeresha Lingam"
+      ],
+      "bitrate": 136207,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4627653
+    },
+    {
+      "id": "d22c8b0f9b4e",
+      "title": "Yesha Nagula Song",
+      "normalizedTitle": "yesha nagula song",
+      "trackNumber": 12,
+      "duration": "3:08",
+      "durationSeconds": 188,
+      "audio": "Yesha Nagula Song.mp3",
+      "composer": "Anirudh Ravichander",
+      "singers": [
+        "Addula Jangireddy",
+        "Prabha"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 7944704
     }
   ]
 }

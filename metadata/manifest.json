@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 26,
+  "manifestVersion": 27,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T12:20:01.494047Z",
+  "generatedAt": "2026-11-12T12:20:27.207098Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 26,
-      "hash": "42b0ef03726fdec6"
+      "version": 27,
+      "hash": "022501f2213e990b"
     },
     "artists": {
-      "version": 25,
-      "hash": "2b62af15932c94bc"
+      "version": 26,
+      "hash": "8f6c21fd8708e79f"
     },
     "genres": {
-      "version": 24,
-      "hash": "b383230333f160fa"
+      "version": 25,
+      "hash": "93ff02c509e4dc07"
     },
     "languages": {
-      "version": 24,
-      "hash": "3cfb42f47ca5bc07"
+      "version": 25,
+      "hash": "6d4ef5359e80bbeb"
     },
     "search": {
-      "version": 25,
-      "hash": "93ac0bab37b1688a"
+      "version": 26,
+      "hash": "9e7f9f0e7254f1ad"
     }
   },
   "albums": {
@@ -3768,8 +3768,8 @@
     "7c6b57f59b6c": {
       "name": "The Paradise",
       "partition": "T",
-      "version": 3,
-      "hash": "471307cf0960b5fe"
+      "version": 4,
+      "hash": "cbc615381fed6cc3"
     },
     "0e6e08d4ff92": {
       "name": "The Raja Saab",
