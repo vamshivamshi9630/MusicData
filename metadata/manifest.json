@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 25,
+  "manifestVersion": 26,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T12:19:10.882962Z",
+  "generatedAt": "2026-11-12T12:20:01.494047Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 25,
-      "hash": "00216be960fc4ef7"
+      "version": 26,
+      "hash": "42b0ef03726fdec6"
     },
     "artists": {
-      "version": 24,
-      "hash": "749abdf4dfecf0cd"
+      "version": 25,
+      "hash": "2b62af15932c94bc"
     },
     "genres": {
-      "version": 23,
-      "hash": "8d67adf366ec7287"
+      "version": 24,
+      "hash": "b383230333f160fa"
     },
     "languages": {
-      "version": 23,
-      "hash": "43e0067b5a04ecc7"
+      "version": 24,
+      "hash": "3cfb42f47ca5bc07"
     },
     "search": {
-      "version": 24,
-      "hash": "c610f7521997d688"
+      "version": 25,
+      "hash": "93ac0bab37b1688a"
     }
   },
   "albums": {
@@ -672,8 +672,8 @@
     "4c6ff25a1567": {
       "name": "Bharata Varsha",
       "partition": "B",
-      "version": 3,
-      "hash": "6e6fd70ff664cfbb"
+      "version": 4,
+      "hash": "f4953cea8bdf86fa"
     },
     "66212ecd5036": {
       "name": "Bhartha Mahasayulaku Wignyapthi",
