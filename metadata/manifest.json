@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 23,
+  "manifestVersion": 24,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T12:17:03.293063Z",
+  "generatedAt": "2026-11-12T12:17:32.183592Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 23,
-      "hash": "8393df8b9fc96b54"
+      "version": 24,
+      "hash": "eefe340299eb8e8e"
     },
     "artists": {
-      "version": 22,
-      "hash": "9639d714a6319c42"
+      "version": 23,
+      "hash": "a33c0e180513b422"
     },
     "genres": {
-      "version": 21,
-      "hash": "2ac1c44562a81728"
+      "version": 22,
+      "hash": "da8927ae3e8729e4"
     },
     "languages": {
-      "version": 21,
-      "hash": "7044fb0847aad860"
+      "version": 22,
+      "hash": "e3f0a13a61f6cd0a"
     },
     "search": {
-      "version": 22,
-      "hash": "1e671221aebd1981"
+      "version": 23,
+      "hash": "66880c1f78d95c63"
     }
   },
   "albums": {
@@ -1298,6 +1298,12 @@
       "partition": "G",
       "version": 1,
       "hash": "3f93da96b2156aa6"
+    },
+    "31fbdb15ae75": {
+      "name": "Garividi Lakshmi",
+      "partition": "G",
+      "version": 1,
+      "hash": "972cf44819b05476"
     },
     "c0627639a4e4": {
       "name": "Geetha Govindam",

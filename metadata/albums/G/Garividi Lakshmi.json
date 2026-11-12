@@ -1,0 +1,439 @@
+{
+  "album": {
+    "id": "31fbdb15ae75",
+    "name": "Garividi Lakshmi",
+    "year": 2026,
+    "musicDirector": "Charan Arjun",
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Garividi Lakshmi.png",
+    "songCount": 25
+  },
+  "songs": [
+    {
+      "id": "e8781fe8db7e",
+      "title": "Alagalage Alagalage Song",
+      "normalizedTitle": "alagalage alagalage song",
+      "trackNumber": 1,
+      "duration": "4:30",
+      "durationSeconds": 270,
+      "audio": "Alagalage Alagalage Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4323501
+    },
+    {
+      "id": "0039347ea26f",
+      "title": "Bale Bale Bangaru Ramanamma Song",
+      "normalizedTitle": "bale bale bangaru ramanamma song",
+      "trackNumber": 2,
+      "duration": "1:10",
+      "durationSeconds": 70,
+      "audio": "Bale Bale Bangaru Ramanamma Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1121709
+    },
+    {
+      "id": "df4fa85e91b6",
+      "title": "Chandamama Chandamama Song",
+      "normalizedTitle": "chandamama chandamama song",
+      "trackNumber": 3,
+      "duration": "4:23",
+      "durationSeconds": 263,
+      "audio": "Chandamama Chandamama Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4210989
+    },
+    {
+      "id": "9a066abf4025",
+      "title": "Dimitha Sundari Song",
+      "normalizedTitle": "dimitha sundari song",
+      "trackNumber": 4,
+      "duration": "1:49",
+      "durationSeconds": 109,
+      "audio": "Dimitha Sundari Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1745709
+    },
+    {
+      "id": "000c6047bc2e",
+      "title": "Enthapani Chesave Manga Song",
+      "normalizedTitle": "enthapani chesave manga song",
+      "trackNumber": 5,
+      "duration": "1:57",
+      "durationSeconds": 117,
+      "audio": "Enthapani Chesave Manga Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1873581
+    },
+    {
+      "id": "adfb301bdc89",
+      "title": "Gana Gana Nayaka Vinayaka Song",
+      "normalizedTitle": "gana gana nayaka vinayaka song",
+      "trackNumber": 6,
+      "duration": "0:57",
+      "durationSeconds": 57,
+      "audio": "Gana Gana Nayaka Vinayaka Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 913581
+    },
+    {
+      "id": "1f4607fbf6f1",
+      "title": "Ghal Ghal Gajjala Motha Song",
+      "normalizedTitle": "ghal ghal gajjala motha song",
+      "trackNumber": 7,
+      "duration": "3:42",
+      "durationSeconds": 222,
+      "audio": "Ghal Ghal Gajjala Motha Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3553197
+    },
+    {
+      "id": "3a4c36b12992",
+      "title": "Gucchinaavu Song",
+      "normalizedTitle": "gucchinaavu song",
+      "trackNumber": 8,
+      "duration": "0:56",
+      "durationSeconds": 56,
+      "audio": "Gucchinaavu Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 897453
+    },
+    {
+      "id": "1e42c069e3f2",
+      "title": "Konda Kona Chorasu Paade Song",
+      "normalizedTitle": "konda kona chorasu paade song",
+      "trackNumber": 9,
+      "duration": "4:35",
+      "durationSeconds": 275,
+      "audio": "Konda Kona Chorasu Paade Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4401453
+    },
+    {
+      "id": "cac4fcbae620",
+      "title": "Kosindhi Koyagura Song",
+      "normalizedTitle": "kosindhi koyagura song",
+      "trackNumber": 10,
+      "duration": "3:32",
+      "durationSeconds": 212,
+      "audio": "Kosindhi Koyagura Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3396525
+    },
+    {
+      "id": "a5f8cdc5f2a8",
+      "title": "Lalitha Kala Sreemathi Song",
+      "normalizedTitle": "lalitha kala sreemathi song",
+      "trackNumber": 11,
+      "duration": "1:11",
+      "durationSeconds": 71,
+      "audio": "Lalitha Kala Sreemathi Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1138989
+    },
+    {
+      "id": "11139dcc7243",
+      "title": "Malavari Manga Song",
+      "normalizedTitle": "malavari manga song",
+      "trackNumber": 12,
+      "duration": "1:26",
+      "durationSeconds": 86,
+      "audio": "Malavari Manga Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1377069
+    },
+    {
+      "id": "e7d40098e104",
+      "title": "Manduloda Ori Mayaloda Song",
+      "normalizedTitle": "manduloda ori mayaloda song",
+      "trackNumber": 13,
+      "duration": "1:37",
+      "durationSeconds": 97,
+      "audio": "Manduloda Ori Mayaloda Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1553325
+    },
+    {
+      "id": "25f192322cf0",
+      "title": "Maseedi Nunna Marati Vadu Song",
+      "normalizedTitle": "maseedi nunna marati vadu song",
+      "trackNumber": 14,
+      "duration": "3:28",
+      "durationSeconds": 208,
+      "audio": "Maseedi Nunna Marati Vadu Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3330861
+    },
+    {
+      "id": "3cc7dfeb558a",
+      "title": "Nacchimi Oo Nachimi Song",
+      "normalizedTitle": "nacchimi oo nachimi song",
+      "trackNumber": 15,
+      "duration": "2:38",
+      "durationSeconds": 158,
+      "audio": "Nacchimi Oo Nachimi Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2530221
+    },
+    {
+      "id": "79a9e9c27a4d",
+      "title": "Nadha Kalipothundi Song",
+      "normalizedTitle": "nadha kalipothundi song",
+      "trackNumber": 16,
+      "duration": "1:32",
+      "durationSeconds": 92,
+      "audio": "Nadha Kalipothundi Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1473069
+    },
+    {
+      "id": "6de2f33762e1",
+      "title": "Nala Jilakara Mogga Song",
+      "normalizedTitle": "nala jilakara mogga song",
+      "trackNumber": 17,
+      "duration": "2:08",
+      "durationSeconds": 128,
+      "audio": "Nala Jilakara Mogga Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2050221
+    },
+    {
+      "id": "24919eddcd88",
+      "title": "Nee Nida Ninne Chusi Song",
+      "normalizedTitle": "nee nida ninne chusi song",
+      "trackNumber": 18,
+      "duration": "4:36",
+      "durationSeconds": 276,
+      "audio": "Nee Nida Ninne Chusi Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4417965
+    },
+    {
+      "id": "f6540ddca027",
+      "title": "Nijangane Nijangane Song",
+      "normalizedTitle": "nijangane nijangane song",
+      "trackNumber": 19,
+      "duration": "3:14",
+      "durationSeconds": 194,
+      "audio": "Nijangane Nijangane Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 3105837
+    },
+    {
+      "id": "28ed834baf59",
+      "title": "Paloyamma Palo Song",
+      "normalizedTitle": "paloyamma palo song",
+      "trackNumber": 20,
+      "duration": "1:31",
+      "durationSeconds": 91,
+      "audio": "Paloyamma Palo Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1457325
+    },
+    {
+      "id": "72f264dd6dae",
+      "title": "Podhu Poddunne Legisi Chinnado Song",
+      "normalizedTitle": "podhu poddunne legisi chinnado song",
+      "trackNumber": 21,
+      "duration": "2:43",
+      "durationSeconds": 163,
+      "audio": "Podhu Poddunne Legisi Chinnado Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2610093
+    },
+    {
+      "id": "7da66c0636d0",
+      "title": "Rathiri Nalloda Song",
+      "normalizedTitle": "rathiri nalloda song",
+      "trackNumber": 22,
+      "duration": "1:09",
+      "durationSeconds": 69,
+      "audio": "Rathiri Nalloda Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1105965
+    },
+    {
+      "id": "e02a71cb487a",
+      "title": "Saasika Ragabhava Song",
+      "normalizedTitle": "saasika ragabhava song",
+      "trackNumber": 23,
+      "duration": "1:09",
+      "durationSeconds": 69,
+      "audio": "Saasika Ragabhava Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 1105965
+    },
+    {
+      "id": "a56a04110db9",
+      "title": "Sodhoyamma Sodhi Song",
+      "normalizedTitle": "sodhoyamma sodhi song",
+      "trackNumber": 24,
+      "duration": "2:38",
+      "durationSeconds": 158,
+      "audio": "Sodhoyamma Sodhi Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 2529837
+    },
+    {
+      "id": "a4e89316a897",
+      "title": "Uluku Paluku Ledhe Chilka Song",
+      "normalizedTitle": "uluku paluku ledhe chilka song",
+      "trackNumber": 25,
+      "duration": "4:15",
+      "durationSeconds": 255,
+      "audio": "Uluku Paluku Ledhe Chilka Song.mp3",
+      "composer": "Charan Arjun",
+      "singers": [
+        "Charan Arjun"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4081197
+    }
+  ]
+}

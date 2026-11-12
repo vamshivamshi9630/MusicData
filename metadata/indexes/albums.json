@@ -2332,6 +2332,17 @@
     "partition": "G"
   },
   {
+    "id": "31fbdb15ae75",
+    "name": "Garividi Lakshmi",
+    "artist": "Charan Arjun",
+    "year": 2026,
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Garividi Lakshmi.png",
+    "songCount": 25,
+    "partition": "G"
+  },
+  {
     "id": "c0627639a4e4",
     "name": "Geetha Govindam",
     "artist": "Gopi Sundar",
