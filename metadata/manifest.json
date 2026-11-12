@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 20,
+  "manifestVersion": 21,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T12:15:34.386245Z",
+  "generatedAt": "2026-11-12T12:15:54.485893Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 20,
-      "hash": "6975ae3b1faea4d5"
+      "version": 21,
+      "hash": "412bc40ceb632b72"
     },
     "artists": {
-      "version": 19,
-      "hash": "404f2ecd3b331022"
+      "version": 20,
+      "hash": "0bf4b84d941e8d84"
     },
     "genres": {
-      "version": 18,
-      "hash": "51171c051b29cffd"
+      "version": 19,
+      "hash": "169eaaf9a6ee0e4c"
     },
     "languages": {
-      "version": 18,
-      "hash": "02bca288381f182f"
+      "version": 19,
+      "hash": "8b47bad15126e967"
     },
     "search": {
-      "version": 19,
-      "hash": "1e6f580342e0f31a"
+      "version": 20,
+      "hash": "d81d025c94b31346"
     }
   },
   "albums": {
@@ -1112,6 +1112,12 @@
       "partition": "D",
       "version": 3,
       "hash": "e14563e0da3217f7"
+    },
+    "81e349c11554": {
+      "name": "Donga Naa Koduku",
+      "partition": "D",
+      "version": 1,
+      "hash": "52129b7f47ca985c"
     },
     "5ad011e181c6": {
       "name": "Dongodu",

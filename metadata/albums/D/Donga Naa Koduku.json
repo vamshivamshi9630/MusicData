@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "81e349c11554",
+    "name": "Donga Naa Koduku",
+    "year": 2026,
+    "musicDirector": "Sinjith Yerramilli",
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Donga Naa Koduku.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "3ecc51bb6be0",
+      "title": "Oh My God Song",
+      "normalizedTitle": "oh my god song",
+      "trackNumber": 1,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Oh My God Song.mp3",
+      "composer": "Sinjith Yerramilli",
+      "singers": [
+        "Ram Miriyala"
+      ],
+      "bitrate": 132990,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4473420
+    }
+  ]
+}
