@@ -7,7 +7,7 @@
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "OM – Tamil.png",
-    "songCount": 1
+    "songCount": 4
   },
   "songs": [
     {
@@ -26,6 +26,57 @@
       "sampleRate": 44100,
       "channels": 2,
       "fileSize": 3613651
+    },
+    {
+      "id": "229768430668",
+      "title": "Fa Fa Fa Song",
+      "normalizedTitle": "fa fa fa song",
+      "trackNumber": 2,
+      "duration": "2:11",
+      "durationSeconds": 131,
+      "audio": "Fa Fa Fa Song.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar"
+      ],
+      "bitrate": 128154,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2262296
+    },
+    {
+      "id": "b40cfa6d3407",
+      "title": "Senjudare Song",
+      "normalizedTitle": "senjudare song",
+      "trackNumber": 3,
+      "duration": "3:01",
+      "durationSeconds": 181,
+      "audio": "Senjudare Song.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar"
+      ],
+      "bitrate": 124658,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3064444
+    },
+    {
+      "id": "14bc390d2d0c",
+      "title": "Veezha Veera Song",
+      "normalizedTitle": "veezha veera song",
+      "trackNumber": 4,
+      "duration": "3:56",
+      "durationSeconds": 236,
+      "audio": "Veezha Veera Song.mp3",
+      "composer": "Sai Abhyankkar",
+      "singers": [
+        "Sai Abhyankkar"
+      ],
+      "bitrate": 126283,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3884899
     }
   ]
 }

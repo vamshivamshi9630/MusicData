@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 13,
+  "manifestVersion": 14,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-11T08:23:19.914525Z",
+  "generatedAt": "2026-11-12T11:04:21.173820Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 13,
-      "hash": "f0a86c5bb501d568"
+      "version": 14,
+      "hash": "3f809ca75d826295"
     },
     "artists": {
-      "version": 12,
-      "hash": "d88bc576b33bb692"
+      "version": 13,
+      "hash": "3fae1b61dee93919"
     },
     "genres": {
-      "version": 11,
-      "hash": "8c367a3bfab7fad9"
+      "version": 12,
+      "hash": "271e6f4ee2604f9f"
     },
     "languages": {
-      "version": 11,
-      "hash": "b6eea9649872c772"
+      "version": 12,
+      "hash": "dbbb871a2d34691f"
     },
     "search": {
-      "version": 12,
-      "hash": "e889f8b1c2ee5e7b"
+      "version": 13,
+      "hash": "0ca0524cc448d0df"
     }
   },
   "albums": {
@@ -2712,8 +2712,8 @@
     "368fcf24c398": {
       "name": "OM – Tamil",
       "partition": "O",
-      "version": 1,
-      "hash": "72a156f7c11bf579"
+      "version": 2,
+      "hash": "836303327d03105e"
     },
     "abd30b2c5a3f": {
       "name": "OM – Telugu",
