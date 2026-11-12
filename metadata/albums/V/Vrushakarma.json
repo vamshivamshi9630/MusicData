@@ -1,0 +1,31 @@
+{
+  "album": {
+    "id": "16b7b34e0b25",
+    "name": "Vrushakarma",
+    "year": 2026,
+    "musicDirector": "B. Ajneesh Loknath",
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Vrushakarma.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "e66fde19fea8",
+      "title": "Swag of Arjun Song",
+      "normalizedTitle": "swag of arjun song",
+      "trackNumber": 1,
+      "duration": "4:14",
+      "durationSeconds": 254,
+      "audio": "Swag of Arjun Song.mp3",
+      "composer": "B. Ajaneesh Loknath",
+      "singers": [
+        "B. Ajneesh Loknath"
+      ],
+      "bitrate": 135442,
+      "sampleRate": 48000,
+      "channels": 2,
+      "fileSize": 4351800
+    }
+  ]
+}
