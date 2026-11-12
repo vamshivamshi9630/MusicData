@@ -7,7 +7,7 @@
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Ranabaali.png",
-    "songCount": 2
+    "songCount": 7
   },
   "songs": [
     {
@@ -45,6 +45,93 @@
       "sampleRate": 44100,
       "channels": 2,
       "fileSize": 1578415
+    },
+    {
+      "id": "70a6c4722df6",
+      "title": "Ghanuda Ranabaali Song",
+      "normalizedTitle": "ghanuda ranabaali song",
+      "trackNumber": 3,
+      "duration": "2:18",
+      "durationSeconds": 138,
+      "audio": "Ghanuda Ranabaali Song.mp3",
+      "composer": "Ajay-Atul",
+      "singers": [
+        "V.M. Mahalingam"
+      ],
+      "bitrate": 120795,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 2390056
+    },
+    {
+      "id": "3059a62b68ea",
+      "title": "Kaaru Nisale Song",
+      "normalizedTitle": "kaaru nisale song",
+      "trackNumber": 4,
+      "duration": "4:57",
+      "durationSeconds": 297,
+      "audio": "Kaaru Nisale Song.mp3",
+      "composer": "Ajay-Atul",
+      "singers": [
+        "Parvathi Meenakshi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 5206228
+    },
+    {
+      "id": "cb3ce2791899",
+      "title": "Kobali Song",
+      "normalizedTitle": "kobali song",
+      "trackNumber": 5,
+      "duration": "4:12",
+      "durationSeconds": 252,
+      "audio": "Kobali Song.mp3",
+      "composer": "Ajay-Atul",
+      "singers": [
+        "V.M. Mahalingam"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 10397948
+    },
+    {
+      "id": "0a047494730a",
+      "title": "Paalegaadu Song",
+      "normalizedTitle": "paalegaadu song",
+      "trackNumber": 6,
+      "duration": "4:27",
+      "durationSeconds": 267,
+      "audio": "Paalegaadu Song.mp3",
+      "composer": "Ajay-Atul",
+      "singers": [
+        "Vishal Dadlani",
+        "Parvathi Meenakshi"
+      ],
+      "bitrate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 4720978
+    },
+    {
+      "id": "e3377f83a8ce",
+      "title": "Yerra Pilla Song",
+      "normalizedTitle": "yerra pilla song",
+      "trackNumber": 7,
+      "duration": "2:35",
+      "durationSeconds": 155,
+      "audio": "Yerra Pilla Song.mp3",
+      "composer": "Ajay-Atul",
+      "singers": [
+        "Otu Subbamma",
+        "Lakkireddy Palle lakshmi Dev"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 6613094
     }
   ]
 }

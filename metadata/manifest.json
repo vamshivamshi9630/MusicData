@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 21,
+  "manifestVersion": 22,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T12:15:54.485893Z",
+  "generatedAt": "2026-11-12T12:16:16.716787Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 21,
-      "hash": "412bc40ceb632b72"
+      "version": 22,
+      "hash": "8921451d149d8917"
     },
     "artists": {
-      "version": 20,
-      "hash": "0bf4b84d941e8d84"
+      "version": 21,
+      "hash": "e0f4a07431055226"
     },
     "genres": {
-      "version": 19,
-      "hash": "169eaaf9a6ee0e4c"
+      "version": 20,
+      "hash": "6bf4768080593249"
     },
     "languages": {
-      "version": 19,
-      "hash": "8b47bad15126e967"
+      "version": 20,
+      "hash": "2ec023a82ca7a6ad"
     },
     "search": {
-      "version": 20,
-      "hash": "d81d025c94b31346"
+      "version": 21,
+      "hash": "a5da90e609169b22"
     }
   },
   "albums": {
@@ -3162,8 +3162,8 @@
     "2a37f73ff827": {
       "name": "Ranabaali",
       "partition": "R",
-      "version": 3,
-      "hash": "6e0b5bb38399c247"
+      "version": 4,
+      "hash": "27aa8386b44b9635"
     },
     "05a8a0de26f3": {
       "name": "Ranam",
