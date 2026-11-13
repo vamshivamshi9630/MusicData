@@ -7,7 +7,7 @@
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Irumudi.png",
-    "songCount": 4
+    "songCount": 5
   },
   "songs": [
     {
@@ -62,10 +62,27 @@
       "fileSize": 3427118
     },
     {
+      "id": "e7a8a82e9a52",
+      "title": "Manemma Song",
+      "normalizedTitle": "manemma song",
+      "trackNumber": 4,
+      "duration": "3:20",
+      "durationSeconds": 200,
+      "audio": "Manemma Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "Kapil Kapilan"
+      ],
+      "bitrate": 320000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8401880
+    },
+    {
       "id": "4795d8d04dae",
       "title": "Yaalalo Yaalalo Song",
       "normalizedTitle": "yaalalo yaalalo song",
-      "trackNumber": 4,
+      "trackNumber": 5,
       "duration": "4:15",
       "durationSeconds": 255,
       "audio": "Yaalalo Yaalalo Song.mp3",

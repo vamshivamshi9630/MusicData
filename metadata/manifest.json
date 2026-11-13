@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 33,
+  "manifestVersion": 34,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-13T08:31:14.096620Z",
+  "generatedAt": "2026-11-13T08:31:33.483701Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 33,
-      "hash": "48ee64444cd9ae52"
+      "version": 34,
+      "hash": "b6e865390186b44d"
     },
     "artists": {
-      "version": 32,
-      "hash": "c07327b737169d30"
+      "version": 33,
+      "hash": "3c3674420ceb46dc"
     },
     "genres": {
-      "version": 31,
-      "hash": "225513800ca7cfee"
+      "version": 32,
+      "hash": "bb54560b48dc7eac"
     },
     "languages": {
-      "version": 31,
-      "hash": "f08b8107cd611925"
+      "version": 32,
+      "hash": "88bfcdce03d73145"
     },
     "search": {
-      "version": 32,
-      "hash": "e787f5e42319c44e"
+      "version": 33,
+      "hash": "956ba8f798176c1e"
     }
   },
   "albums": {
@@ -1584,8 +1584,8 @@
     "41f491459b6c": {
       "name": "Irumudi",
       "partition": "I",
-      "version": 4,
-      "hash": "db75e5a36105fd0f"
+      "version": 5,
+      "hash": "58bd3b77d9234161"
     },
     "e113d71f1d78": {
       "name": "Ishq",
