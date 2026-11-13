@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 31,
+  "manifestVersion": 32,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-13T08:30:33.994640Z",
+  "generatedAt": "2026-11-13T08:30:55.392151Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 31,
-      "hash": "09b57d0d393c31ab"
+      "version": 32,
+      "hash": "bc0188fb4bd81772"
     },
     "artists": {
-      "version": 30,
-      "hash": "ea7c7bf9c6cefd32"
+      "version": 31,
+      "hash": "cd321dd87c156746"
     },
     "genres": {
-      "version": 29,
-      "hash": "74bd9d38ab531812"
+      "version": 30,
+      "hash": "5e4c258778e66a21"
     },
     "languages": {
-      "version": 29,
-      "hash": "cb2ee062e5ed7b7b"
+      "version": 30,
+      "hash": "b9254a289d07fcba"
     },
     "search": {
-      "version": 30,
-      "hash": "c8c988b17640d129"
+      "version": 31,
+      "hash": "2946db2682dcad22"
     }
   },
   "albums": {
@@ -132,8 +132,8 @@
     "28d7ddcf559e": {
       "name": "Aakasamlo Oka Tara",
       "partition": "A",
-      "version": 2,
-      "hash": "b5d5703d9c944686"
+      "version": 3,
+      "hash": "c20511d00b1c1430"
     },
     "5c61589af5b8": {
       "name": "Aambala",

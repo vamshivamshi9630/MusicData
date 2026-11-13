@@ -7,7 +7,7 @@
     "genre": "Tollywood Soundtrack",
     "language": "Telugu",
     "image": "Aakasamlo Oka Tara.png",
-    "songCount": 1
+    "songCount": 2
   },
   "songs": [
     {
@@ -26,6 +26,24 @@
       "sampleRate": 44100,
       "channels": 2,
       "fileSize": 4711793
+    },
+    {
+      "id": "4ee7ea3a56dc",
+      "title": "Radhe Radhe Song",
+      "normalizedTitle": "radhe radhe song",
+      "trackNumber": 2,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Radhe Radhe Song.mp3",
+      "composer": "GV Prakash Kumar",
+      "singers": [
+        "GV Prakash Kumar",
+        "Lipsika Bhashyam"
+      ],
+      "bitrate": 130176,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3944562
     }
   ]
 }
