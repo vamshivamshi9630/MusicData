@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 30,
+  "manifestVersion": 31,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-13T08:30:04.595813Z",
+  "generatedAt": "2026-11-13T08:30:33.994640Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 30,
-      "hash": "b69885d734021bb8"
+      "version": 31,
+      "hash": "09b57d0d393c31ab"
     },
     "artists": {
-      "version": 29,
-      "hash": "dc29b30194627966"
+      "version": 30,
+      "hash": "ea7c7bf9c6cefd32"
     },
     "genres": {
-      "version": 28,
-      "hash": "1ed99d68da2b0e55"
+      "version": 29,
+      "hash": "74bd9d38ab531812"
     },
     "languages": {
-      "version": 28,
-      "hash": "3d60286cd14aa818"
+      "version": 29,
+      "hash": "cb2ee062e5ed7b7b"
     },
     "search": {
-      "version": 29,
-      "hash": "a51ebbd57d8a3528"
+      "version": 30,
+      "hash": "c8c988b17640d129"
     }
   },
   "albums": {
@@ -2204,6 +2204,12 @@
       "partition": "M",
       "version": 3,
       "hash": "a66ba0401feb38a1"
+    },
+    "5199c9c45bc3": {
+      "name": "Mahakali",
+      "partition": "M",
+      "version": 1,
+      "hash": "0eec261d2a954014"
     },
     "45397dfc90d0": {
       "name": "Mahanandi",

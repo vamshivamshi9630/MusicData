@@ -1,0 +1,33 @@
+{
+  "album": {
+    "id": "5199c9c45bc3",
+    "name": "Mahakali",
+    "year": 2027,
+    "musicDirector": "Smaran Sai",
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Mahakali.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "79f73b874d3f",
+      "title": "Aigiri Nandini Song",
+      "normalizedTitle": "aigiri nandini song",
+      "trackNumber": 1,
+      "duration": "8:03",
+      "durationSeconds": 483,
+      "audio": "Aigiri Nandini Song.mp3",
+      "composer": "Smaran Sai",
+      "singers": [
+        "Anila Rajeev",
+        "Geetha Madhuri",
+        "Sai Charan"
+      ],
+      "bitrate": 136701,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 8310809
+    }
+  ]
+}
