@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 32,
+  "manifestVersion": 33,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-13T08:30:55.392151Z",
+  "generatedAt": "2026-11-13T08:31:14.096620Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 32,
-      "hash": "bc0188fb4bd81772"
+      "version": 33,
+      "hash": "48ee64444cd9ae52"
     },
     "artists": {
-      "version": 31,
-      "hash": "cd321dd87c156746"
+      "version": 32,
+      "hash": "c07327b737169d30"
     },
     "genres": {
-      "version": 30,
-      "hash": "5e4c258778e66a21"
+      "version": 31,
+      "hash": "225513800ca7cfee"
     },
     "languages": {
-      "version": 30,
-      "hash": "b9254a289d07fcba"
+      "version": 31,
+      "hash": "f08b8107cd611925"
     },
     "search": {
-      "version": 31,
-      "hash": "2946db2682dcad22"
+      "version": 32,
+      "hash": "e787f5e42319c44e"
     }
   },
   "albums": {
@@ -930,8 +930,8 @@
     "404268e59a31": {
       "name": "Comrade Kalyan",
       "partition": "C",
-      "version": 4,
-      "hash": "1cb1410e8a9dbcda"
+      "version": 5,
+      "hash": "3076fea0d0b5fdd8"
     },
     "ad412adb493d": {
       "name": "Coolie",
