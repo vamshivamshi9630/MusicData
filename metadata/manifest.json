@@ -1,29 +1,29 @@
 {
-  "manifestVersion": 29,
+  "manifestVersion": 30,
   "schemaVersion": "1.0",
   "generatorVersion": "2.0.0",
-  "generatedAt": "2026-11-12T13:17:04.881245Z",
+  "generatedAt": "2026-11-13T08:30:04.595813Z",
   "compression": "none",
   "indexes": {
     "albums": {
-      "version": 29,
-      "hash": "4f508e74e02aa5c7"
+      "version": 30,
+      "hash": "b69885d734021bb8"
     },
     "artists": {
-      "version": 28,
-      "hash": "8c99a26603777363"
+      "version": 29,
+      "hash": "dc29b30194627966"
     },
     "genres": {
-      "version": 27,
-      "hash": "8fa95f0c22f1370c"
+      "version": 28,
+      "hash": "1ed99d68da2b0e55"
     },
     "languages": {
-      "version": 27,
-      "hash": "a85eb48cb2e0d241"
+      "version": 28,
+      "hash": "3d60286cd14aa818"
     },
     "search": {
-      "version": 28,
-      "hash": "6ef35308a36e88ec"
+      "version": 29,
+      "hash": "a51ebbd57d8a3528"
     }
   },
   "albums": {
@@ -3860,6 +3860,12 @@
       "partition": "T",
       "version": 1,
       "hash": "88445dfdf72c832f"
+    },
+    "32054a7469e6": {
+      "name": "Tyson Naidu",
+      "partition": "T",
+      "version": 1,
+      "hash": "154eb117d08e0f57"
     },
     "d15af9864d8f": {
       "name": "Ullasamga Uthsahamga",

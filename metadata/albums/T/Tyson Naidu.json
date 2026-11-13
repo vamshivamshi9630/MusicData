@@ -1,0 +1,32 @@
+{
+  "album": {
+    "id": "32054a7469e6",
+    "name": "Tyson Naidu",
+    "year": 2026,
+    "musicDirector": "Bheems Ceciroleo",
+    "genre": "Telugu Soundtrack",
+    "language": "Telugu",
+    "image": "Tyson Naidu.png",
+    "songCount": 1
+  },
+  "songs": [
+    {
+      "id": "bc215fcb8c4b",
+      "title": "Madarasi Rabbaru Bomma Song",
+      "normalizedTitle": "madarasi rabbaru bomma song",
+      "trackNumber": 1,
+      "duration": "3:47",
+      "durationSeconds": 227,
+      "audio": "Madarasi Rabbaru Bomma Song.mp3",
+      "composer": "Bheems Ceciroleo",
+      "singers": [
+        "Nalgonda Gaddar Narsanna",
+        "Rohini Soratt"
+      ],
+      "bitrate": 128079,
+      "sampleRate": 44100,
+      "channels": 2,
+      "fileSize": 3919591
+    }
+  ]
+}
